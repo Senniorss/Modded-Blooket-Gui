@@ -6,7 +6,8 @@ Hello i'm actually $eniors who created this Blooket Gui,the original was made by
 
 **discord server: https://discord.gg/Nj9Zs5VtFp**
 
-Proof thats it me: ![image](https://user-images.githubusercontent.com/121121650/225976799-c47dd0c7-57a8-4c2f-abfd-1c4474683327.png)
+Proof thats it me: ![image](https://user-images.githubusercontent.com/121121650/225978340-1b454c04-89a8-453f-99b8-f171b8bf51c9.png)
+
 
 
 # Contact
