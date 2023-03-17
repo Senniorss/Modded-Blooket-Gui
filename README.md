@@ -1,6 +1,6 @@
 # blooket-hack
 
-Hello i'm actually $eniors who created this Blooket Gui. Gliz m 
+Hello i'm actually $eniors who created this Blooket Gui,the original was made by Gliz
 
 **This repo will not be updated at all. If you have any questions join the discord server below I'll be answering them.**
 
