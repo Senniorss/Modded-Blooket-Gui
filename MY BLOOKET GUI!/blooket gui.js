@@ -1,2 +1,5076 @@
+/**
+ * @license StewartPrivateLicense-2.0.1
+ * Copyright (c) Aerell McKnight 2023
+ *
+ * You may not reproduce or distribute any code inside this file without the licenser's permission.
+ * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
+ * You may not under any circumstance republish any code from this file as your own.
+ * 
+ * ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
+ * https://github.com/Minesraft2/Blooket-Cheats/blob/main/LICENSE
+ */
+function _0x1df3() {
+    const _0x1bf935 = ['onpointerdown', 'Maxes\x20out\x20all\x20your\x20blooks\x27\x20levels', 'style', 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/circle_dark_orange.svg', 'Set\x20All\x20MegaBot', 'rgb(0\x200\x200\x20/\x2025%)', '#9e1f63', 'obstacle', 'Puppy', 'christmasTree', 'column-reverse', 'preventDefault', '%c\x09Star\x20the\x20github\x20repo!%c\x20\x20https://github.com/Senniorss/Modded-Blooket-Gui', 'fossils', 'Shows\x20what\x20each\x20choice\x20will\x20give\x20you', '20px', 'rgb(64,\x2017,\x2095)', 'Allows\x20you\x20to\x20play\x20any\x20gamemode\x20that\x20is\x20plus\x20only', 'Waiting\x20for\x20input...', 'Set\x20Round', '[class*=\x22nameInput\x22]', 'Kitten', 'Fog\x20Spell', '[class*=\x22packShadow\x22]', '<span\x20style=\x22font-size:\x2016px\x22>Tower\x20Defense\x202</span>', 'https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_orange.svg', 'Changes\x20the\x20color\x20of\x20disabled\x20toggle\x20cheats', 'Spam\x20Buy\x20Blooks', 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_orange.svg', 'rare-6', 'This\x20cheat\x20is\x20outdated\x20and\x20might\x20be\x20bugged,\x20would\x20you\x20still\x20like\x20to\x20run\x20it?\x20You\x20can\x20find\x20regularly\x20updated\x20cheats\x20here\x20https://github.com/Minesraft2/Blooket-Cheats', 'Auto\x20Sell\x20Dupes\x20On\x20Open', 'getElementsByClassName', 'Elf', 'stats', 'client', '22.5px', 'https://media.blooket.com/image/upload/v1661496293/Media/uiTest/CryptoIcon.svg', 'nextParticle', 'Allows\x20you\x20to\x20play\x20as\x20any\x20blook', 'defense2', 'unset', '#ac7339', 'Highlight\x20Answers', 'font-size:\x2024px;\x20color:\x20darkred;\x20font-weight:\x20bolder;', 'Halloween\x20Background', '/play/brawl', 'Score', 'chroma-7', 'theme.cheatList', 'uncommon-3', 'setVal', 'rate', 'setGravityY', 'sort', '--inputColor', 'CENTER_BOTH', 'fire', '#f6afce', 'rare-7', 'soccerField', 'remove', '/tower/shop', 'appendChild', 'true', 'rgb(151,\x2015,\x205)', '/play/gold', 'choice', 'emit', 'flatMap', '26px', 'Nunito,\x20sans-serif', 'JSON\x20Data', 'Cow', 'There\x20was\x20an\x20error\x20user\x20data.', 'abilities', '<span\x20style=\x22font-size:\x2017px\x22>Tower\x20of\x20Doom</span>', ';--infoColor:\x20', 'rgb(11,\x20194,\x20207)', 'rgba(255,\x2064,\x2064,\x200.8)', 'color:\x20#8000ff;\x20font-size:\x201rem', 'Goat', 'floor', 'Epic', 'Click\x20the\x20correct\x20answer\x20for\x20you', 'https://play.blooket.com/', 'https://', 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/serpentine_turquoise.svg', 'toggle', '<span\x20style=\x22font-size:\x2018px\x22>Tower\x20Defense</span>', 'Set\x20Crypto', 'shift', 'Set\x27s\x20everyone\x20else\x27s\x20gold\x20to\x200', 'Mystical', 'start', 'rgb(9,\x20148,\x2065)', '165px', 'uncommon-2', 'Fishing\x20Frenzy', '#7ca1d5', 'justifyContent', 'Capuchin', 'correctAnswers', 'firstChild', 'Titan\x20One', 'toasterPastry', 'blooket-2020.appspot.com', 'Toys\x20Per\x20Question', 'Panther', '--contentBackground', 'radial-gradient(rgba(1,104,162,.6),rgba(24,55,110,.5)),radial-gradient(#2783b4\x201.5px,#18376e\x200)\x20center\x20/\x2024px\x2024px', 'Blacket', 'Changes\x20the\x20color\x20of\x20enabled\x20toggle\x20cheats', 'entries', 'dmg', 'Sets\x20weight', 'innerHTML', '<img\x20style=\x22height:\x2030px;\x20margin-right:\x205px\x22\x20src=\x22', '3px\x20solid\x20#3a3a3a', 'Changes\x20all\x20the\x20settings\x20to\x20a\x20preset', 'radial-gradient(rgba(220,\x20184,\x2086,\x200),\x20rgba(220,\x20184,\x2086,\x200.4)),\x20url(\x22https://ac.blooket.com/play/111cb7e0ee6607ac3d1a13d534c0e0f1.png\x22),\x20#ead49a', 'keys', 'hack', 'https://media.blooket.com/image/upload/v1658567787/Media/market/particles/square_light_green.svg', 'Sets\x20cafe\x20cash', 'offsetWidth', 'AIzaSyCA-cTOnX19f6LFnDVVsHXya3k6ByP_MnU', 'writeText', 'text', '#333', 'Sets\x20all\x20resources\x20to\x20the\x20max', 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_turquoise.svg', 'Max\x20Tower\x20Stats', 'color:\x20#0bc2cf;\x20font-size:\x203rem', 'theme', 'tileSize', 'danceTimeout', 'jokeTimeout', 'Buddy\x20Bot', 'items', 'clientY', 'Are\x20you\x20sure\x20you\x20want\x20to\x20sell\x20your\x20uncommon\x20to\x20epic\x20dupes?', 'content', 'Tower\x20Defense\x202', 'find', 'right-diamond', 'pointer', 'repeating-linear-gradient(45deg,white,white\x208%,#e6e6e6\x200,#e6e6e6\x2016%)', '/tower/victory', 'Damage', 'Invalid\x20JSON\x20provided', 'Dormouse', 'Hide\x20Keybind', 'defense', 'Sends\x20a\x20glitch\x20to\x20everyone\x20else\x20playing', 'Removes\x20distractions', 'Remove\x20Obstacles', 'chroma-1', 'marginTop', '1815317qUPtkm', 'alt', 'enemyQueue', 'Fills\x20your\x20deck\x20with\x20every\x20maxed\x20out\x20card\x20and\x20artifact\x20(Only\x20works\x20on\x20towers\x20page)', 'pumpkins', '#f18221', '[LOG]\x20', 'winterLandscape', 'theme.defaultButton', 'leaves', 'realSet', 'right-bottom', 'all', 'span', 'phaser-market', '#0bc2cf', '\x20crypto\x20from\x20', 'opacity', 'choices', 'epic-', 'var(--enabledButton)', 'Highlights\x20the\x20correct\x20password', 'var(--textColor)', 'callbackContext', 'load', 'Custom\x20Password', 'Skips\x20the\x20current\x20customers\x20(Not\x20usable\x20in\x20the\x20shop)', 'rgb(189,\x2015,\x2038)', 'setPosition', 'ice', 'toys', 'chooseBlook', 'starter', '#dd7399', '#f1613a', '8px', 'uncommon-', 'Remove\x20Ducks', 'gameObject', 'strong', '#fbb040', 'rgb(224,\x20159,\x2062)', '100%', '\x20Fossils\x20Per\x20Excavation', '#d71f27', 'collideCallback', 'Mega\x20Bot', 'fas\x20fa-mountain', '\x20<strong>', 'targets', 'charAt', 'move', '24592455DcTkTD', 'legendary', 'Alerts', 'Color', '\x20to\x20hide\x20|\x20', 'Resets\x20health\x20and\x20gives\x20invincibility\x20for\x203\x20seconds', 'round', 'phase', 'body', 'https://dashboard.blooket.com/api/users', '--backgroundColor', 'ms)\x20Results:\x0a', 'offsetHeight', '50%', 'Fossils', '#ffca34', 'number', 'calc(100%\x20-\x20220px)', 'Stocks\x20all\x20food\x20to\x2099\x20(Not\x20usable\x20in\x20the\x20shop)', 'setTexture', 'Common', 'spiders', 'Cheshire\x20Cat', 'setScale', 'join', 'Tokens', 'Brontosaurus', '#995b3c', 'Blook\x20Rush', 'choiceESP', '#f6a9cb', 'width', 'linear-gradient(90deg,rgba(200,0,0,.5)\x2050%,transparent\x200)\x20center\x20/\x2050px\x2050px,linear-gradient(rgba(200,0,0,0.5)\x2050%,transparent\x200)\x20white\x20center\x20/\x2050px\x2050px', 'This\x20can\x20only\x20be\x20run\x20in\x20the\x20shop', 'Simulate\x20Pack', 'Choice\x20ESP', 'packs', 'catch', 'rare', 'cache', '220px', 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_blue.svg', 'https://media.blooket.com/image/upload/v1655936179/Media/br/VS_Lightning_Bolt_Bottom.svg', '#3e8cbe', 'create', 'You\x20need\x20to\x20be\x20on\x20the\x20map\x20to\x20run\x20this\x20cheat!', 'rgb(45,\x2051,\x2067)', 'Brainy\x20Bot', 'ctrlKey', 'Button\x20Color', '#9bd4ee', 'Enabled', 'enabledButton', '870262cpiJwF', '/play/rush', '70px', '<span\x20style=\x22text-shadow:\x201px\x201px\x20rgb(0\x200\x200\x20/\x2040%)\x22>Cheats</span>', 'Stegosaurus', 'controls', 'setPersistence', 'enemyCard', 'chroma-3', '25WkWiQY', '52px', 'classType', ';--inputColor:\x20', '74sb', 'epic-7', '#e0b0a6', 'Sets\x20crypto', 'rare-', 'prepend', 'iceCreamSandwich', 'setItem', 'orangeIcePop', 'div[class^=\x22styles__rockRow\x22]\x20>\x20div[role=\x22button\x22]:nth-child(', '#416eb5', '#7a039d', ';--contentBackground:\x20', 'controlButtons', 'Narwhal', 'uncommon-4', 'maxTargets', 'Snow\x20Plow', 'coffin', 'Coins', 'cheatButton', '<img\x20style=\x22height:\x2030px;\x20margin-left:\x205px;\x20margin-right:\x2010px\x22\x20src=\x22https://media.blooket.com/image/upload/v1657235023/Media/survivor/cards-05.svg\x22>', 'contentWindow', 'Howling\x20Wind', 'rgb(41\x2041\x2041)', 'clockwork', '#d62027', 'Toggles\x20auto\x20answer\x20on', 'split', 'Fairy', 'Alt', '.25s', 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/serpentine_light_blue.svg', 'checkCollision', '#LOL', '300px', 'lifespan', 'Cat', 'prototype', 'Spaceship', '999', 'Lunch\x20Break', 'onclick', '/tower/rest', 'UFO', 'addAlert', 'Sets\x20all\x20enemies\x20health\x20to\x201', '<img\x20style=\x22height:\x2030px;\x20margin-left:\x208px;\x20margin-right:\x2012px\x22\x20src=\x22https://media.blooket.com/image/upload/v1655161325/Media/survivor/Dog.svg\x22>', 'just\x20took\x20', 'Shift', 'NONE', 'choosePrize', 'transform', 'Distraction', 'call', 'now', '72px\x2015px', 'Instant\x20Kill', 'visible', 'font-size:\x2024px;\x20color:\x20rgb(75,\x20194,\x2046);\x20font-weight:\x20bolder;', 'target', '0\x204px\x20rgb(0\x200\x200\x20/\x2020%),\x20inset\x200\x20-4px\x20rgb(0\x200\x200\x20/\x2020%)', 'Frenzy', '#171717', 'Night\x20Time', 'Set\x20Health', 'legendary-5', 'Makes\x20enemies\x20move\x202x\x20slower', '<img\x20style=\x22width:\x2030px;\x20margin-right:\x205px;\x20rotate:\x2045deg\x22\x20src=\x22https://media.blooket.com/image/upload/v1593095354/Media/defense/missile.svg\x22>', 'Caterpillar', 'Makes\x20all\x20placed\x20towers\x20overpowered', 'Max\x20Cards', 'epic-2', 'event', 'object2', 'uncommon-5', '/tat', 'Kill\x20Enemies', 'towers', 'Lets\x20you\x20place\x20towers\x20anywhere', 'musicClass', 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/serpentine_blue.svg', 'toFixed', '_owner', 'clientWidth', 'Turtle', 'Simulate\x20unlocking\x20most\x20of\x20the\x20blooks', 'onpointerup', '<img\x20style=\x22height:\x2028px;\x20margin-left:\x205px;\x20margin-right:\x208px\x22\x20src=\x22https://media.blooket.com/image/upload/v1655233787/Media/survivor/xp/Blue_xp_2.svg\x22>', 'Amount', 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/serpentine_dark_turquoise.svg', 'outerSpace', 'map', 'upgraded\x20', 'There\x20was\x20an\x20error\x20when\x20adding\x20rewards.', 'var(--disabledButton)', 'fishing', 'legendary-3', 'Toys', 'slice', 'Dance\x20Party', 'sushi', 'https://media.blooket.com/image/upload/v1655161323/Media/survivor/Jester_lvl1.svg', '200%', 'disabledButton', 'left-diamond', 'Simulate\x20Unlock', 'getDatabaseRef', 'Changes\x20the\x20text\x20color', '#bc6234', 'clipboard', 'https://play.blooket.com/api/users/add-rewards', 'chroma-', 'Witch', 'Auto\x20Answer\x20(Toggle)', 'fontFamily', 'cards', 'artifacts', 'cheatList', 'setAngularVelocity', 'Polar\x20Bear', 'Flip', 'max', 'Always\x20get\x20triple\x20gold', 'futureEnemies', 'Swap\x20Toys', '55px', 'safe', 'Stop\x20Cheating', 'Factory', 'fixed', 'Stars', '--infoColor', 'select', 'Watson', 'div', 'scale', 'Sheep', 'uncommon-6', '.alertList::-webkit-scrollbar{display:none;}.alertList{-ms-overflow-style:\x20none;scrollbar-width:\x20none;}.contentWrapper::-webkit-scrollbar{display:none;}.contentWrapper{-ms-overflow-style:\x20none;scrollbar-width:\x20none;}.cheatButton{position:relative;display:flex;flex-direction:row;align-items:center;min-height:40px;width:190px;margin:4px\x200;padding-left:30px;box-sizing:border-box;cursor:pointer;user-select:none;text-decoration:none;border-top-right-radius:5px;border-bottom-right-radius:5px;background-color:transparent;color:var(--textColor);transition:.2s\x20linear;font-size:20px;font-weight:400;font-family:Nunito;text-decoration-thickness:auto}.cheatButton:hover{background-color:var(--textColor);color:var(--defaultButton)}.cheatInput,select{min-width:200px;padding-block:5px;font-family:Nunito,sans-serif;font-weight:400;font-size:16px;background-color:var(--inputColor);box-shadow:inset\x200\x206px\x20rgb(0\x200\x200\x20/\x2020%);margin:3px;color:var(--textColor)}.bigButton:hover{filter:brightness(110%);transform:translateY(-2px)}.bigButton:active{transform:translateY(2px)}.cheatList::-webkit-scrollbar{width:10px}.cheatList::-webkit-scrollbar-track{background:var(--cheatList)}.cheatList::-webkit-scrollbar-thumb{background:var(--cheatList);box-shadow:\x20inset\x20-10px\x200\x20rgb(0\x200\x200\x20/\x2020%)}.cheatList::-webkit-scrollbar-thumb:hover{background:var(--cheatList);\x20box-shadow:\x20inset\x20-10px\x200\x20rgb(0\x200\x200\x20/\x2030%);\x20}.scriptButton:hover{filter:brightness(120%)}.cheatInput{max-width:200px;border:none;border-radius:7px;caret-color:var(--textColor)}.cheatInput::placeholder{color:var(--textColor)}.cheatInput:focus,select:focus{outline:0}.cheatInput::-webkit-inner-spin-button,.cheatInput::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}.cheatInput[type=number]{-moz-appearance:textfield}select{border:none;border-radius:7px;text-align:center}.scriptButton{align-items:\x20center;\x20box-sizing:\x20border-box;\x20display:\x20flex;\x20flex-direction:\x20column;\x20justify-content:\x20center;\x20margin:\x2010px;\x20padding:\x205px\x205px\x2011px;\x20position:\x20relative;\x20width:\x20250px;\x20font-family:\x20Nunito,\x20sans-serif;\x20font-weight:\x20400;\x20color:\x20var(--textColor);\x20box-shadow:\x20inset\x200\x20-6px\x20rgb(0\x200\x200\x20/\x2020%);\x20border-radius:\x207px;\x20cursor:\x20pointer;\x20transition:\x20filter\x20.25s;}.tooltip::after\x20{content:\x20\x22\x22;position:\x20absolute;width:\x2010px;height:\x2010px;background-color:\x20inherit;top:\x20-5px;left:\x2050%;margin-left:\x20-6px;transform:\x20rotate(135deg)}', 'Toggle\x20Ghost', 'blookData', 'enabled', 'description', 'Set\x20Multiplier', 'abs', 'connection', 'Gives\x20you\x20a\x20blook', 'This\x20can\x20only\x20be\x20ran\x20on\x20the\x20market\x20page!', 'just\x20started\x20a\x20frenzy', 'Horse', '#1e2124', 'removeEventListener', '1112168MEyGWD', 'getGamemode', 'Set\x20Tokens', 'right', 'relative', 'linear-gradient(162.5deg,\x20rgba(0,183,255,1)\x20220px,\x20rgba(128,0,255,1)\x20100%)', 'GameObjects', 'Remove\x20Customers', 'inset\x20-10px\x200\x20rgb(0\x200\x200\x20/\x2020%)', 'hidden', 'scale(', '#2f2f2f', 'leaderboard', 'blook', '/tower/map', 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/triangle_dark_orange.svg', '#3a3a3a', 'hide', '4px\x204px\x208px', 'How\x20many\x20coins\x20would\x20you\x20like?', 'Name', 'put', 'url(https://media.blooket.com/image/upload/v1676164454/Media/defense/backgroundTd1-02.svg)\x20center\x20/\x20cover', '[class^=styles__feedbackContainer___]', 'Send\x20Distraction', '#9ecf7a', 'Tax\x20evasion', 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_light_blue.svg', '7px', 'svg', 'Chicken', 'cheatInput', 'Sell\x20all\x20duplicate\x20blooks\x20leaving\x20you\x20with\x201\x20each', 'options', 'alertContainer', 'border-box', 'Tower\x20of\x20Doom', 'main', 'Import\x20a\x20custom\x20theme', 'value', ':swap:', 'Forces\x20the\x20GUI\x20to\x20scale\x20from\x2025%-100%', '_liveApp', 'https://media.blooket.com/image/upload/v1658567787/Media/market/particles/square_green.svg', 'There\x20was\x20an\x20error\x20user\x20data!', 'Toucan', 'every', 'G-S3H5NGN10Z', 'chroma-6', 'option', 'tat', 'rgb(64,\x2064,\x2064)', '_display', '#f179af', 'contentBackground', 'https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_light_red.svg', 'url', 'TREES', 'Opens\x20a\x20box\x20an\x20amount\x20of\x20times', 'Chooses\x20the\x20correct\x20answer\x20for\x20you', 'receiveDamage', 'lolTimeout', 'Sets\x20every\x20answer\x20to\x20be\x20correct', 'https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_light_turquoise.svg', 'kingdom', 'setState', '#36393e', 'tower', 'inputColor', '_liveGameCode', '/market', '95%', 'Megalodon', 'preload', '#7d4f33', 'offsetTop', 'href', 'global', 'Inconsolata,Helvetica,monospace,sans-serif', '#a5aabe', 'scroll', 'removeCustomer', 'fireRate', '\x20gold\x20from\x20', 'Highlight\x20Answers\x20(Toggle)', 'https://media.blooket.com/image/upload/v1658567785/Media/market/particles/serpentine_light_green.svg', 'grey', 'wrap', 'outlineColor', 'play.blooket.com', 'workshop', 'plusOnly', 'theme.infoColor', 'cafe', 'Penguin', 'Reset\x20Players\x20Gold', 'Remove\x20Hack', '#619a3c', '/bs', 'log', '#ff751a', '?gameId=6368436a976422d8a3f70cd7', 'has\x20a\x20', 'gameModes', 'legendary-4', 'set', 'invulnerableTime', 'tokens', 'Gift\x20Time!', 'https://media.blooket.com/image/upload/v1661496292/Media/uiTest/Gold.svg', 'right-shower', 'Monster\x20Brawl', 'Removes\x20all\x20enemy\x20glitches', '<img\x20style=\x22height:\x2028px;\x20margin-left:\x203px;\x20margin-right:\x206px\x22\x20src=\x22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBzdHlsZT0iZmlsbDojRkZERTc2OyIgZD0iTTQzMy42NjEsMjM3LjgzN2MtNC40OTctNi4yMTQtNC44OC0xNC40NC0xLjIyNS0yMS4xODRjMTEuMzY1LTIwLjk2NywxNy43NzMtNDUuMDE0LDE3LjY1MS03MC41NjYKCUM0NDkuNzAxLDY0Ljg2OSwzODIuNTY0LTEuMDM3LDMwMS4zNTIsMC4wMTJjLTgwLjE4MywxLjAzNi0xNDQuODY0LDY2LjM1OS0xNDQuODY0LDE0Ni43ODhjMCwzMi41NTMsMTAuNTk1LDYyLjYzLDI4LjUyNiw4Ni45NzIKCWM3Ljc1MywxMC41MjYsNy4yMTMsMjUuMS0xLjU0MywzNC44MDhjLTEzLjI5NywxNC43NDEtNDEuOTM1LDI0LjMwNi0xMDIuNTk1LTE2LjI3N2MtNi42NTItNC40NS0xNC40NjItNi44NjQtMjIuNDY1LTYuODY0bDAsMAoJYy0xOS45NDcsMC0zNi44MzMsMTQuNjI4LTM5Ljc3NiwzNC4zNTdDNy44ODksMzUxLjgxNiw2LjUyLDUxMiwyMDYuOTY2LDUxMmg3MS4wODNDNDY2LjA1LDUxMiw1MTYuMTI3LDM1MS44MDEsNDMzLjY2MSwyMzcuODM3eiIvPgo8Zz4KCTxwYXRoIHN0eWxlPSJmaWxsOiNGRkI2NDE7IiBkPSJNMTgzLjQ3LDI2OC41ODJjLTMuOTMsNC4zNTctOS4yMDIsOC4yNjEtMTYuMjQ0LDEwLjU1MmMyNC40NjksNS44ODIsMzguODItMS4zMTksNDcuMTQ5LTEwLjU1MgoJCWM4Ljc1Ny05LjcwOCw5LjI5Ni0yNC4yODEsMS41NDMtMzQuODA4Yy0xNy45My0yNC4zNDItMjguNTI2LTU0LjQyLTI4LjUyNi04Ni45NzNjMC03NS44MzMsNTcuNTAzLTEzOC4yMjYsMTMxLjI4MS0xNDUuOTgKCQljLTUuNjg5LTAuNjAxLTExLjQ2Ny0wLjg4NC0xNy4zMjMtMC44MDljLTgwLjE4MywxLjAzNi0xNDQuODY0LDY2LjM1OS0xNDQuODY0LDE0Ni43ODhjMCwzMi41NTMsMTAuNTk1LDYyLjYzLDI4LjUyNiw4Ni45NzMKCQlDMTkyLjc2NiwyNDQuMywxOTIuMjI2LDI1OC44NzMsMTgzLjQ3LDI2OC41ODJ6Ii8+Cgk8cGF0aCBzdHlsZT0iZmlsbDojRkZCNjQxOyIgZD0iTTQ5LjUzOSwyNzkuNzk2YzIuMTM3LTE0LjMxNywxMS42MTgtMjUuOTQyLDI0LjI4Mi0zMS4yNDVjLTQuODY2LTIuMDIyLTEwLjA5MS0zLjExLTE1LjQxMi0zLjExCgkJbDAsMGMtMTkuOTQ3LDAtMzYuODMzLDE0LjYyOC0zOS43NzYsMzQuMzU3QzcuODg5LDM1MS44MTYsNi41Miw1MTIsMjA2Ljk2Niw1MTJoMzAuOTA1QzM3LjQyNSw1MTIsMzguNzk0LDM1MS44MTYsNDkuNTM5LDI3OS43OTZ6CgkJIi8+Cgk8cGF0aCBzdHlsZT0iZmlsbDojRkZCNjQxOyIgZD0iTTgwLjUxOCwzNDQuMzM2Yy04Ljc2Niw4LjY1Ni0xMC4yNzcsMjIuMjY4LTMuNTk4LDMyLjYxOQoJCWMxOS41MDQsMzAuMjI3LDY4LjM1MSw4Ni4yODMsMTYyLjM3Miw4Ni4yODNjNTcuMjU2LDAsMTE3Ljc5MS0zNS44MDksMTI5LjA2NC05NS4wOTdjOS4zMS00OC45NjYtMTkuMjQ2LTEwOC44MjEtNzUuMzMtMTA2LjI0NwoJCWMtNDEuMDk3LDEuODg3LTY1LjEzNSwzNy40MTUtOTkuODY1LDUzLjg0MWMtMjQuMzk4LDExLjU0LTUwLjg0NCwxOC42NTEtNzcuNjg3LDIxLjMwNwoJCUMxMDIuNjk4LDMzOC4zMDYsOTAuODA1LDMzNC4xNzgsODAuNTE4LDM0NC4zMzZ6Ii8+CjwvZz4KPHBhdGggc3R5bGU9ImZpbGw6IzM4NDg0QTsiIGQ9Ik0zODguMzk0LDExMC44MzNjLTMuNTAyLDAtNi42NzQtMi4zOTYtNy41MTMtNS45NTFsLTMuNzE1LTE1LjczCgljLTAuOTgxLTQuMTUzLDEuNTkxLTguMzE1LDUuNzQzLTkuMjk1YzQuMTUyLTAuOTc5LDguMzE1LDEuNTkxLDkuMjk1LDUuNzQzbDMuNzE1LDE1LjczYzAuOTgxLDQuMTUzLTEuNTkxLDguMzE1LTUuNzQzLDkuMjk1CglDMzg5LjU4LDExMC43NjUsMzg4Ljk4MiwxMTAuODMzLDM4OC4zOTQsMTEwLjgzM3oiLz4KPHBhdGggc3R5bGU9ImZpbGw6I0ZGQjY0MTsiIGQ9Ik00MjcuNjE4LDY4Ljk5NGMwLDAsMy4xOTgsNDUuODMyLTE4LjAzMyw2Ni41OTFjLTIxLjIzMSwyMC43NTksMTQuMTU0LDUzLjMxNCw1Ni4xNDUsMjIuNjQ2CgljNi4wMzItNC40MDUsMTIuMTQzLTcuMjA0LDE4LjE4NC04Ljc2OGM3Ljc3Ny0yLjAxMiwxMy4yNDMtOC45NjcsMTMuMjQzLTE2Ljk5OWwwLDBjMC03LjcyNC01LjAzMS0xNC41OTctMTIuNDM4LTE2Ljc4NgoJYy00LjkyNS0xLjQ1Ni0xMS4xOC0yLjMyNS0xOC41MTYtMS4zMjVjMCwwLDI1LjM5My0yMi4xMzgsMTkuMTE5LTQ3Ljc1M2MtMi4wMjctOC4yOC0xMS44NTYtMTEuNzI2LTE4LjgzNi02LjgzMgoJQzQ1Ny40NjEsNjYuMDk0LDQ0My40NTQsNzIuNzY0LDQyNy42MTgsNjguOTk0eiIvPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4K\x22>', 'Cash', 'bind', 'includes', 'chroma', 'setTowerCoins', '1234', '/play/classic/standings', '#2f2c38', 'Sets\x20hacking\x20password', '#d69b5a', 'update', 'parentElement', 'Safari', '-1px\x20-1px\x200\x20#646464,\x201px\x20-1px\x200\x20#646464,\x20-1px\x201px\x200\x20#646464,\x202px\x202px\x200\x20#646464', 'Max\x20Health', 'fallPicnic', 'weight', 'Hamster', 'block', '_active', '0\x200\x201px\x20#f33', 'querySelectorAll', 'Send\x20Glitch', 'Remove\x20Random\x20Name', 'rgb(0\x200\x200\x20/\x2010%)', 'level\x20up', 'correctPassword', 'cssRules', 'https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_dark_red.svg', 'All\x20of\x20your\x20towers\x20get\x20mixed\x20up', 'brawl', '/play/toy', 'signInWithCustomToken', 'nightTimeout', 'Maxes\x20out\x20all\x20the\x20cards\x20in\x20your\x20deck', 'Cafe', 'epic-1', 'val', '/play/defense2', 'adTimeout', 'https://media.blooket.com/image/upload/v1658567785/Media/market/particles/triangle_green.svg', 'https://media.blooket.com/image/upload/v1661496291/Media/uiTest/Games_Played_2.svg', 'Reset\x20All\x20Players\x27\x20Gold', 'investigated\x20', 'chroma-5', '80%', 'Shuffles\x20around\x20towers', 'black', '1em', 'Sells\x20all\x20of\x20your\x20uncommon\x20to\x20epic\x20dupes\x20(not\x20legendaries+)', 'Auth', 'Percent\x20scale', 'Queen', 'fill', 'bolder', 'clientX', 'racing', 'Ctrl', 'div[class^=styles__buttonContainer]', '%c\x09gui.js', 'alerts', 'numExplosions', 'code', 'divide', 'https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_turquoise.svg', 'backgroundColor', 'Jokester', '<span\x20style=\x22font-size:\x2019px\x22>Fishing\x20Frenzy</span>', '_choosePrize', '/play/classic/answer/result', 'Amber', 'Scene', 'props', 'Sets\x20amount\x20of\x20cash\x20you\x20have', 'infoColor', 'yes', 'Min\x20Enemy\x20Stats', 'Breakfast', 'Set\x20Lure', 'Planet', '#8dc63f', '\x20daily\x20wheel\x20tokens!', 'Slime\x20Monster', 'children', '-28px', 'setData', 'spawn', '15px\x2015px\x205px\x2015px', 'dino', 'I\x20couldn\x27t\x20find\x20that\x20box!', 'forEach', 'mult', 'addEventListener', 'Enabled\x20Toggle\x20Color', '#00c0f3', 'host', 'Remove\x20Distractions', 'Removed\x20name\x20length\x20limit', '47px', ':swap:0', 'Max\x20Card\x20Stats', 'Wizard', 'Sets\x20the\x20amount\x20of\x20health\x20you\x20have', 'https://media.blooket.com/image/upload/v1645222006/Blooks/yellowBird.svg', 'Persistence', 'Automatically\x20guess\x20the\x20correct\x20password', '#app\x20>\x20div\x20>\x20div', '/cafe/shop', 'className', 'credits', '\x20to\x20level\x20', 'Baby\x20Shark', 'gold', 'color', 'string', '42JYlnUh', '1000px', 'Astronaut', '\x20+\x20', 'Disabled', 'myCard', 'var(--contentBackground)', '2rem', 'freeQuestions', 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADdgAAA3YBfdWCzAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAA7YSURBVHic7Z17tFxVfcc/e59zZib3kcfN456YQObOTB43PBIKoeIqSlwIBXwiCCytXe2qxabSWrAqLKmwXKthVRe2BFxitYpasSIPV0sI8mhV5GHVdpWaoCRIvAnZSW/uzeuG3Nec/jFzk8mYOXNm73PmeT7/zt6/s+/d399vv/cWnufRSSilZgEXAZcBl42MHF5m23KrlPJBKcU9mUx6pLElrC+iEwSglFpOscIpVH5q5rfh4YPH0wkBlmUNW5b8oZTyi9ls+ol6l7XetKUAyrz8ciBbKW2pAMqRUk62e3RoGwH4ebkffgIopV2jQ8sKoOjl6zlR6RW93I+gAiinGB22SSkfklJsatXo0FICUEqt4ESFv4WAXu6HrgBKKYkOPypGh+8bG60TTS0ApVQXJ3t5JuxvhCGAcorR4aVidLg7k0kPh/6RkGg6AUTh5X5EIYBSmj06NFwA9fByP6IWQDnNFh0aIgCl1EpO9vJk3QtRpN4CKKUYHfYXo8O92Wx6S93LUA8BFL38rZyo9IHIPxqQRgqgHCnlVEl02FSP6BCZAIpefjmFCn8zDfRyP5pJAKWURIdnin2HSKJDaAJQSnVzclveNF7uR7MKoJyy6HBPJpPeF4ZdIwEopVZxosKb1sv9aBUBlFIWHb6UzaY3a9uqRQBFLy9ty9O6H24WWlEA5RSjwy+llA8X+w6Bo0NVASilBjlR4RfSgl5+KiY9eP6g4IWhad7Xf4Qu2VzzIboUo8NISXR41De9nwCUUpcAj4ddyEaxaxyeHhU8PQLPHBSMTQP7FoHwWDBrnPPnjXFd/yHW9kw0uqihkUolbsnlBjZW+t2ukl+GXJ66MunBcwcFT48WKv7loxUSeoLhoyk2H02xefd8HHuK5b2v8/sLj3DNosOtHh0svx+rCaDlKPXyHx0UHJ2u3cbklM3W0V62jvZy58tu20YHaAMBTOTh+UMBvFwXn+hw9cLD9FgtHR1aUwBDx4pePlpoy3W8XJfy6DD/eHQ4zDk94/UrSEi0hAAm8vDcjJePCLa/3ugSFfEE+4+meOxoisd2z8dxCtHhkvmFvkMrRIemFcBvSrz8x3X2cl0mJ222jvSydaSXv9/uMr9rnHVzxri2/zDn9jZndGgaATStl+viCfaPpdgylmLLa80bHRoqgFIvf+aA4PV8I0sTLc0aHeoqgBkvf2qkUPE7Wt3LdSmPDvYUudmF6HBtnaND5ALYWdqWt7mX6zI5ZbNtpJdtI738w3aXvlnjrJtXiA7nRTyyiEwAvxiDP31J8kqnerkunmDkaIrHj6Z4vDjvsHHVHi7tC3uCo0BkU737JkRc+SEwOWXz6rgTmf2WnuuPMScWQIcTC6DDiQXQ4cQC6HBiAXQ4sQA6nFgAHU4sgA4nFkCHEwugw4kF0OHEAuhwYgF0OLEAOpxqAtDei2sL3Zwx5SQx2kY16fdjNQFob+mYazfHrtd2YFFCf0+8EOKw3+/VBKC9D2lu02w4b30WJ40ORRzw+zG6CBDdLqaO4w3JKZPsvjdgRBYBeq24HxAKAvodowhgJACjbZ1z4mbAGCHM9tELge8l1pEKIO4HmGNL44MUo34/VhPAEUD7RoR5sQCMSVjGAtjr96OvAFzX9YBdul+e68RDQVOSBgKQUk5mMmlfA0FmAod0CxA3AeZ02SYCEGNV0wSwoy2ABfFQ0Jg5tv4QUAjh2/5DxAI4o1s3Z8wMqw0OhwohVLU0kQpgTU/cBzDlonn6AzEhxM5qaYIIoKqRSmS7oMf3lroYP4TweNNsEwHwUrU0QQTwM90CSOCsHt3cMT3JSaPZVCnFg1XTVEvguu5e4BXdQsTNgD6ndx3TzlscAv5v1XQB7T2rW5A1cQTQZk2vvgAsSwaav4leAL1xBNBl/Tz9W0GklC8EShfQ3nO6BUmnYHY8IVQzQnqcP1t/CCileCRQuoD2XqSwLlAzgrgfoENvckJ7w6YQwhOCh4OkDfQN13WngUAh5VSc26ubs3PJdRu1/6OZTDrQIl4tItPuB7xzQRwBauUPFus/ZWNZ8hdB09ZFAIPdsKpLN3fnkXCmuNhsBjDw87S1COB5QNuVr1wUR4GgrOvT6m4dR0rxjcBpgyZ0XfcAsE2rRMB7FnrEWwSD8eElVRfxKmJZcjyTSQeevq+1o6ndDCxNwrrZurk7h57khNGzNJYlX60lfa0C+GGN6U/iyoVxM1CNCxf4nuOoipTyP2pKX6P9h4Gqu0wq8Y4FXrxV3A8BG5b6nuPwzy4EUopP15KnJgG4rnsEeKCmUpXQ58BF8+IoUIm+WcdIGxwCsW1reyaT9t0EWo7OZNNXNfIc5z0LTXK3N5cuNAv/ti3vqjWP1uPRSqmXgVzNGSk8GvHGn0n2NMsTOvsWNboEAFjWNM+8cYf2YxFSysnVq5cnas6n9TX4mmY+EhI+elrcDJRzqXvA6KUQx7F+oJNPVwD3gf6h9ev6PZa2xRPU4WBZ09w+sN/IhpTyFq18Oplc190FPKGTF8ARcRQo5YrFB0gZvE9s29ZwNpv+T528JlfE/JNBXq7p91iWMrHQHtjWNJ9Om3m/bVvf1M1rIoDvgf/JUz9sATeeHkeBdy0ZIWHg/UIIr9axfynaAnBddxz4lm5+gPcu9MjMMrHQ2jj2FJ9Ka/tQwYZjvZjJpA/p5je9JcyoGbAE3NTBUeDKJaPGz7ZZlnWHSX6teYBSlFI/B87RzZ8H1v9c8qtoXkWrToPmARL2FC9csMNoatyy5OuDg8uNdlqEcU/graYF+Gwu33EXFv51bq/xuojj2H9nWg7j/7vruo8CT5rYOH82/NnSzmkKzpp/iGsXmW36sG1rJJcbuM20LGE53k0YTAwBfGKZx+oOOE2cdCb58mDVQ7tVcRz7+hCKE44AXNf9Hww7hI6ATSvyOG29XOyxcdUeugyGfQCJhP3LbDb93TBKFGbT+ynAaDlrdTd8fFn7NgW/13+Atxls9oTCuN+2ratCKlJ4AigeIjUakgBsWOq15dax7tQEm1bsM7aTSNhPBjn0GZSwO993Ar8xMSApNAXd7XSvgPC4e/Vrxr1+KeWUZcn3hVOoos0wjbmuewz4pKmdZSm4baB9moK3LxnhPIOrXmZIJOwvZjJp/T1jpyCK4fe3MThGNsMHXI9r+ltfBKfPHmNjZtjYjm1bR6QUfxlCkU4idAEU7xa8MQxbn8t5XNzXuiLo6zrGw2fvDsWW49gfq3bnnw6RTMC5rvss8B1TO7aAL63yOK8FD5d2Jyf43toho5W+GRzHHspm0/eGUKzfIsoZ2I9S5ZrSIMyS8I0z8qxoobOFCXuKB9YOMdfgkscZpBR527beGUKxTm0/KsOu6+4BrsPg2ZkZ5trw7TPyvKEFtpFZ1jT3rRniNLM7/o+TTDofy2bT/x2KsVMQ6RqM67r/juFi0QyLkwURNPP1s0LkuevM3ZzZrX+0q5Rk0vl+Njvw+VCMVaAei3B3AP8WhqHlXYXmYFYzLh0Kj79ZtYc3zzGb6ZvBcay9liUvC8WYD5H/K4ujgg8Cr4Zh77xe+PKgR6qZRCA8PpLby1ULzVb4ZpBSTjmOfUEUvf7f+lbUHwBwXXcUuBoI5TjIW+d5PHJ2nv6aj0GEj5R5/nb1Lq43uNGjFCEgmXT+OJNJ/zoUg1Womx+5rvtTCiODUFjTA4+tyTf0QupUYpJ/Pmcn75gf3namRCJxfzabDnzBgynGW8JqRSn1TeD9Ydk7Og1//ivBlv2aE+2aW8IWdB/jwbN30Wf2oNNJOI796sqV2YHQDAagES3p9UDgS4yq0WXBVwY9NtRxR9FZ8w/xxO/sDLXyLUuOO471u6EZDEjdBeC67hhwFZr3Dp4KCdya9rhzuRf5hpJ3nzbMt87YE+o9B0IIL5Fwrsxk0ubrxTXSkL6067ovAR+gyru2tXJdv8e/nJmP5LEqIfN8cuVrfMbwDN+pSCadO7LZ9ObQDQeg7n2AUpRS76KwZhBqf373OHxiu+Cp0QBuGqAP0Nd1jLsG97AmpAmeUlKpxMZcbkDrYGcYNFQAAEqpy4GHgNAneh/5P8GtrwiG/eKMjwCkzHPtacPcvEz/1q5KFIZ7idtyuYHbQzdeSzkaLQAApdQlwCNA6AfFDk7B7b8W3L+3QjSoIIBls8e4d1CxJKQ5/VKEECSTzi253MDG0I3XWpZmEACAUmo98K9AJCP7Hx8UfHy74JXymdoyAdj2NH+V3csH+82ua6mEEIJUyrkx6jn+oDSNAACUUhcCm4FInpkYz8PnhwRf2CWYnPmzSwSwdsEhvrByL73mr3WeEiGEl0o5N2SzA/dE8gENmkoAAEqpC4AtQGR7g7eNwc07JC8cAvYtoic5wWdWKKP7eatRqPzE9dls+h8j+4gGTScAAKXUOuBxYF6U33lyRPDskMeGJeHM41eiWPl/lM2m74v0Qxo0pQAAlFLnULiGZn6U3xkerkvlvz+bTd8f6Yc0aaZF1ZNwXfe/gPVAXVbFokBKOZVKJa5q1sqHJhYAgOu6LwJrgab9B1bCceydqZSTzmbTDzW6LH40bRNQjlLqD4G7CXmEEHYTIITwkknnK7ncwIdCNRwRTR0BSnFd9z4KN5H8tNFlqYRlWWOpVOJtrVL50EICAHBddzvwJuCzGLxeEgWJhPOTZNJelM2mn2p0WWqhZZqAcpRSFwNfBxab2DFtAqQU+UTCuTmXGzC+rqURtKwAAJRSCyncXn6Frg0TATiOtc9x7LdkMumqr3Q3Ky0tgBmUUjdQaBZqXlHUEYAQkEg4312+PHN1zZmbjJbqA1TCdd1NwLkY3F8cFNu29qdSyXe3Q+VDm0SAUpRSVwCfA1YFSR80AliWnHAce2MYN3M1E20RAUopXlt3FnADYLx/qziufyCZdOa0W+VDG0aAUpRSc4GbgQ1UmECqFAGEEJ7j2D+xbXlNLe/wtRptLYAZlFJ9FCLCXwB9pb+VC6CwQ9f+gWXJP8lk0jvqV8rG0BECmEEp1UPhXMJNFOcPZgQgpcg7jv2oZckP1fryVivTUQKYQSmVpHBg9cOjo4dXOY79oJTiIybXrrcq/w99zo6mO4xCQAAAAABJRU5ErkJggg==', 'innerWidth', 'Set\x20Blooks', 'Sell\x20Cheap\x20Duplicates', 'now\x20has\x2010\x20Blooks!', 'dataset', '15px', 'backgroundImage', 'Blizzard', 'findIndex', 'location', 'Chick', 'getItem', 'answers', 'Set\x20Toys\x20Per\x20Question', 'ref', 'Ran', 'click', 'indexOf', 'speed', 'Elephant', 'royale', '5px', 'inset\x200\x20-6px\x20rgb(0\x200\x200\x20/\x2020%)', 'Changes\x20the\x20color\x20of\x20inputs,\x20like\x20the\x20set\x20gold\x20number\x20input', 'Round', 'min', '20px\x20auto\x2010px', 'theme.contentBackground', 'div[class^=\x27styles__choice', 'farm', 'rgb(0\x200\x200\x20/\x2050%)', 'legendary-7', 'arcade', '\x20Fossils', 'isArray', '20px\x2010px\x2020px\x200', 'emit(\x22xp\x22', '[class*=\x27typingAnswerWrapper\x27]', '10px\x2010px\x200\x2010px', 'toUpperCase', 'Simulate\x20opening\x20a\x20pack', 'alertList', 'texture', 'textShadow', 'range', 'post', 'ghostDetect', '#c68c3c', 'Kills\x20all\x20the\x20enemies', 'toPrecision', 'linear-gradient(rgb(49,\x20170,\x20224),\x20rgb(187,\x20221,\x20255))', '#c62127', 'Gets\x20max\x20daily\x20tokens\x20and\x20xp', '<div\x20style=\x22background:\x20rgba(0,0,0,.25);\x20border-radius:\x205px;\x20display:\x20block;\x20width:\x20100%;\x20height:\x20100%;\x20left:\x200;\x20top:\x200;\x20position:\x20absolute;\x20transform:\x20translateY(2px);\x20width:\x20100%;\x20transition:\x20transform\x20.6s\x20cubic-bezier(.3,.7,.4,1)\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22background-color:\x20rgb(11,\x20194,\x20207);\x20filter:\x20brightness(.7);\x20position:\x20absolute;\x20top:\x200;\x20left:\x200;\x20width:\x20100%;\x20height:\x20100%;\x20border-radius:\x205px;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-weight:\x20400;\x20background-color:\x20rgb(11,\x20194,\x20207);\x20color:\x20white;\x20display:\x20flex;\x20flex-direction:\x20row;\x20align-items:\x20center;\x20justify-content:\x20center;\x20text-align:\x20center;\x20padding:\x205px;\x20border-radius:\x205px;\x20transform:\x20translateY(-4px);\x20transition:\x20transform\x20.6s\x20cubic-bezier(.3,.7,.4,1)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-family:\x20Titan\x20One,\x20sans-serif;\x20color:\x20white;\x20font-size:\x2026px;\x20text-shadow:\x202px\x202px\x20rgb(0\x200\x200\x20/\x2020%);\x20height:\x2040px;\x20padding:\x200\x2015px;\x20display:\x20flex;\x20flex-direction:\x20row;\x20align-items:\x20center;\x20justify-content:\x20center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20style=\x22filter:\x20drop-shadow(2px\x202px\x200\x20rgb(0\x200\x200\x20/\x2020%))\x22\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2235\x22\x20height=\x2235\x22\x20fill=\x22currentColor\x22\x20viewBox=\x220\x20-1\x2021\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M13.545\x202.907a13.227\x2013.227\x200\x200\x200-3.257-1.011.05.05\x200\x200\x200-.052.025c-.141.25-.297.577-.406.833a12.19\x2012.19\x200\x200\x200-3.658\x200\x208.258\x208.258\x200\x200\x200-.412-.833.051.051\x200\x200\x200-.052-.025c-1.125.194-2.22.534-3.257\x201.011a.041.041\x200\x200\x200-.021.018C.356\x206.024-.213\x209.047.066\x2012.032c.001.014.01.028.021.037a13.276\x2013.276\x200\x200\x200\x203.995\x202.02.05.05\x200\x200\x200\x20.056-.019c.308-.42.582-.863.818-1.329a.05.05\x200\x200\x200-.01-.059.051.051\x200\x200\x200-.018-.011\x208.875\x208.875\x200\x200\x201-1.248-.595.05.05\x200\x200\x201-.02-.066.051.051\x200\x200\x201\x20.015-.019c.084-.063.168-.129.248-.195a.05.05\x200\x200\x201\x20.051-.007c2.619\x201.196\x205.454\x201.196\x208.041\x200a.052.052\x200\x200\x201\x20.053.007c.08.066.164.132.248.195a.051.051\x200\x200\x201-.004.085\x208.254\x208.254\x200\x200\x201-1.249.594.05.05\x200\x200\x200-.03.03.052.052\x200\x200\x200\x20.003.041c.24.465.515.909.817\x201.329a.05.05\x200\x200\x200\x20.056.019\x2013.235\x2013.235\x200\x200\x200\x204.001-2.02.049.049\x200\x200\x200\x20.021-.037c.334-3.451-.559-6.449-2.366-9.106a.034.034\x200\x200\x200-.02-.019Zm-8.198\x207.307c-.789\x200-1.438-.724-1.438-1.612\x200-.889.637-1.613\x201.438-1.613.807\x200\x201.45.73\x201.438\x201.613\x200\x20.888-.637\x201.612-1.438\x201.612Zm5.316\x200c-.788\x200-1.438-.724-1.438-1.612\x200-.889.637-1.613\x201.438-1.613.807\x200\x201.451.73\x201.438\x201.613\x200\x20.888-.631\x201.612-1.438\x201.612Z\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20YouTube\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>', 'connect', 'Change\x20the\x20quick\x20close\x20keybind\x20(Click\x20button\x20after\x20input\x20to\x20change)', 'tooltip', 'Automatically\x20choose\x20the\x20best\x20fossil\x20when\x20excavating', '#2fb62f', 'flappy', 'Always\x20Triple', '370px', 'center', 'Would\x20you\x20like\x20to\x20alert\x20blooks\x20upon\x20unlocking?', 'Choose\x20a\x20blook\x20to\x20replace', 'Lovely\x20Bot', '/cafe', 'You\x20do\x20not\x20have\x20enough\x20tokens!', '#2fa04a', 'game', '\x20×\x2010', '_original_open', 'response', 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/circle_dark_turquoise.svg', 'headerText', 'Game\x20ID', 'winterDrive', 'Squirrel', 'SELECT', 'particles', 'Swaps\x20toys\x20with\x20someone', 'Magnet', 'focus', 'updateLeaderboard', 'multiply', '%c\x20Blooket\x20Cheats\x20%c\x0a\x09By\x20$eniors', 'Mad\x20Hatter', '600px', 'MAX_VALUE', '/tower/risk', 'materials', 'Deceptive\x20Dinos', 'Bear', 'factory', 'Always\x20get\x20triple\x20crypto', 'https://media.blooket.com/image/upload/v1661496293/Media/uiTest/Factory_Upgrades.svg', 'blooks', 'Seal', '[class*=\x22feedback\x22]', 'Next\x20Level', 'shiftKey', '#888', 'https://dashboard.blooket.com/api/users/sellblook', '--textColor', 'theme.disabledButton', 'element', 'Sets\x20the\x20current\x20round', '10px', '/play/classic/question', 'input[class*=\x22nameInput\x22]', '20px\x205px\x2020px', '4163862raVPYi', 'classList', 'Are\x20you\x20sure\x20you\x20want\x20to\x20sell\x20your\x20dupes?', 'rgb(75,\x20194,\x2046)', 'This\x20cheat\x20only\x20works\x20on\x20play.blooket.com,\x20opening\x20a\x20new\x20tab.', '#914f93', 'excavate', 'WEBGL', '#feda3f', 'eventTimeout', '/c/', 'rush', '#3e564a', 'createElement', 'control', 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_light_orange.svg', 'Sets\x20fishing\x20lure\x20(range\x201\x20-\x205)', 'Rabbit', 'dinos', 'Change\x20the\x20hide\x20keybind\x20(Click\x20button\x20after\x20input\x20to\x20change)', 'Skip\x20Guest', '#0b601b', 'rare-2', '741533559105', '/play/dino', 'defaultButton', '-10px', '#ef7426', 'https://media.blooket.com/image/upload/v1658790237/Media/market/particles/light_red.svg', 'Micro', 'Export\x20the\x20current\x20theme\x20to\x20JSON', 'Cockatoo', 'Vortex', 'Colors\x20answers\x20to\x20be\x20red\x20or\x20green\x20highlighting\x20the\x20correct\x20ones', 'epic-5', 'https://media.blooket.com/image/upload/v1658567765/Media/market/particles/square_dark_blue.svg', 'querySelector', '737574bIqCxI', 'Set\x20Coins', 'radial-gradient(#02b0ea\x2040%,\x20#1d86ea)', 'hazardInterval', '#4ab96d', 'Macondo', 'scriptButton', 'classic', '\x20with\x20inputs:\x20(', 'https://play.blooket.com/api/users/me', 'append', 'Moose', 'Close\x20Keybind', 'physics', '#1a1a1a', 'theme.inputColor', 'linear-gradient(#fcd843,#fcd843\x2050%,#feb31a\x2050.01%,#feb31a)', 'Content\x20Color', 'gvfT', 'Import\x20Settings', 'glitchTimeout', 'Velociraptor', 'slime', 'setProperty', 'Shows\x20you\x20what\x20will\x20happen\x20if\x20you\x20say\x20Yes\x20or\x20No', '\x20tokens\x20left', '/play/battle-royale/match/result', '#36c', '#58595b', '#00aeef', 'colliders', '280px', 'strength', 'top', 'Class', 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_light_turquoise.svg', 'Slow\x20Mo', 'rare-5', '\x20glitch!', 'feedback', '--defaultButton', 'var(--cheatList)', 'legendary-1', 'Black', 'Sets\x20all\x20your\x20blooks\x20to\x20maxed\x20out\x20Mega\x20Bots', '\x20\x20\x20\x20', 'Use\x20Any\x20Blook', 'state', 'Sets\x20the\x20amount\x20of\x20tokens\x20you\x20have', 'var(--backgroundColor)', '/api/games', 'Doubles\x20enemy\x20XP\x20drop\x20value', 'name', 'Shows\x20what\x20is\x20under\x20the\x20rocks', 'rgb(0,\x20207,\x20119)', 'Input', 'legendary-2', 'epic', ';--enabledButton:\x20', '#f49849', 'Jellyfish', 'absolute', '0\x2010px\x20-5px\x200', 'Chroma', 'Maxes\x20out\x20items\x20in\x20the\x20shop\x20(Only\x20usable\x20in\x20the\x20shop)', 'Sets\x20the\x20name\x20limit\x20to\x20120,\x20which\x20is\x20the\x20actual\x20max\x20name\x20length\x20limit', 'pointerEvents', 'diffObjects', 'random', 'variables', '#374154', 'open', '<img\x20style=\x22width:\x2030px;\x20margin-right:\x205px\x22\x20src=\x22https://media.blooket.com/image/upload/v1657235025/Media/survivor/Laser_Lvl1.svg\x22>', 'Nunito', 'background', 'Skool.world', 'Rare', 'https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_red.svg', 'auth', '#c8591e', 'iframe', 'White\x20Rabbit', 'Blook', 'keyup', 'You\x20must\x20be\x20on\x20the\x20attribute\x20selection\x20page!', '#af8942', '#3f312b', '0.9', 'worldView', '[class^=styles__statContainer]', 'inset\x200\x20-8px\x20rgb(0\x200\x200\x20/\x2020%),\x200\x200\x204px\x20rgb(0\x200\x200\x20/\x2015%)', 'altKey', 'Alice', 'Choose\x20Blook', 'JODGUISettings', '#A02626', '700', 'Sets\x20fossil\x20multiplier', 'addTowerNode', '#9dc6ea', 'slowTimeout', 'setDepth', 'level', 'sendAnswer', 'people', 'calc(100%\x20-\x2070px)', 'Ad\x20Spam', 'Titan\x20One,\x20sans-serif', 'cameras', 'nodeName', 'Changes\x20the\x20background\x20color\x20of\x20the\x20GUI', 'push', 'https://www.youtube.com/@5p_n', 'stringify', 'var(--defaultButton)', '/play/classic/get-ready', 'database', 'https://media.blooket.com/image/upload/v1658567765/Media/market/particles/square_light_blue.svg', 'Image', 'Pulls\x20all\x20xp\x20towards\x20you', 'filter', 'Blooks', '#594a42', 'Triple\x20Gold!', 'Allows\x20you\x20to\x20put\x20a\x20custom\x20name', 'replace', '/play/hack', 'exports', 'fossilMult', 'Sends\x20a\x20distraction\x20to\x20everyone', 'Frog', 'error', '/blooks', '<span\x20style=\x22font-size:\x2017px\x22>Deceptive\x20Dinos</span>', 'Set\x20Defense', '355px', 'taxCounter', 'Winter\x20Background', 'Changes\x20the\x20color\x20of\x20the\x20cheats', 'Triceratops', 'https://media.blooket.com/image/upload/v1661496295/Media/uiTest/Fish_Weight.svg', 'apply', 'initializeApp', 'pathname', 'confirm', 'enemies', 'Tyrannosaurus\x20Rex', 'Swap\x20Gold', 'innerText', 'Auto\x20Guess', 'chalkboard', 'NEW!\x20', 'then', 'data', 'rare-1', '\x20Cheats', 'animate', 'get', 'img', 'Drink\x20Me', '[class*=\x22answerContainer\x22]', 'none', 'velocity', 'goalAmount', 'webpack', 'maxLength', 'nameTimeout', 'onAnswer', 'Racing', 'question', '\x20synergy!', 'Glitch', 'bodies', 'numProjectiles', 'Walrus', 'https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_red.svg', '0\x2015px', 'add', 'fromEntries', 'events', '#JODGUI', 'Octopus', 'prompt', 'Gold', 'translate(-50%,-50%)\x20rotate(15deg)', 'Export\x20Settings', '#phaser-bouncy', 'Meteor', 'Disable\x20Tax\x20Toucan', 'Multiplier', 'isTeam', '#d25927', 'concat', 'delete', 'Set\x20Damage', 'activated\x20the\x20', 'Player', '-100px', 'Saint\x20Patricks\x20Background', 'workbench', 'Maxes\x20out\x20player\x27s\x20current\x20card\x20(Only\x20works\x20on\x20attribute\x20select\x20page)', 'getDatabaseVal', '2em', 'https://media.blooket.com/image/upload/v1658790237/Media/market/particles/circle_dark_red.svg', 'just\x20caught\x20', 'Eat\x20Me', 'gifts', 'fontSize', 'Triple\x20Crypto', 'left-shower', 'addLeaderboard', 'https://media.blooket.com/image/upload/v1658567785/Media/market/particles/circle_dark_green.svg', 'Sells\x20the\x20blook\x20you\x20unlock\x20when\x20you\x20open\x20a\x20pack\x20if\x20you\x20already\x20have\x20one\x20(Doesn\x27t\x20sell\x20Legendaries\x20or\x20rarer)', 'Goldfish', 'Sets\x20damage', 'innerHeight', 'display', 'Fill\x20Deck', 'Happy\x20Bot', 'Oh\x20Canada', 'cheatName', 'Pack', 'Battle\x20Royale', 'artClass', '#11581e', 'from', 'parse', 'Dragon', 'legendary-', 'textColor', 'left', 'Sets\x20amount\x20of\x20gold', 'just\x20sent\x20a\x20', '#414042', 'Auto\x20Choose', 'Unicorn', '#bf0e0e', 'Set\x20Cash', 'Max\x20Stats', '#d58c55', 'isCheating', 'wisdom', '45px', 'Earthquake', '/kingdom', 'stage', 'decimal', 'https://media.blooket.com/image/upload/v1658567785/Media/market/particles/triangle_light_green.svg', 'Steals\x20all\x20of\x20someone\x27s\x20crypto', 'Maxes\x20out\x20all\x20your\x20current\x20abilities', 'start-particles', '<span\x20style=\x22font-size:\x2018px\x22>Crazy\x20Kingdom</span>', '3px\x20solid\x20black', 'placeholder', 'run', 'https://media.blooket.com/image/upload/v1658567785/Media/market/particles/serpentine_dark_green.svg', 'keydown', '#40b1d8', 'Sets\x20everyone\x20to\x20frenzy\x20mode', 'uncommon', 'Shows\x20what\x20each\x20chest\x20will\x20give\x20you', 'Alien', 'legendary-6', 'This\x20must\x20be\x20ran\x20on\x20the\x20market\x20page', 'startsWith', 'Blobfish', '/play/battle-royale/question', 'https://media.blooket.com/image/upload/v1658790239/Media/market/particles/red.svg', '#47A547', 'https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_light_orange.svg', 'epic-4', 'Dino\x20Fossil', '#19184d', 'Sets\x20amount\x20of\x20toys\x20per\x20question', 'questions', 'bigButton', 'Legendary', 'Pig', 'var(--infoColor)', 'alert', 'Set\x20Weight', 'function', '#4f4f4f', 'key', 'responseURL', '#be1e2d', 'linear-gradient(180deg,#9be2fe\x200,#67d1fb)', 'Dino\x20Egg', 'object', 'input', '#ffcd05', 'devicePixelRatio', 'white', 'reduce', '#ed1c24', '<span\x20style=\x22font-size:\x2018px\x22>Monster\x20Brawl</span>', 'Text\x20Color', '/tower/battle', 'Fills\x20the\x20player\x27s\x20health', 'Settings', ':root\x20{--backgroundColor:\x20', 'Get\x20Daily\x20Rewards', 'Error\x2037', 'Blue\x20-\x20Purple\x20Background', 'blooket-2020', 'rarity', 'setVisible', 'height', 'Steal\x20Player\x27s\x20Crypto', 'qType', 'auraBuffs', 'onpointermove', 'chroma-2', 'https://dashboard.blooket.com/api/users/unlockblook', 'Flappy\x20Blook', 'Reverse', 'spooky', 'Jester', 'tiles', 'Flood\x20Game', '#4bc22e', 'rgb(88\x20175\x2088)', 'King', 'uncommon-1', 'Sets\x20amount\x20of\x20blooks\x20you\x20or\x20your\x20team\x20has', 'button', 'https://play.blooket.com/api/playersessions/solo', 'sheet', 'values', 'happiness', 'flex', 'Hedgehog', 'stateNode', 'setActive', 'addLog', 'Sets\x20upgrade\x20prices\x20to\x200\x20for\x20all\x20current\x20blooks', 'liveGameController', 'toString', 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/circle_orange.svg', 'world', 'Floods\x20a\x20game\x20with\x20a\x20number\x20of\x20fake\x20accounts', 'getBoundingClientRect', '#fb8640', '400', 'Crab', 'Double\x20Enemy\x20XP', 'swap', '#5a459c', 'Instant\x20Win', 'bookshelf', 'doom', 'toLowerCase', 'MDrD', 'hockeyRink', '</strong>', 'contentWrapper', '3979128bFeqKl', 'Lets\x20you\x20go\x20through\x20the\x20pipes', 'Chest\x20ESP', 'crypto', 'Uncommon', 'column', '#8a9143', 'ctrl', 'theater', 'break-word', ';--defaultButton:\x20', 'velocityFromAngle', 'translateY(25px)', 'racetrack', 'left-bottom', 'rare-3', 'Theme', 'type', 'typing', 'row', 'Scale', 'Max\x20Items', '[LOG]\x20GUI\x20opened', 'fossil', 'Sets\x20the\x20amount\x20of\x20guests\x20you\x27ve\x20seen', '#c59a74', '#none', 'parseNumber', 'Changes\x20the\x20categories\x20list\x20background\x20color', 'Text\x20copied\x20to\x20clipboard.\x20(Paste\x20below\x20to\x20test)', 'scene', 'Remove\x20Enemies', '\x20for\x20quick\x20disable\x0aClick\x20and\x20drag\x20here', 'Sets\x20amount\x20of\x20defense\x20you\x20or\x20your\x20team\x20has\x20(Max\x204)', 'length', '#9a49aa', 'close', 'meta', '/play/battle-royale/answer/result', '--disabledButton'];
+    _0x1df3 = function() {
+        return _0x1bf935;
+    };
+    return _0x1df3();
+}
 
-/* All terms found in the following link apply: https://github.com/Minesraft2/Blooket-Cheats/blob/main/LICENSE */ (async()=>{var e=document.createElement("iframe");if(document.body.append(e),window.confirm=e.contentWindow.confirm.bind(window),window.console.log=e.contentWindow.console.log.bind(window),e.style.display="none",await Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.get).exports.a.get("https://"+(location.host.startsWith("dashboard")?location.host+"/api/games":"play.blooket.com/api/gamequestionsets")+"?gameId=6368436a976422d8a3f70cd7").then(e=>parseInt("0"+e.data.questions.find(e=>"../cheats/gui.js"==e.question)?.answers?.[0]))<1679097353961||confirm("This cheat is outdated and might be bugged, would you still like to run it? You can find regularly updated cheats here https://github.com/Senniorss/Modded-Blooket-Gui")){function w(e,t={},...a){var o=document.createElement(e);if("object"==typeof t.style){let e="";for(const i in t.style)e+=`${i.replace(/[A-Z]/g,e=>"-"+e.toLowerCase())}: ${t.style[i]}; `;t.style=e}for(const n in t)o[n]=t[n];for(const r of a)o.append(r);return o}console.log("%c Blooket Cheats %c\n\tBy $eniors","color: #0bc2cf; font-size: 3rem","color: #8000ff; font-size: 1rem"),console.log("%c\tgui.js","color: #0bc2cf; font-size: 1rem"),console.log("%c\tStar the github repo!%c  https://github.com/Senniorss/Modded-Blooket-Gui","color: #ffd000; font-size: 1rem","");let e;try{e=JSON.parse(localStorage.getItem("JODGUISettings")||"{}")}catch{localStorage.setItem("JODGUISettings","{}"),e={}}let a,o,n,t,i,r,s,v,y;const h=w("div",{id:"JODGUI",style:{top:Math.max(10,window.innerHeight-600)/2+"px",left:Math.max(10,window.innerWidth-1e3)/2+"px",transform:`scale(${e.scale})`,position:"fixed",height:"80%",width:"80%",maxHeight:"600px",maxWidth:"1000px",zIndex:"999",display:"block"}},a=w("style",{id:"variables",innerHTML:`:root {--backgroundColor: ${e.backgroundColor||"rgb(11, 194, 207)"};--infoColor: ${e.infoColor||"#9a49aa"};--cheatList: ${e.cheatList||"#9a49aa"};--defaultButton: ${e.defaultButton||"#9a49aa"};--disabledButton: ${e.disabledButton||"#A02626"};--enabledButton: ${e.enabledButton||"#47A547"};--textColor: ${e.textColor||"white"};--inputColor: ${e.inputColor||"#7a039d"};--contentBackground: ${e.contentBackground||"rgb(64, 17, 95)"};}`}),w("style",{innerHTML:'.alertList::-webkit-scrollbar{display:none;}.alertList{-ms-overflow-style: none;scrollbar-width: none;}.contentWrapper::-webkit-scrollbar{display:none;}.contentWrapper{-ms-overflow-style: none;scrollbar-width: none;}.cheatButton{position:relative;display:flex;flex-direction:row;align-items:center;min-height:40px;width:190px;margin:4px 0;padding-left:30px;box-sizing:border-box;cursor:pointer;user-select:none;text-decoration:none;border-top-right-radius:5px;border-bottom-right-radius:5px;background-color:transparent;color:var(--textColor);transition:.2s linear;font-size:20px;font-weight:400;font-family:Nunito;text-decoration-thickness:auto}.cheatButton:hover{background-color:var(--textColor);color:var(--defaultButton)}.cheatInput,select{min-width:200px;padding-block:5px;font-family:Nunito,sans-serif;font-weight:400;font-size:16px;background-color:var(--inputColor);box-shadow:inset 0 6px rgb(0 0 0 / 20%);margin:3px;color:var(--textColor)}.bigButton:hover{filter:brightness(110%);transform:translateY(-2px)}.bigButton:active{transform:translateY(2px)}.cheatList::-webkit-scrollbar{width:10px}.cheatList::-webkit-scrollbar-track{background:var(--cheatList)}.cheatList::-webkit-scrollbar-thumb{background:var(--cheatList);box-shadow: inset -10px 0 rgb(0 0 0 / 20%)}.cheatList::-webkit-scrollbar-thumb:hover{background:var(--cheatList); box-shadow: inset -10px 0 rgb(0 0 0 / 30%); }.scriptButton:hover{filter:brightness(120%)}.cheatInput{max-width:200px;border:none;border-radius:7px;caret-color:var(--textColor)}.cheatInput::placeholder{color:var(--textColor)}.cheatInput:focus,select:focus{outline:0}.cheatInput::-webkit-inner-spin-button,.cheatInput::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}.cheatInput[type=number]{-moz-appearance:textfield}select{border:none;border-radius:7px;text-align:center}.scriptButton{align-items: center; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; margin: 10px; padding: 5px 5px 11px; position: relative; width: 250px; font-family: Nunito, sans-serif; font-weight: 400; color: var(--textColor); box-shadow: inset 0 -6px rgb(0 0 0 / 20%); border-radius: 7px; cursor: pointer; transition: filter .25s;}.tooltip::after {content: "";position: absolute;width: 10px;height: 10px;background-color: inherit;top: -5px;left: 50%;margin-left: -6px;transform: rotate(135deg)}'}),o=w("div",{style:{width:"100%",height:"100%",position:"relative",outline:"3px solid #3a3a3a",borderRadius:"15px",overflow:"hidden"}},w("div",{id:"background",style:{display:"block",top:"0",left:"0",height:"100%",overflowY:"hidden",overflowX:"hidden",position:"absolute",width:"100%",background:"var(--backgroundColor)",visibility:"visible"}},w("div",{id:"backgroundImage",style:{backgroundImage:"url(https://ac.blooket.com/dashboard/65a43218fd1cabe52bdf1cda34613e9e.png)",display:"block",height:"200%",position:"absolute",width:"200%",top:"50%",left:"50%",backgroundPositionX:"-100px",backgroundPositionY:"-100px",backgroundSize:"550px",visibility:"visible",transform:"translate(-50%,-50%) rotate(15deg)",appearance:"none",opacity:"0.175"}})),t=w("div",{id:"controls",style:{display:"flex",alignItems:"center",justifyContent:"center",paddingBottom:"8px",position:"absolute",left:"220px",top:"0",visibility:"visible",zIndex:"5",height:"52px",width:"335px",background:"var(--infoColor)",boxShadow:"inset 0 -8px rgb(0 0 0 / 20%), 0 0 4px rgb(0 0 0 / 15%)",borderBottomRightRadius:"10px",color:"var(--textColor)",fontFamily:"Nunito, sans-serif",fontWeight:"700",userSelect:"text"},innerHTML:"Ctrl + E to hide | Ctrl + X for quick disable<br>Click and drag here"}),w("div",{id:"credits",style:{display:"flex",alignItems:"center",justifyContent:"center",paddingBottom:"8px",position:"absolute",right:"0",top:"0",visibility:"visible",zIndex:"5",height:"47px",width:"280px",background:"var(--infoColor)",boxShadow:"inset 0 -8px rgb(0 0 0 / 20%), 0 0 4px rgb(0 0 0 / 15%)",borderBottomLeftRadius:"10px",color:"var(--textColor)",fontFamily:"Nunito, sans-serif",fontWeight:"700",userSelect:"text"},innerHTML:"Created by $eniors"}),i=w("div",{id:"controlButtons",style:{display:"flex",alignItems:"center",justifyContent:"center",position:"absolute",right:"0",bottom:"0",visibility:"visible",zIndex:"5",height:"55px",width:"165px",background:"#none",borderLeft:"3px solid black",borderTop:"3px solid black",borderTopLeftRadius:"10px",color:"white",fontFamily:"Nunito, sans-serif",fontWeight:"700",userSelect:"text",overflow:"hidden",pointerEvents:"all"}},r=w("button",{style:{height:"55px",width:"55px",fontFamily:"Nunito",color:"white",backgroundColor:"#00a0ff",border:"none",fontSize:"2rem",cursor:"move"},innerHTML:"✥"}),w("button",{style:{height:"55px",width:"55px",fontFamily:"Nunito",color:"white",backgroundColor:"grey",border:"none",fontSize:"2rem",fontWeight:"bolder",cursor:"pointer"},innerHTML:"-",onclick:function(){let t=!1;return()=>{for(var e of[...o.children])e!=i&&(t?e.style.display=e.style._display:(e.style._display=e.style.display,e.style.display="none"));o.style.height=t?"100%":"55px",o.style.width=t?"100%":"165px",h.style.top=parseInt(h.style.top)+(h.offsetHeight-55)*(t?-1:1)+"px",h.style.left=parseInt(h.style.left)+(h.offsetWidth-165)*(t?-1:1)+"px",h.style.pointerEvents=t?"unset":"none",t=!t}}()}),w("button",{style:{height:"55px",width:"55px",fontFamily:"Nunito",color:"white",backgroundColor:"red",border:"none",fontSize:"2rem",fontWeight:"bolder",cursor:"pointer"},innerHTML:"X",onclick:u})),n=w("div",{className:"cheatList",style:{overflowY:"scroll",background:"var(--cheatList)",boxShadow:"inset -10px 0 rgb(0 0 0 / 20%)",zIndex:"5",width:"220px",position:"absolute",top:"0",left:"0",height:"100%",fontFamily:"Titan One",color:"var(--textColor)",fontSize:"40px",textAlign:"center",paddingTop:"20px",userSelect:"none",padding:"20px 10px 20px 0",boxSizing:"border-box",display:"flex",flexDirection:"column"},innerHTML:'<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%)">Cheats</span>'},w("a",{className:"bigButton",style:{cursor:"pointer",display:"block",fontFamily:"Titan One",margin:"20px auto 10px",position:"relative",transition:".25s",textDecoration:"none",userSelect:"none",visibility:"visible"},target:"_blank",href:"https://www.youtube.com/@5p_n",innerHTML:`<div style="background: rgba(0,0,0,.25); border-radius: 5px; display: block; width: 100%; height: 100%; left: 0; top: 0; position: absolute; transform: translateY(2px); width: 100%; transition: transform .6s cubic-bezier(.3,.7,.4,1)"></div>\n    <div style="background-color: rgb(11, 194, 207); filter: brightness(.7); position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 5px;"></div>\n    <div style="font-weight: 400; background-color: rgb(11, 194, 207); color: white; display: flex; flex-direction: row; align-items: center; justify-content: center; text-align: center; padding: 5px; border-radius: 5px; transform: translateY(-4px); transition: transform .6s cubic-bezier(.3,.7,.4,1)">\n    <div style="font-family: Titan One, sans-serif; color: white; font-size: 26px; text-shadow: 2px 2px rgb(0 0 0 / 20%); height: 40px; padding: 0 15px; display: flex; flex-direction: row; align-items: center; justify-content: center">\n        <svg style="filter: drop-shadow(2px 2px 0 rgb(0 0 0 / 20%))" xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" viewBox="0 -1 21 16">\n            <path d="M13.545 2.907a13.227 13.227 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.19 12.19 0 0 0-3.658 0 8.258 8.258 0 0 0-.412-.833.051.051 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.041.041 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032c.001.014.01.028.021.037a13.276 13.276 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019c.308-.42.582-.863.818-1.329a.05.05 0 0 0-.01-.059.051.051 0 0 0-.018-.011 8.875 8.875 0 0 1-1.248-.595.05.05 0 0 1-.02-.066.051.051 0 0 1 .015-.019c.084-.063.168-.129.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.052.052 0 0 1 .053.007c.08.066.164.132.248.195a.051.051 0 0 1-.004.085 8.254 8.254 0 0 1-1.249.594.05.05 0 0 0-.03.03.052.052 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.235 13.235 0 0 0 4.001-2.02.049.049 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.034.034 0 0 0-.02-.019Zm-8.198 7.307c-.789 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612Zm5.316 0c-.788 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612Z"/>\n        </svg>\n        YouTube\n    </div>\n    </div>`})),w("div",{className:"contentWrapper",style:{position:"absolute",left:"220px",top:"70px",overflowY:"scroll",width:"calc(100% - 220px)",height:"calc(100% - 70px)",borderRadius:"7px"}},w("div",{id:"content",style:{position:"absolute",inset:"27px 50px 50px 50px"}},s=w("div",{className:"tooltip",style:{position:"absolute",top:"0",left:"0",backgroundColor:"black",height:"fit-content",maxWidth:"300px",zIndex:"5",borderRadius:"7.5px",color:"white",display:"flex",justifyContent:"center",alignItems:"center",padding:"5px",paddingInline:"15px",pointerEvents:"none",opacity:"0",textAlign:"center"},innerText:"description"}),v=w("div",{style:{alignItems:"center",boxSizing:"border-box",display:"flex",flexDirection:"row",flexWrap:"wrap",justifyContent:"space-evenly",padding:"20px 5px 20px",position:"relative",width:"100%",fontFamily:"Nunito, sans-serif",fontWeight:"400",color:"var(--textColor)",background:"var(--contentBackground)",boxShadow:"inset 0 -6px rgb(0 0 0 / 20%)",borderRadius:"7px"}},y=w("div",{className:"headerText",style:{boxSizing:"border-box",display:"block",height:"45px",left:"-10px",padding:"4px 4px 8px",position:"absolute",top:"-28px",backgroundColor:"#ef7426",boxShadow:"0 4px rgb(0 0 0 / 20%), inset 0 -4px rgb(0 0 0 / 20%)",borderRadius:"7px"}},w("div",{style:{alignItems:"center",boxSizing:"border-box",display:"flex",height:"100%",justifyContent:"center",padding:"0 15px",width:"100%",fontFamily:"Titan One, sans-serif",fontSize:"26px",fontWeight:"400",textShadow:"-1px -1px 0 #646464, 1px -1px 0 #646464, -1px 1px 0 #646464, 2px 2px 0 #646464",color:"white",background:"linear-gradient(#fcd843,#fcd843 50%,#feb31a 50.01%,#feb31a)",borderRadius:"5px"}})))))));for(const g of document.querySelectorAll("#JODGUI"))g.remove();function c(e,t,a,o){const i=w("div",{className:"cheatButton",innerHTML:("string"==typeof t?`<img style="height: 30px; margin-right: 5px" src="${t}">`:t||"")+e,onclick:()=>d(i.innerText,a,o)});return n.appendChild(i),i.onclick}async function d(e,l,t){v.innerHTML="",y.firstChild.innerText=e+(t?"":" Cheats"),v.append(y);for(let s=0;s<l.length;s++){let{name:e,description:t,type:a,inputs:o,enabled:i,run:n,element:r}=l[s];if(!r){const g=w("div",{className:"scriptButton",style:{background:"toggle"==a?i?"var(--enabledButton)":"var(--disabledButton)":"var(--defaultButton)"}},w("div",{className:"cheatName",innerHTML:e}));if(g.dataset.description=t,o?.length)for(let t=0;t<o.length;t++){var{name:c,type:d,options:p,min:u,max:m,value:h}=o[t];let e;try{e=await("function"==typeof p?p?.():p)}catch{e=[]}if("options"==d&&e?.length){const b=document.createElement("select");e.forEach(e=>{var t=document.createElement("option");t.value=JSON.stringify(e?.value||e),t.innerHTML=e?.name||e,b.appendChild(t)}),g.appendChild(b)}else{p=document.createElement("input");p.classList.add("cheatInput"),"number"==d&&(p.type="number",p.min=u,p.max=m,p.value=h||(null!=u?u:0),window.wafaw=o[t]),p.placeholder=c,p.style.textAlign="center",g.appendChild(p)}}g.onclick=function({target:e}){e!=g&&!e.classList.contains("cheatName")||(e=[...g.children].slice(1),n.apply(this,e.map(e=>"number"==e.type?parseInt("0"+e.value):"SELECT"==e.nodeName?JSON.parse(e.value):e.value)),"toggle"==a&&(g.style.background=this.enabled?"var(--enabledButton)":"var(--disabledButton)"),f.alerts?.[0].addLog(`${"toggle"==a?this.enabled?"Enabled":"Disabled":"Ran"} <strong>${this.name}</strong>`+(o?.length?` with inputs: (${e.map(e=>"SELECT"==e.nodeName?e.selectedOptions[0].innerText:e.value).join(", ")})`:""),"toggle"==a?this.enabled?"var(--enabledButton)":"var(--disabledButton)":null))}.bind(l[s]),l[s].element=g}v.appendChild(l[s].element)}}document.body.appendChild(h);const f={global:[{name:"Auto Answer (Toggle)",description:"Toggles auto answer on",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{var{state:{question:e,stage:t,feedback:a},props:{client:{question:o}}}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];const i=e||o;try{"typing"!=i.qType?("feedback"===t||a?document.querySelector('[class*="feedback"]')?.firstChild:[...document.querySelectorAll('[class*="answerContainer"]')][i.answers.map((e,t)=>i.correctAnswers.includes(e)?t:null).filter(e=>null!=e)[0]])?.click?.():Object.values(document.querySelector("[class*='typingAnswerWrapper']"))[1].children._owner.stateNode.sendAnswer(i.answers[0])}catch{}},50))}},{name:"Highlight Answers (Toggle)",description:"Toggles highlight answers on",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{const{state:a,props:o}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];[...document.querySelectorAll('[class*="answerContainer"]')].forEach((e,t)=>{(a.question||o.client.question).correctAnswers.includes((a.question||o.client.question).answers[t])?e.style.backgroundColor="rgb(0, 207, 119)":e.style.backgroundColor="rgb(189, 15, 38)"})},50))}},{name:"Auto Sell Dupes On Open",description:"Sells the blook you unlock when you open a pack if you already have one (Doesn't sell Legendaries or rarer)",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,XMLHttpRequest.prototype.open=this.data):(this.enabled=!0,this.data=XMLHttpRequest.prototype.open,XMLHttpRequest.prototype._original_open||=XMLHttpRequest.prototype.open,XMLHttpRequest.prototype.open=function(){this.addEventListener("load",async function(){try{var e,t,a,o,i;"https://dashboard.blooket.com/api/users/unlockblook"===this.responseURL&&(e=Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.get).exports.a,t=webpackJsonp.push([[],{rarity:(e,t,a)=>{t.rarity=e=>a("MDrD").a[e].rarity}},[["rarity"]]])["rarity"],a=JSON.parse(this.response)["unlockedBlook"],{name:o,unlocks:i}=(await e.get("https://dashboard.blooket.com/api/users"))["data"],i[a]&&!["Legendary","Chroma","Mystical"].includes(t(a)))&&(await e.put("https://dashboard.blooket.com/api/users/sellblook",{name:o,blook:a,numSold:1}),console.log("Sold duplicate "+a))}catch{}}),XMLHttpRequest.prototype._original_open.apply(this,arguments)})}},{name:"Auto Answer",description:"Click the correct answer for you",run:function(){const{state:{question:a,stage:e,feedback:t},props:{client:{question:o}}}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];try{"typing"!=a.qType?("feedback"===e||t?document.querySelector('[class*="feedback"]')?.firstChild:[...document.querySelectorAll('[class*="answerContainer"]')][(a||o).answers.map((e,t)=>(a||o).correctAnswers.includes(e)?t:null).filter(e=>null!=e)[0]])?.click?.():Object.values(document.querySelector("[class*='typingAnswerWrapper']"))[1].children._owner.stateNode.sendAnswer(a.answers[0])}catch{}}},{name:"Spam Buy Blooks",description:"Opens a box an amount of times",inputs:[{name:"Box",type:"options",options:()=>new Promise(e=>{e(Object.keys(Object.values(webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]]).webpack.c).find(e=>e?.exports?.a?.Safari)?.exports.a||{}))})},{name:"Amount",type:"number"}],run:function(o,i){var e=document.createElement("iframe"),n=(document.body.append(e),window.alert=e.contentWindow.alert.bind(window),window.prompt=e.contentWindow.prompt.bind(window),window.confirm=e.contentWindow.confirm.bind(window),e.remove(),Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache)),c=n.find(e=>e.exports?.a?.get).exports.a;o=o.split(" ").map(e=>e.charAt(0).toUpperCase()+e.slice(1).toLowerCase()).join(" "),c.get("https://dashboard.blooket.com/api/users").then(async({data:{name:e,tokens:t}})=>{var a=n.find(e=>e?.exports?.a?.Safari)?.exports?.a||{Medieval:15,Breakfast:15,Wonderland:15,Space:20,Bot:20,Aquatic:20,Safari:20,Dino:25,"Ice Monster":25};let l=Math.min(Math.floor(t/a[o]),i);if(0==l)0<i&&alert("You do not have enough tokens!");else{let n=confirm("Would you like to alert blooks upon unlocking?"),r={},s=Date.now(),t=!1;for(let i=0;i<l&&(await c.put("https://dashboard.blooket.com/api/users/unlockblook",{name:e,box:o}).then(({data:{unlockedBlook:e,tokens:t,isNewBlook:a}})=>{r[e]||=0,r[e]++;var o=Date.now();n&&alert(`${e} (${i+1}/${l}) ${a?"NEW! ":""}${t} tokens left`),s+=Date.now()-o}).catch(e=>t=!0),!t);i++);alert(`(${Date.now()-s}ms) Results:\n`+Object.entries(r).map(([e,t])=>`    ${e} `+t).join(`\n`))}}).catch(()=>alert("There was an error user data!"))}},{name:"Flood Game",description:"Floods a game with a number of fake accounts",inputs:[{name:"Game ID",type:"string"},{name:"Name",type:"string"},{name:"Amount",type:"number"},{name:"Blook",type:"options",options:async()=>{var e=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]])["webpack"];return Object.keys(Object.values(e.c).find(e=>e.exports.a?.Chick&&e.exports.a?.Elephant).exports.a)}},{name:"Banner",type:"options",options:Object.entries({Starter:"starter",Chalkboard:"chalkboard",Slime:"slime",Bookshelf:"bookshelf","Toaster Pastry":"toasterPastry",Theater:"theater",Sushi:"sushi",Workbench:"workbench",Spooky:"spooky",Spiders:"spiders",Coffin:"coffin",Pumpkins:"pumpkins","Falling Blocks":"fallingBlocks",Racetrack:"racetrack",Harvest:"harvest",Leaves:"leaves","Fall Picnic":"fallPicnic","Winter Drive":"winterDrive","Winter Train":"winterTrain",Ice:"ice",Gifts:"gifts","Christmas Tree":"christmasTree","Soccer Field":"soccerField","Winter Landscape":"winterLandscape","Football Field":"footballField","Outer Space":"outerSpace","Hockey Rink":"hockeyRink","Music Class":"musicClass","Ice Cream Sandwich":"iceCreamSandwich","Science Class":"scienceClass","Fish Tank":"fishTank","Art Class":"artClass",Clockwork:"clockwork","Love Letter":"loveLetter",Farm:"farm",Chocolate:"chocolate","Tech Chip":"techChip",Fire:"fire","Orange Ice Pop":"orangeIcePop"}).map(([e,t])=>({name:e,value:t}))}],run:async function(i,n,e,r,s){var t=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]])["webpack"];const l=Object.values(t.c).find(e=>e.exports?.a?.get).exports.a,c=Object.values(t.c).find(e=>e.exports?.a?.initializeApp).exports.a;for(let o=1;o<=e;o++)(async()=>{var{success:e,fbToken:t,fbShardURL:a}=(await l.put("https://fb.blooket.com/c/firebase/join",{id:i,name:""+n+o}))["data"];e&&(e=c.initializeApp({apiKey:"AIzaSyCA-cTOnX19f6LFnDVVsHXya3k6ByP_MnU",authDomain:"blooket-2020.firebaseapp.com",projectId:"blooket-2020",storageBucket:"blooket-2020.appspot.com",messagingSenderId:"741533559105",appId:"1:741533559105:web:b8cbb10e6123f2913519c0",measurementId:"G-S3H5NGN10Z",databaseURL:a},""+n+o),await(a=c.auth(e)).setPersistence(c.auth.Auth.Persistence.NONE).catch(console.error),await a.signInWithCustomToken(t).catch(console.error),await e.database().ref(i+"/c/"+n+o).set({b:r,bg:s}),e.delete())})(),await new Promise(e=>setTimeout(e,100))}},{name:"Get Daily Rewards",description:"Gets max daily tokens and xp",run:function(){var a,e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),location.href.includes("play.blooket.com")?(a=Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.get).exports.a).post("https://play.blooket.com/api/playersessions/solo",{gameMode:"Factory"}).then(({data:{t}})=>{a.get("https://play.blooket.com/api/users/me").then(({data:{name:e}})=>{a.put("https://play.blooket.com/api/users/add-rewards",{t:t,name:e,addedTokens:500,addedXp:300}).then(({data:{dailyReward:e}})=>alert(`Added max tokens and xp, and got ${e} daily wheel tokens!`)).catch(()=>alert("There was an error when adding rewards."))}).catch(()=>alert("There was an error user data."))}):(alert("This cheat only works on play.blooket.com, opening a new tab."),window.open("https://play.blooket.com/"))}},{name:"Use Any Blook",description:"Allows you to play as any blook",run:function(){const a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];var e=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]]).webpack("MDrD").a;"/blooks"==location.pathname?a.setState({blookData:Object.keys(e).reduce((e,t)=>(e[t]=a.state.blookData[t]||1,e),{}),allSets:Object.values(e).reduce((e,t)=>e.includes(t.set)?e:e.concat(t.set),[])}):Array.isArray(a.state.unlocks)?a.setState({unlocks:Object.keys(e)}):a.setState({unlocks:e})}},{name:"Every Answer Correct",description:"Sets every answer to be correct",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.freeQuestions=e.questions=e.props.client.questions.map(e=>({...e,correctAnswers:e.answers}))}},{name:"Highlight Answers",description:"Colors answers to be red or green highlighting the correct ones",run:function(){const{state:a,props:o}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];[...document.querySelectorAll('[class*="answerContainer"]')].forEach((e,t)=>{(a.question||o.client.question).correctAnswers.includes((a.question||o.client.question).answers[t])?e.style.backgroundColor="rgb(0, 207, 119)":e.style.backgroundColor="rgb(189, 15, 38)"})}},{name:"Remove Name Limit",description:"Sets the name limit to 120, which is the actual max name length limit",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),document.querySelector('[class*="nameInput"]').maxLength=120,alert("Removed name length limit")}},{name:"Remove Random Name",description:"Allows you to put a custom name",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({isRandom:!1,client:{name:""}}),document.querySelector('[class*="nameInput"]')?.focus?.()}},{name:"Sell Cheap Duplicates",description:"Sells all of your uncommon to epic dupes (not legendaries+)",run:function(){var e=document.createElement("iframe"),n=(document.body.append(e),window.alert=e.contentWindow.alert.bind(window),window.confirm=e.contentWindow.confirm.bind(window),e.remove(),Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.get).exports.a);n.get("https://dashboard.blooket.com/api/users").then(async({data:{name:e,unlocks:t}})=>{t=Object.entries(t).filter(([e,t])=>1<t&&!["Legendary","Chroma","Mystical"].includes(webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]]).webpack("MDrD").a[e].rarity));if(confirm("Are you sure you want to sell your uncommon to epic dupes?")){var a,o,i=Date.now();for([a,o]of t)await n.put("https://dashboard.blooket.com/api/users/sellblook",{name:e,blook:a,numSold:o-1});alert(`(${Date.now()-i}ms) Results:\n`+t.map(([e,t])=>`    ${e} `+(t-1)).join(`\n`))}}).catch(()=>alert("There was an error user data!"))}},{name:"Sell Duplicate Blooks",description:"Sell all duplicate blooks leaving you with 1 each",run:function(){var e=document.createElement("iframe"),n=(document.body.append(e),window.alert=e.contentWindow.alert.bind(window),window.confirm=e.contentWindow.confirm.bind(window),e.remove(),Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.get).exports.a);n.get("https://dashboard.blooket.com/api/users").then(async({data:{name:e,unlocks:t}})=>{t=Object.entries(t).filter(e=>1<e[1]);if(confirm("Are you sure you want to sell your dupes?")){var a,o,i=Date.now();for([a,o]of t)await n.put("https://dashboard.blooket.com/api/users/sellblook",{name:e,blook:a,numSold:o-1});alert(`(${Date.now()-i}ms) Results:\n`+t.map(([e,t])=>`    ${e} `+(t-1)).join(`\n`))}}).catch(()=>alert("There was an error user data!"))}},{name:"Simulate Pack",description:"Simulate opening a pack",inputs:[{name:"Pack",type:"options",options:async()=>Array.from(document.querySelectorAll('[class*="packShadow"]')).map(e=>e.alt)}],run:function(){let m=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]])["webpack"],o=Object.values(m.c).find(e=>e.exports?.Class).exports,h={};class i extends o.Scene{constructor(e){super(),this.rarity=e.toLowerCase()}preload(){switch(this.rarity){case"uncommon":this.load.svg("uncommon-1","https://media.blooket.com/image/upload/v1658567787/Media/market/particles/square_green.svg",{width:25,height:25}),this.load.svg("uncommon-2","https://media.blooket.com/image/upload/v1658567787/Media/market/particles/square_light_green.svg",{width:25,height:25}),this.load.svg("uncommon-3","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/circle_dark_green.svg",{width:25,height:25}),this.load.svg("uncommon-4","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/serpentine_dark_green.svg",{width:30,height:30}),this.load.svg("uncommon-5","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/triangle_light_green.svg",{width:30,height:30}),this.load.svg("uncommon-6","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/serpentine_light_green.svg",{width:30,height:30}),this.load.svg("uncommon-7","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/triangle_green.svg",{width:30,height:30});break;case"rare":this.load.svg("rare-1","https://media.blooket.com/image/upload/v1658567765/Media/market/particles/square_light_blue.svg",{width:25,height:25}),this.load.svg("rare-2","https://media.blooket.com/image/upload/v1658567765/Media/market/particles/square_dark_blue.svg",{width:25,height:25}),this.load.svg("rare-3","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_blue.svg",{width:30,height:30}),this.load.svg("rare-4","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/serpentine_blue.svg",{width:30,height:30}),this.load.svg("rare-5","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_light_blue.svg",{width:30,height:30}),this.load.svg("rare-6","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/serpentine_light_blue.svg",{width:30,height:30}),this.load.svg("rare-7","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/circle_dark_blue.svg",{width:25,height:25});break;case"epic":this.load.svg("epic-1","https://media.blooket.com/image/upload/v1658790239/Media/market/particles/red.svg",{width:25,height:25}),this.load.svg("epic-2","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/light_red.svg",{width:25,height:25}),this.load.svg("epic-3","https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_red.svg",{width:30,height:30}),this.load.svg("epic-4","https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_dark_red.svg",{width:30,height:30}),this.load.svg("epic-5","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_red.svg",{width:30,height:30}),this.load.svg("epic-6","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_light_red.svg",{width:30,height:30}),this.load.svg("epic-7","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/circle_dark_red.svg",{width:25,height:25});break;case"legendary":this.load.svg("legendary-1","https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_orange.svg",{width:25,height:25}),this.load.svg("legendary-2","https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_light_orange.svg",{width:25,height:25}),this.load.svg("legendary-3","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/circle_orange.svg",{width:25,height:25}),this.load.svg("legendary-4","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_orange.svg",{width:30,height:30}),this.load.svg("legendary-5","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_light_orange.svg",{width:30,height:30}),this.load.svg("legendary-6","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/circle_dark_orange.svg",{width:25,height:25}),this.load.svg("legendary-7","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/triangle_dark_orange.svg",{width:30,height:30});break;case"chroma":this.load.svg("chroma-1","https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_turquoise.svg",{width:25,height:25}),this.load.svg("chroma-2","https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_light_turquoise.svg",{width:25,height:25}),this.load.svg("chroma-3","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/serpentine_dark_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-4","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/serpentine_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-5","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-6","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_light_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-7","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/circle_dark_turquoise.svg",{width:25,height:25})}}create(){h.scene=this,h.rarity="",h.particles=this.physics.add.group({classType:new o.Class({Extends:o.GameObjects.Image,initialize:function(){o.GameObjects.Image.call(this,h.scene,0,0,"uncommon-1"),this.setDepth(3),this.lifespan=0},spawn:function(e,t,a,o,i,n,r,s,l){this.setTexture(l),this.setActive(!0),this.setVisible(!0),this.setPosition(e,t),this.setScale(a),this.targets=[],h.scene.physics.velocityFromAngle(o,i,this.body.velocity),this.body.setGravityY(n),this.body.setAngularVelocity(r),this.lifespan=s},update:function(e,t){this.lifespan-=t,0<this.lifespan||(this.setActive(!1),this.setVisible(!1))}}),runChildUpdate:!0}),this.nextParticle=0,this.numExplosions=0,this.game.events.on("start-particles",e=>{h.rarity=e,this.numExplosions="Uncommon"===e?75:"Rare"===e?100:-1})}update(e,t){const a=m("74sb");function o(e){switch(e){case"center":var t=Object(a.l)(-115,-65);return{x:h.scene.cameras.main.worldView.width/2,y:h.scene.cameras.main.worldView.height/2,scale:Object(a.l)(.7,1),angle:t,velocity:Object(a.l)(600,750),gravity:700,angVelocity:(-90<t?1:-1)*Object(a.l)(125,175),lifespan:2500};case"right-bottom":return{x:h.scene.cameras.main.worldView.width,y:h.scene.cameras.main.worldView.height,scale:Object(a.l)(.7,1),angle:Object(a.l)(-160,-110),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(-175,-125),lifespan:2500};case"left-bottom":return{x:0,y:h.scene.cameras.main.worldView.height,scale:Object(a.l)(.7,1),angle:Object(a.l)(-70,-20),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(125,175),lifespan:2500};case"top":return{x:Object(a.l)(0,h.scene.cameras.main.worldView.width),y:-50,scale:Object(a.l)(.7,1),angle:90,velocity:Object(a.l)(0,50),gravity:700,angVelocity:Object(a.l)(-150,150),lifespan:2500};case"right-shower":return{x:h.scene.cameras.main.worldView.width,y:Object(a.l)(0,h.scene.cameras.main.worldView.height),scale:Object(a.l)(.7,1),angle:Object(a.l)(-180,-130),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(-175,-125),lifespan:2500};case"left-shower":return{x:0,y:Object(a.l)(0,h.scene.cameras.main.worldView.height),scale:Object(a.l)(.7,1),angle:Object(a.l)(-50,0),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(125,175),lifespan:2500};case"right-diamond":t=Object(a.l)(0,h.scene.cameras.main.worldView.height);return{x:h.scene.cameras.main.worldView.width,y:t,scale:Object(a.l)(.7,1),angle:t>h.scene.cameras.main.worldView.height/2?-150:-210,velocity:Object(a.l)(600,750),gravity:0,angVelocity:Object(a.l)(-175,-125),lifespan:2500};case"left-diamond":t=Object(a.l)(0,h.scene.cameras.main.worldView.height);return{x:0,y:t,scale:Object(a.l)(.7,1),angle:t>h.scene.cameras.main.worldView.height/2?-30:30,velocity:Object(a.l)(600,750),gravity:0,angVelocity:Object(a.l)(125,175),lifespan:2500};default:return{}}}if(h.rarity&&0!==this.numExplosions&&(this.nextParticle-=t,this.nextParticle<=0)){switch(h.rarity){case"Uncommon":for(let e=0;e<2;e++){var i=h.particles.get();i&&i.spawn.apply(i,Object.values(o("center")).concat("uncommon-"+Object(a.m)(1,8)))}break;case"Rare":for(var n=0;n<2;n++){var r=h.particles.get();r&&r.spawn.apply(r,Object.values(o(n%2==0?"left-bottom":"right-bottom")).concat("rare-"+Object(a.m)(1,8)))}break;case"Epic":for(var s=0;s<2;s++){var l=h.particles.get();l&&l.spawn.apply(l,Object.values(o(s%2==0?"left-shower":"right-shower")).concat("epic-"+Object(a.m)(1,8)))}break;case"Legendary":for(var c=0;c<3;c++){var d=h.particles.get();d&&d.spawn.apply(d,Object.values(o("top")).concat("legendary-"+Object(a.m)(1,8)))}break;case"Chroma":for(var p=0;p<3;p++){var u=h.particles.get();u&&u.spawn.apply(u,Object.values(o(p%2==0?"left-diamond":"right-diamond")).concat("chroma-"+Object(a.m)(1,8)))}}this.nextParticle=20,0<this.numExplosions&&(this.numExplosions=Math.max(this.numExplosions-1,0))}}}return function(e){if("/market"!==window.location.pathname)return alert("This must be ran on the market page");var t,a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];let n=m("fGzD");(n=Object.keys(n.a).reduce((e,t)=>(e.packs.includes(t)&&(e.data[t]=Object.fromEntries(n.b(t))),e),{packs:Array.from(document.querySelectorAll('[class*="packShadow"]')).map(e=>e.alt),data:{}}).data)[e]?(e=function(e){var t=[],a=Object.keys(n[e]);for(const i of a)t.push(n[e][i]+(t[a.indexOf(i)-1]||0));const o=t[t.length-1]*Math.random();return a[t.findIndex(e=>e>=o)]}(e),t=Object.values(m.c).find(e=>e.exports?.a?.Elephant).exports.a,a.setState({loadingPack:!1,openPack:!0,unlockedBlook:e,tokens:a.state.tokens,newUnlock:!0,game:{type:o.WEBGL,parent:"phaser-market",width:"100%",height:"100%",scale:{mode:o.Scale.NONE,autoCenter:o.Scale.CENTER_BOTH},transparent:!0,physics:{default:"arcade"},scene:new i(t[e].rarity)},canOpen:!0})):alert("I couldn't find that box!")}}()},{name:"Simulate Unlock",description:"Simulate unlocking most of the blooks",inputs:[{name:"Blook",type:"options",options:async()=>{let a=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]])["webpack"];return Object.keys(Object.entries(Object.values(a.c).find(e=>Object.values(e.exports?.a||{})[0]?.set).exports.a).reduce((e,t)=>(Object.values(a.c).find(e=>15==e.exports.a?.Breakfast).exports.a[t[1].realSet||t[1].set]&&(e[t[0]]=t[1]),e),{}))}}],run:function(){let m=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]])["webpack"],a=Object.values(m.c).find(e=>e.exports?.Class).exports,h={};class o extends a.Scene{constructor(e){super(),this.rarity=e.toLowerCase()}preload(){switch(this.rarity){case"uncommon":this.load.svg("uncommon-1","https://media.blooket.com/image/upload/v1658567787/Media/market/particles/square_green.svg",{width:25,height:25}),this.load.svg("uncommon-2","https://media.blooket.com/image/upload/v1658567787/Media/market/particles/square_light_green.svg",{width:25,height:25}),this.load.svg("uncommon-3","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/circle_dark_green.svg",{width:25,height:25}),this.load.svg("uncommon-4","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/serpentine_dark_green.svg",{width:30,height:30}),this.load.svg("uncommon-5","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/triangle_light_green.svg",{width:30,height:30}),this.load.svg("uncommon-6","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/serpentine_light_green.svg",{width:30,height:30}),this.load.svg("uncommon-7","https://media.blooket.com/image/upload/v1658567785/Media/market/particles/triangle_green.svg",{width:30,height:30});break;case"rare":this.load.svg("rare-1","https://media.blooket.com/image/upload/v1658567765/Media/market/particles/square_light_blue.svg",{width:25,height:25}),this.load.svg("rare-2","https://media.blooket.com/image/upload/v1658567765/Media/market/particles/square_dark_blue.svg",{width:25,height:25}),this.load.svg("rare-3","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_blue.svg",{width:30,height:30}),this.load.svg("rare-4","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/serpentine_blue.svg",{width:30,height:30}),this.load.svg("rare-5","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_light_blue.svg",{width:30,height:30}),this.load.svg("rare-6","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/serpentine_light_blue.svg",{width:30,height:30}),this.load.svg("rare-7","https://media.blooket.com/image/upload/v1658567763/Media/market/particles/circle_dark_blue.svg",{width:25,height:25});break;case"epic":this.load.svg("epic-1","https://media.blooket.com/image/upload/v1658790239/Media/market/particles/red.svg",{width:25,height:25}),this.load.svg("epic-2","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/light_red.svg",{width:25,height:25}),this.load.svg("epic-3","https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_red.svg",{width:30,height:30}),this.load.svg("epic-4","https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_dark_red.svg",{width:30,height:30}),this.load.svg("epic-5","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_red.svg",{width:30,height:30}),this.load.svg("epic-6","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_light_red.svg",{width:30,height:30}),this.load.svg("epic-7","https://media.blooket.com/image/upload/v1658790237/Media/market/particles/circle_dark_red.svg",{width:25,height:25});break;case"legendary":this.load.svg("legendary-1","https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_orange.svg",{width:25,height:25}),this.load.svg("legendary-2","https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_light_orange.svg",{width:25,height:25}),this.load.svg("legendary-3","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/circle_orange.svg",{width:25,height:25}),this.load.svg("legendary-4","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_orange.svg",{width:30,height:30}),this.load.svg("legendary-5","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_light_orange.svg",{width:30,height:30}),this.load.svg("legendary-6","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/circle_dark_orange.svg",{width:25,height:25}),this.load.svg("legendary-7","https://media.blooket.com/image/upload/v1658567738/Media/market/particles/triangle_dark_orange.svg",{width:30,height:30});break;case"chroma":this.load.svg("chroma-1","https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_turquoise.svg",{width:25,height:25}),this.load.svg("chroma-2","https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_light_turquoise.svg",{width:25,height:25}),this.load.svg("chroma-3","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/serpentine_dark_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-4","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/serpentine_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-5","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-6","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_light_turquoise.svg",{width:30,height:30}),this.load.svg("chroma-7","https://media.blooket.com/image/upload/v1658790244/Media/market/particles/circle_dark_turquoise.svg",{width:25,height:25})}}create(){h.scene=this,h.rarity="",h.particles=this.physics.add.group({classType:new a.Class({Extends:a.GameObjects.Image,initialize:function(){a.GameObjects.Image.call(this,h.scene,0,0,"uncommon-1"),this.setDepth(3),this.lifespan=0},spawn:function(e,t,a,o,i,n,r,s,l){this.setTexture(l),this.setActive(!0),this.setVisible(!0),this.setPosition(e,t),this.setScale(a),this.targets=[],h.scene.physics.velocityFromAngle(o,i,this.body.velocity),this.body.setGravityY(n),this.body.setAngularVelocity(r),this.lifespan=s},update:function(e,t){this.lifespan-=t,0<this.lifespan||(this.setActive(!1),this.setVisible(!1))}}),runChildUpdate:!0}),this.nextParticle=0,this.numExplosions=0,this.game.events.on("start-particles",e=>{h.rarity=e,this.numExplosions="Uncommon"===e?75:"Rare"===e?100:-1})}update(e,t){const a=m("74sb");function o(e){switch(e){case"center":var t=Object(a.l)(-115,-65);return{x:h.scene.cameras.main.worldView.width/2,y:h.scene.cameras.main.worldView.height/2,scale:Object(a.l)(.7,1),angle:t,velocity:Object(a.l)(600,750),gravity:700,angVelocity:(-90<t?1:-1)*Object(a.l)(125,175),lifespan:2500};case"right-bottom":return{x:h.scene.cameras.main.worldView.width,y:h.scene.cameras.main.worldView.height,scale:Object(a.l)(.7,1),angle:Object(a.l)(-160,-110),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(-175,-125),lifespan:2500};case"left-bottom":return{x:0,y:h.scene.cameras.main.worldView.height,scale:Object(a.l)(.7,1),angle:Object(a.l)(-70,-20),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(125,175),lifespan:2500};case"top":return{x:Object(a.l)(0,h.scene.cameras.main.worldView.width),y:-50,scale:Object(a.l)(.7,1),angle:90,velocity:Object(a.l)(0,50),gravity:700,angVelocity:Object(a.l)(-150,150),lifespan:2500};case"right-shower":return{x:h.scene.cameras.main.worldView.width,y:Object(a.l)(0,h.scene.cameras.main.worldView.height),scale:Object(a.l)(.7,1),angle:Object(a.l)(-180,-130),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(-175,-125),lifespan:2500};case"left-shower":return{x:0,y:Object(a.l)(0,h.scene.cameras.main.worldView.height),scale:Object(a.l)(.7,1),angle:Object(a.l)(-50,0),velocity:Object(a.l)(600,750),gravity:500,angVelocity:Object(a.l)(125,175),lifespan:2500};case"right-diamond":t=Object(a.l)(0,h.scene.cameras.main.worldView.height);return{x:h.scene.cameras.main.worldView.width,y:t,scale:Object(a.l)(.7,1),angle:t>h.scene.cameras.main.worldView.height/2?-150:-210,velocity:Object(a.l)(600,750),gravity:0,angVelocity:Object(a.l)(-175,-125),lifespan:2500};case"left-diamond":t=Object(a.l)(0,h.scene.cameras.main.worldView.height);return{x:0,y:t,scale:Object(a.l)(.7,1),angle:t>h.scene.cameras.main.worldView.height/2?-30:30,velocity:Object(a.l)(600,750),gravity:0,angVelocity:Object(a.l)(125,175),lifespan:2500};default:return{}}}if(h.rarity&&0!==this.numExplosions&&(this.nextParticle-=t,this.nextParticle<=0)){switch(h.rarity){case"Uncommon":for(let e=0;e<2;e++){var i=h.particles.get();i&&i.spawn.apply(i,Object.values(o("center")).concat("uncommon-"+Object(a.m)(1,8)))}break;case"Rare":for(var n=0;n<2;n++){var r=h.particles.get();r&&r.spawn.apply(r,Object.values(o(n%2==0?"left-bottom":"right-bottom")).concat("rare-"+Object(a.m)(1,8)))}break;case"Epic":for(var s=0;s<2;s++){var l=h.particles.get();l&&l.spawn.apply(l,Object.values(o(s%2==0?"left-shower":"right-shower")).concat("epic-"+Object(a.m)(1,8)))}break;case"Legendary":for(var c=0;c<3;c++){var d=h.particles.get();d&&d.spawn.apply(d,Object.values(o("top")).concat("legendary-"+Object(a.m)(1,8)))}break;case"Chroma":for(var p=0;p<3;p++){var u=h.particles.get();u&&u.spawn.apply(u,Object.values(o(p%2==0?"left-diamond":"right-diamond")).concat("chroma-"+Object(a.m)(1,8)))}}this.nextParticle=20,0<this.numExplosions&&(this.numExplosions=Math.max(this.numExplosions-1,0))}}}return function(e){var t=document.createElement("iframe");document.body.append(t),window.alert=t.contentWindow.alert.bind(window),window.prompt=t.contentWindow.prompt.bind(window),t.remove(),"/market"==window.location.pathname?(t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],t.setState({loadingPack:!1,openPack:!0,unlockedBlook:e,tokens:t.state.tokens,newUnlock:!0,game:{type:a.WEBGL,parent:"phaser-market",width:"100%",height:"100%",scale:{mode:a.Scale.NONE,autoCenter:a.Scale.CENTER_BOTH},transparent:!0,physics:{default:"arcade"},scene:new o(Object.entries(Object.values(m.c).find(e=>Object.values(e.exports?.a||{})[0]?.set).exports.a).reduce((e,t)=>(Object.values(m.c).find(e=>15==e.exports.a?.Breakfast).exports.a[t[1].set]&&(e[t[0]]=t[1]),e),{})[e].rarity)},canOpen:!0})):alert("This can only be ran on the market page!")}}()},{name:"Unlock Plus Gamemodes",description:"Allows you to play any gamemode that is plus only",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState(e=>(e.gameModes.forEach(e=>e.plusOnly=!1),e))}}],brawl:[{name:"Double Enemy XP",description:"Doubles enemy XP drop value",run:function(){for(const a of Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.colliders._active.filter(e=>e.callbackContext?.toString().includes("invulnerableTime"))){var t=a.object2;let e=t.classType.prototype.start;t.classType.prototype.start=function(){e.apply(this,arguments),this.val*=2},t.children.entries.forEach(e=>e.val*=2)}}},{name:"Half Enemy Speed",description:"Makes enemies move 2x slower",run:function(){for(const a of Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.colliders._active.filter(e=>e.callbackContext?.toString().includes("invulnerableTime"))){var t=a.object2;let e=t.classType.prototype.start;t.classType.prototype.start=function(){e.apply(this,arguments),this.speed*=.5},t.children.entries.forEach(e=>e.speed*=.5)}}},{name:"Instant Kill",description:"Sets all enemies health to 1",run:function(){for(const a of Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.colliders._active.filter(e=>e.callbackContext?.toString().includes("invulnerableTime"))){var t=a.object2;let e=t.classType.prototype.start;t.classType.prototype.start=function(){e.apply(this,arguments),this.hp=1},t.children.entries.forEach(e=>e.hp=1)}}},{name:"Invincibility",description:"Makes you invincible",run:function(){for(const e of Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.colliders._active.filter(e=>e.callbackContext?.toString().includes("invulnerableTime")))e.collideCallback=()=>{}}},{name:"Magnet",description:"Pulls all xp towards you",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.colliders._active.find(e=>e.collideCallback?.toString().includes("magnetTime")).collideCallback({active:!0},{active:!0,setActive(){},setVisible(){}})}},{name:"Max Current Abilities",description:"Maxes out all your current abilities",run:function(){const a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];for(var[t,o]of Object.entries(a.state.abilities))for(let e=0;e<10-o;e++)a.state.game.scene.game.events.emit("level up",t,a.state.abilities[t]++);a.setState({level:a.state.game.scene.level=[1,3,5,10,15,25,35].sort((e,t)=>Math.abs(e-a.state.level)-Math.abs(t-a.state.level))[0]-1})}},{name:"Next Level",description:"Skips to the next level",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],{object1:t,object2:a}=e.state.game.scene.physics.world.colliders._active.find(e=>e.collideCallback?.toString().includes('emit("xp"'));a.get().spawn(t.x,t.y,(1===(a=e.state.level)?1:a<5?5:a<10?10:a<20?20:a<30?30:a<40?40:a<50?50:100)-e.xp)}},{name:"Remove Obstacles",description:"Removes all rocks and obstacles",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.bodies.entries.forEach(e=>{try{e.gameObject.frame.texture.key.includes("obstacle")&&e.gameObject.destroy()}catch{}})}},{name:"Kill Enemies",description:"Kills all current enemies",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.bodies.entries.forEach(e=>e?.gameObject?.receiveDamage?.(e.gameObject.hp,1))}},{name:"Reset Health",description:"Resets health and gives invincibility for 3 seconds",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.game.scene.game.events._events.respawn.fn()}}],cafe:[{name:"Max Items",description:"Maxes out items in the shop (Only usable in the shop)",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),"/cafe/shop"!==window.location.pathname?alert("This can only be run in the shop"):(e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],e.setState({items:Object.fromEntries(Object.entries(e.state.items).map(e=>[e[0],5]))}))}},{name:"Remove Customers",description:"Skips the current customers (Not usable in the shop)",run:function(){const a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];a.state.customers.forEach((e,t)=>Object.keys(e).length&&a.removeCustomer(t,!0))}},{name:"Reset Abilities",description:"Resets used abilities in shop (Only usable in the shop)",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),"/cafe/shop"!==window.location.pathname?alert("This can only be run in the shop"):(e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],e.setState({abilities:Object.fromEntries(Object.entries(e.state.abilities).map(e=>[e[0],5]))}))}},{name:"Set Cash",description:"Sets cafe cash",inputs:[{name:"Amount",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({cafeCash:e}),t.props.liveGameController.setVal({path:"c/"+t.props.client.name,val:{b:t.props.client.blook,ca:e}})}},{name:"Stock Food",description:"Stocks all food to 99 (Not usable in the shop)",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),"/cafe"!==window.location.pathname?alert("This can't be run in the shop"):(e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],e.setState({foods:e.state.foods.map(e=>({...e,stock:99,level:5}))}))}}],crypto:[{name:"Choice ESP",description:"Shows what each choice will give you",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{var e,t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],t=t.state.choices[0]["text"],a=document.querySelector("[class^=styles__feedbackContainer___]");a.children.length<=4&&((e=document.createElement("div")).style.color="white",e.style.fontFamily="Inconsolata,Helvetica,monospace,sans-serif",e.style.fontSize="2em",e.style.display="flex",e.style.justifyContent="center",e.style.marginTop="675px",e.innerText=t,a.append(e))},50))}},{name:"Password ESP",description:"Highlights the correct password",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{let t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode["state"];"hack"==t.stage&&[...document.querySelector("div[class^=styles__buttonContainer]").children].forEach(e=>{e.innerText!=t.correctPassword&&(e.style.outlineColor="rgba(255, 64, 64, 0.8)",e.style.backgroundColor="rgba(255, 64, 64, 0.8)",e.style.textShadow="0 0 1px #f33")})},50))}},{name:"Always Triple",description:"Always get triple crypto",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({choices:[{type:"mult",val:3,rate:.075,blook:"Brainy Bot",text:"Triple Crypto"}]}),50))}},{name:"Auto Guess",description:"Automatically guess the correct password",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode["state"];if("hack"==e.stage)for(const t of document.querySelector("div[class^=styles__buttonContainer]").children)t.innerText==e.correctPassword&&t.click()},50))}},{name:"Remove Hack",description:"",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({hack:""})}},{name:"Set Crypto",description:"Sets crypto",inputs:[{name:"Amount",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({crypto:e,crypto2:e}),t.props.liveGameController.setVal({path:"c/".concat(t.props.client.name),val:{b:t.props.client.blook,p:t.state.password,cr:e}})}},{name:"Set Password",description:"Sets hacking password",inputs:[{name:"Custom Password",type:"string"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({password:e}),t.props.liveGameController.setVal({path:"c/".concat(t.props.client.name),val:{b:t.props.client.blook,p:e,cr:t.state.crypto}})}},{name:"Steal Player's Crypto",description:"Steals all of someone's crypto",inputs:[{name:"Player",type:"options",options:()=>{let e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];return new Promise(t=>e.props.liveGameController._liveApp?e.props.liveGameController.getDatabaseVal("c",e=>e&&t(Object.keys(e))):t([]))}}],run:function(a){let o=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];o.props.liveGameController.getDatabaseVal("c",e=>{var t;e&&Object.keys(e).map(e=>e.toLowerCase()).includes(a.toLowerCase())&&([e,{cr:t}]=Object.entries(e).find(([e])=>e.toLowerCase()==a.toLowerCase()),o.setState({crypto:o.state.crypto+t,crypto2:o.state.crypto+t}),o.props.liveGameController.setVal({path:"c/".concat(o.props.client.name),val:{b:o.props.client.blook,p:o.state.password,cr:o.state.crypto+t,tat:e+":"+t}}))})}}],defense:[{name:"Earthquake",description:"Shuffles around towers",run:function(){let o=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],i=(o.setState({eventName:"Earthquake",event:{short:"e",color:"#805500",icon:"fas fa-mountain",desc:"All of your towers get mixed up",rate:.02},buyTowerName:"",buyTower:{}},()=>o.eventTimeout=setTimeout(()=>o.setState({event:{},eventName:""}),6e3)),o.tiles.forEach(a=>a.forEach((e,t)=>3===e&&(a[t]=0))),o.tiles.flatMap((e,a)=>e.map((e,t)=>0===e&&{x:t,y:a})).filter(Boolean).sort(()=>.5-Math.random()));o.towers.forEach(e=>{var{x:t,y:a}=i.shift();e.move(t,a,o.tileSize),o.tiles[a][t]=3})}},{name:"Max Tower Stats",description:"Makes all placed towers overpowered",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.towers.forEach(e=>{e.range=100,e.fullCd=e.cd=0,e.damage=1e6})}},{name:"Remove Ducks",description:"Removes ducks",run:function(){let{ducks:e,tiles:t}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.forEach(e=>{t[e.y][e.x]=0}),e.length=0}},{name:"Remove Enemies",description:"Removes all the enemies",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.enemies=e.futureEnemies=[]}},{name:"Remove Obstacles",description:"Lets you place towers anywhere",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.tiles=e.tiles.map(e=>e.fill(0))}},{name:"Set Damage",description:"Sets damage",inputs:[{name:"Damage",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.dmg=e}},{name:"Set Round",description:"Sets the current round",inputs:[{name:"Round",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({round:e})}},{name:"Set Tokens",description:"Sets the amount of tokens you have",inputs:[{name:"Tokens",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({tokens:e})}}],defense2:[{name:"Max Tower Stats",description:"Makes all placed towers overpowered",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.towers.forEach(e=>{if(e.stats.dmg=1e6,e.stats.fireRate=50,e.stats.ghostDetect=!0,e.stats.maxTargets=1e6,e.stats.numProjectiles&&=100,e.stats.range=100,e.stats.auraBuffs)for(const t in e.stats.auraBuffs)e.stats.auraBuffs[t]*=100})}},{name:"Kill Enemies",description:"Kills all the enemies",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.state.game.scene.enemyQueue.length=0,e.state.game.scene.physics.world.bodies.entries.forEach(e=>e?.gameObject?.receiveDamage?.(e.gameObject.hp,1))}},{name:"Set Coins",description:"Sets coins",inputs:[{name:"Coins",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({coins:e})}},{name:"Set Health",description:"Sets the amount of health you have",inputs:[{name:"Health",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({health:e})}},{name:"Set Round",description:"Sets the current round",inputs:[{name:"Round",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({round:e})}}],dinos:[{name:"Auto Choose",description:"Automatically choose the best fossil when excavating",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{const t=webpackJsonp.push([[],{[1234]:(e,t,a)=>{t.webpack=a}},[["1234"]]])["webpack"];var e=(()=>{const e=Object.values(t("74sb")).find(e=>e.toString().includes("rate"));return()=>e([{type:"fossil",val:10,rate:.1,blook:"Amber"},{type:"fossil",val:25,rate:.1,blook:"Dino Egg"},{type:"fossil",val:50,rate:.175,blook:"Dino Fossil"},{type:"fossil",val:75,rate:.175,blook:"Stegosaurus"},{type:"fossil",val:100,rate:.15,blook:"Velociraptor"},{type:"fossil",val:125,rate:.125,blook:"Brontosaurus"},{type:"fossil",val:250,rate:.075,blook:"Triceratops"},{type:"fossil",val:500,rate:.025,blook:"Tyrannosaurus Rex"},{type:"mult",val:1.5,rate:.05},{type:"mult",val:2,rate:.025}],3)})();try{var o=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];if("excavate"===o.state.stage){o.state.choices.length||(o.state.choices=e());let t=0,a=-1;for(let e=0;e<o.state.choices.length;e++){var{type:i,val:n}=o.state.choices[e],r=("fossil"==i?o.state.fossils+n*o.state.fossilMult:o.state.fossils*n)||0;r<=t&&"mult"!=i||(t=r,a=e+1)}document.querySelector('div[class^="styles__rockRow"] > div[role="button"]:nth-child('+a+")").click()}}catch{}},50))}},{name:"Rock ESP",description:"Shows what is under the rocks",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{let o=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];const e=[...document.querySelector('[class*="rockButton"]').parentElement.children];e.every(e=>e.querySelector("div"))||o.setState({choices:[{type:"fossil",val:10,rate:.1,blook:"Amber"},{type:"fossil",val:25,rate:.1,blook:"Dino Egg"},{type:"fossil",val:50,rate:.175,blook:"Dino Fossil"},{type:"fossil",val:75,rate:.175,blook:"Stegosaurus"},{type:"fossil",val:100,rate:.15,blook:"Velociraptor"},{type:"fossil",val:125,rate:.125,blook:"Brontosaurus"},{type:"fossil",val:250,rate:.075,blook:"Triceratops"},{type:"fossil",val:500,rate:.025,blook:"Tyrannosaurus Rex"},{type:"mult",val:1.5,rate:.05},{type:"mult",val:2,rate:.025}].sort(()=>.5-Math.random()).slice(0,3)},()=>{e.forEach((e,t)=>{var t=o.state.choices[t],a=(e.querySelector("div")&&e.querySelector("div").remove(),document.createElement("div"));a.style.color="white",a.style.fontFamily="Macondo",a.style.fontSize="1em",a.style.display="flex",a.style.justifyContent="center",a.style.transform="translateY(25px)",a.innerText="fossil"===t.type?`+${99999999<Math.round(t.val*o.state.fossilMult)?Object.values(webpack("74sb")).find(e=>e.toString().includes("×"))(Math.round(t.val*o.state.fossilMult)):Math.round(t.val*o.state.fossilMult)} Fossils`:`x${t.val} Fossils Per Excavation`,e.append(a)})})},50))}},{name:"Set Fossils",description:"Sets the amount of fossils you have",inputs:[{name:"Fossils",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({fossils:e}),t.props.liveGameController.setVal({path:"c/"+t.props.client.name,val:{b:t.props.client.blook,f:e,ic:t.state.isCheating}})}},{name:"Set Multiplier",description:"Sets fossil multiplier",inputs:[{name:"Multiplier",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({fossilMult:e})}},{name:"Stop Cheating",description:"Undoes cheating so that you can't be caught",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.setState({isCheating:!1}),e.props.liveGameController.setVal({path:`c/${e.props.client.name}/ic`,val:!1})}}],doom:[{name:"Fill Deck",description:"Fills your deck with every maxed out card and artifact (Only works on towers page)",run:function(){var e=document.createElement("iframe");if(document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),"/tower/map"==window.location.pathname){var{a:e,c:t}=webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache.gvfT.exports,a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];a.props.tower.artifacts=Object.keys(e),a.props.tower.cards=Object.entries(t).map(([e,t])=>({...t,blook:e,strength:20,charisma:20,wisdom:20}));try{a.props.addTowerNode()}catch{}a.setState({showDeck:!1})}else alert("You need to be on the map to run this cheat!")}},{name:"Max Cards",description:"Maxes out all the cards in your deck",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),"/tower/map"==window.location.pathname?(e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],e.props.tower.cards.forEach(e=>{e.strength=20,e.charisma=20,e.wisdom=20})):alert("You need to be on the map to run this cheat!")}},{name:"Max Health",description:"Fills the player's health",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),"/tower/battle"==window.location.pathname?Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({myHealth:100}):alert("You need to be in battle to run this cheat!")}},{name:"Max Card Stats",description:"Maxes out player's current card (Only works on attribute select page)",run:function(){var e=document.createElement("iframe"),e=(document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner)["stateNode"];"select"!==e.state.phase?alert("You must be on the attribute selection page!"):e.setState({myCard:{...e.state.myCard,strength:20,charisma:20,wisdom:20}})}},{name:"Min Enemy Stats",description:"Makes the enemy card stats all 0 (Only works on attribute select page)",run:function(){var e=document.createElement("iframe"),e=(document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove(),Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner)["stateNode"];"select"!==e.state.phase?alert("You must be on the attribute selection page!"):e.setState({enemyCard:{...e.state.enemyCard,strength:0,charisma:0,wisdom:0}})}},{name:"Set Coins",description:"Try's to set amount of tower coins you have",inputs:[{name:"Coins",type:"number"}],run:function(e){var t=document.createElement("iframe");if(document.body.append(t),window.alert=t.contentWindow.prompt.bind(window),t.remove(),"/tower/battle"==window.location.pathname){var t=parseInt("0"+alert("How many coins would you like?")),a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];try{a.props.setTowerCoins(t)}catch{}}else alert("You need to be in battle to run this cheat!")}}],factory:[{name:"Choose Blook",description:"Gives you a blook",inputs:[{name:"Blook",type:"options",options:[{name:"Chick",color:"#ffcd05",class:"🌽",rarity:"Common",cash:[3,7,65,400,2500],time:[1,1,1,1,1],price:[300,3e3,3e4,2e5]},{name:"Chicken",color:"#ed1c24",class:"🌽",rarity:"Common",cash:[10,40,200,1400,1e4],time:[5,4,3,2,1],price:[570,4e3,5e4,8e5]},{name:"Cow",color:"#58595b",class:"🌽",rarity:"Common",cash:[25,75,1500,25e3,25e4],time:[15,10,10,10,5],price:[500,9500,16e4,4e6]},{name:"Duck",color:"#4ab96d",class:"🌽",rarity:"Common",cash:[4,24,200,3e3,4e4],time:[3,3,3,3,3],price:[450,4200,7e4,11e5]},{name:"Goat",color:"#c59a74",class:"🌽",rarity:"Common",cash:[5,28,200,1300,12e3],time:[3,3,2,2,2],price:[500,6400,45e3,5e5]},{name:"Horse",color:"#995b3c",class:"🌽",rarity:"Common",cash:[5,20,270,1800,15e3],time:[2,2,2,2,2],price:[550,8200,65e3,6e5]},{name:"Pig",color:"#f6a9cb",class:"🌽",rarity:"Common",cash:[20,50,1300,8e3,8e4],time:[7,7,7,7,5],price:[400,11e3,8e4,13e5]},{name:"Sheep",color:"#414042",class:"🌽",rarity:"Common",cash:[6,25,250,1500,11e3],time:[3,3,3,2,2],price:[500,5e3,5e4,43e4]},{name:"Cat",color:"#f49849",class:"🐾",rarity:"Common",cash:[5,18,170,1700,13e3],time:[2,2,2,2,2],price:[480,5500,6e4,5e5]},{name:"Dog",color:"#995b3c",class:"🐾",rarity:"Common",cash:[7,25,220,1900,9e3],time:[3,3,2,2,1],price:[460,6600,7e4,73e4]},{name:"Goldfish",color:"#f18221",class:"🐾",rarity:"Common",cash:[5,40,350,3500,35e3],time:[3,3,3,3,3],price:[750,7200,84e3,95e4]},{name:"Rabbit",color:"#e7bf9a",class:"🐾",rarity:"Common",cash:[3,18,185,800,7e3],time:[2,2,2,1,1],price:[500,5800,56e3,55e4]},{name:"Hamster",color:"#ce9176",class:"🐾",rarity:"Common",cash:[10,45,450,4500,45e3],time:[4,4,4,4,4],price:[650,6500,8e4,93e4]},{name:"Turtle",color:"#619a3c",class:"🐾",rarity:"Common",cash:[23,120,1400,15e3,17e4],time:[10,10,10,10,10],price:[700,8500,11e4,13e5]},{name:"Puppy",color:"#414042",class:"🐾",rarity:"Common",cash:[4,10,75,500,3e3],time:[1,1,1,1,1],price:[450,4e3,35e3,25e4]},{name:"Kitten",color:"#58595b",class:"🐾",rarity:"Common",cash:[4,8,60,400,2e3],time:[1,1,1,1,1],price:[350,3500,26e3,17e4]},{name:"Bear",color:"#995b3c",class:"🌲",rarity:"Common",cash:[12,70,550,4500,1e5],time:[7,7,6,5,5],price:[550,5500,63e3,16e5]},{name:"Moose",color:"#995b3c",class:"🌲",rarity:"Common",cash:[8,45,400,3500,26e3],time:[5,5,4,4,3],price:[520,6500,58e3,7e5]},{name:"Fox",color:"#f49849",class:"🌲",rarity:"Common",cash:[7,15,80,550,3e3],time:[2,2,1,1,1],price:[400,4e3,36e3,24e4]},{name:"Raccoon",color:"#6d6e71",class:"🌲",rarity:"Common",cash:[5,14,185,1900,19e3],time:[2,2,2,2,2],price:[400,5e3,71e3,8e5]},{name:"Squirrel",color:"#d25927",class:"🌲",rarity:"Common",cash:[3,10,65,470,2600],time:[1,1,1,1,1],price:[420,3600,32e3,21e4]},{name:"Owl",color:"#594a42",class:"🌲",rarity:"Common",cash:[4,17,155,1500,15e3],time:[2,2,2,2,2],price:[500,4800,55e3,58e4]},{name:"Hedgehog",color:"#3f312b",class:"🌲",rarity:"Common",cash:[11,37,340,2200,3e4],time:[5,4,3,2,2],price:[540,7e3,77e3,12e5]},{name:"Seal",color:"#7ca1d5",class:"❄️",rarity:"Common",cash:[6,17,150,1200,13e3],time:[2,2,2,2,2],price:[480,4500,43e3,52e4]},{name:"Arctic Fox",color:"#7ca1d5",class:"❄️",rarity:"Common",cash:[5,18,180,850,8500],time:[2,2,2,1,1],price:[520,550,61e3,68e4]},{name:"Snowy Owl",color:"#feda3f",class:"❄️",rarity:"Common",cash:[5,20,190,1900,16e3],time:[3,3,2,2,2],price:[370,5300,76e3,62e4]},{name:"Arctic Hare",color:"#7ca1d5",class:"❄️",rarity:"Common",cash:[6,19,85,900,7e3],time:[2,2,1,1,1],price:[540,5200,66e3,55e4]},{name:"Penguin",color:"#fb8640",class:"❄️",rarity:"Common",cash:[4,21,310,3200,33e3],time:[3,3,3,3,3],price:[400,6500,76e3,87e4]},{name:"Baby Penguin",color:"#414042",class:"❄️",rarity:"Common",cash:[3,8,70,450,2700],time:[1,1,1,1,1],price:[420,3300,33e3,23e4]},{name:"Polar Bear",color:"#7ca1d5",class:"❄️",rarity:"Common",cash:[12,75,700,6500,85e3],time:[8,7,6,5,5],price:[630,7e3,91e3,14e5]},{name:"Walrus",color:"#7d4f33",class:"❄️",rarity:"Common",cash:[11,46,420,3700,51e3],time:[5,5,4,4,4],price:[550,6200,68e3,1e6]},{name:"Tiger",color:"#f18221",class:"🌴",rarity:"Common",cash:[6,20,100,975,7500],time:[3,3,1,1,1],price:[390,6e3,7e4,61e4]},{name:"Jaguar",color:"#fbb040",class:"🌴",rarity:"Common",cash:[8,28,230,1600,17e3],time:[3,3,2,2,2],price:[390,6e3,7e4,61e4]},{name:"Toucan",color:"#ffca34",class:"🌴",rarity:"Common",cash:[9,20,175,625,3800],time:[2,2,2,1,1],price:[520,4800,42e3,3e5]},{name:"Cockatoo",color:"#7ca1d5",class:"🌴",rarity:"Common",cash:[6,35,160,1700,18e3],time:[4,4,2,2,2],price:[500,5e3,63e3,7e5]},{name:"Macaw",color:"#00aeef",class:"🌴",rarity:"Common",cash:[3,8,85,850,8500],time:[1,1,1,1,1],price:[480,5400,62e3,63e4]},{name:"Parrot",color:"#ed1c24",class:"🌴",rarity:"Common",cash:[3,9,90,900,9e3],time:[1,1,1,1,1],price:[540,5700,65e3,69e4]},{name:"Panther",color:"#2f2c38",class:"🌴",rarity:"Common",cash:[12,28,215,2100,21e3],time:[5,3,2,2,2],price:[530,6500,76e3,87e4]},{name:"Anaconda",color:"#8a9143",class:"🌴",rarity:"Common",cash:[3,15,85,1500,7600],time:[1,2,1,2,1],price:[410,5100,58e3,59e4]},{name:"Orangutan",color:"#bc6234",class:"🌴",rarity:"Common",cash:[13,52,570,4300,7e4],time:[5,5,5,4,4],price:[600,7e3,8e4,14e5]},{name:"Capuchin",color:"#e0b0a6",class:"🌴",rarity:"Common",cash:[4,14,160,780,8200],time:[2,2,2,1,1],price:[390,4700,57e3,68e4]},{name:"Elf",color:"#a7d054",class:"⚔️",rarity:"Uncommon",cash:[5e3,15e3,15e4,15e5,1e7],time:[1,1,1,1,1],price:[8e5,9e6,11e7,8e8]},{name:"Witch",color:"#4ab96d",class:"⚔️",rarity:"Uncommon",cash:[18e3,6e4,4e4,4e6,35e6],time:[3,3,2,2,2],price:[11e5,12e6,15e7,14e8]},{name:"Wizard",color:"#5a459c",class:"⚔️",rarity:"Uncommon",cash:[19500,65e3,44e4,46e5,4e6],time:[3,3,2,2,2],price:[13e5,135e5,16e7,16e8]},{name:"Fairy",color:"#df6d9c",class:"⚔️",rarity:"Uncommon",cash:[18500,6e4,62e4,44e5,38e6],time:[3,3,3,2,2],price:[12e5,125e5,15e6,15e8]},{name:"Slime Monster",color:"#2fa04a",class:"⚔️",rarity:"Uncommon",cash:[35e3,14e4,1e6,11e6,11e7],time:[5,5,4,4,4],price:[16e5,15e6,2e8,23e8]},{name:"Jester",color:"#be1e2d",class:"⚔️",rarity:"Rare",cash:[25e3,1e5,68e4,65e5,32e6],time:[3,3,2,2,1],price:[2e6,21e6,23e7,26e8]},{name:"Dragon",color:"#2fa04a",class:"⚔️",rarity:"Rare",cash:[36e3,15e4,15e5,15e6,15e7],time:[4,4,4,4,4],price:[23e5,24e6,27e7,3e9]},{name:"Unicorn",color:"#f6afce",class:"⚔️",rarity:"Epic",cash:[24e3,15e4,14e5,7e6,75e6],time:[2,2,2,1,1],price:[45e5,45e6,55e7,65e8]},{name:"Queen",color:"#9e1f63",class:"⚔️",rarity:"Rare",cash:[24e3,95e3,95e4,97e5,95e6],time:[3,3,3,3,3],price:[19e5,2e7,23e7,25e8]},{name:"King",color:"#ee2640",class:"⚔️",rarity:"Legendary",cash:[75e3,4e5,6e6,9e7,125e7],time:[5,5,5,5,5],price:[6e6,95e6,16e8,25e9]},{name:"Two of Spades",color:"#414042",class:"🏰",rarity:"Uncommon",cash:[4500,14e3,14e4,14e5,9e6],time:[1,1,1,1,1],price:[77e4,83e5,98e6,71e7]},{name:"Eat Me",color:"#d58c55",class:"🏰",rarity:"Uncommon",cash:[13e3,45e3,45e4,45e5,5e7],time:[2,2,2,2,2],price:[13e5,14e6,16e7,2e9]},{name:"Drink Me",color:"#dd7399",class:"🏰",rarity:"Uncommon",cash:[12e3,4e4,4e5,4e6,45e6],time:[2,2,2,2,2],price:[12e5,12e6,14e7,18e8]},{name:"Alice",color:"#4cc9f5",class:"🏰",rarity:"Uncommon",cash:[13e3,42e3,21e4,21e5,23e6],time:[2,2,1,1,1],price:[12e5,13e6,15e7,19e8]},{name:"Queen of Hearts",color:"#d62027",class:"🏰",rarity:"Uncommon",cash:[23e3,87e3,62e4,75e5,9e7],time:[4,4,3,3,3],price:[13e5,13e6,18e7,24e8]},{name:"Dormouse",color:"#89d6f8",class:"🏰",rarity:"Rare",cash:[17e3,68e3,7e5,35e5,35e6],time:[2,2,1,1,1],price:[2e6,22e6,25e7,28e8]},{name:"White Rabbit",color:"#ffcd05",class:"🏰",rarity:"Rare",cash:[26e3,105e3,11e6,77e5,72e6],time:[3,3,3,2,2],price:[2e6,23e6,28e7,29e8]},{name:"Cheshire Cat",color:"#dd7399",class:"🏰",rarity:"Rare",cash:[32e3,1e5,9e5,9e6,6e7],time:[4,3,3,3,2],price:[18e5,19e6,22e7,24e8]},{name:"Caterpillar",color:"#00c0f3",class:"🏰",rarity:"Epic",cash:[1e4,7e4,65e4,75e5,85e6],time:[1,1,1,1,1],price:[42e5,42e6,54e7,69e8]},{name:"Mad Hatter",color:"#914f93",class:"🏰",rarity:"Epic",cash:[38e3,25e4,15e5,14e6,8e7],time:[3,3,2,2,1],price:[48e5,48e6,52e7,66e8]},{name:"King of Hearts",color:"#c62127",class:"🏰",rarity:"Legendary",cash:[8e4,42e4,68e5,1e8,15e8],time:[5,5,5,5,5],price:[7e6,11e7,18e8,3e10]},{name:"Earth",color:"#416eb5",class:"🚀",rarity:"Uncommon",cash:[15e3,45e3,6e5,65e5,65e6],time:[3,3,3,3,3],price:[1e6,11e6,15e7,17e8]},{name:"Meteor",color:"#c68c3c",class:"🚀",rarity:"Uncommon",cash:[23e3,65e3,7e5,45e5,2e7],time:[5,4,3,2,1],price:[95e4,13e6,16e7,16e8]},{name:"Stars",color:"#19184d",class:"🚀",rarity:"Uncommon",cash:[1e4,4e4,2e5,2e6,18e6],time:[2,2,1,1,1],price:[14e5,14e6,15e7,15e8]},{name:"Alien",color:"#8dc63f",class:"🚀",rarity:"Uncommon",cash:[3e4,1e5,1e6,11e6,85e6],time:[4,4,4,4,4],price:[15e5,17e6,19e7,17e8]},{name:"Planet",color:"#9dc6ea",class:"🚀",rarity:"Rare",cash:[25e3,1e5,9e5,9e6,9e7],time:[3,3,3,3,3],price:[2e6,21e6,21e7,24e8]},{name:"UFO",color:"#a15095",class:"🚀",rarity:"Rare",cash:[17e3,7e4,7e5,7e6,7e7],time:[2,2,2,2,2],price:[21e5,23e6,25e7,28e8]},{name:"Spaceship",color:"#ffcb29",class:"🚀",rarity:"Epic",cash:[6e4,32e4,21e5,15e6,85e6],time:[5,4,3,2,1],price:[48e5,46e6,54e7,68e8]},{name:"Astronaut",color:"#9bd4ee",class:"🚀",rarity:"Legendary",cash:[45e3,26e4,25e5,38e6,55e7],time:[3,3,2,2,2],price:[65e5,1e8,17e8,27e9]},{name:"Lil Bot",color:"#3e564a",class:"🤖",rarity:"Uncommon",cash:[4e3,12e3,18e4,19e5,25e6],time:[1,1,1,1,1],price:[73e4,12e6,13e7,19e8]},{name:"Lovely Bot",color:"#f179af",class:"🤖",rarity:"Uncommon",cash:[16e3,65e3,65e4,48e5,42e6],time:[3,3,3,2,2],price:[13e5,14e6,17e7,16e8]},{name:"Angry Bot",color:"#f1613a",class:"🤖",rarity:"Uncommon",cash:[22e3,85e3,8e5,62e5,65e6],time:[4,4,4,3,3],price:[12e5,13e6,15e7,17e8]},{name:"Happy Bot",color:"#51ba6b",class:"🤖",rarity:"Uncommon",cash:[11e3,45e3,5e5,25e5,3e7],time:[2,2,2,1,1],price:[14e5,15e6,18e7,24e8]},{name:"Watson",color:"#d69b5a",class:"🤖",rarity:"Rare",cash:[24e3,1e5,1e6,1e7,1e8],time:[3,3,3,3,3],price:[2e6,22e6,24e7,26e8]},{name:"Buddy Bot",color:"#9dc6ea",class:"🤖",rarity:"Rare",cash:[22e3,95e3,65e4,65e5,65e6],time:[3,3,2,2,2],price:[19e5,21e6,23e7,25e8]},{name:"Brainy Bot",color:"#9ecf7a",class:"🤖",rarity:"Epic",cash:[5e4,25e4,21e5,21e6,17e7],time:[4,3,3,3,2],price:[5e6,46e6,5e8,67e8]},{name:"Mega Bot",color:"#d71f27",class:"🤖",rarity:"Legendary",cash:[8e4,43e4,42e5,62e6,1e9],time:[5,5,3,3,3],price:[7e6,12e7,19e8,35e9]}].map(e=>({name:e.name,value:JSON.stringify(e)}))}],run:function(e){var t=document.createElement("iframe"),t=(document.body.append(t),window.alert=t.contentWindow.alert.bind(window),t.remove(),Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner)["stateNode"];10<=t.state.blooks.length&&alert("Choose a blook to replace"),t.chooseBlook(JSON.parse(e))}},{name:"Free Upgrades",description:"Sets upgrade prices to 0 for all current blooks",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.setState(e=>({...e,blooks:e.blooks.map(e=>({...e,price:[0,0,0,0]}))}))}},{name:"Max Blooks",description:"Maxes out all your blooks' levels",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.blooks.forEach(e=>e.level=4)}},{name:"Remove Glitches",description:"Removes all enemy glitches",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.setState({bits:0,ads:[],hazards:[],color:"",lol:!1,joke:!1,slow:!1,dance:!1,glitch:"",glitcherName:"",glitcherBlook:""}),clearTimeout(e.adTimeout),clearInterval(e.hazardInterval),clearTimeout(e.nightTimeout),clearTimeout(e.glitchTimeout),clearTimeout(e.lolTimeout),clearTimeout(e.jokeTimeout),clearTimeout(e.slowTimeout),clearTimeout(e.danceTimeout),clearTimeout(e.nameTimeout)}},{name:"Send Glitch",description:"Sends a glitch to everyone else playing",inputs:[{name:"Glitch",type:"options",options:Object.entries({lb:"Lunch Break",as:"Ad Spam",e37:"Error 37",nt:"Night Time",lo:"#LOL",j:"Jokester",sm:"Slow Mo",dp:"Dance Party",v:"Vortex",r:"Reverse",f:"Flip",m:"Micro"}).map(([e,t])=>({name:t,value:e}))}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.safe=!0,t.props.liveGameController.setVal({path:`c/${t.props.client.name}/tat`,val:e})}},{name:"Set All MegaBot",description:"Sets all your blooks to maxed out Mega Bots",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({blooks:new Array(10).fill({name:"Mega Bot",color:"#d71f27",class:"🤖",rarity:"Legendary",cash:[8e4,43e4,42e5,62e6,1e9],time:[5,5,3,3,3],price:[7e6,12e7,19e8,35e9],active:!1,level:4,bonus:5.5})})}},{name:"Set Cash",description:"Sets amount of cash you have",inputs:[{name:"Cash",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({cash:e})}}],fishing:[{name:"Frenzy",description:"Sets everyone to frenzy mode",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.props.liveGameController.setVal({path:"c/"+e.props.client.name,val:{b:e.props.client.blook,w:e.state.weight,f:"Frenzy",s:!0}})}},{name:"Remove Distractions",description:"Removes distractions",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({party:""})},50))}},{name:"Send Distraction",description:"Sends a distraction to everyone",inputs:[{name:"Distraction",type:"options",options:["Crab","Jellyfish","Frog","Pufferfish","Octopus","Narwhal","Megalodon","Blobfish","Baby Shark"]}],run:function(e){var t=document.createElement("iframe"),t=(document.body.append(t),window.alert=t.contentWindow.alert.bind(window),t.remove(),Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner)["stateNode"];t.safe=!0,t.props.liveGameController.setVal({path:"c/"+t.props.client.name,val:{b:t.props.client.blook,w:t.state.weight,f:e,s:!0}}),alert(`Sent a ${e} distraction`)}},{name:"Set Lure",description:"Sets fishing lure (range 1 - 5)",inputs:[{name:"Lure (1 - 5)",type:"number",min:1,max:5}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({lure:Math.max(Math.min(e-1,4),0)})}},{name:"Set Weight",description:"Sets weight",inputs:[{name:"Weight",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({weight:e,weight2:e}),t.props.liveGameController.setVal({path:"c/"+t.props.client.name,val:{b:t.props.client.blook,w:e,f:["Crab","Jellyfish","Frog","Pufferfish","Octopus","Narwhal","Megalodon","Blobfish","Baby Shark"][Math.floor(9*Math.random())]}})}}],flappy:[{name:"Toggle Ghost",description:"Lets you go through the pipes",type:"toggle",enabled:!1,run:function(){this.enabled=!this.enabled,Object.values(document.querySelector("#phaser-bouncy"))[1].children[0]._owner.stateNode.state.game.scene.physics.world.bodies.entries.forEach(e=>e.gameObject.frame.texture.key.startsWith("blook")&&(e.checkCollision.none=this.enabled,e.gameObject.setAlpha(this.enabled?.5:1)))}},{name:"Set Score",description:"Sets flappy blook score",inputs:[{name:"Score",type:"number"}],run:function(e){Object.values(document.querySelector("#phaser-bouncy"))[1].children[0]._owner.stateNode.setState({score:e})}}],gold:[{name:"Always Triple",description:"Always get triple gold",type:"toggle",enabled:!1,data:null,run:function(){let t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t._choosePrize||=t.choosePrize,this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null,t.choosePrize=t._choosePrize||t.choosePrize):(this.enabled=!0,this.data=setInterval(()=>{t.choosePrize=function(e){t.state.choices[e]={type:"multiply",val:3,text:"Triple Gold!",blook:"Unicorn"},t._choosePrize(e)}},50))}},{name:"Auto Choose",description:"Automatically picks the option that would give you the most gold",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(async()=>{try{let o=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];if("prize"===o.state.stage){var i=Object.entries(await new Promise(t=>o.props.liveGameController.getDatabaseVal("c",e=>e&&t(e)))||[]).filter(e=>e[0]!=o.props.client.name).sort((e,t)=>t[1].g-e[1].g)[0]?.[1]?.g||0;let a=0;index=-1;for(let t=0;t<o.state.choices.length;t++){var{type:n,val:r}=o.state.choices[t];let e=o.state.gold;switch(n){case"gold":e=o.state.gold+r||o.state.gold;break;case"multiply":case"divide":e=Math.round(o.state.gold*r)||o.state.gold;break;case"swap":e=i||o.state.gold;case"take":e=o.state.gold+i*r||o.state.gold}(e||0)<=a||(a=e,index=t+1)}document.querySelector(`div[class^='styles__choice${index}']`).click()}}catch{}},50))}},{name:"Chest ESP",description:"Shows what each chest will give you",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state.choices.forEach(({text:e},t)=>{var a,t=document.querySelector(`div[class^='styles__choice${t+1}']`);t&&!t.querySelector("div")&&((a=document.createElement("div")).style.color="white",a.style.fontFamily="Eczar",a.style.fontSize="2em",a.style.display="flex",a.style.justifyContent="center",a.style.transform="translateY(200px)",a.innerText=e,t.append(a))})},50))}},{name:"Reset Players Gold",description:"Sets a player's gold to 0",inputs:[{name:"Player",type:"options",options:()=>{let e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];return new Promise(t=>e.props.liveGameController._liveApp?e.props.liveGameController.getDatabaseVal("c",e=>e&&t(Object.keys(e))):t([]))}}],run:function(e){var{props:t,state:a}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.liveGameController.setVal({path:"c/".concat(t.client.name),val:{b:t.client.blook,g:a.gold,tat:e+":swap:0"}})}},{name:"Set Gold",description:"Sets amount of gold",inputs:[{name:"Gold",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({gold:e,gold2:e}),t.props.liveGameController.setVal({path:"c/".concat(t.props.client.name),val:{b:t.props.client.blook,g:e}})}},{name:"Swap Gold",description:"Swaps gold with someone",inputs:[{name:"Player",type:"options",options:()=>{let e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];return new Promise(t=>e.props.liveGameController._liveApp?e.props.liveGameController.getDatabaseVal("c",e=>e&&t(Object.keys(e))):t([]))}}],run:function(t){let a=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];a.props.liveGameController.getDatabaseVal("c",e=>{e?.[t]&&(e=e[t]["g"],a.props.liveGameController.setVal({path:"c/".concat(a.props.client.name),val:{b:a.props.client.blook,g:e,tat:t+":swap:"+a.state.gold}}),a.setState({gold:e,gold2:e}))})}},{name:"Reset All Players' Gold (Testing)",description:"Set's everyone else's gold to 0",run:function(){var e=document.createElement("iframe");document.body.append(e),window.alert=e.contentWindow.alert.bind(window),e.remove();let{props:a,state:o}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"],i=0;a.liveGameController.getDatabaseVal("c",async e=>{if(e)for(const t of Object.keys(e))await a.liveGameController.setVal({path:"c/".concat(a.client.name),val:{b:a.client.blook,g:o.gold,tat:t+":swap:0"}}),i++;alert(`Reset ${i} players' gold!`)})}}],kingdom:[{name:"Choice ESP",description:"Shows you what will happen if you say Yes or No",type:"toggle",enabled:!1,data:null,run:function(){if(this.enabled)this.enabled=!1,clearInterval(this.data),Array.from(document.getElementsByClassName("choiceESP")).forEach(e=>e.remove()),this.data=null;else{this.enabled=!0;let a=["materials","people","happiness","gold"],o=Object.fromEntries([...document.querySelectorAll("[class^=styles__statContainer]")].map((e,t)=>[a[t],e]));this.data=setInterval(()=>{var{guest:e,phase:t}=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.state;"choice"==t&&(Array.from(document.getElementsByClassName("choiceESP")).forEach(e=>e.remove()),Object.entries(e.yes||{}).forEach(e=>{var t;"msg"!=e[0]&&a.includes(e[0])&&((t=document.createElement("div")).className="choiceESP",t.style="font-size: 24px; color: rgb(75, 194, 46); font-weight: bolder;",t.innerText=String(e[1]),o[e[0]].appendChild(t))}),Object.entries(e.no||{}).forEach(e=>{var t;"msg"!=e[0]&&a.includes(e[0])&&((t=document.createElement("div")).className="choiceESP",t.style="font-size: 24px; color: darkred; font-weight: bolder;",t.innerText=String(e[1]),o[e[0]].appendChild(t))}))},50)}}},{name:"Disable Tax Toucan",description:"Tax evasion",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.taxCounter=Number.MAX_VALUE}},{name:"Max Stats",description:"Sets all resources to the max",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({materials:100,people:100,happiness:100,gold:100})}},{name:"Set Guests",description:"Sets the amount of guests you've seen",inputs:[{name:"Guests",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({guestScore:e})}},{name:"Skip Guest",description:"Skips the current guest",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.nextGuest()}}],racing:[{name:"Instant Win",description:"Instantly Wins the race",run:function(){const e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e.setState({progress:e.state.goalAmount},()=>{const{question:a}=e["state"];try{[...document.querySelectorAll('[class*="answerContainer"]')][a.answers.map((e,t)=>a.correctAnswers.includes(e)?t:null).filter(e=>null!=e)[0]]?.click?.()}catch{}})}}],royale:[{name:"Auto Answer (Toggle)",description:"Toggles auto answer on",type:"toggle",enabled:!1,data:null,run:function(){this.enabled?(this.enabled=!1,clearInterval(this.data),this.data=null):(this.enabled=!0,this.data=setInterval(()=>{var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e?.onAnswer?.(!0,e.props.client.question.correctAnswers[0])},50))}},{name:"Auto Answer",description:"Chooses the correct answer for you",run:function(){var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];e?.onAnswer?.(!0,e.props.client.question.correctAnswers[0])}}],rush:[{name:"Set Blooks",description:"Sets amount of blooks you or your team has",inputs:[{name:"Blooks",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({numBlooks:e}),t.isTeam?t.props.liveGameController.setVal({path:`a/${t.props.client.name}/bs`,val:e}):t.props.liveGameController.setVal({path:`c/${t.props.client.name}/bs`,val:numDefense})}},{name:"Set Defense",description:"Sets amount of defense you or your team has (Max 4)",inputs:[{name:"Defense (max 4)",type:"number",max:4}],run:function(e){var e=Math.min(e,4),t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({numDefense:e}),t.isTeam?t.props.liveGameController.setVal({path:`a/${t.props.client.name}/d`,val:e}):t.props.liveGameController.setVal({path:`c/${t.props.client.name}/d`,val:e})}}],workshop:[{name:"Remove Distractions",description:"Removes all enemy distractions",run:function(){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({fog:!1,dusk:!1,wind:!1,plow:!1,blizzard:!1,force:!1,canada:!1,trees:[!1,!1,!1,!1,!1,!1,!1,!1,!1,!1]})}},{name:"Send Distraction",description:"Sends a distraction to everyone else playing",inputs:[{name:"Distraction",type:"options",options:Object.entries({c:"Oh Canada",b:"Blizzard",f:"Fog Spell",d:"Dark & Dusk",w:"Howling Wind",g:"Gift Time!",t:"TREES",s:"Snow Plow",fr:"Use The Force"}).map(([e,t])=>({name:t,value:e}))}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.safe=!0,t.props.liveGameController.setVal({path:`c/${t.props.client.name}/tat`,val:e})}},{name:"Set Toys",description:"Sets amount of toys",inputs:[{name:"Toys",type:"number"}],run:function(e){var t=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];t.setState({toys:e}),t.props.liveGameController.setVal({path:"c/".concat(t.props.client.name),val:{b:t.props.client.blook,t:e}})}},{name:"Set Toys Per Question",description:"Sets amount of toys per question",inputs:[{name:"Toys Per Question",type:"number"}],run:function(e){Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({toysPerQ:e})}},{name:"Swap Toys",description:"Swaps toys with someone",inputs:[{name:"Player",type:"options",options:()=>{let e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];return new Promise(t=>e.props.liveGameController._liveApp?e.props.liveGameController.getDatabaseVal("c",e=>e&&t(Object.keys(e))):t([]))}}],run:function(a){let o=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];o.props.liveGameController.getDatabaseVal("c",e=>{var t;e&&Object.keys(e).map(e=>e.toLowerCase()).includes(a.toLowerCase())&&([e,{t}]=Object.entries(e).find(([e])=>e.toLowerCase()==a.toLowerCase()),o.props.liveGameController.setVal({path:"c/".concat(o.props.client.name),val:{b:o.props.client.blook,t:t,tat:e+":swap:"+o.state.toys}}),o.setState({toys:t}))})}}],settings:[{name:"Import Settings",description:"Import a custom theme",inputs:[{name:"JSON Data",type:"string"}],run:function(e){try{JSON.parse(e)}catch(e){return alert("Invalid JSON provided")}e={backgroundColor:"rgb(11, 194, 207)",infoColor:"#9a49aa",cheatList:"#9a49aa",defaultButton:"#9a49aa",disabledButton:"#A02626",enabledButton:"#47A547",textColor:"white",inputColor:"#7a039d",contentBackground:"rgb(64, 17, 95)",...JSON.parse(e)},localStorage.setItem("JODGUISettings",JSON.stringify(e));for(const t in e)a.sheet.cssRules[0].style.setProperty("--"+t,e[t])}},{name:"Export Settings",description:"Export the current theme to JSON",run:async function(){await navigator.clipboard.writeText(JSON.stringify(JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),null,4)),prompt("Text copied to clipboard. (Paste below to test)")}},{name:"Defaults",description:"Changes all the settings to a preset",inputs:[{name:"Theme",type:"options",options:[{name:"Default",value:{backgroundColor:"rgb(11, 194, 207)",infoColor:"#9a49aa",cheatList:"#9a49aa",defaultButton:"#9a49aa",disabledButton:"#A02626",enabledButton:"#47A547",textColor:"white",inputColor:"#7a039d",contentBackground:"rgb(64, 17, 95)"}},{name:"$",value:{backgroundColor:"#5D3FD3",infoColor:"#5D3FD3",cheatList:"#5D3FD3",defaultButton:"#5D3FD3",disabledButton:"#eb6234",enabledButton:"#00c20c",textColor:"white",inputColor:"#79fafc",contentBackground:"#5D3FD3"}},{name:"Skool.world",value:{backgroundColor:"linear-gradient(90deg, rgba(104,45,140,1) 220px, rgba(237,30,121,1) 100%)",cheatList:"#1e2124",infoColor:"#1e2124",defaultButton:"#36393e",inputColor:"#1e2124",enabledButton:"#9c9a9a",textColor:"white",disabledButton:"#171717",contentBackground:"#292929"}},{name:"Blue - Purple Background",value:{backgroundColor:"linear-gradient(162.5deg, rgba(0,183,255,1) 220px, rgba(128,0,255,1) 100%)"}},{name:"Saint Patricks Background",value:{backgroundColor:"rgb(9, 148, 65)"}},{name:"Halloween Background",value:{backgroundColor:"rgb(41, 41, 41)"}},{name:"Fall Background",value:{backgroundColor:"rgb(224, 159, 62)"}},{name:"Winter Background",value:{backgroundColor:"linear-gradient(rgb(49, 170, 224), rgb(187, 221, 255))"}},{name:"Crypto Hack",value:{backgroundColor:"radial-gradient(#11581e,#041607)",infoColor:"#1a1a1a",cheatList:"#1a1a1a",defaultButton:"rgb(88 175 88)",disabledButton:"#A02626",enabledButton:"#0b601b",textColor:"white",inputColor:"rgb(0 0 0 / 25%)",contentBackground:"#11581e"}},{name:"Fishing Frenzy",value:{backgroundColor:"linear-gradient(180deg,#9be2fe 0,#67d1fb)",infoColor:"#c8591e",cheatList:"#c8591e",defaultButton:"#ff751a",disabledButton:"#bf0e0e",enabledButton:"#2fb62f",textColor:"white",inputColor:"rgb(0 0 0 / 25%)",contentBackground:"radial-gradient(#02b0ea 40%, #1d86ea)"}},{name:"Deceptive Dinos",value:{backgroundColor:'radial-gradient(rgba(220, 184, 86, 0), rgba(220, 184, 86, 0.4)), url("https://ac.blooket.com/play/111cb7e0ee6607ac3d1a13d534c0e0f1.png"), #ead49a',infoColor:"#af8942",cheatList:"#af8942",defaultButton:"#af8942",disabledButton:"#A02626",enabledButton:"#47A547",textColor:"white",inputColor:"rgb(0 0 0 / 10%)",contentBackground:"radial-gradient(rgba(1,104,162,.6),rgba(24,55,110,.5)),radial-gradient(#2783b4 1.5px,#18376e 0) center / 24px 24px"}},{name:"Blook Rush",value:{backgroundColor:"repeating-linear-gradient(45deg,white,white 8%,#e6e6e6 0,#e6e6e6 16%)",defaultButton:"#36c",inputColor:"rgb(0 0 0 / 25%)",infoColor:"#36c",cheatList:"#36c",contentBackground:"#888",textColor:"white",disabledButton:"#A02626",enabledButton:"#47A547"}},{name:"Factory",value:{defaultButton:"#1563bf",infoColor:"#a5aabe",cheatList:"#a5aabe",contentBackground:"#2d313d",backgroundColor:"#3a3a3a",enabledButton:"rgb(75, 194, 46)",disabledButton:"#9a49aa",inputColor:"rgb(0 0 0 / 25%)",textColor:"white"}},{name:"Cafe",value:{backgroundColor:"linear-gradient(90deg,rgba(200,0,0,.5) 50%,transparent 0) center / 50px 50px,linear-gradient(rgba(200,0,0,0.5) 50%,transparent 0) white center / 50px 50px",defaultButton:"#0bc2cf",inputColor:"rgb(0 0 0 / 25%)",infoColor:"#ac7339",cheatList:"#ac7339",contentBackground:"rgb(64, 64, 64)",textColor:"white",disabledButton:"#A02626",enabledButton:"#47A547"}},{name:"Tower of Doom",value:{backgroundColor:"rgb(41 41 41)",disabledButton:"rgb(151, 15, 5)",defaultButton:"#333",inputColor:"rgb(0 0 0 / 25%)",contentBackground:"#404040",enabledButton:"#4bc22e",textColor:"white",infoColor:"#9a49aa",cheatList:"#9a49aa"}},{name:"Monster Brawl",value:{defaultButton:"rgb(45, 51, 67)",backgroundColor:"rgb(78, 95, 124)",inputColor:"rgb(0 0 0 / 25%)",contentBackground:"linear-gradient(0deg,#374154,#4f5b74)",infoColor:"#374154",cheatList:"#374154",textColor:"white",enabledButton:"#47A547",disabledButton:"#A02626"}},{name:"Tower Defense 2",value:{backgroundColor:"url(https://media.blooket.com/image/upload/v1676164454/Media/defense/backgroundTd1-02.svg) center / cover",cheatList:"#a33c22",infoColor:"#a33c22",defaultButton:"#40b1d8",inputColor:"#3e8cbe",contentBackground:"#293c82",enabledButton:"#47A547",disabledButton:"#A02626",textColor:"white"}}]}],run:function(e){localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),...e}));for(const t in e)a.sheet.cssRules[0].style.setProperty("--"+t,e[t])}},{name:"Scale",description:"Forces the GUI to scale from 25%-100%",inputs:[{type:"number",name:"Percent scale",min:25,max:100,value:100*(e.scale||1)}],run:function(e){e=Math.min(Math.max(e,25),100),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),scale:e/100})),h.style.transform=`scale(${e/100})`}},{name:"Background Color",description:"Changes the background color of the GUI",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--backgroundColor",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),backgroundColor:e}))}},{name:"Category List Color",description:"Changes the categories list background color",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--cheatList",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),cheatList:e}))}},{name:"Info Color",description:"Changes the color of the information at the top of the GUI",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--infoColor",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),infoColor:e}))}},{name:"Button Color",description:"Changes the color of the cheats",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--defaultButton",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),defaultButton:e}))}},{name:"Enabled Toggle Color",description:"Changes the color of enabled toggle cheats",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--enabledButton",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),enabledButton:e}))}},{name:"Disabled Toggle Color",description:"Changes the color of disabled toggle cheats",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--disabledButton",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),disabledButton:e}))}},{name:"Text Color",description:"Changes the text color",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--textColor",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),textColor:e}))}},{name:"Input Color",description:"Changes the color of inputs, like the set gold number input",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--inputColor",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),inputColor:e}))}},{name:"Content Color",description:"Changes the background color of the cheats",inputs:[{type:"string",name:"Color"}],run:function(e){a.sheet.cssRules[0].style.setProperty("--contentBackground",e),localStorage.setItem("JODGUISettings",JSON.stringify({...JSON.parse(localStorage.getItem("JODGUISettings")||"{}"),contentBackground:e}))}}],alerts:[{element:w("div",{className:"alertContainer",style:{margin:"15px 15px 5px 15px",backgroundColor:"rgb(0 0 0 / 50%)",width:"95%",height:"370px",borderRadius:"7px",display:"block",alignItems:"center",justifyContent:"center"}},w("ul",{className:"alertList",style:{margin:"10px 10px 0 10px",padding:"0",listStyleType:"none",display:"flex",flexDirection:"column-reverse",height:"355px",overflowY:"scroll",wordWrap:"break-word"}},w("li",{style:{margin:"5px"}},w("span",{style:{color:"var(--textColor)"},innerText:"[LOG] GUI opened"})))),addLog(e,t){return this.element.firstChild.prepend(w("li",{style:{margin:"5px"}},w("span",{style:{color:t||"var(--textColor)"},innerHTML:"[LOG] "+e})))},addAlert(e,t,a){return this.element.firstChild.prepend(w("li",{style:{margin:"5px"}},w("img",{src:t||this.blookData?.Black?.url,alt:"blook",draggable:!1,style:{height:"22.5px",margin:"0 10px -5px 0"}}),w("strong",{},e)," ",a))},connection:null,data:{},updateLeaderboard(e){this.leaderboardEl||this.addLeaderboard(),this.leaderboard.innerHTML="";for(var{blook:t,name:a,value:o}of e)this.leaderboard.append(w("li",{style:{fontSize:"2rem",paddingInline:"72px 15px",paddingBlock:"1.25px",position:"relative"}},w("img",{src:this.blookData?.[t]?.url||this.blookData.Black.url,alt:t,draggable:!1,style:{height:"45px",position:"absolute",left:"15px"}}),a,w("span",{innerText:this.parseNumber(parseInt(o)),style:{float:"right"}})))},parseNumber(o=0){var i=o;if(o<1e3)return i.toString();var e=["","K","M","B","T"],a=Math.floor((o.toString().length-1)/3);if(a<e.length){let t=0;for(let e=3;1<=e&&!((t=parseFloat((0!==a?o/Math.pow(1e3,a):o).toPrecision(e))).toString().replace(/[^a-zA-Z 0-9]+/g,"").length<=3);e--);i=(t=t%1!=0?t.toFixed(1):t)+e[a]}else{let e=o,t=0;for(;100<=e;t++)e=Math.floor(e/10);let a="";var n=["⁰","¹","²","³","⁴","⁵","⁶","⁷","⁸","⁹"];for(const r of(t+1).toString().split(""))a+=n[Number(r)];i=e/10+" × 10"+a}return i},addLeaderboard(){this.blookData||=Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.Alice&&e.exports?.a?.Alien).exports.a,this.element.append(this.leaderboardEl=w("div",{id:"leaderboardContent",style:{position:"absolute",inset:"110% 0px"}},w("div",{style:{alignItems:"center",boxSizing:"border-box",display:"flex",flexDirection:"row",flexWrap:"wrap",justifyContent:"space-evenly",padding:"20px 5px 20px",position:"relative",width:"100%",fontFamily:"Nunito, sans-serif",fontWeight:"400",color:"var(--textColor)",background:"var(--contentBackground)",boxShadow:"inset 0 -6px rgb(0 0 0 / 20%)",borderRadius:"7px"}},w("div",{className:"headerText",style:{boxSizing:"border-box",display:"block",height:"45px",left:"-10px",padding:"4px 4px 8px",position:"absolute",top:"-28px",backgroundColor:"#ef7426",boxShadow:"0 4px rgb(0 0 0 / 20%), inset 0 -4px rgb(0 0 0 / 20%)",borderRadius:"7px"}},w("div",{style:{alignItems:"center",boxSizing:"border-box",display:"flex",height:"100%",justifyContent:"center",padding:"0 15px",width:"100%",fontFamily:"Titan One, sans-serif",fontSize:"26px",fontWeight:"400",textShadow:"-1px -1px 0 #646464, 1px -1px 0 #646464, -1px 1px 0 #646464, 2px 2px 0 #646464",color:"white",background:"linear-gradient(#fcd843,#fcd843 50%,#feb31a 50.01%,#feb31a)",borderRadius:"5px"},innerText:"Leaderboard"})),w("div",{className:"alertContainer",style:{margin:"15px 15px 5px 15px",backgroundColor:"rgb(0 0 0 / 50%)",width:"95%",height:"370px",borderRadius:"7px",display:"flex",alignItems:"center",justifyContent:"center"}},this.leaderboard=w("nl",{className:"alertList",style:{marginTop:"10px",padding:"0",listStyleType:"decimal",width:"100%",height:"355px",overflowY:"scroll",wordWrap:"break-word"}})))))},async connect(){try{var e=Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner["stateNode"];if(!e?.props?.liveGameController?._liveGameCode)return!1;this.connection=await e.props.liveGameController.getDatabaseRef("c");const f=this.blookData=Object.values(webpackJsonp.push([[],{"":(e,t,a)=>{t.cache=a.c}},[[""]]]).cache).find(e=>e.exports?.a?.Alice&&e.exports?.a?.Alien).exports.a,k=this.getGamemode(),x={lb:"Lunch Break",as:"Ad Spam",e37:"Error 37",nt:"Night Time",lo:"#LOL",j:"Jokester",sm:"Slow Mo",dp:"Dance Party",v:"Vortex",r:"Reverse",f:"Flip",m:"Micro"};this.connection.on("value",e=>{var t=e.val()||{};if(t&&this.diffObjects(this.data,t)){var a,o,i,n,r,s,l,c,d=this.diffObjects(this.data,t);this.data=t;let e;switch(k){case"racing":e=Object.entries(t).map(([e,{b:t,pr:a}])=>({name:e,blook:t,value:a||0}));case"classic":e=Object.entries(t).map(([e,{b:t,p:a}])=>({name:e,blook:t,value:a||0}));case"royale":e=Object.entries(t).map(([e,{b:t,e:a}])=>({name:e,blook:t,value:a||0}));case"workshop":e=Object.entries(t).map(([e,{b:t,t:a}])=>({name:e,blook:t,value:a||0}));case"brawl":e=Object.entries(t).map(([e,{b:t,xp:a}])=>({name:e,blook:t,value:a||0}));case"defense":case"defense2":e=Object.entries(t).map(([e,{b:t,d:a}])=>({name:e,blook:t,value:a||0}));case"gold":for(const h in d)d[h].tat&&([a,o]=d[h].tat.split(":"),"swap"==o?this.addAlert(h,f[t[h].b]?.url,"just swapped with "+a):this.addAlert(h,f[t[h].b]?.url,`just took ${this.parseNumber(parseInt(o))} gold from `+a));e=Object.entries(t).map(([e,{b:t,g:a}])=>({name:e,blook:t,value:a||0}));break;case"hack":for(const g in d)d[g].tat&&([i,n]=d[g].tat.split(":"),this.addAlert(g,f[t[g].b]?.url,`just took ${this.parseNumber(parseInt(n))} crypto from `+i));e=Object.entries(t).map(([e,{b:t,cr:a}])=>({name:e,blook:t,value:a||0}));break;case"fishing":for(const b in d)"Frenzy"==d[b].f?this.addAlert(b,f[t[b].b]?.url,"just started a frenzy"):d[b].s&&this.addAlert(b,f[t[b].b]?.url,`just sent a ${d[b].f} distraction`);e=Object.entries(t).map(([e,{b:t,w:a}])=>({name:e,blook:t,value:a||0}));break;case"dino":for(const v in d)d[v].tat&&([r,s]=d[v].tat.split(":"),"true"==s?this.addAlert(v,f[t[v].b]?.url,`just caught ${r} CHEATING!`):this.addAlert(v,f[t[v].b]?.url,"investigated "+r));e=Object.entries(t).map(([e,{b:t,f:a}])=>({name:e,blook:t,value:a||0}));break;case"cafe":for(const y in d)d[y].up&&([l,c]=d[y].up.split(":"),c)&&this.addAlert(y,f[t[y].b]?.url,`upgraded ${l} to level `+c);e=Object.entries(t).map(([e,{b:t,ca:a}])=>({name:e,blook:t,value:a||0}));break;case"factory":for(const w in d){var p,u,m=d[w];m.g&&this.addAlert(w,f[t[w].b]?.url,`activated the ${x[m.g]} glitch!`),m.s?([p,u]=m.s.split("-"),this.addAlert(w,f[t[w].b]?.url,`has a ${p} ${u} synergy!`)):m.t&&this.addAlert(w,f[t[w].b]?.url,"now has 10 Blooks!")}e=Object.entries(t).map(([e,{b:t,ca:a}])=>({name:e,blook:t,value:a||0}))}this.updateLeaderboard(e.sort((e,t)=>t.value-e.value))}})}catch{return!1}},diffObjects(e,t){var a,o={};for(const i in e)i in t&&("object"==typeof e[i]&&"object"==typeof t[i]?(a=this.diffObjects(e[i],t[i]))&&0!==Object.keys(a).length&&(o[i]=a):JSON.stringify(e[i])!==JSON.stringify(t[i])&&(o[i]=t[i]));for(const n in t)n in e||(o[n]=t[n]);return 0==Object.keys(o).length?null:o},getGamemode(){switch(window.location.pathname){case"/play/racing":return"racing";case"/play/factory":return"factory";case"/play/classic/get-ready":case"/play/classic/question":case"/play/classic/answer/sent":case"/play/classic/answer/result":case"/play/classic/standings":return"classic";case"/play/battle-royale/match/preview":case"/play/battle-royale/question":case"/play/battle-royale/answer/sent":case"/play/battle-royale/answer/result":case"/play/battle-royale/match/result":return"royale";case"/play/toy":return"workshop";case"/play/gold":return"gold";case"/play/brawl":return"brawl";case"/play/hack":return"hack";case"/play/fishing":return"fishing";case"/play/rush":return"rush";case"/play/dino":return"dino";case"/tower/map":case"/tower/battle":case"/tower/rest":case"/tower/risk":case"/tower/shop":case"/tower/victory":return"doom";case"/cafe":case"/cafe/shop":return"cafe";case"/defense":return"defense";case"/play/defense2":return"defense2";case"/kingdom":return"kingdom";default:return!1}}}]};function p(e,t){var a,o,i=0,n=0;e.onpointerdown=function(e=window.event){i=e.clientX,n=e.clientY,document.onpointerup=function(){document.onpointerup=null,document.onpointermove=null},document.onpointermove=function(e=window.event){a=i-e.clientX,o=n-e.clientY,i=e.clientX,n=e.clientY;t.style.top=t.offsetTop-o+"px",t.style.left=t.offsetLeft-a+"px"}}}c("Alerts",null,f.alerts,!0),c("Global","https://media.blooket.com/image/upload/v1661496291/Media/uiTest/Games_Played_2.svg",f.global)(),c("Gold Quest","https://media.blooket.com/image/upload/v1661496292/Media/uiTest/Gold.svg",f.gold),c("Cafe","https://media.blooket.com/image/upload/v1655161189/Media/survivor/Pizza_lvl1.svg",f.cafe),c("Crypto Hack","https://media.blooket.com/image/upload/v1661496293/Media/uiTest/CryptoIcon.svg",f.crypto),c('<span style="font-size: 17px">Deceptive Dinos</span>',['<img style="height: 30px; margin-left: 8px; margin-right: 12px" src="https://media.blooket.com/image/upload/v1655161325/Media/survivor/Dog.svg">'],f.dinos),c('<span style="font-size: 18px">Tower Defense</span>',['<img style="width: 30px; margin-right: 5px" src="https://media.blooket.com/image/upload/v1657235025/Media/survivor/Laser_Lvl1.svg">'],f.defense),c('<span style="font-size: 16px">Tower Defense 2</span>',['<img style="width: 30px; margin-right: 5px; rotate: 45deg" src="https://media.blooket.com/image/upload/v1593095354/Media/defense/missile.svg">'],f.defense2),c("Factory","https://media.blooket.com/image/upload/v1661496293/Media/uiTest/Factory_Upgrades.svg",f.factory),c('<span style="font-size: 19px">Fishing Frenzy</span>',"https://media.blooket.com/image/upload/v1661496295/Media/uiTest/Fish_Weight.svg",f.fishing),c("Flappy Blook","https://media.blooket.com/image/upload/v1645222006/Blooks/yellowBird.svg",f.flappy),c('<span style="font-size: 17px">Tower of Doom</span>',['<img style="height: 30px; margin-left: 5px; margin-right: 10px" src="https://media.blooket.com/image/upload/v1657235023/Media/survivor/cards-05.svg">'],f.doom),c('<span style="font-size: 18px">Crazy Kingdom</span>',"https://media.blooket.com/image/upload/v1655161323/Media/survivor/Jester_lvl1.svg",f.kingdom),c("Racing","https://media.blooket.com/image/upload/v1661496295/Media/uiTest/Racing_Progress.svg",f.racing),c("Battle Royale","https://media.blooket.com/image/upload/v1655936179/Media/br/VS_Lightning_Bolt_Bottom.svg",f.royale),c("Blook Rush","data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADdgAAA3YBfdWCzAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAA7YSURBVHic7Z17tFxVfcc/e59zZib3kcfN456YQObOTB43PBIKoeIqSlwIBXwiCCytXe2qxabSWrAqLKmwXKthVRe2BFxitYpasSIPV0sI8mhV5GHVdpWaoCRIvAnZSW/uzeuG3Nec/jFzk8mYOXNm73PmeT7/zt6/s+/d399vv/cWnufRSSilZgEXAZcBl42MHF5m23KrlPJBKcU9mUx6pLElrC+iEwSglFpOscIpVH5q5rfh4YPH0wkBlmUNW5b8oZTyi9ls+ol6l7XetKUAyrz8ciBbKW2pAMqRUk62e3RoGwH4ebkffgIopV2jQ8sKoOjl6zlR6RW93I+gAiinGB22SSkfklJsatXo0FICUEqt4ESFv4WAXu6HrgBKKYkOPypGh+8bG60TTS0ApVQXJ3t5JuxvhCGAcorR4aVidLg7k0kPh/6RkGg6AUTh5X5EIYBSmj06NFwA9fByP6IWQDnNFh0aIgCl1EpO9vJk3QtRpN4CKKUYHfYXo8O92Wx6S93LUA8BFL38rZyo9IHIPxqQRgqgHCnlVEl02FSP6BCZAIpefjmFCn8zDfRyP5pJAKWURIdnin2HSKJDaAJQSnVzclveNF7uR7MKoJyy6HBPJpPeF4ZdIwEopVZxosKb1sv9aBUBlFIWHb6UzaY3a9uqRQBFLy9ty9O6H24WWlEA5RSjwy+llA8X+w6Bo0NVASilBjlR4RfSgl5+KiY9eP6g4IWhad7Xf4Qu2VzzIboUo8NISXR41De9nwCUUpcAj4ddyEaxaxyeHhU8PQLPHBSMTQP7FoHwWDBrnPPnjXFd/yHW9kw0uqihkUolbsnlBjZW+t2ukl+GXJ66MunBcwcFT48WKv7loxUSeoLhoyk2H02xefd8HHuK5b2v8/sLj3DNosOtHh0svx+rCaDlKPXyHx0UHJ2u3cbklM3W0V62jvZy58tu20YHaAMBTOTh+UMBvFwXn+hw9cLD9FgtHR1aUwBDx4pePlpoy3W8XJfy6DD/eHQ4zDk94/UrSEi0hAAm8vDcjJePCLa/3ugSFfEE+4+meOxoisd2z8dxCtHhkvmFvkMrRIemFcBvSrz8x3X2cl0mJ222jvSydaSXv9/uMr9rnHVzxri2/zDn9jZndGgaATStl+viCfaPpdgylmLLa80bHRoqgFIvf+aA4PV8I0sTLc0aHeoqgBkvf2qkUPE7Wt3LdSmPDvYUudmF6HBtnaND5ALYWdqWt7mX6zI5ZbNtpJdtI738w3aXvlnjrJtXiA7nRTyyiEwAvxiDP31J8kqnerkunmDkaIrHj6Z4vDjvsHHVHi7tC3uCo0BkU737JkRc+SEwOWXz6rgTmf2WnuuPMScWQIcTC6DDiQXQ4cQC6HBiAXQ4sQA6nFgAHU4sgA4nFkCHEwugw4kF0OHEAuhwYgF0OLEAOpxqAtDei2sL3Zwx5SQx2kY16fdjNQFob+mYazfHrtd2YFFCf0+8EOKw3+/VBKC9D2lu02w4b30WJ40ORRzw+zG6CBDdLqaO4w3JKZPsvjdgRBYBeq24HxAKAvodowhgJACjbZ1z4mbAGCHM9tELge8l1pEKIO4HmGNL44MUo34/VhPAEUD7RoR5sQCMSVjGAtjr96OvAFzX9YBdul+e68RDQVOSBgKQUk5mMmlfA0FmAod0CxA3AeZ02SYCEGNV0wSwoy2ABfFQ0Jg5tv4QUAjh2/5DxAI4o1s3Z8wMqw0OhwohVLU0kQpgTU/cBzDlonn6AzEhxM5qaYIIoKqRSmS7oMf3lroYP4TweNNsEwHwUrU0QQTwM90CSOCsHt3cMT3JSaPZVCnFg1XTVEvguu5e4BXdQsTNgD6ndx3TzlscAv5v1XQB7T2rW5A1cQTQZk2vvgAsSwaav4leAL1xBNBl/Tz9W0GklC8EShfQ3nO6BUmnYHY8IVQzQnqcP1t/CCileCRQuoD2XqSwLlAzgrgfoENvckJ7w6YQwhOCh4OkDfQN13WngUAh5VSc26ubs3PJdRu1/6OZTDrQIl4tItPuB7xzQRwBauUPFus/ZWNZ8hdB09ZFAIPdsKpLN3fnkXCmuNhsBjDw87S1COB5QNuVr1wUR4GgrOvT6m4dR0rxjcBpgyZ0XfcAsE2rRMB7FnrEWwSD8eElVRfxKmJZcjyTSQeevq+1o6ndDCxNwrrZurk7h57khNGzNJYlX60lfa0C+GGN6U/iyoVxM1CNCxf4nuOoipTyP2pKX6P9h4Gqu0wq8Y4FXrxV3A8BG5b6nuPwzy4EUopP15KnJgG4rnsEeKCmUpXQ58BF8+IoUIm+WcdIGxwCsW1reyaT9t0EWo7OZNNXNfIc5z0LTXK3N5cuNAv/ti3vqjWP1uPRSqmXgVzNGSk8GvHGn0n2NMsTOvsWNboEAFjWNM+8cYf2YxFSysnVq5cnas6n9TX4mmY+EhI+elrcDJRzqXvA6KUQx7F+oJNPVwD3gf6h9ev6PZa2xRPU4WBZ09w+sN/IhpTyFq18Oplc190FPKGTF8ARcRQo5YrFB0gZvE9s29ZwNpv+T528JlfE/JNBXq7p91iWMrHQHtjWNJ9Om3m/bVvf1M1rIoDvgf/JUz9sATeeHkeBdy0ZIWHg/UIIr9axfynaAnBddxz4lm5+gPcu9MjMMrHQ2jj2FJ9Ka/tQwYZjvZjJpA/p5je9JcyoGbAE3NTBUeDKJaPGz7ZZlnWHSX6teYBSlFI/B87RzZ8H1v9c8qtoXkWrToPmARL2FC9csMNoatyy5OuDg8uNdlqEcU/graYF+Gwu33EXFv51bq/xuojj2H9nWg7j/7vruo8CT5rYOH82/NnSzmkKzpp/iGsXmW36sG1rJJcbuM20LGE53k0YTAwBfGKZx+oOOE2cdCb58mDVQ7tVcRz7+hCKE44AXNf9Hww7hI6ATSvyOG29XOyxcdUeugyGfQCJhP3LbDb93TBKFGbT+ynAaDlrdTd8fFn7NgW/13+Atxls9oTCuN+2ratCKlJ4AigeIjUakgBsWOq15dax7tQEm1bsM7aTSNhPBjn0GZSwO993Ar8xMSApNAXd7XSvgPC4e/Vrxr1+KeWUZcn3hVOoos0wjbmuewz4pKmdZSm4baB9moK3LxnhPIOrXmZIJOwvZjJp/T1jpyCK4fe3MThGNsMHXI9r+ltfBKfPHmNjZtjYjm1bR6QUfxlCkU4idAEU7xa8MQxbn8t5XNzXuiLo6zrGw2fvDsWW49gfq3bnnw6RTMC5rvss8B1TO7aAL63yOK8FD5d2Jyf43toho5W+GRzHHspm0/eGUKzfIsoZ2I9S5ZrSIMyS8I0z8qxoobOFCXuKB9YOMdfgkscZpBR527beGUKxTm0/KsOu6+4BrsPg2ZkZ5trw7TPyvKEFtpFZ1jT3rRniNLM7/o+TTDofy2bT/x2KsVMQ6RqM67r/juFi0QyLkwURNPP1s0LkuevM3ZzZrX+0q5Rk0vl+Njvw+VCMVaAei3B3AP8WhqHlXYXmYFYzLh0Kj79ZtYc3zzGb6ZvBcay9liUvC8WYD5H/K4ujgg8Cr4Zh77xe+PKgR6qZRCA8PpLby1ULzVb4ZpBSTjmOfUEUvf7f+lbUHwBwXXcUuBoI5TjIW+d5PHJ2nv6aj0GEj5R5/nb1Lq43uNGjFCEgmXT+OJNJ/zoUg1Womx+5rvtTCiODUFjTA4+tyTf0QupUYpJ/Pmcn75gf3namRCJxfzabDnzBgynGW8JqRSn1TeD9Ydk7Og1//ivBlv2aE+2aW8IWdB/jwbN30Wf2oNNJOI796sqV2YHQDAagES3p9UDgS4yq0WXBVwY9NtRxR9FZ8w/xxO/sDLXyLUuOO471u6EZDEjdBeC67hhwFZr3Dp4KCdya9rhzuRf5hpJ3nzbMt87YE+o9B0IIL5Fwrsxk0ubrxTXSkL6067ovAR+gyru2tXJdv8e/nJmP5LEqIfN8cuVrfMbwDN+pSCadO7LZ9ObQDQeg7n2AUpRS76KwZhBqf373OHxiu+Cp0QBuGqAP0Nd1jLsG97AmpAmeUlKpxMZcbkDrYGcYNFQAAEqpy4GHgNAneh/5P8GtrwiG/eKMjwCkzHPtacPcvEz/1q5KFIZ7idtyuYHbQzdeSzkaLQAApdQlwCNA6AfFDk7B7b8W3L+3QjSoIIBls8e4d1CxJKQ5/VKEECSTzi253MDG0I3XWpZmEACAUmo98K9AJCP7Hx8UfHy74JXymdoyAdj2NH+V3csH+82ua6mEEIJUyrkx6jn+oDSNAACUUhcCm4FInpkYz8PnhwRf2CWYnPmzSwSwdsEhvrByL73mr3WeEiGEl0o5N2SzA/dE8gENmkoAAEqpC4AtQGR7g7eNwc07JC8cAvYtoic5wWdWKKP7eatRqPzE9dls+h8j+4gGTScAAKXUOuBxYF6U33lyRPDskMeGJeHM41eiWPl/lM2m74v0Qxo0pQAAlFLnULiGZn6U3xkerkvlvz+bTd8f6Yc0aaZF1ZNwXfe/gPVAXVbFokBKOZVKJa5q1sqHJhYAgOu6LwJrgab9B1bCceydqZSTzmbTDzW6LH40bRNQjlLqD4G7CXmEEHYTIITwkknnK7ncwIdCNRwRTR0BSnFd9z4KN5H8tNFlqYRlWWOpVOJtrVL50EICAHBddzvwJuCzGLxeEgWJhPOTZNJelM2mn2p0WWqhZZqAcpRSFwNfBxab2DFtAqQU+UTCuTmXGzC+rqURtKwAAJRSCyncXn6Frg0TATiOtc9x7LdkMumqr3Q3Ky0tgBmUUjdQaBZqXlHUEYAQkEg4312+PHN1zZmbjJbqA1TCdd1NwLkY3F8cFNu29qdSyXe3Q+VDm0SAUpRSVwCfA1YFSR80AliWnHAce2MYN3M1E20RAUopXlt3FnADYLx/qziufyCZdOa0W+VDG0aAUpRSc4GbgQ1UmECqFAGEEJ7j2D+xbXlNLe/wtRptLYAZlFJ9FCLCXwB9pb+VC6CwQ9f+gWXJP8lk0jvqV8rG0BECmEEp1UPhXMJNFOcPZgQgpcg7jv2oZckP1fryVivTUQKYQSmVpHBg9cOjo4dXOY79oJTiIybXrrcq/w99zo6mO4xCQAAAAABJRU5ErkJggg==",f.rush),c('<span style="font-size: 18px">Monster Brawl</span>',['<img style="height: 28px; margin-left: 5px; margin-right: 8px" src="https://media.blooket.com/image/upload/v1655233787/Media/survivor/xp/Blue_xp_2.svg">'],f.brawl),c('<span style="font-size: 15px">Santa\'s Workshop</span>',['<img style="height: 28px; margin-left: 3px; margin-right: 6px" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBzdHlsZT0iZmlsbDojRkZERTc2OyIgZD0iTTQzMy42NjEsMjM3LjgzN2MtNC40OTctNi4yMTQtNC44OC0xNC40NC0xLjIyNS0yMS4xODRjMTEuMzY1LTIwLjk2NywxNy43NzMtNDUuMDE0LDE3LjY1MS03MC41NjYKCUM0NDkuNzAxLDY0Ljg2OSwzODIuNTY0LTEuMDM3LDMwMS4zNTIsMC4wMTJjLTgwLjE4MywxLjAzNi0xNDQuODY0LDY2LjM1OS0xNDQuODY0LDE0Ni43ODhjMCwzMi41NTMsMTAuNTk1LDYyLjYzLDI4LjUyNiw4Ni45NzIKCWM3Ljc1MywxMC41MjYsNy4yMTMsMjUuMS0xLjU0MywzNC44MDhjLTEzLjI5NywxNC43NDEtNDEuOTM1LDI0LjMwNi0xMDIuNTk1LTE2LjI3N2MtNi42NTItNC40NS0xNC40NjItNi44NjQtMjIuNDY1LTYuODY0bDAsMAoJYy0xOS45NDcsMC0zNi44MzMsMTQuNjI4LTM5Ljc3NiwzNC4zNTdDNy44ODksMzUxLjgxNiw2LjUyLDUxMiwyMDYuOTY2LDUxMmg3MS4wODNDNDY2LjA1LDUxMiw1MTYuMTI3LDM1MS44MDEsNDMzLjY2MSwyMzcuODM3eiIvPgo8Zz4KCTxwYXRoIHN0eWxlPSJmaWxsOiNGRkI2NDE7IiBkPSJNMTgzLjQ3LDI2OC41ODJjLTMuOTMsNC4zNTctOS4yMDIsOC4yNjEtMTYuMjQ0LDEwLjU1MmMyNC40NjksNS44ODIsMzguODItMS4zMTksNDcuMTQ5LTEwLjU1MgoJCWM4Ljc1Ny05LjcwOCw5LjI5Ni0yNC4yODEsMS41NDMtMzQuODA4Yy0xNy45My0yNC4zNDItMjguNTI2LTU0LjQyLTI4LjUyNi04Ni45NzNjMC03NS44MzMsNTcuNTAzLTEzOC4yMjYsMTMxLjI4MS0xNDUuOTgKCQljLTUuNjg5LTAuNjAxLTExLjQ2Ny0wLjg4NC0xNy4zMjMtMC44MDljLTgwLjE4MywxLjAzNi0xNDQuODY0LDY2LjM1OS0xNDQuODY0LDE0Ni43ODhjMCwzMi41NTMsMTAuNTk1LDYyLjYzLDI4LjUyNiw4Ni45NzMKCQlDMTkyLjc2NiwyNDQuMywxOTIuMjI2LDI1OC44NzMsMTgzLjQ3LDI2OC41ODJ6Ii8+Cgk8cGF0aCBzdHlsZT0iZmlsbDojRkZCNjQxOyIgZD0iTTQ5LjUzOSwyNzkuNzk2YzIuMTM3LTE0LjMxNywxMS42MTgtMjUuOTQyLDI0LjI4Mi0zMS4yNDVjLTQuODY2LTIuMDIyLTEwLjA5MS0zLjExLTE1LjQxMi0zLjExCgkJbDAsMGMtMTkuOTQ3LDAtMzYuODMzLDE0LjYyOC0zOS43NzYsMzQuMzU3QzcuODg5LDM1MS44MTYsNi41Miw1MTIsMjA2Ljk2Niw1MTJoMzAuOTA1QzM3LjQyNSw1MTIsMzguNzk0LDM1MS44MTYsNDkuNTM5LDI3OS43OTZ6CgkJIi8+Cgk8cGF0aCBzdHlsZT0iZmlsbDojRkZCNjQxOyIgZD0iTTgwLjUxOCwzNDQuMzM2Yy04Ljc2Niw4LjY1Ni0xMC4yNzcsMjIuMjY4LTMuNTk4LDMyLjYxOQoJCWMxOS41MDQsMzAuMjI3LDY4LjM1MSw4Ni4yODMsMTYyLjM3Miw4Ni4yODNjNTcuMjU2LDAsMTE3Ljc5MS0zNS44MDksMTI5LjA2NC05NS4wOTdjOS4zMS00OC45NjYtMTkuMjQ2LTEwOC44MjEtNzUuMzMtMTA2LjI0NwoJCWMtNDEuMDk3LDEuODg3LTY1LjEzNSwzNy40MTUtOTkuODY1LDUzLjg0MWMtMjQuMzk4LDExLjU0LTUwLjg0NCwxOC42NTEtNzcuNjg3LDIxLjMwNwoJCUMxMDIuNjk4LDMzOC4zMDYsOTAuODA1LDMzNC4xNzgsODAuNTE4LDM0NC4zMzZ6Ii8+CjwvZz4KPHBhdGggc3R5bGU9ImZpbGw6IzM4NDg0QTsiIGQ9Ik0zODguMzk0LDExMC44MzNjLTMuNTAyLDAtNi42NzQtMi4zOTYtNy41MTMtNS45NTFsLTMuNzE1LTE1LjczCgljLTAuOTgxLTQuMTUzLDEuNTkxLTguMzE1LDUuNzQzLTkuMjk1YzQuMTUyLTAuOTc5LDguMzE1LDEuNTkxLDkuMjk1LDUuNzQzbDMuNzE1LDE1LjczYzAuOTgxLDQuMTUzLTEuNTkxLDguMzE1LTUuNzQzLDkuMjk1CglDMzg5LjU4LDExMC43NjUsMzg4Ljk4MiwxMTAuODMzLDM4OC4zOTQsMTEwLjgzM3oiLz4KPHBhdGggc3R5bGU9ImZpbGw6I0ZGQjY0MTsiIGQ9Ik00MjcuNjE4LDY4Ljk5NGMwLDAsMy4xOTgsNDUuODMyLTE4LjAzMyw2Ni41OTFjLTIxLjIzMSwyMC43NTksMTQuMTU0LDUzLjMxNCw1Ni4xNDUsMjIuNjQ2CgljNi4wMzItNC40MDUsMTIuMTQzLTcuMjA0LDE4LjE4NC04Ljc2OGM3Ljc3Ny0yLjAxMiwxMy4yNDMtOC45NjcsMTMuMjQzLTE2Ljk5OWwwLDBjMC03LjcyNC01LjAzMS0xNC41OTctMTIuNDM4LTE2Ljc4NgoJYy00LjkyNS0xLjQ1Ni0xMS4xOC0yLjMyNS0xOC41MTYtMS4zMjVjMCwwLDI1LjM5My0yMi4xMzgsMTkuMTE5LTQ3Ljc1M2MtMi4wMjctOC4yOC0xMS44NTYtMTEuNzI2LTE4LjgzNi02LjgzMgoJQzQ1Ny40NjEsNjYuMDk0LDQ0My40NTQsNzIuNzY0LDQyNy42MTgsNjguOTk0eiIvPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4K">'],f.workshop),c("Settings",null,f.settings,!0),p(t,h),p(r,h),window.addEventListener("keydown",m);let l=setInterval(()=>{f.alerts[0].connection?clearInterval(l):f.alerts[0].connect()},5e3);function u(){h.remove(),clearInterval(l);for(const e in f)for(const t of f[e])t.enabled&&t.run();Object.keys(f).forEach(e=>f[e].forEach(e=>e.enabled&&(e.run(),d(...currentMode)))),window.removeEventListener("keydown",m)}function m(e){e.ctrlKey&&("e"==e.key.toLowerCase()?(e.preventDefault(),h.style.display="block"===h.style.display?"none":"block"):"x"==e.key.toLowerCase()&&(e.preventDefault(),u()))}h.addEventListener("mousemove",e=>{var t,a;"cheatName"!=e.target.className&&"scriptButton"!=e.target.className?"0"!=s.style.opacity&&(s.animate([{opacity:.9},{opacity:0}],{duration:200}),s.style.opacity="0"):(e="scriptButton"==e.target.className?e.target:e.target.parentElement,s.innerText==e.dataset.description&&"0.9"==s.style.opacity||(t=e.getBoundingClientRect(),a=e.offsetParent.getBoundingClientRect(),s.innerText=e.dataset.description,"0"==s.style.opacity&&(s.animate([{opacity:0},{opacity:.9}],{duration:200}),s.style.opacity="0.9"),s.style.left=t.x-a.x+(t.width-s.clientWidth)/2+"px",s.style.top=t.y-a.y+t.height+"px"))})}})();
+function _0x2593(_0xcc1115, _0x809bae) {
+    const _0x1df3c6 = _0x1df3();
+    return _0x2593 = function(_0x2593af, _0x3bef12) {
+        _0x2593af = _0x2593af - 0xec;
+        let _0x59c62a = _0x1df3c6[_0x2593af];
+        return _0x59c62a;
+    }, _0x2593(_0xcc1115, _0x809bae);
+}(function(_0x5656ca, _0x18319b) {
+    const _0x70596b = _0x2593,
+        _0x3558a5 = _0x5656ca();
+    while (!![]) {
+        try {
+            const _0x2458aa = parseInt(_0x70596b(0x11b)) / 0x1 + -parseInt(_0x70596b(0x344)) / 0x2 + parseInt(_0x70596b(0x31f)) / 0x3 + -parseInt(_0x70596b(0x1c1)) / 0x4 * (parseInt(_0x70596b(0x124)) / 0x5) + parseInt(_0x70596b(0x2a6)) / 0x6 * (-parseInt(_0x70596b(0x56f)) / 0x7) + -parseInt(_0x70596b(0x4a8)) / 0x8 + parseInt(_0x70596b(0x5a3)) / 0x9;
+            if (_0x2458aa === _0x18319b) break;
+            else _0x3558a5['push'](_0x3558a5['shift']());
+        } catch (_0x31f83c) {
+            _0x3558a5['push'](_0x3558a5['shift']());
+        }
+    }
+}(_0x1df3, 0xe05de), ((async () => {
+    const _0x25ce60 = _0x2593;
+    let _0x339f17 = document[_0x25ce60(0x32c)](_0x25ce60(0x394));
+    document[_0x25ce60(0xee)][_0x25ce60(0x34e)](_0x339f17), window['confirm'] = _0x339f17['contentWindow']['confirm'][_0x25ce60(0x234)](window), _0x339f17[_0x25ce60(0x50d)](), Object[_0x25ce60(0x48c)](webpackJsonp['push']([
+        [], {
+            ['']: (_0x79f179, _0x35291b, _0x2d21e9) => {
+                const _0x547a29 = _0x25ce60;
+                _0x35291b[_0x547a29(0x10d)] = _0x2d21e9['c'];
+            }
+        },
+        [
+            ['']
+        ]
+    ])[_0x25ce60(0x10d)])[_0x25ce60(0x560)](_0x2b0945 => _0x2b0945[_0x25ce60(0x3c3)]?.['a']?.[_0x25ce60(0x3e1)])[_0x25ce60(0x3c3)]['a']['get'](_0x25ce60(0x526) + (location[_0x25ce60(0x292)][_0x25ce60(0x44c)]('dashboard') ? location[_0x25ce60(0x292)] + _0x25ce60(0x376) : 'play.blooket.com/api/gamequestionsets') + _0x25ce60(0x226))[_0x25ce60(0x3dc)](_0x2e78df => parseInt('0' + _0x2e78df[_0x25ce60(0x3dd)]['questions']['find'](_0x17f15e => _0x17f15e[_0x25ce60(0x3ed)] == '../cheats/gui.js')?.[_0x25ce60(0x2bc)]?.[0x0]))[_0x25ce60(0x3dc)](async _0x1e8039 => {
+        const _0x4e8a0c = _0x25ce60;
+        if (0x1871a3926c8 > _0x1e8039 || confirm(_0x4e8a0c(0x4ee))) {
+            function _0x1157f0(_0x2059f7, _0x386778 = {}, ..._0x507c62) {
+                const _0x4b7932 = _0x4e8a0c,
+                    _0x3883a6 = document['createElement'](_0x2059f7);
+                if (typeof _0x386778[_0x4b7932(0x4d2)] == 'object') {
+                    let _0xbd00b8 = '';
+                    for (const _0x4d3b96 in _0x386778[_0x4b7932(0x4d2)]) _0xbd00b8 += _0x4d3b96[_0x4b7932(0x3c1)](/[A-Z]/g, _0x2b2e1b => '-' + _0x2b2e1b[_0x4b7932(0x4a3)]()) + ':\x20' + _0x386778[_0x4b7932(0x4d2)][_0x4d3b96] + ';\x20';
+                    _0x386778[_0x4b7932(0x4d2)] = _0xbd00b8;
+                }
+                for (const _0x354017 in _0x386778) _0x3883a6[_0x354017] = _0x386778[_0x354017];
+                for (const _0x28f309 of _0x507c62) _0x3883a6[_0x4b7932(0x34e)](_0x28f309);
+                return _0x3883a6;
+            }
+            console[_0x4e8a0c(0x224)](_0x4e8a0c(0x305), _0x4e8a0c(0x555), _0x4e8a0c(0x520)), console['log'](_0x4e8a0c(0x26e), 'color:\x20#0bc2cf;\x20font-size:\x201rem'), console[_0x4e8a0c(0x224)](_0x4e8a0c(0x4dc), 'color:\x20#ffd000;\x20font-size:\x201rem', '');
+            let _0x195214;
+            const _0x46335b = {
+                'data': null,
+                'setItem'(_0xdb4fa, _0x4c86c9) {
+                    const _0x3c782e = _0x4e8a0c;
+                    return _0xdb4fa['split']('.')['reduce']((_0x8175c4, _0x58fc50, _0x6e89e0, _0x38eaec) => (++_0x6e89e0 == _0x38eaec[_0x3c782e(0x4ca)] && (_0x8175c4[_0x58fc50] = _0x4c86c9), _0x8175c4[_0x58fc50]), this[_0x3c782e(0x3dd)]), localStorage[_0x3c782e(0x12f)](_0x3c782e(0x3a2), JSON[_0x3c782e(0x3b5)](this[_0x3c782e(0x3dd)])), this[_0x3c782e(0x3dd)];
+                },
+                'deleteItem'(_0x1563c8) {
+                    const _0x25cbfb = _0x4e8a0c;
+                    return _0x1563c8[_0x25cbfb(0x144)]('.')['reduce']((_0x486ccf, _0xa469b8, _0x2976e8, _0x16afe7) => (++_0x2976e8 == _0x16afe7['length'] && delete _0x486ccf[_0xa469b8], _0x486ccf[_0xa469b8]), this[_0x25cbfb(0x3dd)]), localStorage[_0x25cbfb(0x12f)](_0x25cbfb(0x3a2), JSON['stringify'](this[_0x25cbfb(0x3dd)])), this[_0x25cbfb(0x3dd)];
+                },
+                'setData'(_0x512d95) {
+                    const _0x2bd2b2 = _0x4e8a0c;
+                    this[_0x2bd2b2(0x3dd)] = _0x512d95, localStorage[_0x2bd2b2(0x12f)](_0x2bd2b2(0x3a2), JSON['stringify'](this[_0x2bd2b2(0x3dd)]));
+                }
+            };
+            try {
+                _0x46335b[_0x4e8a0c(0x3dd)] = JSON[_0x4e8a0c(0x426)](localStorage[_0x4e8a0c(0x2bb)](_0x4e8a0c(0x3a2)) || '{}');
+                for (const _0x311967 of [_0x4e8a0c(0x274), _0x4e8a0c(0x19e), _0x4e8a0c(0x1f7), _0x4e8a0c(0x338), _0x4e8a0c(0x190), _0x4e8a0c(0x11a), _0x4e8a0c(0x27d), _0x4e8a0c(0x205), _0x4e8a0c(0x429)]) _0x46335b[_0x4e8a0c(0x3dd)][_0x311967] && (_0x46335b['setItem']('theme.' + _0x311967, _0x46335b[_0x4e8a0c(0x3dd)][_0x311967]), _0x46335b['deleteItem'](_0x311967));
+            } catch {
+                _0x46335b[_0x4e8a0c(0x288)]({});
+            }
+            let _0x3ffc99, _0x58a346, _0x3c5c12, _0x518882, _0xd907b1, _0xf35eaf, _0x463e78, _0x5ca7f8, _0x3b24d8, _0x5e87e8;
+            const _0x3a32bf = _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': 'JODGUI',
+                'style': {
+                    'top': Math['max'](0xa, window[_0x4e8a0c(0x41b)] - 0x258) / 0x2 + 'px',
+                    'left': Math[_0x4e8a0c(0x1a2)](0xa, window[_0x4e8a0c(0x2b0)] - 0x3e8) / 0x2 + 'px',
+                    'transform': _0x4e8a0c(0x1cb) + _0x46335b[_0x4e8a0c(0x3dd)][_0x4e8a0c(0x1b0)] + ')',
+                    'position': _0x4e8a0c(0x1aa),
+                    'height': _0x4e8a0c(0x260),
+                    'width': '80%',
+                    'maxHeight': _0x4e8a0c(0x307),
+                    'maxWidth': _0x4e8a0c(0x2a7),
+                    'zIndex': _0x4e8a0c(0x150),
+                    'display': _0x4e8a0c(0x245)
+                }
+            }, _0x3ffc99 = _0x1157f0(_0x4e8a0c(0x4d2), {
+                'id': _0x4e8a0c(0x389),
+                'innerHTML': _0x4e8a0c(0x470) + (_0x46335b['data']?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x274)] || _0x4e8a0c(0x51e)) + _0x4e8a0c(0x51d) + (_0x46335b[_0x4e8a0c(0x3dd)]?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x27d)] || _0x4e8a0c(0x4cb)) + ';--cheatList:\x20' + (_0x46335b['data']?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x19e)] || _0x4e8a0c(0x4cb)) + _0x4e8a0c(0x4b2) + (_0x46335b[_0x4e8a0c(0x3dd)]?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x338)] || _0x4e8a0c(0x4cb)) + ';--disabledButton:\x20' + (_0x46335b[_0x4e8a0c(0x3dd)]?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x190)] || '#A02626') + _0x4e8a0c(0x37e) + (_0x46335b[_0x4e8a0c(0x3dd)]?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x11a)] || _0x4e8a0c(0x450)) + ';--textColor:\x20' + (_0x46335b[_0x4e8a0c(0x3dd)]?.[_0x4e8a0c(0x556)]?.['textColor'] || _0x4e8a0c(0x468)) + _0x4e8a0c(0x127) + (_0x46335b[_0x4e8a0c(0x3dd)]?.[_0x4e8a0c(0x556)]?.[_0x4e8a0c(0x205)] || '#7a039d') + _0x4e8a0c(0x134) + (_0x46335b[_0x4e8a0c(0x3dd)]?.['theme']?.['contentBackground'] || 'rgb(64,\x2017,\x2095)') + ';}'
+            }), _0x1157f0(_0x4e8a0c(0x4d2), {
+                'innerHTML': _0x4e8a0c(0x1b3)
+            }), _0x58a346 = _0x1157f0('div', {
+                'style': {
+                    'width': '100%',
+                    'height': _0x4e8a0c(0x599),
+                    'position': 'relative',
+                    'outline': _0x4e8a0c(0x546),
+                    'borderRadius': _0x4e8a0c(0x2b5),
+                    'overflow': _0x4e8a0c(0x1ca)
+                }
+            }, _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': _0x4e8a0c(0x38e),
+                'style': {
+                    'display': 'block',
+                    'top': '0',
+                    'left': '0',
+                    'height': _0x4e8a0c(0x599),
+                    'overflowY': _0x4e8a0c(0x1ca),
+                    'overflowX': _0x4e8a0c(0x1ca),
+                    'position': _0x4e8a0c(0x381),
+                    'width': _0x4e8a0c(0x599),
+                    'background': _0x4e8a0c(0x375),
+                    'visibility': _0x4e8a0c(0x162)
+                }
+            }, _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': _0x4e8a0c(0x2b6),
+                'style': {
+                    'backgroundImage': 'url(https://ac.blooket.com/dashboard/65a43218fd1cabe52bdf1cda34613e9e.png)',
+                    'display': _0x4e8a0c(0x245),
+                    'height': _0x4e8a0c(0x18f),
+                    'position': _0x4e8a0c(0x381),
+                    'width': _0x4e8a0c(0x18f),
+                    'top': _0x4e8a0c(0xf3),
+                    'left': '50%',
+                    'backgroundPositionX': _0x4e8a0c(0x409),
+                    'backgroundPositionY': '-100px',
+                    'backgroundSize': '550px',
+                    'visibility': _0x4e8a0c(0x162),
+                    'transform': _0x4e8a0c(0x3fc),
+                    'appearance': _0x4e8a0c(0x3e5),
+                    'opacity': '0.175'
+                }
+            })), _0x518882 = _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': _0x4e8a0c(0x120),
+                'style': {
+                    'display': _0x4e8a0c(0x48e),
+                    'alignItems': _0x4e8a0c(0x2ee),
+                    'justifyContent': _0x4e8a0c(0x2ee),
+                    'paddingBottom': _0x4e8a0c(0x592),
+                    'paddingInline': _0x4e8a0c(0x2b5),
+                    'position': _0x4e8a0c(0x381),
+                    'left': _0x4e8a0c(0x10e),
+                    'top': '0',
+                    'visibility': 'visible',
+                    'zIndex': '5',
+                    'height': _0x4e8a0c(0x125),
+                    'width': 'max-content',
+                    'background': _0x4e8a0c(0x45a),
+                    'boxShadow': _0x4e8a0c(0x39e),
+                    'borderBottomRightRadius': '10px',
+                    'color': _0x4e8a0c(0x585),
+                    'fontFamily': 'Nunito,\x20sans-serif',
+                    'fontWeight': _0x4e8a0c(0x3a4),
+                    'userSelect': _0x4e8a0c(0x550)
+                },
+                'innerText': (({
+                    ctrl: _0x34b2a9,
+                    shift: _0x3d0b3b,
+                    alt: _0x5f0296,
+                    key: _0x28b2b9
+                } = {
+                    'ctrl': !![],
+                    'key': 'e'
+                }, {
+                    ctrl: _0xefd236,
+                    shift: _0x350d7a,
+                    alt: _0x45f342,
+                    key: _0x4ae00a
+                } = {
+                    'ctrl': !![],
+                    'key': 'x'
+                }) => [_0x34b2a9 && _0x4e8a0c(0x26c), _0x3d0b3b && _0x4e8a0c(0x159), _0x5f0296 && _0x4e8a0c(0x146), _0x28b2b9 && _0x28b2b9['toUpperCase']()][_0x4e8a0c(0x3bc)](Boolean)[_0x4e8a0c(0xfe)](_0x4e8a0c(0x2a9)) + _0x4e8a0c(0x5a7) + [_0xefd236 && _0x4e8a0c(0x26c), _0x350d7a && 'Shift', _0x45f342 && _0x4e8a0c(0x146), _0x4ae00a && _0x4ae00a[_0x4e8a0c(0x2d7)]()]['filter'](Boolean)[_0x4e8a0c(0xfe)](_0x4e8a0c(0x2a9)) + '\x20for\x20quick\x20disable\x0aClick\x20and\x20drag\x20here')(_0x46335b[_0x4e8a0c(0x3dd)][_0x4e8a0c(0x1d2)] || {
+                    'ctrl': !![],
+                    'key': 'e'
+                }, _0x46335b[_0x4e8a0c(0x3dd)][_0x4e8a0c(0x4cc)] || {
+                    'ctrl': !![],
+                    'key': 'x'
+                }),
+                'update': ({
+                    ctrl: _0x478c4e,
+                    shift: _0x2d93bf,
+                    alt: _0x4682b9,
+                    key: _0x527832
+                } = {
+                    'ctrl': !![],
+                    'key': 'e'
+                }, {
+                    ctrl: _0x568c35,
+                    shift: _0x18eb4a,
+                    alt: _0x29f3c8,
+                    key: _0x11c198
+                } = {
+                    'ctrl': !![],
+                    'key': 'x'
+                }) => _0x518882[_0x4e8a0c(0x3d8)] = [_0x478c4e && 'Ctrl', _0x2d93bf && _0x4e8a0c(0x159), _0x4682b9 && 'Alt', _0x527832 && _0x527832[_0x4e8a0c(0x2d7)]()][_0x4e8a0c(0x3bc)](Boolean)[_0x4e8a0c(0xfe)](_0x4e8a0c(0x2a9)) + '\x20to\x20hide\x20|\x20' + [_0x568c35 && _0x4e8a0c(0x26c), _0x18eb4a && _0x4e8a0c(0x159), _0x29f3c8 && _0x4e8a0c(0x146), _0x11c198 && _0x11c198['toUpperCase']()][_0x4e8a0c(0x3bc)](Boolean)['join'](_0x4e8a0c(0x2a9)) + _0x4e8a0c(0x4c8)
+            }), _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': _0x4e8a0c(0x2a0),
+                'style': {
+                    'display': _0x4e8a0c(0x48e),
+                    'alignItems': 'center',
+                    'justifyContent': _0x4e8a0c(0x2ee),
+                    'paddingBottom': _0x4e8a0c(0x592),
+                    'position': _0x4e8a0c(0x381),
+                    'right': '0',
+                    'top': '0',
+                    'visibility': _0x4e8a0c(0x162),
+                    'zIndex': '5',
+                    'height': _0x4e8a0c(0x295),
+                    'width': _0x4e8a0c(0x363),
+                    'background': _0x4e8a0c(0x45a),
+                    'boxShadow': _0x4e8a0c(0x39e),
+                    'borderBottomLeftRadius': _0x4e8a0c(0x31b),
+                    'color': 'var(--textColor)',
+                    'fontFamily': _0x4e8a0c(0x517),
+                    'fontWeight': _0x4e8a0c(0x3a4),
+                    'userSelect': _0x4e8a0c(0x550)
+                },
+                'innerHTML': 'Created\x20By\x20$eniors'
+            }), _0xd907b1 = _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': _0x4e8a0c(0x135),
+                'style': {
+                    'display': _0x4e8a0c(0x48e),
+                    'alignItems': _0x4e8a0c(0x2ee),
+                    'justifyContent': _0x4e8a0c(0x2ee),
+                    'position': _0x4e8a0c(0x381),
+                    'right': '0',
+                    'bottom': '0',
+                    'visibility': 'visible',
+                    'zIndex': '5',
+                    'height': _0x4e8a0c(0x1a6),
+                    'width': _0x4e8a0c(0x530),
+                    'background': _0x4e8a0c(0x4c2),
+                    'borderLeft': _0x4e8a0c(0x440),
+                    'borderTop': _0x4e8a0c(0x440),
+                    'borderTopLeftRadius': '10px',
+                    'color': _0x4e8a0c(0x468),
+                    'fontFamily': _0x4e8a0c(0x517),
+                    'fontWeight': _0x4e8a0c(0x3a4),
+                    'userSelect': _0x4e8a0c(0x550),
+                    'overflow': _0x4e8a0c(0x1ca),
+                    'pointerEvents': _0x4e8a0c(0x57b)
+                }
+            }, _0xf35eaf = _0x1157f0(_0x4e8a0c(0x489), {
+                'style': {
+                    'height': _0x4e8a0c(0x1a6),
+                    'width': _0x4e8a0c(0x1a6),
+                    'fontFamily': _0x4e8a0c(0x38d),
+                    'color': _0x4e8a0c(0x468),
+                    'backgroundColor': '#00a0ff',
+                    'border': _0x4e8a0c(0x3e5),
+                    'fontSize': '2rem',
+                    'cursor': _0x4e8a0c(0x5a2)
+                },
+                'innerHTML': '✥'
+            }), _0x1157f0(_0x4e8a0c(0x489), {
+                'style': {
+                    'height': _0x4e8a0c(0x1a6),
+                    'width': _0x4e8a0c(0x1a6),
+                    'fontFamily': _0x4e8a0c(0x38d),
+                    'color': _0x4e8a0c(0x468),
+                    'backgroundColor': _0x4e8a0c(0x217),
+                    'border': _0x4e8a0c(0x3e5),
+                    'fontSize': '2rem',
+                    'fontWeight': _0x4e8a0c(0x269),
+                    'cursor': _0x4e8a0c(0x562)
+                },
+                'innerHTML': '-',
+                'onclick': (function() {
+                    let _0x2d7339 = ![];
+                    return () => {
+                        const _0x1802c0 = _0x2593;
+                        for (let _0x67c97d of [..._0x58a346[_0x1802c0(0x286)]]) {
+                            if (_0x67c97d == _0xd907b1) continue;
+                            if (_0x2d7339) _0x67c97d[_0x1802c0(0x4d2)][_0x1802c0(0x41c)] = _0x67c97d['style'][_0x1802c0(0x1f5)];
+                            else _0x67c97d[_0x1802c0(0x4d2)][_0x1802c0(0x1f5)] = _0x67c97d[_0x1802c0(0x4d2)][_0x1802c0(0x41c)], _0x67c97d[_0x1802c0(0x4d2)]['display'] = _0x1802c0(0x3e5);
+                        };
+                        _0x58a346[_0x1802c0(0x4d2)][_0x1802c0(0x477)] = _0x2d7339 ? '100%' : _0x1802c0(0x1a6), _0x58a346[_0x1802c0(0x4d2)][_0x1802c0(0x105)] = _0x2d7339 ? _0x1802c0(0x599) : '165px', _0x3a32bf[_0x1802c0(0x4d2)][_0x1802c0(0x365)] = parseInt(_0x3a32bf[_0x1802c0(0x4d2)][_0x1802c0(0x365)]) + (_0x3a32bf[_0x1802c0(0xf2)] - 0x37) * (_0x2d7339 ? -0x1 : 0x1) + 'px', _0x3a32bf[_0x1802c0(0x4d2)][_0x1802c0(0x42a)] = parseInt(_0x3a32bf['style']['left']) + (_0x3a32bf[_0x1802c0(0x54d)] - 0xa5) * (_0x2d7339 ? -0x1 : 0x1) + 'px', _0x3a32bf[_0x1802c0(0x4d2)][_0x1802c0(0x386)] = _0x2d7339 ? _0x1802c0(0x4f9) : _0x1802c0(0x3e5), _0x2d7339 = !_0x2d7339;
+                    };
+                }())
+            }), _0x1157f0('button', {
+                'style': {
+                    'height': '55px',
+                    'width': '55px',
+                    'fontFamily': 'Nunito',
+                    'color': _0x4e8a0c(0x468),
+                    'backgroundColor': 'red',
+                    'border': _0x4e8a0c(0x3e5),
+                    'fontSize': '2rem',
+                    'fontWeight': 'bolder',
+                    'cursor': _0x4e8a0c(0x562)
+                },
+                'innerHTML': 'X',
+                'onclick': _0x5b9b1a
+            })), _0x3c5c12 = _0x1157f0('div', {
+                'className': 'cheatList',
+                'style': {
+                    'overflowY': _0x4e8a0c(0x211),
+                    'background': _0x4e8a0c(0x36d),
+                    'boxShadow': _0x4e8a0c(0x1c9),
+                    'zIndex': '5',
+                    'width': _0x4e8a0c(0x10e),
+                    'position': _0x4e8a0c(0x381),
+                    'top': '0',
+                    'left': '0',
+                    'height': _0x4e8a0c(0x599),
+                    'fontFamily': _0x4e8a0c(0x538),
+                    'color': 'var(--textColor)',
+                    'fontSize': '40px',
+                    'textAlign': 'center',
+                    'paddingTop': _0x4e8a0c(0x4df),
+                    'userSelect': _0x4e8a0c(0x3e5),
+                    'padding': _0x4e8a0c(0x2d3),
+                    'boxSizing': _0x4e8a0c(0x1e4),
+                    'display': 'flex',
+                    'flexDirection': _0x4e8a0c(0x4ad)
+                },
+                'innerHTML': _0x4e8a0c(0x11e)
+            }, _0x1157f0('a', {
+                'className': _0x4e8a0c(0x457),
+                'style': {
+                    'cursor': 'pointer',
+                    'display': _0x4e8a0c(0x245),
+                    'fontFamily': _0x4e8a0c(0x538),
+                    'margin': _0x4e8a0c(0x2ca),
+                    'position': _0x4e8a0c(0x1c5),
+                    'transition': _0x4e8a0c(0x147),
+                    'textDecoration': _0x4e8a0c(0x3e5),
+                    'userSelect': _0x4e8a0c(0x3e5),
+                    'visibility': _0x4e8a0c(0x162)
+                },
+                'target': '_blank',
+                'href': _0x4e8a0c(0x3b4),
+                'innerHTML': _0x4e8a0c(0x2e5)
+            })), _0x1157f0(_0x4e8a0c(0x1af), {
+                'className': _0x4e8a0c(0x4a7),
+                'style': {
+                    'position': 'absolute',
+                    'left': _0x4e8a0c(0x10e),
+                    'top': _0x4e8a0c(0x11d),
+                    'overflowY': _0x4e8a0c(0x211),
+                    'width': _0x4e8a0c(0xf7),
+                    'height': _0x4e8a0c(0x3ad),
+                    'borderRadius': '7px'
+                }
+            }, _0x463e78 = _0x1157f0(_0x4e8a0c(0x1af), {
+                'id': _0x4e8a0c(0x55e),
+                'style': {
+                    'position': _0x4e8a0c(0x381),
+                    'inset': '27px\x2050px\x2050px\x2050px'
+                }
+            }, _0x5ca7f8 = _0x1157f0(_0x4e8a0c(0x1af), {
+                'className': _0x4e8a0c(0x2e8),
+                'style': {
+                    'position': _0x4e8a0c(0x381),
+                    'top': '0',
+                    'left': '0',
+                    'backgroundColor': _0x4e8a0c(0x262),
+                    'height': 'fit-content',
+                    'maxWidth': _0x4e8a0c(0x14b),
+                    'zIndex': '5',
+                    'borderRadius': '7.5px',
+                    'color': _0x4e8a0c(0x468),
+                    'display': _0x4e8a0c(0x48e),
+                    'justifyContent': _0x4e8a0c(0x2ee),
+                    'alignItems': _0x4e8a0c(0x2ee),
+                    'padding': _0x4e8a0c(0x2c5),
+                    'paddingInline': _0x4e8a0c(0x2b5),
+                    'pointerEvents': _0x4e8a0c(0x3e5),
+                    'opacity': '0',
+                    'textAlign': _0x4e8a0c(0x2ee)
+                },
+                'innerText': 'description'
+            }), _0x3b24d8 = _0x1157f0(_0x4e8a0c(0x1af), {
+                'style': {
+                    'alignItems': _0x4e8a0c(0x2ee),
+                    'boxSizing': _0x4e8a0c(0x1e4),
+                    'display': _0x4e8a0c(0x48e),
+                    'flexDirection': _0x4e8a0c(0x4bb),
+                    'flexWrap': _0x4e8a0c(0x218),
+                    'justifyContent': 'space-evenly',
+                    'padding': '20px\x205px\x2020px',
+                    'position': 'relative',
+                    'width': _0x4e8a0c(0x599),
+                    'fontFamily': _0x4e8a0c(0x517),
+                    'fontWeight': '400',
+                    'color': _0x4e8a0c(0x585),
+                    'background': _0x4e8a0c(0x2ac),
+                    'boxShadow': 'inset\x200\x20-6px\x20rgb(0\x200\x200\x20/\x2020%)',
+                    'borderRadius': _0x4e8a0c(0x1dd)
+                }
+            }, _0x5e87e8 = _0x1157f0(_0x4e8a0c(0x1af), {
+                'className': _0x4e8a0c(0x2fa),
+                'style': {
+                    'boxSizing': _0x4e8a0c(0x1e4),
+                    'display': _0x4e8a0c(0x245),
+                    'height': '45px',
+                    'left': '-10px',
+                    'padding': _0x4e8a0c(0x1d3),
+                    'position': _0x4e8a0c(0x381),
+                    'top': _0x4e8a0c(0x287),
+                    'backgroundColor': _0x4e8a0c(0x33a),
+                    'boxShadow': _0x4e8a0c(0x165),
+                    'borderRadius': _0x4e8a0c(0x1dd)
+                }
+            }, _0x1157f0(_0x4e8a0c(0x1af), {
+                'style': {
+                    'alignItems': 'center',
+                    'boxSizing': _0x4e8a0c(0x1e4),
+                    'display': _0x4e8a0c(0x48e),
+                    'height': _0x4e8a0c(0x599),
+                    'justifyContent': _0x4e8a0c(0x2ee),
+                    'padding': '0\x2015px',
+                    'width': _0x4e8a0c(0x599),
+                    'fontFamily': _0x4e8a0c(0x3af),
+                    'fontSize': _0x4e8a0c(0x516),
+                    'fontWeight': _0x4e8a0c(0x49b),
+                    'textShadow': _0x4e8a0c(0x240),
+                    'color': _0x4e8a0c(0x468),
+                    'background': _0x4e8a0c(0x354),
+                    'borderRadius': _0x4e8a0c(0x2c5)
+                }
+            })))))));
+            for (const _0x11dc2c of document['querySelectorAll'](_0x4e8a0c(0x3f8))) _0x11dc2c['remove']();
+            document[_0x4e8a0c(0xee)][_0x4e8a0c(0x50f)](_0x3a32bf);
+
+            function _0x306786(_0x13bc07, _0x3ddcf0, _0x19e8d1, _0x4bebaa) {
+                const _0xeed97f = _0x4e8a0c,
+                    _0x47b55c = _0x1157f0(_0xeed97f(0x1af), {
+                        'className': _0xeed97f(0x13c),
+                        'innerHTML': (typeof _0x3ddcf0 == _0xeed97f(0x2a5) ? _0xeed97f(0x545) + _0x3ddcf0 + '\x22>' : _0x3ddcf0 ? _0x3ddcf0 : '') + _0x13bc07,
+                        'onclick': () => _0x1f99f8(_0x47b55c[_0xeed97f(0x3d8)], _0x19e8d1, _0x4bebaa)
+                    });
+                return _0x3c5c12['appendChild'](_0x47b55c), _0x47b55c['onclick'];
+            }
+            async function _0x1f99f8(_0x30f078, _0x2e14c5, _0x2d00ef) {
+                const _0x4b02cc = _0x4e8a0c;
+                _0x3b24d8[_0x4b02cc(0x544)] = '', _0x5e87e8[_0x4b02cc(0x537)]['innerText'] = '' + _0x30f078 + (_0x2d00ef ? '' : _0x4b02cc(0x3df)), _0x3b24d8[_0x4b02cc(0x34e)](_0x5e87e8);
+                for (let _0x4f039a = 0x0; _0x4f039a < _0x2e14c5['length']; _0x4f039a++) {
+                    let {
+                        name: _0x553d9e,
+                        description: _0x12af60,
+                        type: _0x5a2507,
+                        inputs: _0x4f8f64,
+                        enabled: _0x349fdb,
+                        run: _0x49ff9b,
+                        element: _0x51b2a8
+                    } = _0x2e14c5[_0x4f039a];
+                    if (!_0x51b2a8) {
+                        const _0x1e0727 = _0x1157f0(_0x4b02cc(0x1af), {
+                            'className': _0x4b02cc(0x34a),
+                            'style': {
+                                'background': _0x5a2507 == 'toggle' ? _0x349fdb ? _0x4b02cc(0x583) : 'var(--disabledButton)' : _0x4b02cc(0x3b6)
+                            }
+                        }, _0x1157f0(_0x4b02cc(0x1af), {
+                            'className': _0x4b02cc(0x420),
+                            'innerHTML': _0x553d9e
+                        }));
+                        _0x1e0727['dataset'][_0x4b02cc(0x1b7)] = _0x12af60;
+                        if (_0x4f8f64?.['length'])
+                            for (let _0x5677d4 = 0x0; _0x5677d4 < _0x4f8f64['length']; _0x5677d4++) {
+                                const {
+                                    name: _0x57fc32,
+                                    type: _0x1976c9,
+                                    options: _0xa16c3,
+                                    min: _0x3be329,
+                                    max: _0x5b00a0,
+                                    value: _0x1e4fe1
+                                } = _0x4f8f64[_0x5677d4];
+                                let _0xbe379a;
+                                try {
+                                    _0xbe379a = await (typeof _0xa16c3 == 'function' ? _0xa16c3?.() : _0xa16c3);
+                                } catch {
+                                    _0xbe379a = [];
+                                };
+                                if (_0x1976c9 == 'options' && _0xbe379a?.[_0x4b02cc(0x4ca)]) {
+                                    const _0x26c6ae = document[_0x4b02cc(0x32c)](_0x4b02cc(0x1ad));
+                                    _0xbe379a[_0x4b02cc(0x28d)](_0x300262 => {
+                                        const _0x51675a = _0x4b02cc,
+                                            _0x518006 = document[_0x51675a(0x32c)](_0x51675a(0x1f2));
+                                        _0x518006['value'] = JSON[_0x51675a(0x3b5)](_0x300262?.[_0x51675a(0x1e8)] || _0x300262), _0x518006['innerHTML'] = _0x300262?.['name'] || _0x300262, _0x26c6ae[_0x51675a(0x50f)](_0x518006);
+                                    }), _0x1e0727['appendChild'](_0x26c6ae);
+                                } else {
+                                    if (_0x1976c9 == 'function') {
+                                        const _0x28a408 = document['createElement']('input');
+                                        _0x28a408[_0x4b02cc(0x320)][_0x4b02cc(0x3f5)]('cheatInput'), _0x28a408[_0x4b02cc(0x441)] = _0x57fc32, _0x28a408[_0x4b02cc(0x4d2)]['textAlign'] = _0x4b02cc(0x2ee), _0x28a408['readOnly'] = !![];
+                                        let _0xf041a3 = ![];
+                                        _0x28a408[_0x4b02cc(0x152)] = async () => {
+                                            const _0x58bb7b = _0x4b02cc;
+                                            if (_0xf041a3) return;
+                                            _0x28a408[_0x58bb7b(0x1e8)] = _0x58bb7b(0x4e2), _0xf041a3 = !![], _0x28a408[_0x58bb7b(0x3dd)] = await _0x4f8f64[_0x5677d4][_0x58bb7b(0x45d)](_0x572ed3 => _0x28a408[_0x58bb7b(0x1e8)] = _0x572ed3 + '...'), _0xf041a3 = ![], _0x28a408[_0x58bb7b(0x1e8)] = _0x28a408[_0x58bb7b(0x1e8)][_0x58bb7b(0x18b)](0x0, -0x3);
+                                        }, _0x1e0727['appendChild'](_0x28a408);
+                                    } else {
+                                        const _0x2c8438 = document[_0x4b02cc(0x32c)](_0x4b02cc(0x465));
+                                        _0x2c8438['classList']['add'](_0x4b02cc(0x1e0));
+                                        _0x1976c9 == _0x4b02cc(0xf6) && (_0x2c8438[_0x4b02cc(0x4b9)] = _0x4b02cc(0xf6), _0x2c8438['min'] = _0x3be329, _0x2c8438[_0x4b02cc(0x1a2)] = _0x5b00a0, _0x2c8438[_0x4b02cc(0x1e8)] = _0x1e4fe1 || (_0x3be329 != null ? _0x3be329 : 0x0));;
+                                        _0x2c8438[_0x4b02cc(0x441)] = _0x57fc32, _0x2c8438[_0x4b02cc(0x4d2)]['textAlign'] = _0x4b02cc(0x2ee), _0x1e0727[_0x4b02cc(0x50f)](_0x2c8438);
+                                    }
+                                }
+                            };
+                        _0x1e0727[_0x4b02cc(0x152)] = function({
+                            target: _0x3c1f1e
+                        }) {
+                            const _0x5d5c6f = _0x4b02cc;
+                            if (_0x3c1f1e != _0x1e0727 && !_0x3c1f1e[_0x5d5c6f(0x320)]['contains']('cheatName')) return;
+                            let _0x398a02 = [..._0x1e0727['children']][_0x5d5c6f(0x18b)](0x1);
+                            _0x49ff9b[_0x5d5c6f(0x3d1)](this, _0x398a02[_0x5d5c6f(0x184)](_0x2898cf => _0x2898cf[_0x5d5c6f(0x4b9)] == _0x5d5c6f(0xf6) ? parseInt('0' + _0x2898cf['value']) : _0x2898cf[_0x5d5c6f(0x3b1)] == _0x5d5c6f(0x2fe) ? JSON[_0x5d5c6f(0x426)](_0x2898cf[_0x5d5c6f(0x1e8)]) : _0x2898cf[_0x5d5c6f(0x3dd)] || _0x2898cf[_0x5d5c6f(0x1e8)]));
+                            if (_0x5a2507 == 'toggle') _0x1e0727[_0x5d5c6f(0x4d2)][_0x5d5c6f(0x38e)] = this[_0x5d5c6f(0x1b6)] ? _0x5d5c6f(0x583) : 'var(--disabledButton)';
+                            _0x56d3c5['alerts']?.[0x0][_0x5d5c6f(0x492)]((_0x5a2507 == _0x5d5c6f(0x528) ? this[_0x5d5c6f(0x1b6)] ? _0x5d5c6f(0x119) : _0x5d5c6f(0x2aa) : _0x5d5c6f(0x2bf)) + _0x5d5c6f(0x59f) + this[_0x5d5c6f(0x378)] + _0x5d5c6f(0x4a6) + (_0x4f8f64?.[_0x5d5c6f(0x4ca)] ? _0x5d5c6f(0x34c) + _0x398a02[_0x5d5c6f(0x184)](_0x4f3bff => _0x4f3bff[_0x5d5c6f(0x3b1)] == _0x5d5c6f(0x2fe) ? _0x4f3bff['selectedOptions'][0x0][_0x5d5c6f(0x3d8)] : _0x4f3bff[_0x5d5c6f(0x1e8)])[_0x5d5c6f(0xfe)](',\x20') + ')' : ''), _0x5a2507 == _0x5d5c6f(0x528) ? this['enabled'] ? _0x5d5c6f(0x583) : _0x5d5c6f(0x187) : null);
+                        } ['bind'](_0x2e14c5[_0x4f039a]), _0x2e14c5[_0x4f039a][_0x4b02cc(0x319)] = _0x1e0727;
+                    }
+                    _0x3b24d8['appendChild'](_0x2e14c5[_0x4f039a][_0x4b02cc(0x319)]);
+                };
+            }
+            const _0x56d3c5 = {
+                'global': [{
+                    'name': _0x4e8a0c(0x19a),
+                    'description': _0x4e8a0c(0x143),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x8a28a8 = _0x4e8a0c;
+                        !this[_0x8a28a8(0x1b6)] ? (this[_0x8a28a8(0x1b6)] = !![], this[_0x8a28a8(0x3dd)] = setInterval(() => {
+                            const _0x13bd87 = _0x8a28a8,
+                                {
+                                    stateNode: {
+                                        state: {
+                                            question: _0x71d9b4,
+                                            stage: _0x52e136,
+                                            feedback: _0x1e5110
+                                        },
+                                        props: {
+                                            client: {
+                                                question: _0x313aa5
+                                            }
+                                        }
+                                    }
+                                } = Object['values'](document['querySelector'](_0x13bd87(0x29d)))[0x1]['children'][0x0][_0x13bd87(0x17b)],
+                                _0x39014f = _0x71d9b4 || _0x313aa5;
+                            try {
+                                if (_0x39014f[_0x13bd87(0x479)] != _0x13bd87(0x4ba)) {
+                                    if (_0x52e136 !== _0x13bd87(0x36b) && !_0x1e5110)[...document[_0x13bd87(0x248)](_0x13bd87(0x3e4))][_0x39014f[_0x13bd87(0x2bc)][_0x13bd87(0x184)]((_0x59897e, _0x4f8d19) => _0x39014f[_0x13bd87(0x536)][_0x13bd87(0x235)](_0x59897e) ? _0x4f8d19 : null)[_0x13bd87(0x3bc)](_0x55ac1d => _0x55ac1d != null)[0x0]]?.[_0x13bd87(0x2c0)]?.();
+                                    else document[_0x13bd87(0x343)](_0x13bd87(0x312))?.['firstChild']?.[_0x13bd87(0x2c0)]?.();
+                                } else Object['values'](document[_0x13bd87(0x343)](_0x13bd87(0x2d5)))[0x1][_0x13bd87(0x286)][_0x13bd87(0x17b)][_0x13bd87(0x490)][_0x13bd87(0x3ab)](_0x39014f['answers'][0x0]);
+                            } catch {}
+                        }, 0x32)) : (this[_0x8a28a8(0x1b6)] = ![], clearInterval(this[_0x8a28a8(0x3dd)]), this[_0x8a28a8(0x3dd)] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x215),
+                    'description': 'Toggles\x20highlight\x20answers\x20on',
+                    'type': 'toggle',
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x47708b = _0x4e8a0c;
+                        !this['enabled'] ? (this[_0x47708b(0x1b6)] = !![], this[_0x47708b(0x3dd)] = setInterval(() => {
+                            const _0x4e881f = _0x47708b,
+                                {
+                                    stateNode: {
+                                        state: _0x24f88a,
+                                        props: _0x28c2ee
+                                    }
+                                } = Object['values'](document[_0x4e881f(0x343)](_0x4e881f(0x29d)))[0x1][_0x4e881f(0x286)][0x0]['_owner'];
+                            [...document[_0x4e881f(0x248)](_0x4e881f(0x3e4))]['forEach']((_0x4e83e9, _0x3a03ef) => {
+                                const _0x455168 = _0x4e881f;
+                                if ((_0x24f88a['question'] || _0x28c2ee['client'][_0x455168(0x3ed)])[_0x455168(0x536)][_0x455168(0x235)]((_0x24f88a[_0x455168(0x3ed)] || _0x28c2ee['client'][_0x455168(0x3ed)])['answers'][_0x3a03ef])) _0x4e83e9[_0x455168(0x4d2)][_0x455168(0x274)] = _0x455168(0x37a);
+                                else _0x4e83e9[_0x455168(0x4d2)][_0x455168(0x274)] = _0x455168(0x58a);
+                            });
+                        }, 0x32)) : (this[_0x47708b(0x1b6)] = ![], clearInterval(this[_0x47708b(0x3dd)]), this[_0x47708b(0x3dd)] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4ef),
+                    'description': _0x4e8a0c(0x418),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x3631f5 = _0x4e8a0c;
+                        !this[_0x3631f5(0x1b6)] ? (this[_0x3631f5(0x1b6)] = !![], this[_0x3631f5(0x3dd)] = XMLHttpRequest[_0x3631f5(0x14e)][_0x3631f5(0x38b)], XMLHttpRequest[_0x3631f5(0x14e)][_0x3631f5(0x2f7)] ||= XMLHttpRequest[_0x3631f5(0x14e)][_0x3631f5(0x38b)], XMLHttpRequest['prototype'][_0x3631f5(0x38b)] = function() {
+                            const _0x164ac7 = _0x3631f5;
+                            this['addEventListener'](_0x164ac7(0x587), async function() {
+                                const _0x59a748 = _0x164ac7;
+                                try {
+                                    if (this[_0x59a748(0x460)] !== _0x59a748(0x47d)) return;
+                                    var _0x4cea23 = Object['values'](webpackJsonp[_0x59a748(0x3b3)]([
+                                            [], {
+                                                ['']: (_0x4d3fb4, _0x504680, _0x30b256) => {
+                                                    const _0x2ded77 = _0x59a748;
+                                                    _0x504680[_0x2ded77(0x10d)] = _0x30b256['c'];
+                                                }
+                                            },
+                                            [
+                                                ['']
+                                            ]
+                                        ])[_0x59a748(0x10d)])[_0x59a748(0x560)](_0x4e9469 => _0x4e9469['exports']?.['a']?.[_0x59a748(0x3e1)])[_0x59a748(0x3c3)]['a'],
+                                        {
+                                            rarity: _0xd25f7b
+                                        } = webpackJsonp[_0x59a748(0x3b3)]([
+                                            [], {
+                                                [_0x59a748(0x475)]: (_0x453e09, _0x508863, _0x4a0061) => {
+                                                    const _0x3c044a = _0x59a748;
+                                                    _0x508863[_0x3c044a(0x475)] = _0x41bef4 => _0x4a0061(_0x3c044a(0x4a4))['a'][_0x41bef4][_0x3c044a(0x475)];
+                                                }
+                                            },
+                                            [
+                                                [_0x59a748(0x475)]
+                                            ]
+                                        ]);
+                                    const {
+                                        unlockedBlook: _0x106603
+                                    } = JSON['parse'](this[_0x59a748(0x2f8)]), {
+                                        data: {
+                                            name: _0x26fffd,
+                                            unlocks: _0x30db11
+                                        }
+                                    } = await _0x4cea23[_0x59a748(0x3e1)](_0x59a748(0xef));
+                                    if (!_0x30db11[_0x106603] || [_0x59a748(0x458), _0x59a748(0x383), _0x59a748(0x52d)][_0x59a748(0x235)](_0xd25f7b(_0x106603))) return;
+                                    await _0x4cea23[_0x59a748(0x1d6)](_0x59a748(0x316), {
+                                        'name': _0x26fffd,
+                                        'blook': _0x106603,
+                                        'numSold': 0x1
+                                    }), console[_0x59a748(0x224)]('Sold\x20duplicate\x20' + _0x106603);
+                                } catch {}
+                            }), XMLHttpRequest[_0x164ac7(0x14e)][_0x164ac7(0x2f7)][_0x164ac7(0x3d1)](this, arguments);
+                        }) : (this[_0x3631f5(0x1b6)] = ![], XMLHttpRequest[_0x3631f5(0x14e)][_0x3631f5(0x38b)] = this[_0x3631f5(0x3dd)]);
+                    }
+                }, {
+                    'name': 'Auto\x20Answer',
+                    'description': _0x4e8a0c(0x524),
+                    'run': function() {
+                        const _0x25313f = _0x4e8a0c,
+                            {
+                                stateNode: {
+                                    state: {
+                                        question: _0x206440,
+                                        stage: _0x231329,
+                                        feedback: _0x599561
+                                    },
+                                    props: {
+                                        client: {
+                                            question: _0x1a37f3
+                                        }
+                                    }
+                                }
+                            } = Object[_0x25313f(0x48c)](document['querySelector'](_0x25313f(0x29d)))[0x1]['children'][0x0][_0x25313f(0x17b)];
+                        try {
+                            if (_0x206440[_0x25313f(0x479)] != _0x25313f(0x4ba)) {
+                                if (_0x231329 !== _0x25313f(0x36b) && !_0x599561)[...document['querySelectorAll'](_0x25313f(0x3e4))][(_0x206440 || _0x1a37f3)['answers'][_0x25313f(0x184)]((_0x13d90a, _0x465baa) => (_0x206440 || _0x1a37f3)[_0x25313f(0x536)][_0x25313f(0x235)](_0x13d90a) ? _0x465baa : null)[_0x25313f(0x3bc)](_0x18d03c => _0x18d03c != null)[0x0]]?.[_0x25313f(0x2c0)]?.();
+                                else document['querySelector'](_0x25313f(0x312))?.[_0x25313f(0x537)]?.[_0x25313f(0x2c0)]?.();
+                            } else Object[_0x25313f(0x48c)](document[_0x25313f(0x343)](_0x25313f(0x2d5)))[0x1][_0x25313f(0x286)][_0x25313f(0x17b)][_0x25313f(0x490)][_0x25313f(0x3ab)](_0x206440[_0x25313f(0x2bc)][0x0]);
+                        } catch {}
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4eb),
+                    'description': _0x4e8a0c(0x1fb),
+                    'inputs': [{
+                        'name': 'Box',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': () => {
+                            return new Promise(_0x288a0b => {
+                                const _0x421a09 = _0x2593;
+                                _0x288a0b(Object[_0x421a09(0x549)](Object[_0x421a09(0x48c)](webpackJsonp[_0x421a09(0x3b3)]([
+                                    [], {
+                                        ['1234']: (_0x1d8052, _0xd7701b, _0x1aa8cd) => {
+                                            const _0x1eb7ab = _0x421a09;
+                                            _0xd7701b[_0x1eb7ab(0x3e8)] = _0x1aa8cd;
+                                        }
+                                    },
+                                    [
+                                        [_0x421a09(0x238)]
+                                    ]
+                                ])[_0x421a09(0x3e8)]['c'])[_0x421a09(0x560)](_0x4297a9 => _0x4297a9?.[_0x421a09(0x3c3)]?.['a']?.[_0x421a09(0x23f)])?.[_0x421a09(0x3c3)]['a'] || {}));
+                            });
+                        }
+                    }, {
+                        'name': 'Amount',
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x3dccde, _0x52f274) {
+                        const _0x1da271 = _0x4e8a0c;
+                        let _0x533e62 = document[_0x1da271(0x32c)]('iframe');
+                        document['body'][_0x1da271(0x34e)](_0x533e62), window[_0x1da271(0x45b)] = _0x533e62[_0x1da271(0x13e)][_0x1da271(0x45b)]['bind'](window), window[_0x1da271(0x3fa)] = _0x533e62['contentWindow'][_0x1da271(0x3fa)]['bind'](window), window['confirm'] = _0x533e62[_0x1da271(0x13e)][_0x1da271(0x3d4)][_0x1da271(0x234)](window), _0x533e62['remove']();
+                        var _0x2b5768 = Object[_0x1da271(0x48c)](webpackJsonp[_0x1da271(0x3b3)]([
+                                [], {
+                                    ['']: (_0x47ac96, _0xd06c7a, _0x8ebbdf) => {
+                                        const _0x1827a7 = _0x1da271;
+                                        _0xd06c7a[_0x1827a7(0x10d)] = _0x8ebbdf['c'];
+                                    }
+                                },
+                                [
+                                    ['']
+                                ]
+                            ])[_0x1da271(0x10d)]),
+                            _0x146b3c = _0x2b5768[_0x1da271(0x560)](_0x1d311e => _0x1d311e[_0x1da271(0x3c3)]?.['a']?.[_0x1da271(0x3e1)])[_0x1da271(0x3c3)]['a'];
+                        _0x3dccde = _0x3dccde[_0x1da271(0x144)]('\x20')[_0x1da271(0x184)](_0x580c7b => _0x580c7b[_0x1da271(0x5a1)](0x0)['toUpperCase']() + _0x580c7b[_0x1da271(0x18b)](0x1)[_0x1da271(0x4a3)]())[_0x1da271(0xfe)]('\x20'), _0x146b3c[_0x1da271(0x3e1)](_0x1da271(0xef))['then'](async ({
+                            data: {
+                                name: _0x132fc3,
+                                tokens: _0x2297a3
+                            }
+                        }) => {
+                            const _0x3b5dcd = _0x1da271;
+                            let _0x12a943 = _0x2b5768[_0x3b5dcd(0x560)](_0x4e82fc => _0x4e82fc?.[_0x3b5dcd(0x3c3)]?.['a']?.[_0x3b5dcd(0x23f)])?.[_0x3b5dcd(0x3c3)]?.['a'] || {
+                                    'Medieval': 0xf,
+                                    'Breakfast': 0xf,
+                                    'Wonderland': 0xf,
+                                    'Space': 0x14,
+                                    'Bot': 0x14,
+                                    'Aquatic': 0x14,
+                                    'Safari': 0x14,
+                                    'Dino': 0x19,
+                                    'Ice\x20Monster': 0x19
+                                },
+                                _0x25c5bf = Math[_0x3b5dcd(0x2c9)](Math['floor'](_0x2297a3 / _0x12a943[_0x3dccde]), _0x52f274);
+                            if (_0x25c5bf == 0x0) {
+                                if (_0x52f274 > 0x0) alert(_0x3b5dcd(0x2f3));
+                                return;
+                            };
+                            let _0x548b82 = confirm(_0x3b5dcd(0x2ef)),
+                                _0xb7381f = {},
+                                _0x22df80 = Date['now'](),
+                                _0x128c09 = ![];
+                            for (let _0x52b361 = 0x0; _0x52b361 < _0x25c5bf; _0x52b361++) {
+                                await _0x146b3c[_0x3b5dcd(0x1d6)](_0x3b5dcd(0x47d), {
+                                    'name': _0x132fc3,
+                                    'box': _0x3dccde
+                                })[_0x3b5dcd(0x3dc)](({
+                                    data: {
+                                        unlockedBlook: _0x124c56,
+                                        tokens: _0x2d3634,
+                                        isNewBlook: _0x1b5503
+                                    }
+                                }) => {
+                                    const _0x322181 = _0x3b5dcd;
+                                    _0xb7381f[_0x124c56] ||= 0x0, _0xb7381f[_0x124c56]++;
+                                    let _0x352843 = Date[_0x322181(0x15f)]();
+                                    if (_0x548b82) alert(_0x124c56 + '\x20(' + (_0x52b361 + 0x1) + '/' + _0x25c5bf + ')\x20' + (_0x1b5503 ? _0x322181(0x3db) : '') + _0x2d3634 + _0x322181(0x35d));
+                                    _0x22df80 += Date[_0x322181(0x15f)]() - _0x352843;
+                                })[_0x3b5dcd(0x10b)](_0x40c709 => _0x128c09 = !![]);
+                                if (_0x128c09) break;
+                            };
+                            alert('(' + (Date[_0x3b5dcd(0x15f)]() - _0x22df80) + _0x3b5dcd(0xf1) + Object['entries'](_0xb7381f)[_0x3b5dcd(0x184)](([_0x31f5f3, _0x18596b]) => _0x3b5dcd(0x371) + _0x31f5f3 + '\x20' + _0x18596b)[_0x3b5dcd(0xfe)]('\x0a'));
+                        })[_0x1da271(0x10b)](() => alert(_0x1da271(0x1ed)));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x483),
+                    'description': _0x4e8a0c(0x498),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x2fb),
+                        'type': _0x4e8a0c(0x2a5)
+                    }, {
+                        'name': _0x4e8a0c(0x1d5),
+                        'type': _0x4e8a0c(0x2a5)
+                    }, {
+                        'name': 'Amount',
+                        'type': 'number'
+                    }, {
+                        'name': 'Blook',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': async () => {
+                            const _0x318c19 = _0x4e8a0c;
+                            let {
+                                webpack: _0x389a90
+                            } = webpackJsonp[_0x318c19(0x3b3)]([
+                                [], {
+                                    [_0x318c19(0x238)]: (_0x2c15c2, _0x1cd1bd, _0x36bc05) => {
+                                        _0x1cd1bd['webpack'] = _0x36bc05;
+                                    }
+                                },
+                                [
+                                    [_0x318c19(0x238)]
+                                ]
+                            ]);
+                            return Object[_0x318c19(0x549)](Object[_0x318c19(0x48c)](_0x389a90['c'])[_0x318c19(0x560)](_0x2f502e => _0x2f502e[_0x318c19(0x3c3)]['a']?.[_0x318c19(0x2ba)] && _0x2f502e[_0x318c19(0x3c3)]['a']?.[_0x318c19(0x2c3)])[_0x318c19(0x3c3)]['a']);
+                        }
+                    }, {
+                        'name': 'Banner',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': Object['entries']({
+                            'Starter': _0x4e8a0c(0x58f),
+                            'Chalkboard': _0x4e8a0c(0x3da),
+                            'Slime': _0x4e8a0c(0x35a),
+                            'Bookshelf': _0x4e8a0c(0x4a1),
+                            'Toaster\x20Pastry': _0x4e8a0c(0x539),
+                            'Theater': _0x4e8a0c(0x4b0),
+                            'Sushi': _0x4e8a0c(0x18d),
+                            'Workbench': _0x4e8a0c(0x40b),
+                            'Spooky': _0x4e8a0c(0x480),
+                            'Spiders': _0x4e8a0c(0xfb),
+                            'Coffin': _0x4e8a0c(0x13a),
+                            'Pumpkins': _0x4e8a0c(0x573),
+                            'Falling\x20Blocks': 'fallingBlocks',
+                            'Racetrack': _0x4e8a0c(0x4b5),
+                            'Harvest': 'harvest',
+                            'Leaves': _0x4e8a0c(0x578),
+                            'Fall\x20Picnic': _0x4e8a0c(0x242),
+                            'Winter\x20Drive': _0x4e8a0c(0x2fc),
+                            'Winter\x20Train': 'winterTrain',
+                            'Ice': _0x4e8a0c(0x58c),
+                            'Gifts': _0x4e8a0c(0x412),
+                            'Christmas\x20Tree': _0x4e8a0c(0x4d9),
+                            'Soccer\x20Field': _0x4e8a0c(0x50c),
+                            'Winter\x20Landscape': _0x4e8a0c(0x576),
+                            'Football\x20Field': 'footballField',
+                            'Outer\x20Space': _0x4e8a0c(0x183),
+                            'Hockey\x20Rink': _0x4e8a0c(0x4a5),
+                            'Music\x20Class': _0x4e8a0c(0x178),
+                            'Ice\x20Cream\x20Sandwich': _0x4e8a0c(0x12e),
+                            'Science\x20Class': 'scienceClass',
+                            'Fish\x20Tank': 'fishTank',
+                            'Art\x20Class': _0x4e8a0c(0x423),
+                            'Clockwork': _0x4e8a0c(0x141),
+                            'Love\x20Letter': 'loveLetter',
+                            'Farm': _0x4e8a0c(0x2cd),
+                            'Chocolate': 'chocolate',
+                            'Tech\x20Chip': 'techChip',
+                            'Fire': _0x4e8a0c(0x509),
+                            'Orange\x20Ice\x20Pop': _0x4e8a0c(0x130)
+                        })[_0x4e8a0c(0x184)](([_0x241ba5, _0x411f5f]) => ({
+                            'name': _0x241ba5,
+                            'value': _0x411f5f
+                        }))
+                    }],
+                    'run': async function(_0x3b2af9, _0x6dc352, _0x2d2783, _0x24c3c3, _0x549ffc) {
+                        const _0x2c0ec0 = _0x4e8a0c;
+                        let {
+                            webpack: _0x1959a6
+                        } = webpackJsonp[_0x2c0ec0(0x3b3)]([
+                            [], {
+                                [_0x2c0ec0(0x238)]: (_0x1e0dd7, _0xc8feeb, _0x231868) => {
+                                    const _0x12eb80 = _0x2c0ec0;
+                                    _0xc8feeb[_0x12eb80(0x3e8)] = _0x231868;
+                                }
+                            },
+                            [
+                                [_0x2c0ec0(0x238)]
+                            ]
+                        ]);
+                        const _0xe29086 = Object[_0x2c0ec0(0x48c)](_0x1959a6['c'])[_0x2c0ec0(0x560)](_0x2ad7cd => _0x2ad7cd[_0x2c0ec0(0x3c3)]?.['a']?.['get'])[_0x2c0ec0(0x3c3)]['a'],
+                            _0x19a8f3 = Object[_0x2c0ec0(0x48c)](_0x1959a6['c'])['find'](_0x57b08d => _0x57b08d[_0x2c0ec0(0x3c3)]?.['a']?.[_0x2c0ec0(0x3d2)])['exports']['a'];
+                        for (let _0x5ea8d9 = 0x1; _0x5ea8d9 <= _0x2d2783; _0x5ea8d9++) {
+                            ((async () => {
+                                const _0x3c72af = _0x2c0ec0,
+                                    {
+                                        data: {
+                                            success: _0x432bb0,
+                                            fbToken: _0xa973c1,
+                                            fbShardURL: _0x2fa949
+                                        }
+                                    } = await _0xe29086[_0x3c72af(0x1d6)]('https://fb.blooket.com/c/firebase/join', {
+                                        'id': _0x3b2af9,
+                                        'name': '' + _0x6dc352 + _0x5ea8d9
+                                    });
+                                if (!_0x432bb0) return;
+                                const _0x106f26 = _0x19a8f3['initializeApp']({
+                                        'apiKey': _0x3c72af(0x54e),
+                                        'authDomain': 'blooket-2020.firebaseapp.com',
+                                        'projectId': _0x3c72af(0x474),
+                                        'storageBucket': _0x3c72af(0x53a),
+                                        'messagingSenderId': _0x3c72af(0x336),
+                                        'appId': '1:741533559105:web:b8cbb10e6123f2913519c0',
+                                        'measurementId': _0x3c72af(0x1f0),
+                                        'databaseURL': _0x2fa949
+                                    }, '' + _0x6dc352 + _0x5ea8d9),
+                                    _0x3754e5 = _0x19a8f3[_0x3c72af(0x392)](_0x106f26);
+                                await _0x3754e5[_0x3c72af(0x121)](_0x19a8f3[_0x3c72af(0x392)][_0x3c72af(0x265)][_0x3c72af(0x29b)][_0x3c72af(0x15a)])[_0x3c72af(0x10b)](console[_0x3c72af(0x3c7)]), await _0x3754e5[_0x3c72af(0x253)](_0xa973c1)[_0x3c72af(0x10b)](console[_0x3c72af(0x3c7)]), await _0x106f26[_0x3c72af(0x3b8)]()[_0x3c72af(0x2be)](_0x3b2af9 + _0x3c72af(0x329) + _0x6dc352 + _0x5ea8d9)[_0x3c72af(0x22a)]({
+                                    'b': _0x24c3c3,
+                                    'bg': _0x549ffc
+                                }), _0x106f26[_0x3c72af(0x405)]();
+                            })()), await new Promise(_0x2a4f19 => setTimeout(_0x2a4f19, 0x64));
+                        }
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x471),
+                    'description': _0x4e8a0c(0x2e4),
+                    'run': function() {
+                        const _0x451c7c = _0x4e8a0c;
+                        let _0x1bd716 = document[_0x451c7c(0x32c)](_0x451c7c(0x394));
+                        document['body'][_0x451c7c(0x34e)](_0x1bd716), window[_0x451c7c(0x45b)] = _0x1bd716['contentWindow'][_0x451c7c(0x45b)][_0x451c7c(0x234)](window), _0x1bd716['remove']();
+                        if (!location[_0x451c7c(0x20d)][_0x451c7c(0x235)](_0x451c7c(0x21a))) alert(_0x451c7c(0x323)), window[_0x451c7c(0x38b)](_0x451c7c(0x525));
+                        else {
+                            var _0x339610 = Object[_0x451c7c(0x48c)](webpackJsonp[_0x451c7c(0x3b3)]([
+                                [], {
+                                    ['']: (_0x444866, _0x1db4ab, _0x1fea3c) => {
+                                        const _0x2cb338 = _0x451c7c;
+                                        _0x1db4ab[_0x2cb338(0x10d)] = _0x1fea3c['c'];
+                                    }
+                                },
+                                [
+                                    ['']
+                                ]
+                            ])[_0x451c7c(0x10d)])[_0x451c7c(0x560)](_0x47e66f => _0x47e66f[_0x451c7c(0x3c3)]?.['a']?.[_0x451c7c(0x3e1)])['exports']['a'];
+                            _0x339610[_0x451c7c(0x2dd)](_0x451c7c(0x48a), {
+                                'gameMode': _0x451c7c(0x1a9)
+                            })[_0x451c7c(0x3dc)](({
+                                data: {
+                                    t: _0x1f750b
+                                }
+                            }) => {
+                                const _0x52027c = _0x451c7c;
+                                _0x339610['get'](_0x52027c(0x34d))[_0x52027c(0x3dc)](({
+                                    data: {
+                                        name: _0x3858ac
+                                    }
+                                }) => {
+                                    const _0x502c7b = _0x52027c;
+                                    _0x339610[_0x502c7b(0x1d6)](_0x502c7b(0x197), {
+                                        't': _0x1f750b,
+                                        'name': _0x3858ac,
+                                        'addedTokens': 0x1f4,
+                                        'addedXp': 0x12c
+                                    })[_0x502c7b(0x3dc)](({
+                                        data: {
+                                            dailyReward: _0x1da690
+                                        }
+                                    }) => alert('Added\x20max\x20tokens\x20and\x20xp,\x20and\x20got\x20' + _0x1da690 + _0x502c7b(0x284)))[_0x502c7b(0x10b)](() => alert(_0x502c7b(0x186)));
+                                })[_0x52027c(0x10b)](() => alert(_0x52027c(0x51a)));
+                            });
+                        }
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x372),
+                    'description': _0x4e8a0c(0x4f7),
+                    'run': function() {
+                        const _0x40f34a = _0x4e8a0c,
+                            {
+                                stateNode: _0x19e83e
+                            } = Object[_0x40f34a(0x48c)](document[_0x40f34a(0x343)](_0x40f34a(0x29d)))[0x1][_0x40f34a(0x286)][0x0]['_owner'],
+                            _0x353559 = webpackJsonp[_0x40f34a(0x3b3)]([
+                                [], {
+                                    ['1234']: (_0x75b195, _0x1c7a1f, _0x5737c4) => {
+                                        _0x1c7a1f['webpack'] = _0x5737c4;
+                                    }
+                                },
+                                [
+                                    [_0x40f34a(0x238)]
+                                ]
+                            ])[_0x40f34a(0x3e8)](_0x40f34a(0x4a4))['a'];
+                        if (location[_0x40f34a(0x3d3)] == _0x40f34a(0x3c8)) _0x19e83e[_0x40f34a(0x202)]({
+                            'blookData': Object[_0x40f34a(0x549)](_0x353559)['reduce']((_0x3e0708, _0x41dfc) => (_0x3e0708[_0x41dfc] = _0x19e83e[_0x40f34a(0x373)][_0x40f34a(0x1b5)][_0x41dfc] || 0x1, _0x3e0708), {}),
+                            'allSets': Object[_0x40f34a(0x48c)](_0x353559)['reduce']((_0x1d8a07, _0x28e94c) => _0x1d8a07[_0x40f34a(0x235)](_0x28e94c[_0x40f34a(0x22a)]) ? _0x1d8a07 : _0x1d8a07[_0x40f34a(0x404)](_0x28e94c[_0x40f34a(0x22a)]), [])
+                        });
+                        else {
+                            if (Array[_0x40f34a(0x2d2)](_0x19e83e[_0x40f34a(0x373)]['unlocks'])) _0x19e83e['setState']({
+                                'unlocks': Object[_0x40f34a(0x549)](_0x353559)
+                            });
+                            else _0x19e83e[_0x40f34a(0x202)]({
+                                'unlocks': _0x353559
+                            });
+                        }
+                    }
+                }, {
+                    'name': 'Every\x20Answer\x20Correct',
+                    'description': _0x4e8a0c(0x1ff),
+                    'run': function() {
+                        const _0x9da535 = _0x4e8a0c,
+                            {
+                                stateNode: _0x504229
+                            } = Object[_0x9da535(0x48c)](document['querySelector'](_0x9da535(0x29d)))[0x1][_0x9da535(0x286)][0x0][_0x9da535(0x17b)];
+                        _0x504229[_0x9da535(0x2ae)] = _0x504229['questions'] = _0x504229[_0x9da535(0x27b)]['client'][_0x9da535(0x456)][_0x9da535(0x184)](_0x5d5c37 => ({
+                            ..._0x5d5c37,
+                            'correctAnswers': _0x5d5c37[_0x9da535(0x2bc)]
+                        }));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4fb),
+                    'description': _0x4e8a0c(0x340),
+                    'run': function() {
+                        const _0x42e97c = _0x4e8a0c,
+                            {
+                                stateNode: {
+                                    state: _0x5933e3,
+                                    props: _0x350f01
+                                }
+                            } = Object[_0x42e97c(0x48c)](document['querySelector']('#app\x20>\x20div\x20>\x20div'))[0x1][_0x42e97c(0x286)][0x0]['_owner'];
+                        [...document[_0x42e97c(0x248)](_0x42e97c(0x3e4))][_0x42e97c(0x28d)]((_0x48b276, _0x28e08a) => {
+                            const _0x183651 = _0x42e97c;
+                            if ((_0x5933e3[_0x183651(0x3ed)] || _0x350f01[_0x183651(0x4f3)][_0x183651(0x3ed)])[_0x183651(0x536)]['includes']((_0x5933e3[_0x183651(0x3ed)] || _0x350f01[_0x183651(0x4f3)][_0x183651(0x3ed)])[_0x183651(0x2bc)][_0x28e08a])) _0x48b276['style'][_0x183651(0x274)] = _0x183651(0x37a);
+                            else _0x48b276[_0x183651(0x4d2)][_0x183651(0x274)] = _0x183651(0x58a);
+                        });
+                    }
+                }, {
+                    'name': 'Remove\x20Name\x20Limit',
+                    'description': _0x4e8a0c(0x385),
+                    'run': function() {
+                        const _0x173eee = _0x4e8a0c;
+                        let _0x12c5b8 = document[_0x173eee(0x32c)]('iframe');
+                        document['body']['append'](_0x12c5b8), window['alert'] = _0x12c5b8[_0x173eee(0x13e)][_0x173eee(0x45b)][_0x173eee(0x234)](window), _0x12c5b8[_0x173eee(0x50d)](), document[_0x173eee(0x343)](_0x173eee(0x31d))[_0x173eee(0x3e9)] = 0x78, alert(_0x173eee(0x294));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x24a),
+                    'description': _0x4e8a0c(0x3c0),
+                    'run': function() {
+                        const _0x88d5d2 = _0x4e8a0c;
+                        Object[_0x88d5d2(0x48c)](document['querySelector'](_0x88d5d2(0x29d)))[0x1][_0x88d5d2(0x286)][0x0][_0x88d5d2(0x17b)][_0x88d5d2(0x490)][_0x88d5d2(0x202)]({
+                            'isRandom': ![],
+                            'client': {
+                                'name': ''
+                            }
+                        }), document['querySelector'](_0x88d5d2(0x4e4))?.[_0x88d5d2(0x302)]?.();
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x2b2),
+                    'description': _0x4e8a0c(0x264),
+                    'run': function() {
+                        const _0x251799 = _0x4e8a0c;
+                        let _0x4dbd55 = document[_0x251799(0x32c)](_0x251799(0x394));
+                        document['body'][_0x251799(0x34e)](_0x4dbd55), window['alert'] = _0x4dbd55[_0x251799(0x13e)][_0x251799(0x45b)][_0x251799(0x234)](window), window['confirm'] = _0x4dbd55['contentWindow']['confirm'][_0x251799(0x234)](window), _0x4dbd55[_0x251799(0x50d)]();
+                        var _0x42aa45 = Object[_0x251799(0x48c)](webpackJsonp[_0x251799(0x3b3)]([
+                            [], {
+                                ['']: (_0x31b315, _0x347e5a, _0x716eaf) => {
+                                    const _0x359d50 = _0x251799;
+                                    _0x347e5a[_0x359d50(0x10d)] = _0x716eaf['c'];
+                                }
+                            },
+                            [
+                                ['']
+                            ]
+                        ])[_0x251799(0x10d)])[_0x251799(0x560)](_0x5a2a97 => _0x5a2a97[_0x251799(0x3c3)]?.['a']?.[_0x251799(0x3e1)])[_0x251799(0x3c3)]['a'];
+                        _0x42aa45['get'](_0x251799(0xef))[_0x251799(0x3dc)](async ({
+                            data: {
+                                name: _0x2e01ff,
+                                unlocks: _0x43f4b4
+                            }
+                        }) => {
+                            const _0x2b9e72 = _0x251799;
+                            let _0x2f9cab = Object[_0x2b9e72(0x541)](_0x43f4b4)[_0x2b9e72(0x3bc)](([_0x5864a2, _0x224aa6]) => _0x224aa6 > 0x1 && ![_0x2b9e72(0x458), 'Chroma', _0x2b9e72(0x52d)][_0x2b9e72(0x235)](webpackJsonp['push']([
+                                [], {
+                                    [_0x2b9e72(0x238)]: (_0x2ab86d, _0x2e79b1, _0x39a12c) => {
+                                        _0x2e79b1['webpack'] = _0x39a12c;
+                                    }
+                                },
+                                [
+                                    [_0x2b9e72(0x238)]
+                                ]
+                            ])[_0x2b9e72(0x3e8)](_0x2b9e72(0x4a4))['a'][_0x5864a2]['rarity']));
+                            if (confirm(_0x2b9e72(0x55d))) {
+                                let _0x5dfaea = Date[_0x2b9e72(0x15f)]();
+                                for (const [_0x1011f1, _0x2926e3] of _0x2f9cab) await _0x42aa45[_0x2b9e72(0x1d6)](_0x2b9e72(0x316), {
+                                    'name': _0x2e01ff,
+                                    'blook': _0x1011f1,
+                                    'numSold': _0x2926e3 - 0x1
+                                });
+                                alert('(' + (Date[_0x2b9e72(0x15f)]() - _0x5dfaea) + _0x2b9e72(0xf1) + _0x2f9cab['map'](([_0x22cdd3, _0x53ea8a]) => _0x2b9e72(0x371) + _0x22cdd3 + '\x20' + (_0x53ea8a - 0x1))['join']('\x0a'));
+                            }
+                        })[_0x251799(0x10b)](() => alert(_0x251799(0x1ed)));
+                    }
+                }, {
+                    'name': 'Sell\x20Duplicate\x20Blooks',
+                    'description': _0x4e8a0c(0x1e1),
+                    'run': function() {
+                        const _0x128e44 = _0x4e8a0c;
+                        let _0x5b272a = document['createElement']('iframe');
+                        document['body'][_0x128e44(0x34e)](_0x5b272a), window[_0x128e44(0x45b)] = _0x5b272a['contentWindow'][_0x128e44(0x45b)]['bind'](window), window[_0x128e44(0x3d4)] = _0x5b272a['contentWindow'][_0x128e44(0x3d4)][_0x128e44(0x234)](window), _0x5b272a[_0x128e44(0x50d)]();
+                        var _0x9df091 = Object[_0x128e44(0x48c)](webpackJsonp[_0x128e44(0x3b3)]([
+                            [], {
+                                ['']: (_0x2ad378, _0x12219a, _0x2b7312) => {
+                                    const _0x38ef66 = _0x128e44;
+                                    _0x12219a[_0x38ef66(0x10d)] = _0x2b7312['c'];
+                                }
+                            },
+                            [
+                                ['']
+                            ]
+                        ])['cache'])[_0x128e44(0x560)](_0x2097f6 => _0x2097f6['exports']?.['a']?.[_0x128e44(0x3e1)])[_0x128e44(0x3c3)]['a'];
+                        _0x9df091[_0x128e44(0x3e1)](_0x128e44(0xef))[_0x128e44(0x3dc)](async ({
+                            data: {
+                                name: _0x49ae0d,
+                                unlocks: _0x529e31
+                            }
+                        }) => {
+                            const _0x31560a = _0x128e44;
+                            let _0x51fbb4 = Object[_0x31560a(0x541)](_0x529e31)['filter'](_0x5a9131 => _0x5a9131[0x1] > 0x1);
+                            if (confirm(_0x31560a(0x321))) {
+                                let _0x546904 = Date[_0x31560a(0x15f)]();
+                                for (const [_0x100657, _0x49c1fb] of _0x51fbb4) await _0x9df091[_0x31560a(0x1d6)](_0x31560a(0x316), {
+                                    'name': _0x49ae0d,
+                                    'blook': _0x100657,
+                                    'numSold': _0x49c1fb - 0x1
+                                });
+                                alert('(' + (Date['now']() - _0x546904) + _0x31560a(0xf1) + _0x51fbb4[_0x31560a(0x184)](([_0x2f4eb5, _0x43710e]) => _0x31560a(0x371) + _0x2f4eb5 + '\x20' + (_0x43710e - 0x1))[_0x31560a(0xfe)]('\x0a'));
+                            }
+                        })[_0x128e44(0x10b)](() => alert(_0x128e44(0x1ed)));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x108),
+                    'description': _0x4e8a0c(0x2d8),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x421),
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': async () => {
+                            const _0x2b151a = _0x4e8a0c;
+                            return Array[_0x2b151a(0x425)](document[_0x2b151a(0x248)](_0x2b151a(0x4e7)))[_0x2b151a(0x184)](_0x12151a => _0x12151a[_0x2b151a(0x570)]);
+                        }
+                    }],
+                    'run': (function() {
+                        const _0x47d359 = _0x4e8a0c;
+                        let {
+                            webpack: _0x10d001
+                        } = webpackJsonp[_0x47d359(0x3b3)]([
+                            [], {
+                                [_0x47d359(0x238)]: (_0x1133d6, _0x4368ac, _0x39d6b5) => {
+                                    const _0x56c731 = _0x47d359;
+                                    _0x4368ac[_0x56c731(0x3e8)] = _0x39d6b5;
+                                }
+                            },
+                            [
+                                [_0x47d359(0x238)]
+                            ]
+                        ]), _0x1d05b1 = Object['values'](_0x10d001['c'])[_0x47d359(0x560)](_0x3001ea => _0x3001ea[_0x47d359(0x3c3)]?.['Class'])['exports'], _0x4c2177 = {};
+                        class _0xe651ee extends _0x1d05b1[_0x47d359(0x27a)] {
+                            constructor(_0x3bf394) {
+                                const _0x149c97 = _0x47d359;
+                                super(), this[_0x149c97(0x475)] = _0x3bf394[_0x149c97(0x4a3)]();
+                            } ['preload']() {
+                                const _0x4b50ae = _0x47d359;
+                                switch (this[_0x4b50ae(0x475)]) {
+                                    case _0x4b50ae(0x447):
+                                        this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x487), _0x4b50ae(0x1ec), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x531), _0x4b50ae(0x54b), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x502), _0x4b50ae(0x417), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x137), _0x4b50ae(0x443), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x173), _0x4b50ae(0x43b), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load'][_0x4b50ae(0x1de)]('uncommon-6', _0x4b50ae(0x216), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load'][_0x4b50ae(0x1de)]('uncommon-7', _0x4b50ae(0x25b), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        });
+                                        break;
+                                    case _0x4b50ae(0x10c):
+                                        this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x3de), _0x4b50ae(0x3b9), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this['load'][_0x4b50ae(0x1de)](_0x4b50ae(0x335), _0x4b50ae(0x342), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x4b7), _0x4b50ae(0x10f), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load'][_0x4b50ae(0x1de)]('rare-4', _0x4b50ae(0x179), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x369), _0x4b50ae(0x1dc), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x4ed), _0x4b50ae(0x148), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x50b), 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/circle_dark_blue.svg', {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        });
+                                        break;
+                                    case _0x4b50ae(0x37d):
+                                        this[_0x4b50ae(0x587)]['svg']('epic-1', _0x4b50ae(0x44f), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x170), _0x4b50ae(0x33b), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this['load']['svg']('epic-3', 'https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_red.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x452), 'https://media.blooket.com/image/upload/v1658790239/Media/market/particles/serpentine_dark_red.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x341), _0x4b50ae(0x3f3), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)]('epic-6', _0x4b50ae(0x1f8), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x129), _0x4b50ae(0x40f), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        });
+                                        break;
+                                    case _0x4b50ae(0x5a4):
+                                        this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x36e), _0x4b50ae(0x4e9), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this['load'][_0x4b50ae(0x1de)]('legendary-2', _0x4b50ae(0x451), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x189), _0x4b50ae(0x496), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x229), _0x4b50ae(0x4ec), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x16a), _0x4b50ae(0x32e), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x44a), _0x4b50ae(0x4d3), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x2cf), _0x4b50ae(0x1d0), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        });
+                                        break;
+                                    case _0x4b50ae(0x236):
+                                        this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)](_0x4b50ae(0x56d), _0x4b50ae(0x273), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x4b50ae(0x587)]['svg']('chroma-2', _0x4b50ae(0x200), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this['load'][_0x4b50ae(0x1de)](_0x4b50ae(0x123), _0x4b50ae(0x182), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)]('chroma-4', _0x4b50ae(0x527), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)]['svg']('chroma-5', _0x4b50ae(0x553), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)][_0x4b50ae(0x1de)]('chroma-6', 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/triangle_light_turquoise.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x4b50ae(0x587)]['svg'](_0x4b50ae(0x500), 'https://media.blooket.com/image/upload/v1658790244/Media/market/particles/circle_dark_turquoise.svg', {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        });
+                                }
+                            } [_0x47d359(0x112)]() {
+                                const _0x5c6ffc = _0x47d359;
+                                _0x4c2177[_0x5c6ffc(0x4c6)] = this, _0x4c2177[_0x5c6ffc(0x475)] = '', _0x4c2177[_0x5c6ffc(0x2ff)] = this['physics']['add']['group']({
+                                    'classType': new _0x1d05b1[(_0x5c6ffc(0x366))]({
+                                        'Extends': _0x1d05b1[_0x5c6ffc(0x1c7)][_0x5c6ffc(0x3ba)],
+                                        'initialize': function() {
+                                            const _0x37ddae = _0x5c6ffc;
+                                            _0x1d05b1[_0x37ddae(0x1c7)]['Image']['call'](this, _0x4c2177[_0x37ddae(0x4c6)], 0x0, 0x0, _0x37ddae(0x487)), this[_0x37ddae(0x3a9)](0x3), this[_0x37ddae(0x14c)] = 0x0;
+                                        },
+                                        'spawn': function(_0x4bbfbf, _0x57e76d, _0x4b004d, _0x8d5c26, _0x25c116, _0x186d37, _0x17b9b4, _0x3d95c0, _0x4f2646) {
+                                            const _0x4c420c = _0x5c6ffc;
+                                            this[_0x4c420c(0xf9)](_0x4f2646), this[_0x4c420c(0x491)](!![]), this[_0x4c420c(0x476)](!![]), this[_0x4c420c(0x58b)](_0x4bbfbf, _0x57e76d), this[_0x4c420c(0xfd)](_0x4b004d), this[_0x4c420c(0x5a0)] = [], _0x4c2177[_0x4c420c(0x4c6)][_0x4c420c(0x351)][_0x4c420c(0x4b3)](_0x8d5c26, _0x25c116, this['body'][_0x4c420c(0x3e6)]), this[_0x4c420c(0xee)][_0x4c420c(0x505)](_0x186d37), this['body'][_0x4c420c(0x19f)](_0x17b9b4), this[_0x4c420c(0x14c)] = _0x3d95c0;
+                                        },
+                                        'update': function(_0x5d30db, _0x17b798) {
+                                            const _0x43e44c = _0x5c6ffc;
+                                            this[_0x43e44c(0x14c)] -= _0x17b798;
+                                            if (this[_0x43e44c(0x14c)] > 0x0) return;
+                                            this['setActive'](!0x1), this[_0x43e44c(0x476)](!0x1);
+                                        }
+                                    }),
+                                    'runChildUpdate': !0x0
+                                }), this[_0x5c6ffc(0x4f6)] = 0x0, this[_0x5c6ffc(0x270)] = 0x0, this[_0x5c6ffc(0x2f5)][_0x5c6ffc(0x3f7)]['on']('start-particles', _0x1766be => {
+                                    const _0x53fb80 = _0x5c6ffc;
+                                    _0x4c2177[_0x53fb80(0x475)] = _0x1766be, this[_0x53fb80(0x270)] = _0x53fb80(0x4ac) === _0x1766be ? 0x4b : 'Rare' === _0x1766be ? 0x64 : -0x1;
+                                });
+                            } [_0x47d359(0x23d)](_0x442b69, _0x3b2164) {
+                                const _0x177e48 = _0x47d359,
+                                    _0x5481ac = _0x10d001(_0x177e48(0x128));
+                                let _0xf2641c = function(_0x3dace9) {
+                                    const _0x3ea649 = _0x177e48;
+                                    switch (_0x3dace9) {
+                                        case 'center': {
+                                            var _0x46bb82 = Object(_0x5481ac['l'])(-0x73, -0x41);
+                                            return {
+                                                'x': _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)]['main'][_0x3ea649(0x39c)][_0x3ea649(0x105)] / 0x2,
+                                                'y': _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)][_0x3ea649(0x1e6)][_0x3ea649(0x39c)][_0x3ea649(0x477)] / 0x2,
+                                                'scale': Object(_0x5481ac['l'])(0.7, 0x1),
+                                                'angle': _0x46bb82,
+                                                'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee),
+                                                'gravity': 0x2bc,
+                                                'angVelocity': (_0x46bb82 > -0x5a ? 0x1 : -0x1) * Object(_0x5481ac['l'])(0x7d, 0xaf),
+                                                'lifespan': 0x9c4
+                                            };
+                                        }
+                                        case 'right-bottom':
+                                            return {
+                                                'x': _0x4c2177['scene']['cameras'][_0x3ea649(0x1e6)][_0x3ea649(0x39c)][_0x3ea649(0x105)], 'y': _0x4c2177[_0x3ea649(0x4c6)]['cameras'][_0x3ea649(0x1e6)]['worldView'][_0x3ea649(0x477)], 'scale': Object(_0x5481ac['l'])(0.7, 0x1), 'angle': Object(_0x5481ac['l'])(-0xa0, -0x6e), 'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x5481ac['l'])(-0xaf, -0x7d), 'lifespan': 0x9c4
+                                            };
+                                        case _0x3ea649(0x4b6):
+                                            return {
+                                                'x': 0x0, 'y': _0x4c2177[_0x3ea649(0x4c6)]['cameras'][_0x3ea649(0x1e6)][_0x3ea649(0x39c)][_0x3ea649(0x477)], 'scale': Object(_0x5481ac['l'])(0.7, 0x1), 'angle': Object(_0x5481ac['l'])(-0x46, -0x14), 'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x5481ac['l'])(0x7d, 0xaf), 'lifespan': 0x9c4
+                                            };
+                                        case _0x3ea649(0x365):
+                                            return {
+                                                'x': Object(_0x5481ac['l'])(0x0, _0x4c2177[_0x3ea649(0x4c6)]['cameras'][_0x3ea649(0x1e6)][_0x3ea649(0x39c)][_0x3ea649(0x105)]), 'y': -0x32, 'scale': Object(_0x5481ac['l'])(0.7, 0x1), 'angle': 0x5a, 'velocity': Object(_0x5481ac['l'])(0x0, 0x32), 'gravity': 0x2bc, 'angVelocity': Object(_0x5481ac['l'])(-0x96, 0x96), 'lifespan': 0x9c4
+                                            };
+                                        case 'right-shower':
+                                            return {
+                                                'x': _0x4c2177[_0x3ea649(0x4c6)]['cameras'][_0x3ea649(0x1e6)][_0x3ea649(0x39c)][_0x3ea649(0x105)], 'y': Object(_0x5481ac['l'])(0x0, _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)]['main']['worldView'][_0x3ea649(0x477)]), 'scale': Object(_0x5481ac['l'])(0.7, 0x1), 'angle': Object(_0x5481ac['l'])(-0xb4, -0x82), 'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x5481ac['l'])(-0xaf, -0x7d), 'lifespan': 0x9c4
+                                            };
+                                        case 'left-shower':
+                                            return {
+                                                'x': 0x0, 'y': Object(_0x5481ac['l'])(0x0, _0x4c2177[_0x3ea649(0x4c6)]['cameras'][_0x3ea649(0x1e6)][_0x3ea649(0x39c)]['height']), 'scale': Object(_0x5481ac['l'])(0.7, 0x1), 'angle': Object(_0x5481ac['l'])(-0x32, 0x0), 'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x5481ac['l'])(0x7d, 0xaf), 'lifespan': 0x9c4
+                                            };
+                                        case _0x3ea649(0x561): {
+                                            var _0x5bfd17 = Object(_0x5481ac['l'])(0x0, _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)]['main'][_0x3ea649(0x39c)][_0x3ea649(0x477)]);
+                                            return {
+                                                'x': _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)]['main']['worldView']['width'],
+                                                'y': _0x5bfd17,
+                                                'scale': Object(_0x5481ac['l'])(0.7, 0x1),
+                                                'angle': _0x5bfd17 > _0x4c2177['scene'][_0x3ea649(0x3b0)]['main'][_0x3ea649(0x39c)][_0x3ea649(0x477)] / 0x2 ? -0x96 : -0xd2,
+                                                'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee),
+                                                'gravity': 0x0,
+                                                'angVelocity': Object(_0x5481ac['l'])(-0xaf, -0x7d),
+                                                'lifespan': 0x9c4
+                                            };
+                                        }
+                                        case _0x3ea649(0x191): {
+                                            var _0x30b132 = Object(_0x5481ac['l'])(0x0, _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)][_0x3ea649(0x1e6)]['worldView'][_0x3ea649(0x477)]);
+                                            return {
+                                                'x': 0x0,
+                                                'y': _0x30b132,
+                                                'scale': Object(_0x5481ac['l'])(0.7, 0x1),
+                                                'angle': _0x30b132 > _0x4c2177[_0x3ea649(0x4c6)][_0x3ea649(0x3b0)][_0x3ea649(0x1e6)]['worldView'][_0x3ea649(0x477)] / 0x2 ? -0x1e : 0x1e,
+                                                'velocity': Object(_0x5481ac['l'])(0x258, 0x2ee),
+                                                'gravity': 0x0,
+                                                'angVelocity': Object(_0x5481ac['l'])(0x7d, 0xaf),
+                                                'lifespan': 0x9c4
+                                            };
+                                        }
+                                        default:
+                                            return {};
+                                    }
+                                };
+                                if (_0x4c2177[_0x177e48(0x475)] && 0x0 !== this[_0x177e48(0x270)] && (this['nextParticle'] -= _0x3b2164, this['nextParticle'] <= 0x0)) {
+                                    switch (_0x4c2177[_0x177e48(0x475)]) {
+                                        case _0x177e48(0x4ac): {
+                                            for (let _0x40367b = 0x0; _0x40367b < 0x2; _0x40367b++) {
+                                                let _0x14cf93 = _0x4c2177['particles']['get']();
+                                                _0x14cf93 && _0x14cf93[_0x177e48(0x289)][_0x177e48(0x3d1)](_0x14cf93, Object[_0x177e48(0x48c)](_0xf2641c('center'))[_0x177e48(0x404)]('uncommon-' + Object(_0x5481ac['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case 'Rare': {
+                                            for (var _0x5a2609 = 0x0; _0x5a2609 < 0x2; _0x5a2609++) {
+                                                var _0x2ba180 = _0x4c2177[_0x177e48(0x2ff)][_0x177e48(0x3e1)]();
+                                                _0x2ba180 && _0x2ba180['spawn'][_0x177e48(0x3d1)](_0x2ba180, Object[_0x177e48(0x48c)](_0xf2641c(_0x5a2609 % 0x2 == 0x0 ? _0x177e48(0x4b6) : _0x177e48(0x57a)))['concat'](_0x177e48(0x12c) + Object(_0x5481ac['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case _0x177e48(0x523): {
+                                            for (var _0x56cc5c = 0x0; _0x56cc5c < 0x2; _0x56cc5c++) {
+                                                var _0x27ef8d = _0x4c2177['particles'][_0x177e48(0x3e1)]();
+                                                _0x27ef8d && _0x27ef8d[_0x177e48(0x289)][_0x177e48(0x3d1)](_0x27ef8d, Object[_0x177e48(0x48c)](_0xf2641c(_0x56cc5c % 0x2 == 0x0 ? _0x177e48(0x415) : 'right-shower'))['concat']('epic-' + Object(_0x5481ac['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case _0x177e48(0x458): {
+                                            for (var _0x2afd2b = 0x0; _0x2afd2b < 0x3; _0x2afd2b++) {
+                                                var _0xa4f241 = _0x4c2177[_0x177e48(0x2ff)][_0x177e48(0x3e1)]();
+                                                _0xa4f241 && _0xa4f241[_0x177e48(0x289)]['apply'](_0xa4f241, Object[_0x177e48(0x48c)](_0xf2641c(_0x177e48(0x365)))[_0x177e48(0x404)](_0x177e48(0x428) + Object(_0x5481ac['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case _0x177e48(0x383): {
+                                            for (var _0xe32d3f = 0x0; _0xe32d3f < 0x3; _0xe32d3f++) {
+                                                var _0x43a4ab = _0x4c2177[_0x177e48(0x2ff)][_0x177e48(0x3e1)]();
+                                                _0x43a4ab && _0x43a4ab[_0x177e48(0x289)][_0x177e48(0x3d1)](_0x43a4ab, Object[_0x177e48(0x48c)](_0xf2641c(_0xe32d3f % 0x2 == 0x0 ? _0x177e48(0x191) : _0x177e48(0x561)))[_0x177e48(0x404)]('chroma-' + Object(_0x5481ac['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                    }
+                                    this[_0x177e48(0x4f6)] = 0x14, this[_0x177e48(0x270)] > 0x0 && (this[_0x177e48(0x270)] = Math['max'](this[_0x177e48(0x270)] - 0x1, 0x0));
+                                }
+                            }
+                        }
+                        return function(_0x148ca2) {
+                            const _0x39fb98 = _0x47d359;
+                            if (window[_0x39fb98(0x2b9)]['pathname'] !== _0x39fb98(0x207)) return alert(_0x39fb98(0x44b));
+                            let {
+                                stateNode: _0x240e3e
+                            } = Object[_0x39fb98(0x48c)](document[_0x39fb98(0x343)](_0x39fb98(0x29d)))[0x1][_0x39fb98(0x286)][0x0]['_owner'], _0x12de10 = _0x10d001('fGzD');
+                            _0x12de10 = Object[_0x39fb98(0x549)](_0x12de10['a'])[_0x39fb98(0x469)]((_0xb68569, _0x3bc10e) => (_0xb68569[_0x39fb98(0x10a)][_0x39fb98(0x235)](_0x3bc10e) && (_0xb68569[_0x39fb98(0x3dd)][_0x3bc10e] = Object[_0x39fb98(0x3f6)](_0x12de10['b'](_0x3bc10e))), _0xb68569), {
+                                'packs': Array[_0x39fb98(0x425)](document[_0x39fb98(0x248)](_0x39fb98(0x4e7)))[_0x39fb98(0x184)](_0x199b91 => _0x199b91[_0x39fb98(0x570)]),
+                                'data': {}
+                            })[_0x39fb98(0x3dd)];
+                            if (_0x12de10[_0x148ca2]) {
+                                function _0x347c23(_0x512a66) {
+                                    const _0x5dbc24 = _0x39fb98;
+                                    let _0x2f8217 = [];
+                                    const _0x324388 = Object['keys'](_0x12de10[_0x512a66]);
+                                    for (const _0xb94ba4 of _0x324388) _0x2f8217[_0x5dbc24(0x3b3)](_0x12de10[_0x512a66][_0xb94ba4] + (_0x2f8217[_0x324388[_0x5dbc24(0x2c1)](_0xb94ba4) - 0x1] || 0x0));
+                                    const _0x79a810 = _0x2f8217[_0x2f8217[_0x5dbc24(0x4ca)] - 0x1] * Math[_0x5dbc24(0x388)]();
+                                    return _0x324388[_0x2f8217[_0x5dbc24(0x2b8)](_0x5d491b => _0x5d491b >= _0x79a810)];
+                                }
+                                const _0x5e7ef2 = _0x347c23(_0x148ca2),
+                                    _0x201ac6 = Object[_0x39fb98(0x48c)](_0x10d001['c'])[_0x39fb98(0x560)](_0x1af5da => _0x1af5da[_0x39fb98(0x3c3)]?.['a']?.['Elephant'])[_0x39fb98(0x3c3)]['a'];
+                                _0x240e3e[_0x39fb98(0x202)]({
+                                    'loadingPack': ![],
+                                    'openPack': !![],
+                                    'unlockedBlook': _0x5e7ef2,
+                                    'tokens': _0x240e3e['state'][_0x39fb98(0x22c)],
+                                    'newUnlock': !![],
+                                    'game': {
+                                        'type': _0x1d05b1['WEBGL'],
+                                        'parent': 'phaser-market',
+                                        'width': _0x39fb98(0x599),
+                                        'height': _0x39fb98(0x599),
+                                        'scale': {
+                                            'mode': _0x1d05b1[_0x39fb98(0x4bc)][_0x39fb98(0x15a)],
+                                            'autoCenter': _0x1d05b1['Scale'][_0x39fb98(0x508)]
+                                        },
+                                        'transparent': !![],
+                                        'physics': {
+                                            'default': _0x39fb98(0x2d0)
+                                        },
+                                        'scene': new _0xe651ee(_0x201ac6[_0x5e7ef2][_0x39fb98(0x475)])
+                                    },
+                                    'canOpen': !![]
+                                });
+                            } else alert(_0x39fb98(0x28c));
+                        };
+                    }())
+                }, {
+                    'name': _0x4e8a0c(0x192),
+                    'description': _0x4e8a0c(0x17e),
+                    'inputs': [{
+                        'name': 'Blook',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': async () => {
+                            const _0x1cacb2 = _0x4e8a0c;
+                            let {
+                                webpack: _0x315c36
+                            } = webpackJsonp[_0x1cacb2(0x3b3)]([
+                                [], {
+                                    [_0x1cacb2(0x238)]: (_0x3da1db, _0x4fa96b, _0x393bf0) => {
+                                        const _0x18b856 = _0x1cacb2;
+                                        _0x4fa96b[_0x18b856(0x3e8)] = _0x393bf0;
+                                    }
+                                },
+                                [
+                                    [_0x1cacb2(0x238)]
+                                ]
+                            ]);
+                            return Object[_0x1cacb2(0x549)](Object[_0x1cacb2(0x541)](Object['values'](_0x315c36['c'])[_0x1cacb2(0x560)](_0x2e2376 => Object[_0x1cacb2(0x48c)](_0x2e2376[_0x1cacb2(0x3c3)]?.['a'] || {})[0x0]?.['set'])[_0x1cacb2(0x3c3)]['a'])[_0x1cacb2(0x469)]((_0x1359d2, _0x19eb2c) => (Object[_0x1cacb2(0x48c)](_0x315c36['c'])[_0x1cacb2(0x560)](_0x374b7d => _0x374b7d[_0x1cacb2(0x3c3)]['a']?.['Breakfast'] == 0xf)[_0x1cacb2(0x3c3)]['a'][_0x19eb2c[0x1][_0x1cacb2(0x579)] || _0x19eb2c[0x1][_0x1cacb2(0x22a)]] && (_0x1359d2[_0x19eb2c[0x0]] = _0x19eb2c[0x1]), _0x1359d2), {}));
+                        }
+                    }],
+                    'run': (function() {
+                        const _0x5ed960 = _0x4e8a0c;
+                        let {
+                            webpack: _0x3a3ded
+                        } = webpackJsonp['push']([
+                            [], {
+                                [_0x5ed960(0x238)]: (_0x378bf7, _0x212b1a, _0x4ac7ad) => {
+                                    const _0x27f2a2 = _0x5ed960;
+                                    _0x212b1a[_0x27f2a2(0x3e8)] = _0x4ac7ad;
+                                }
+                            },
+                            [
+                                ['1234']
+                            ]
+                        ]), _0x34a6c4 = Object['values'](_0x3a3ded['c'])[_0x5ed960(0x560)](_0x455279 => _0x455279[_0x5ed960(0x3c3)]?.['Class'])['exports'], _0x4d40e1 = {};
+                        class _0x579f73 extends _0x34a6c4[_0x5ed960(0x27a)] {
+                            constructor(_0x4cbac4) {
+                                const _0x3ac6ef = _0x5ed960;
+                                super(), this[_0x3ac6ef(0x475)] = _0x4cbac4['toLowerCase']();
+                            } [_0x5ed960(0x20a)]() {
+                                const _0x30e78c = _0x5ed960;
+                                switch (this['rarity']) {
+                                    case _0x30e78c(0x447):
+                                        this['load']['svg'](_0x30e78c(0x487), _0x30e78c(0x1ec), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)]['svg'](_0x30e78c(0x531), _0x30e78c(0x54b), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)]['svg'](_0x30e78c(0x502), _0x30e78c(0x417), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)]['svg']('uncommon-4', _0x30e78c(0x443), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x173), _0x30e78c(0x43b), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load']['svg'](_0x30e78c(0x1b2), _0x30e78c(0x216), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)]('uncommon-7', _0x30e78c(0x25b), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        });
+                                        break;
+                                    case 'rare':
+                                        this[_0x30e78c(0x587)][_0x30e78c(0x1de)]('rare-1', _0x30e78c(0x3b9), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this['load'][_0x30e78c(0x1de)](_0x30e78c(0x335), _0x30e78c(0x342), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this['load'][_0x30e78c(0x1de)](_0x30e78c(0x4b7), 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/triangle_blue.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)]['svg']('rare-4', _0x30e78c(0x179), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load']['svg'](_0x30e78c(0x369), _0x30e78c(0x1dc), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)]('rare-6', _0x30e78c(0x148), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)]['svg'](_0x30e78c(0x50b), 'https://media.blooket.com/image/upload/v1658567763/Media/market/particles/circle_dark_blue.svg', {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        });
+                                        break;
+                                    case _0x30e78c(0x37d):
+                                        this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x257), _0x30e78c(0x44f), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)]('epic-2', _0x30e78c(0x33b), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)]('epic-3', _0x30e78c(0x391), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x452), _0x30e78c(0x24f), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load'][_0x30e78c(0x1de)](_0x30e78c(0x341), _0x30e78c(0x3f3), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load'][_0x30e78c(0x1de)]('epic-6', 'https://media.blooket.com/image/upload/v1658790237/Media/market/particles/triangle_light_red.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)]('epic-7', _0x30e78c(0x40f), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        });
+                                        break;
+                                    case 'legendary':
+                                        this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x36e), _0x30e78c(0x4e9), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x37c), 'https://media.blooket.com/image/upload/v1658567740/Media/market/particles/square_light_orange.svg', {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)]['svg'](_0x30e78c(0x189), _0x30e78c(0x496), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x229), 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/serpentine_orange.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x16a), _0x30e78c(0x32e), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this['load'][_0x30e78c(0x1de)](_0x30e78c(0x44a), _0x30e78c(0x4d3), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x2cf), 'https://media.blooket.com/image/upload/v1658567738/Media/market/particles/triangle_dark_orange.svg', {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        });
+                                        break;
+                                    case 'chroma':
+                                        this['load'][_0x30e78c(0x1de)](_0x30e78c(0x56d), 'https://media.blooket.com/image/upload/v1658790246/Media/market/particles/square_turquoise.svg', {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x47c), _0x30e78c(0x200), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        }), this[_0x30e78c(0x587)]['svg']('chroma-3', _0x30e78c(0x182), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)]['svg']('chroma-4', _0x30e78c(0x527), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)]['svg'](_0x30e78c(0x25f), _0x30e78c(0x553), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x1f1), _0x30e78c(0x367), {
+                                            'width': 0x1e,
+                                            'height': 0x1e
+                                        }), this[_0x30e78c(0x587)][_0x30e78c(0x1de)](_0x30e78c(0x500), _0x30e78c(0x2f9), {
+                                            'width': 0x19,
+                                            'height': 0x19
+                                        });
+                                }
+                            } [_0x5ed960(0x112)]() {
+                                const _0x1c0369 = _0x5ed960;
+                                _0x4d40e1[_0x1c0369(0x4c6)] = this, _0x4d40e1['rarity'] = '', _0x4d40e1[_0x1c0369(0x2ff)] = this[_0x1c0369(0x351)][_0x1c0369(0x3f5)]['group']({
+                                    'classType': new _0x34a6c4['Class']({
+                                        'Extends': _0x34a6c4[_0x1c0369(0x1c7)]['Image'],
+                                        'initialize': function() {
+                                            const _0xe70ed1 = _0x1c0369;
+                                            _0x34a6c4['GameObjects'][_0xe70ed1(0x3ba)][_0xe70ed1(0x15e)](this, _0x4d40e1[_0xe70ed1(0x4c6)], 0x0, 0x0, 'uncommon-1'), this[_0xe70ed1(0x3a9)](0x3), this[_0xe70ed1(0x14c)] = 0x0;
+                                        },
+                                        'spawn': function(_0x5aa4f6, _0x4e7eb4, _0x432911, _0x225363, _0x4e7cc6, _0xae70f2, _0x167387, _0x3323e4, _0x4d2381) {
+                                            const _0x22da65 = _0x1c0369;
+                                            this[_0x22da65(0xf9)](_0x4d2381), this[_0x22da65(0x491)](!![]), this[_0x22da65(0x476)](!![]), this[_0x22da65(0x58b)](_0x5aa4f6, _0x4e7eb4), this[_0x22da65(0xfd)](_0x432911), this[_0x22da65(0x5a0)] = [], _0x4d40e1[_0x22da65(0x4c6)][_0x22da65(0x351)][_0x22da65(0x4b3)](_0x225363, _0x4e7cc6, this[_0x22da65(0xee)][_0x22da65(0x3e6)]), this[_0x22da65(0xee)][_0x22da65(0x505)](_0xae70f2), this['body'][_0x22da65(0x19f)](_0x167387), this[_0x22da65(0x14c)] = _0x3323e4;
+                                        },
+                                        'update': function(_0x159c97, _0x111e3b) {
+                                            const _0x408ffb = _0x1c0369;
+                                            this[_0x408ffb(0x14c)] -= _0x111e3b;
+                                            if (this[_0x408ffb(0x14c)] > 0x0) return;
+                                            this[_0x408ffb(0x491)](!0x1), this['setVisible'](!0x1);
+                                        }
+                                    }),
+                                    'runChildUpdate': !0x0
+                                }), this[_0x1c0369(0x4f6)] = 0x0, this['numExplosions'] = 0x0, this[_0x1c0369(0x2f5)]['events']['on'](_0x1c0369(0x43e), _0x2e96ea => {
+                                    const _0x50abfb = _0x1c0369;
+                                    _0x4d40e1['rarity'] = _0x2e96ea, this[_0x50abfb(0x270)] = 'Uncommon' === _0x2e96ea ? 0x4b : 'Rare' === _0x2e96ea ? 0x64 : -0x1;
+                                });
+                            } [_0x5ed960(0x23d)](_0x32877e, _0x40b49b) {
+                                const _0x102cd5 = _0x5ed960,
+                                    _0x20b706 = _0x3a3ded(_0x102cd5(0x128));
+                                let _0x4d4851 = function(_0xad1d59) {
+                                    const _0x2de77e = _0x102cd5;
+                                    switch (_0xad1d59) {
+                                        case _0x2de77e(0x2ee): {
+                                            var _0x330af3 = Object(_0x20b706['l'])(-0x73, -0x41);
+                                            return {
+                                                'x': _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)][_0x2de77e(0x39c)][_0x2de77e(0x105)] / 0x2,
+                                                'y': _0x4d40e1[_0x2de77e(0x4c6)]['cameras'][_0x2de77e(0x1e6)]['worldView']['height'] / 0x2,
+                                                'scale': Object(_0x20b706['l'])(0.7, 0x1),
+                                                'angle': _0x330af3,
+                                                'velocity': Object(_0x20b706['l'])(0x258, 0x2ee),
+                                                'gravity': 0x2bc,
+                                                'angVelocity': (_0x330af3 > -0x5a ? 0x1 : -0x1) * Object(_0x20b706['l'])(0x7d, 0xaf),
+                                                'lifespan': 0x9c4
+                                            };
+                                        }
+                                        case _0x2de77e(0x57a):
+                                            return {
+                                                'x': _0x4d40e1['scene'][_0x2de77e(0x3b0)]['main']['worldView'][_0x2de77e(0x105)], 'y': _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)]['main'][_0x2de77e(0x39c)][_0x2de77e(0x477)], 'scale': Object(_0x20b706['l'])(0.7, 0x1), 'angle': Object(_0x20b706['l'])(-0xa0, -0x6e), 'velocity': Object(_0x20b706['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x20b706['l'])(-0xaf, -0x7d), 'lifespan': 0x9c4
+                                            };
+                                        case _0x2de77e(0x4b6):
+                                            return {
+                                                'x': 0x0, 'y': _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)][_0x2de77e(0x39c)][_0x2de77e(0x477)], 'scale': Object(_0x20b706['l'])(0.7, 0x1), 'angle': Object(_0x20b706['l'])(-0x46, -0x14), 'velocity': Object(_0x20b706['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x20b706['l'])(0x7d, 0xaf), 'lifespan': 0x9c4
+                                            };
+                                        case _0x2de77e(0x365):
+                                            return {
+                                                'x': Object(_0x20b706['l'])(0x0, _0x4d40e1[_0x2de77e(0x4c6)]['cameras']['main'][_0x2de77e(0x39c)][_0x2de77e(0x105)]), 'y': -0x32, 'scale': Object(_0x20b706['l'])(0.7, 0x1), 'angle': 0x5a, 'velocity': Object(_0x20b706['l'])(0x0, 0x32), 'gravity': 0x2bc, 'angVelocity': Object(_0x20b706['l'])(-0x96, 0x96), 'lifespan': 0x9c4
+                                            };
+                                        case 'right-shower':
+                                            return {
+                                                'x': _0x4d40e1['scene'][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)][_0x2de77e(0x39c)][_0x2de77e(0x105)], 'y': Object(_0x20b706['l'])(0x0, _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)][_0x2de77e(0x39c)][_0x2de77e(0x477)]), 'scale': Object(_0x20b706['l'])(0.7, 0x1), 'angle': Object(_0x20b706['l'])(-0xb4, -0x82), 'velocity': Object(_0x20b706['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x20b706['l'])(-0xaf, -0x7d), 'lifespan': 0x9c4
+                                            };
+                                        case _0x2de77e(0x415):
+                                            return {
+                                                'x': 0x0, 'y': Object(_0x20b706['l'])(0x0, _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)]['worldView'][_0x2de77e(0x477)]), 'scale': Object(_0x20b706['l'])(0.7, 0x1), 'angle': Object(_0x20b706['l'])(-0x32, 0x0), 'velocity': Object(_0x20b706['l'])(0x258, 0x2ee), 'gravity': 0x1f4, 'angVelocity': Object(_0x20b706['l'])(0x7d, 0xaf), 'lifespan': 0x9c4
+                                            };
+                                        case _0x2de77e(0x561): {
+                                            var _0x2e7065 = Object(_0x20b706['l'])(0x0, _0x4d40e1[_0x2de77e(0x4c6)]['cameras'][_0x2de77e(0x1e6)][_0x2de77e(0x39c)][_0x2de77e(0x477)]);
+                                            return {
+                                                'x': _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)]['main'][_0x2de77e(0x39c)][_0x2de77e(0x105)],
+                                                'y': _0x2e7065,
+                                                'scale': Object(_0x20b706['l'])(0.7, 0x1),
+                                                'angle': _0x2e7065 > _0x4d40e1[_0x2de77e(0x4c6)][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)]['worldView'][_0x2de77e(0x477)] / 0x2 ? -0x96 : -0xd2,
+                                                'velocity': Object(_0x20b706['l'])(0x258, 0x2ee),
+                                                'gravity': 0x0,
+                                                'angVelocity': Object(_0x20b706['l'])(-0xaf, -0x7d),
+                                                'lifespan': 0x9c4
+                                            };
+                                        }
+                                        case _0x2de77e(0x191): {
+                                            var _0x56a762 = Object(_0x20b706['l'])(0x0, _0x4d40e1['scene']['cameras'][_0x2de77e(0x1e6)]['worldView']['height']);
+                                            return {
+                                                'x': 0x0,
+                                                'y': _0x56a762,
+                                                'scale': Object(_0x20b706['l'])(0.7, 0x1),
+                                                'angle': _0x56a762 > _0x4d40e1['scene'][_0x2de77e(0x3b0)][_0x2de77e(0x1e6)][_0x2de77e(0x39c)][_0x2de77e(0x477)] / 0x2 ? -0x1e : 0x1e,
+                                                'velocity': Object(_0x20b706['l'])(0x258, 0x2ee),
+                                                'gravity': 0x0,
+                                                'angVelocity': Object(_0x20b706['l'])(0x7d, 0xaf),
+                                                'lifespan': 0x9c4
+                                            };
+                                        }
+                                        default:
+                                            return {};
+                                    }
+                                };
+                                if (_0x4d40e1['rarity'] && 0x0 !== this[_0x102cd5(0x270)] && (this[_0x102cd5(0x4f6)] -= _0x40b49b, this['nextParticle'] <= 0x0)) {
+                                    switch (_0x4d40e1[_0x102cd5(0x475)]) {
+                                        case _0x102cd5(0x4ac): {
+                                            for (let _0x41396d = 0x0; _0x41396d < 0x2; _0x41396d++) {
+                                                let _0x2f787e = _0x4d40e1[_0x102cd5(0x2ff)][_0x102cd5(0x3e1)]();
+                                                _0x2f787e && _0x2f787e[_0x102cd5(0x289)][_0x102cd5(0x3d1)](_0x2f787e, Object[_0x102cd5(0x48c)](_0x4d4851('center'))['concat'](_0x102cd5(0x593) + Object(_0x20b706['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case _0x102cd5(0x390): {
+                                            for (var _0x98f15 = 0x0; _0x98f15 < 0x2; _0x98f15++) {
+                                                var _0x2c1e39 = _0x4d40e1['particles'][_0x102cd5(0x3e1)]();
+                                                _0x2c1e39 && _0x2c1e39[_0x102cd5(0x289)][_0x102cd5(0x3d1)](_0x2c1e39, Object[_0x102cd5(0x48c)](_0x4d4851(_0x98f15 % 0x2 == 0x0 ? 'left-bottom' : _0x102cd5(0x57a)))[_0x102cd5(0x404)](_0x102cd5(0x12c) + Object(_0x20b706['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case 'Epic': {
+                                            for (var _0xac5c2 = 0x0; _0xac5c2 < 0x2; _0xac5c2++) {
+                                                var _0x29ebcf = _0x4d40e1[_0x102cd5(0x2ff)][_0x102cd5(0x3e1)]();
+                                                _0x29ebcf && _0x29ebcf[_0x102cd5(0x289)][_0x102cd5(0x3d1)](_0x29ebcf, Object[_0x102cd5(0x48c)](_0x4d4851(_0xac5c2 % 0x2 == 0x0 ? 'left-shower' : _0x102cd5(0x22f)))['concat'](_0x102cd5(0x582) + Object(_0x20b706['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case 'Legendary': {
+                                            for (var _0x37340e = 0x0; _0x37340e < 0x3; _0x37340e++) {
+                                                var _0x235bc1 = _0x4d40e1[_0x102cd5(0x2ff)]['get']();
+                                                _0x235bc1 && _0x235bc1['spawn'][_0x102cd5(0x3d1)](_0x235bc1, Object[_0x102cd5(0x48c)](_0x4d4851('top'))[_0x102cd5(0x404)](_0x102cd5(0x428) + Object(_0x20b706['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                        case _0x102cd5(0x383): {
+                                            for (var _0x99ea4f = 0x0; _0x99ea4f < 0x3; _0x99ea4f++) {
+                                                var _0x3ee335 = _0x4d40e1[_0x102cd5(0x2ff)][_0x102cd5(0x3e1)]();
+                                                _0x3ee335 && _0x3ee335[_0x102cd5(0x289)][_0x102cd5(0x3d1)](_0x3ee335, Object['values'](_0x4d4851(_0x99ea4f % 0x2 == 0x0 ? 'left-diamond' : _0x102cd5(0x561)))['concat'](_0x102cd5(0x198) + Object(_0x20b706['m'])(0x1, 0x8)));
+                                            }
+                                            break;
+                                        }
+                                    }
+                                    this[_0x102cd5(0x4f6)] = 0x14, this[_0x102cd5(0x270)] > 0x0 && (this['numExplosions'] = Math[_0x102cd5(0x1a2)](this[_0x102cd5(0x270)] - 0x1, 0x0));
+                                }
+                            }
+                        }
+                        return function(_0x2789ee) {
+                            const _0xfe52c4 = _0x5ed960;
+                            let _0xcb7fd1 = document[_0xfe52c4(0x32c)](_0xfe52c4(0x394));
+                            document[_0xfe52c4(0xee)][_0xfe52c4(0x34e)](_0xcb7fd1), window[_0xfe52c4(0x45b)] = _0xcb7fd1[_0xfe52c4(0x13e)][_0xfe52c4(0x45b)][_0xfe52c4(0x234)](window), window[_0xfe52c4(0x3fa)] = _0xcb7fd1['contentWindow'][_0xfe52c4(0x3fa)][_0xfe52c4(0x234)](window), _0xcb7fd1[_0xfe52c4(0x50d)]();
+                            if (window[_0xfe52c4(0x2b9)]['pathname'] == '/market') {
+                                let {
+                                    stateNode: _0x366e51
+                                } = Object[_0xfe52c4(0x48c)](document['querySelector'](_0xfe52c4(0x29d)))[0x1][_0xfe52c4(0x286)][0x0][_0xfe52c4(0x17b)];
+                                _0x366e51[_0xfe52c4(0x202)]({
+                                    'loadingPack': ![],
+                                    'openPack': !![],
+                                    'unlockedBlook': _0x2789ee,
+                                    'tokens': _0x366e51[_0xfe52c4(0x373)][_0xfe52c4(0x22c)],
+                                    'newUnlock': !![],
+                                    'game': {
+                                        'type': _0x34a6c4[_0xfe52c4(0x326)],
+                                        'parent': _0xfe52c4(0x57d),
+                                        'width': _0xfe52c4(0x599),
+                                        'height': _0xfe52c4(0x599),
+                                        'scale': {
+                                            'mode': _0x34a6c4[_0xfe52c4(0x4bc)]['NONE'],
+                                            'autoCenter': _0x34a6c4['Scale'][_0xfe52c4(0x508)]
+                                        },
+                                        'transparent': !![],
+                                        'physics': {
+                                            'default': _0xfe52c4(0x2d0)
+                                        },
+                                        'scene': new _0x579f73(Object[_0xfe52c4(0x541)](Object[_0xfe52c4(0x48c)](_0x3a3ded['c'])[_0xfe52c4(0x560)](_0x5422c7 => Object[_0xfe52c4(0x48c)](_0x5422c7[_0xfe52c4(0x3c3)]?.['a'] || {})[0x0]?.[_0xfe52c4(0x22a)])[_0xfe52c4(0x3c3)]['a'])[_0xfe52c4(0x469)]((_0x182c0c, _0x4c39c5) => (Object['values'](_0x3a3ded['c'])['find'](_0x31c568 => _0x31c568[_0xfe52c4(0x3c3)]['a']?.[_0xfe52c4(0x280)] == 0xf)[_0xfe52c4(0x3c3)]['a'][_0x4c39c5[0x1]['set']] && (_0x182c0c[_0x4c39c5[0x0]] = _0x4c39c5[0x1]), _0x182c0c), {})[_0x2789ee][_0xfe52c4(0x475)])
+                                    },
+                                    'canOpen': !![]
+                                });
+                            } else alert(_0xfe52c4(0x1bc));
+                        };
+                    }())
+                }, {
+                    'name': 'Unlock\x20Plus\x20Gamemodes',
+                    'description': _0x4e8a0c(0x4e1),
+                    'run': function() {
+                        const _0x56f036 = _0x4e8a0c;
+                        Object[_0x56f036(0x48c)](document[_0x56f036(0x343)](_0x56f036(0x29d)))[0x1][_0x56f036(0x286)][0x0][_0x56f036(0x17b)][_0x56f036(0x490)][_0x56f036(0x202)](_0x5558bb => (_0x5558bb[_0x56f036(0x228)][_0x56f036(0x28d)](_0x39f714 => _0x39f714[_0x56f036(0x21c)] = ![]), _0x5558bb));
+                    }
+                }],
+                'brawl': [{
+                    'name': _0x4e8a0c(0x49d),
+                    'description': _0x4e8a0c(0x377),
+                    'run': function() {
+                        const _0x46813b = _0x4e8a0c;
+                        for (const _0x1fb1c0 of Object[_0x46813b(0x48c)](document[_0x46813b(0x343)](_0x46813b(0x29d)))[0x1][_0x46813b(0x286)][0x0]['_owner'][_0x46813b(0x490)][_0x46813b(0x373)][_0x46813b(0x2f5)][_0x46813b(0x4c6)]['physics'][_0x46813b(0x497)][_0x46813b(0x362)][_0x46813b(0x246)][_0x46813b(0x3bc)](_0x263d63 => _0x263d63[_0x46813b(0x586)]?.[_0x46813b(0x495)]()[_0x46813b(0x235)]('invulnerableTime'))) {
+                            const _0x51903f = _0x1fb1c0['object2'];
+                            let _0x243797 = _0x51903f[_0x46813b(0x126)][_0x46813b(0x14e)]['start'];
+                            _0x51903f['classType'][_0x46813b(0x14e)][_0x46813b(0x52e)] = function() {
+                                const _0x12bc5c = _0x46813b;
+                                _0x243797[_0x12bc5c(0x3d1)](this, arguments), this['val'] *= 0x2;
+                            }, _0x51903f['children'][_0x46813b(0x541)][_0x46813b(0x28d)](_0x4b7a7a => _0x4b7a7a[_0x46813b(0x258)] *= 0x2);
+                        }
+                    }
+                }, {
+                    'name': 'Half\x20Enemy\x20Speed',
+                    'description': _0x4e8a0c(0x16b),
+                    'run': function() {
+                        const _0x97111e = _0x4e8a0c;
+                        for (const _0xb19853 of Object[_0x97111e(0x48c)](document[_0x97111e(0x343)](_0x97111e(0x29d)))[0x1][_0x97111e(0x286)][0x0][_0x97111e(0x17b)][_0x97111e(0x490)][_0x97111e(0x373)][_0x97111e(0x2f5)][_0x97111e(0x4c6)][_0x97111e(0x351)]['world'][_0x97111e(0x362)][_0x97111e(0x246)][_0x97111e(0x3bc)](_0x44a788 => _0x44a788[_0x97111e(0x586)]?.[_0x97111e(0x495)]()[_0x97111e(0x235)]('invulnerableTime'))) {
+                            const _0x20306a = _0xb19853['object2'];
+                            let _0x447c76 = _0x20306a[_0x97111e(0x126)][_0x97111e(0x14e)]['start'];
+                            _0x20306a[_0x97111e(0x126)][_0x97111e(0x14e)][_0x97111e(0x52e)] = function() {
+                                _0x447c76['apply'](this, arguments), this['speed'] *= 0.5;
+                            }, _0x20306a[_0x97111e(0x286)][_0x97111e(0x541)][_0x97111e(0x28d)](_0x584b48 => _0x584b48[_0x97111e(0x2c2)] *= 0.5);
+                        }
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x161),
+                    'description': _0x4e8a0c(0x156),
+                    'run': function() {
+                        const _0x5c00ac = _0x4e8a0c;
+                        for (const _0x1d7e5d of Object[_0x5c00ac(0x48c)](document[_0x5c00ac(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1][_0x5c00ac(0x286)][0x0]['_owner'][_0x5c00ac(0x490)][_0x5c00ac(0x373)]['game']['scene'][_0x5c00ac(0x351)]['world'][_0x5c00ac(0x362)][_0x5c00ac(0x246)][_0x5c00ac(0x3bc)](_0xa676ca => _0xa676ca[_0x5c00ac(0x586)]?.[_0x5c00ac(0x495)]()[_0x5c00ac(0x235)](_0x5c00ac(0x22b)))) {
+                            const _0xd318dc = _0x1d7e5d[_0x5c00ac(0x172)];
+                            let _0x3d87ae = _0xd318dc[_0x5c00ac(0x126)][_0x5c00ac(0x14e)][_0x5c00ac(0x52e)];
+                            _0xd318dc[_0x5c00ac(0x126)]['prototype'][_0x5c00ac(0x52e)] = function() {
+                                const _0xfdb0bc = _0x5c00ac;
+                                _0x3d87ae[_0xfdb0bc(0x3d1)](this, arguments), this['hp'] = 0x1;
+                            }, _0xd318dc['children']['entries'][_0x5c00ac(0x28d)](_0x25dc49 => _0x25dc49['hp'] = 0x1);
+                        }
+                    }
+                }, {
+                    'name': 'Invincibility',
+                    'description': 'Makes\x20you\x20invincible',
+                    'run': function() {
+                        const _0x5567a2 = _0x4e8a0c;
+                        for (const _0x574e90 of Object[_0x5567a2(0x48c)](document['querySelector'](_0x5567a2(0x29d)))[0x1][_0x5567a2(0x286)][0x0][_0x5567a2(0x17b)][_0x5567a2(0x490)][_0x5567a2(0x373)][_0x5567a2(0x2f5)][_0x5567a2(0x4c6)][_0x5567a2(0x351)][_0x5567a2(0x497)][_0x5567a2(0x362)][_0x5567a2(0x246)][_0x5567a2(0x3bc)](_0x5238e4 => _0x5238e4[_0x5567a2(0x586)]?.['toString']()[_0x5567a2(0x235)](_0x5567a2(0x22b)))) _0x574e90[_0x5567a2(0x59c)] = () => {};
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x301),
+                    'description': _0x4e8a0c(0x3bb),
+                    'run': function() {
+                        const _0x35d1fc = _0x4e8a0c;
+                        Object[_0x35d1fc(0x48c)](document[_0x35d1fc(0x343)](_0x35d1fc(0x29d)))[0x1]['children'][0x0][_0x35d1fc(0x17b)][_0x35d1fc(0x490)][_0x35d1fc(0x373)][_0x35d1fc(0x2f5)][_0x35d1fc(0x4c6)]['physics'][_0x35d1fc(0x497)][_0x35d1fc(0x362)][_0x35d1fc(0x246)][_0x35d1fc(0x560)](_0x2a8582 => _0x2a8582[_0x35d1fc(0x59c)]?.['toString']()[_0x35d1fc(0x235)]('magnetTime'))[_0x35d1fc(0x59c)]({
+                            'active': !![]
+                        }, {
+                            'active': !![],
+                            'setActive'() {},
+                            'setVisible'() {}
+                        });
+                    }
+                }, {
+                    'name': 'Max\x20Current\x20Abilities',
+                    'description': _0x4e8a0c(0x43d),
+                    'run': function() {
+                        const _0xe3cc7b = _0x4e8a0c,
+                            {
+                                stateNode: _0x29a0ad
+                            } = Object[_0xe3cc7b(0x48c)](document[_0xe3cc7b(0x343)](_0xe3cc7b(0x29d)))[0x1][_0xe3cc7b(0x286)][0x0][_0xe3cc7b(0x17b)];
+                        for (const [_0x6ec087, _0x394fbe] of Object[_0xe3cc7b(0x541)](_0x29a0ad['state'][_0xe3cc7b(0x51b)]))
+                            for (let _0x7321b7 = 0x0; _0x7321b7 < 0xa - _0x394fbe; _0x7321b7++) _0x29a0ad[_0xe3cc7b(0x373)][_0xe3cc7b(0x2f5)][_0xe3cc7b(0x4c6)][_0xe3cc7b(0x2f5)][_0xe3cc7b(0x3f7)][_0xe3cc7b(0x514)](_0xe3cc7b(0x24c), _0x6ec087, _0x29a0ad[_0xe3cc7b(0x373)][_0xe3cc7b(0x51b)][_0x6ec087]++);
+                        _0x29a0ad['setState']({
+                            'level': _0x29a0ad[_0xe3cc7b(0x373)][_0xe3cc7b(0x2f5)][_0xe3cc7b(0x4c6)][_0xe3cc7b(0x3aa)] = [0x1, 0x3, 0x5, 0xa, 0xf, 0x19, 0x23]['sort']((_0x7fe365, _0x5dcffb) => Math[_0xe3cc7b(0x1b9)](_0x7fe365 - _0x29a0ad['state'][_0xe3cc7b(0x3aa)]) - Math[_0xe3cc7b(0x1b9)](_0x5dcffb - _0x29a0ad[_0xe3cc7b(0x373)]['level']))[0x0] - 0x1
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x313),
+                    'description': 'Skips\x20to\x20the\x20next\x20level',
+                    'run': function() {
+                        const _0xe0025c = _0x4e8a0c;
+                        let {
+                            stateNode: _0x5eb2a9
+                        } = Object[_0xe0025c(0x48c)](document[_0xe0025c(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1]['children'][0x0][_0xe0025c(0x17b)], {
+                            object1: _0x481c30,
+                            object2: _0x5698a5
+                        } = _0x5eb2a9[_0xe0025c(0x373)][_0xe0025c(0x2f5)][_0xe0025c(0x4c6)][_0xe0025c(0x351)][_0xe0025c(0x497)][_0xe0025c(0x362)][_0xe0025c(0x246)]['find'](_0x4e7f3a => _0x4e7f3a['collideCallback']?.[_0xe0025c(0x495)]()[_0xe0025c(0x235)](_0xe0025c(0x2d4)));
+                        _0x5698a5[_0xe0025c(0x3e1)]()['spawn'](_0x481c30['x'], _0x481c30['y'], (_0x51a7b8 => 0x1 === _0x51a7b8 ? 0x1 : _0x51a7b8 < 0x5 ? 0x5 : _0x51a7b8 < 0xa ? 0xa : _0x51a7b8 < 0x14 ? 0x14 : _0x51a7b8 < 0x1e ? 0x1e : _0x51a7b8 < 0x28 ? 0x28 : _0x51a7b8 < 0x32 ? 0x32 : 0x64)(_0x5eb2a9[_0xe0025c(0x373)][_0xe0025c(0x3aa)]) - _0x5eb2a9['xp']);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x56c),
+                    'description': 'Removes\x20all\x20rocks\x20and\x20obstacles',
+                    'run': function() {
+                        const _0xa5457f = _0x4e8a0c;
+                        Object[_0xa5457f(0x48c)](document['querySelector'](_0xa5457f(0x29d)))[0x1]['children'][0x0][_0xa5457f(0x17b)][_0xa5457f(0x490)][_0xa5457f(0x373)][_0xa5457f(0x2f5)][_0xa5457f(0x4c6)][_0xa5457f(0x351)][_0xa5457f(0x497)][_0xa5457f(0x3f0)][_0xa5457f(0x541)][_0xa5457f(0x28d)](_0x5ab43b => {
+                            const _0x59c9c3 = _0xa5457f;
+                            try {
+                                if (_0x5ab43b[_0x59c9c3(0x595)]['frame'][_0x59c9c3(0x2da)][_0x59c9c3(0x45f)][_0x59c9c3(0x235)](_0x59c9c3(0x4d7))) _0x5ab43b['gameObject']['destroy']();
+                            } catch {}
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x175),
+                    'description': 'Kills\x20all\x20current\x20enemies',
+                    'run': function() {
+                        const _0x3a9d63 = _0x4e8a0c;
+                        Object[_0x3a9d63(0x48c)](document[_0x3a9d63(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1][_0x3a9d63(0x286)][0x0][_0x3a9d63(0x17b)][_0x3a9d63(0x490)]['state']['game']['scene'][_0x3a9d63(0x351)][_0x3a9d63(0x497)][_0x3a9d63(0x3f0)][_0x3a9d63(0x541)][_0x3a9d63(0x28d)](_0xd5b0d1 => _0xd5b0d1?.[_0x3a9d63(0x595)]?.[_0x3a9d63(0x1fd)]?.(_0xd5b0d1[_0x3a9d63(0x595)]['hp'], 0x1));
+                    }
+                }, {
+                    'name': 'Reset\x20Health',
+                    'description': _0x4e8a0c(0x5a8),
+                    'run': function() {
+                        const _0x5d04cc = _0x4e8a0c;
+                        Object['values'](document[_0x5d04cc(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1][_0x5d04cc(0x286)][0x0][_0x5d04cc(0x17b)][_0x5d04cc(0x490)]['state'][_0x5d04cc(0x2f5)][_0x5d04cc(0x4c6)]['game'][_0x5d04cc(0x3f7)]['_events']['respawn']['fn']();
+                    }
+                }],
+                'cafe': [{
+                    'name': _0x4e8a0c(0x4bd),
+                    'description': _0x4e8a0c(0x384),
+                    'run': function() {
+                        const _0x57f86f = _0x4e8a0c;
+                        let _0x105b8f = document[_0x57f86f(0x32c)](_0x57f86f(0x394));
+                        document[_0x57f86f(0xee)][_0x57f86f(0x34e)](_0x105b8f), window[_0x57f86f(0x45b)] = _0x105b8f[_0x57f86f(0x13e)]['alert'][_0x57f86f(0x234)](window), _0x105b8f[_0x57f86f(0x50d)]();
+                        if (window[_0x57f86f(0x2b9)]['pathname'] !== _0x57f86f(0x29e)) alert('This\x20can\x20only\x20be\x20run\x20in\x20the\x20shop');
+                        else {
+                            const {
+                                stateNode: _0x1be79f
+                            } = Object[_0x57f86f(0x48c)](document[_0x57f86f(0x343)](_0x57f86f(0x29d)))[0x1][_0x57f86f(0x286)][0x0]['_owner'];
+                            _0x1be79f[_0x57f86f(0x202)]({
+                                'items': Object['fromEntries'](Object['entries'](_0x1be79f[_0x57f86f(0x373)][_0x57f86f(0x55b)])[_0x57f86f(0x184)](_0x56c427 => [_0x56c427[0x0], 0x5]))
+                            });
+                        }
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x1c8),
+                    'description': _0x4e8a0c(0x589),
+                    'run': function() {
+                        const _0x2fbc6b = _0x4e8a0c,
+                            {
+                                stateNode: _0x8693d
+                            } = Object[_0x2fbc6b(0x48c)](document[_0x2fbc6b(0x343)](_0x2fbc6b(0x29d)))[0x1][_0x2fbc6b(0x286)][0x0]['_owner'];
+                        _0x8693d['state']['customers'][_0x2fbc6b(0x28d)]((_0xf51e2d, _0x46a7ca) => Object[_0x2fbc6b(0x549)](_0xf51e2d)[_0x2fbc6b(0x4ca)] && _0x8693d[_0x2fbc6b(0x212)](_0x46a7ca, !![]));
+                    }
+                }, {
+                    'name': 'Reset\x20Abilities',
+                    'description': 'Resets\x20used\x20abilities\x20in\x20shop\x20(Only\x20usable\x20in\x20the\x20shop)',
+                    'run': function() {
+                        const _0x5f5625 = _0x4e8a0c;
+                        let _0x5ccf58 = document['createElement']('iframe');
+                        document['body'][_0x5f5625(0x34e)](_0x5ccf58), window[_0x5f5625(0x45b)] = _0x5ccf58[_0x5f5625(0x13e)]['alert']['bind'](window), _0x5ccf58[_0x5f5625(0x50d)]();
+                        if (window['location'][_0x5f5625(0x3d3)] !== '/cafe/shop') alert(_0x5f5625(0x107));
+                        else {
+                            const {
+                                stateNode: _0x4efca5
+                            } = Object['values'](document[_0x5f5625(0x343)](_0x5f5625(0x29d)))[0x1][_0x5f5625(0x286)][0x0][_0x5f5625(0x17b)];
+                            _0x4efca5[_0x5f5625(0x202)]({
+                                'abilities': Object[_0x5f5625(0x3f6)](Object['entries'](_0x4efca5[_0x5f5625(0x373)]['abilities'])['map'](_0x4504ad => [_0x4504ad[0x0], 0x5]))
+                            });
+                        }
+                    }
+                }, {
+                    'name': 'Set\x20Cash',
+                    'description': _0x4e8a0c(0x54c),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x181),
+                        'type': 'number'
+                    }],
+                    'run': function(_0x5e0951) {
+                        const _0x4064a6 = _0x4e8a0c;
+                        let {
+                            stateNode: _0xd8362f
+                        } = Object['values'](document[_0x4064a6(0x343)](_0x4064a6(0x29d)))[0x1][_0x4064a6(0x286)][0x0][_0x4064a6(0x17b)];
+                        _0xd8362f['setState']({
+                            'cafeCash': _0x5e0951
+                        }), _0xd8362f[_0x4064a6(0x27b)][_0x4064a6(0x494)][_0x4064a6(0x503)]({
+                            'path': 'c/' + _0xd8362f[_0x4064a6(0x27b)][_0x4064a6(0x4f3)][_0x4064a6(0x378)],
+                            'val': {
+                                'b': _0xd8362f[_0x4064a6(0x27b)]['client'][_0x4064a6(0x1ce)],
+                                'ca': _0x5e0951
+                            }
+                        });
+                    }
+                }, {
+                    'name': 'Stock\x20Food',
+                    'description': _0x4e8a0c(0xf8),
+                    'run': function() {
+                        const _0x2c3e57 = _0x4e8a0c;
+                        let _0x119f32 = document[_0x2c3e57(0x32c)]('iframe');
+                        document[_0x2c3e57(0xee)]['append'](_0x119f32), window[_0x2c3e57(0x45b)] = _0x119f32[_0x2c3e57(0x13e)]['alert'][_0x2c3e57(0x234)](window), _0x119f32[_0x2c3e57(0x50d)]();
+                        if (window[_0x2c3e57(0x2b9)]['pathname'] !== _0x2c3e57(0x2f2)) alert('This\x20can\x27t\x20be\x20run\x20in\x20the\x20shop');
+                        else {
+                            const {
+                                stateNode: _0x5c89b2
+                            } = Object[_0x2c3e57(0x48c)](document[_0x2c3e57(0x343)](_0x2c3e57(0x29d)))[0x1][_0x2c3e57(0x286)][0x0][_0x2c3e57(0x17b)];
+                            _0x5c89b2[_0x2c3e57(0x202)]({
+                                'foods': _0x5c89b2[_0x2c3e57(0x373)]['foods'][_0x2c3e57(0x184)](_0x2fc56d => ({
+                                    ..._0x2fc56d,
+                                    'stock': 0x63,
+                                    'level': 0x5
+                                }))
+                            });
+                        }
+                    }
+                }],
+                'crypto': [{
+                    'name': 'Choice\x20ESP',
+                    'description': _0x4e8a0c(0x4de),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x3945f6 = _0x4e8a0c;
+                        !this[_0x3945f6(0x1b6)] ? (this[_0x3945f6(0x1b6)] = !![], this[_0x3945f6(0x3dd)] = setInterval(() => {
+                            const _0x1c4870 = _0x3945f6;
+                            let {
+                                stateNode: _0x290f53
+                            } = Object['values'](document['querySelector'](_0x1c4870(0x29d)))[0x1][_0x1c4870(0x286)][0x0]['_owner'], {
+                                text: _0x45d98c
+                            } = _0x290f53[_0x1c4870(0x373)][_0x1c4870(0x581)][0x0], _0x389b6d = document[_0x1c4870(0x343)](_0x1c4870(0x1d8));
+                            if (_0x389b6d['children']['length'] <= 0x4) {
+                                let _0x3fb902 = document['createElement'](_0x1c4870(0x1af));
+                                _0x3fb902['style'][_0x1c4870(0x2a4)] = 'white', _0x3fb902[_0x1c4870(0x4d2)][_0x1c4870(0x19b)] = _0x1c4870(0x20f), _0x3fb902[_0x1c4870(0x4d2)][_0x1c4870(0x413)] = '2em', _0x3fb902['style'][_0x1c4870(0x41c)] = _0x1c4870(0x48e), _0x3fb902[_0x1c4870(0x4d2)][_0x1c4870(0x534)] = _0x1c4870(0x2ee), _0x3fb902['style'][_0x1c4870(0x56e)] = '675px', _0x3fb902[_0x1c4870(0x3d8)] = _0x45d98c, _0x389b6d['append'](_0x3fb902);
+                            }
+                        }, 0x32)) : (this[_0x3945f6(0x1b6)] = ![], clearInterval(this[_0x3945f6(0x3dd)]), this[_0x3945f6(0x3dd)] = null);
+                    }
+                }, {
+                    'name': 'Password\x20ESP',
+                    'description': _0x4e8a0c(0x584),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x9c2672 = _0x4e8a0c;
+                        !this[_0x9c2672(0x1b6)] ? (this[_0x9c2672(0x1b6)] = !![], this['data'] = setInterval(() => {
+                            const _0x14c3a4 = _0x9c2672;
+                            let {
+                                state: _0x55c235
+                            } = Object[_0x14c3a4(0x48c)](document[_0x14c3a4(0x343)](_0x14c3a4(0x29d)))[0x1][_0x14c3a4(0x286)][0x0][_0x14c3a4(0x17b)]['stateNode'];
+                            if (_0x55c235[_0x14c3a4(0x439)] == _0x14c3a4(0x54a))[...document[_0x14c3a4(0x343)](_0x14c3a4(0x26d))[_0x14c3a4(0x286)]][_0x14c3a4(0x28d)](_0xcbc0e5 => {
+                                const _0x25dd47 = _0x14c3a4;
+                                if (_0xcbc0e5[_0x25dd47(0x3d8)] == _0x55c235['correctPassword']) return;
+                                _0xcbc0e5['style'][_0x25dd47(0x219)] = _0x25dd47(0x51f), _0xcbc0e5['style']['backgroundColor'] = _0x25dd47(0x51f), _0xcbc0e5[_0x25dd47(0x4d2)][_0x25dd47(0x2db)] = _0x25dd47(0x247);
+                            });
+                        }, 0x32)) : (this['enabled'] = ![], clearInterval(this[_0x9c2672(0x3dd)]), this[_0x9c2672(0x3dd)] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x2ec),
+                    'description': _0x4e8a0c(0x30e),
+                    'type': 'toggle',
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x591702 = _0x4e8a0c;
+                        !this[_0x591702(0x1b6)] ? (this[_0x591702(0x1b6)] = !![], this[_0x591702(0x3dd)] = setInterval(() => Object[_0x591702(0x48c)](document[_0x591702(0x343)](_0x591702(0x29d)))[0x1]['children'][0x0][_0x591702(0x17b)][_0x591702(0x490)]['setState']({
+                            'choices': [{
+                                'type': _0x591702(0x28e),
+                                'val': 0x3,
+                                'rate': 0.075,
+                                'blook': _0x591702(0x115),
+                                'text': _0x591702(0x414)
+                            }]
+                        }), 0x32)) : (this[_0x591702(0x1b6)] = ![], clearInterval(this[_0x591702(0x3dd)]), this[_0x591702(0x3dd)] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x3d9),
+                    'description': _0x4e8a0c(0x29c),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x414bf3 = _0x4e8a0c;
+                        !this['enabled'] ? (this['enabled'] = !![], this[_0x414bf3(0x3dd)] = setInterval(() => {
+                            const _0x65507f = _0x414bf3;
+                            let {
+                                state: _0x43a0fb
+                            } = Object[_0x65507f(0x48c)](document['querySelector']('#app\x20>\x20div\x20>\x20div'))[0x1][_0x65507f(0x286)][0x0][_0x65507f(0x17b)]['stateNode'];
+                            if (_0x43a0fb[_0x65507f(0x439)] == _0x65507f(0x54a)) {
+                                for (const _0x35ed6e of document[_0x65507f(0x343)]('div[class^=styles__buttonContainer]')[_0x65507f(0x286)]) _0x35ed6e[_0x65507f(0x3d8)] == _0x43a0fb[_0x65507f(0x24d)] && _0x35ed6e[_0x65507f(0x2c0)]();
+                            }
+                        }, 0x32)) : (this[_0x414bf3(0x1b6)] = ![], clearInterval(this['data']), this[_0x414bf3(0x3dd)] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x221),
+                    'description': '',
+                    'run': function() {
+                        const _0x3636a9 = _0x4e8a0c;
+                        Object[_0x3636a9(0x48c)](document[_0x3636a9(0x343)](_0x3636a9(0x29d)))[0x1][_0x3636a9(0x286)][0x0]['_owner']['stateNode'][_0x3636a9(0x202)]({
+                            'hack': ''
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x52a),
+                    'description': _0x4e8a0c(0x12b),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x181),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x4ca36f) {
+                        const _0x29c469 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x1c89cc
+                        } = Object[_0x29c469(0x48c)](document['querySelector'](_0x29c469(0x29d)))[0x1]['children'][0x0][_0x29c469(0x17b)];
+                        _0x1c89cc[_0x29c469(0x202)]({
+                            'crypto': _0x4ca36f,
+                            'crypto2': _0x4ca36f
+                        }), _0x1c89cc[_0x29c469(0x27b)][_0x29c469(0x494)][_0x29c469(0x503)]({
+                            'path': 'c/' ['concat'](_0x1c89cc[_0x29c469(0x27b)][_0x29c469(0x4f3)]['name']),
+                            'val': {
+                                'b': _0x1c89cc[_0x29c469(0x27b)]['client'][_0x29c469(0x1ce)],
+                                'p': _0x1c89cc[_0x29c469(0x373)]['password'],
+                                'cr': _0x4ca36f
+                            }
+                        });
+                    }
+                }, {
+                    'name': 'Set\x20Password',
+                    'description': _0x4e8a0c(0x23b),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x588),
+                        'type': 'string'
+                    }],
+                    'run': function(_0x17943a) {
+                        const _0xb1db87 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x16adc8
+                        } = Object['values'](document[_0xb1db87(0x343)](_0xb1db87(0x29d)))[0x1][_0xb1db87(0x286)][0x0][_0xb1db87(0x17b)];
+                        _0x16adc8[_0xb1db87(0x202)]({
+                            'password': _0x17943a
+                        }), _0x16adc8[_0xb1db87(0x27b)][_0xb1db87(0x494)]['setVal']({
+                            'path': 'c/' [_0xb1db87(0x404)](_0x16adc8['props']['client'][_0xb1db87(0x378)]),
+                            'val': {
+                                'b': _0x16adc8['props'][_0xb1db87(0x4f3)][_0xb1db87(0x1ce)],
+                                'p': _0x17943a,
+                                'cr': _0x16adc8[_0xb1db87(0x373)]['crypto']
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x478),
+                    'description': _0x4e8a0c(0x43c),
+                    'inputs': [{
+                        'name': 'Player',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': () => {
+                            const _0x426383 = _0x4e8a0c;
+                            let {
+                                stateNode: _0x58742e
+                            } = Object[_0x426383(0x48c)](document['querySelector'](_0x426383(0x29d)))[0x1][_0x426383(0x286)][0x0][_0x426383(0x17b)];
+                            return new Promise(_0x2dc4a6 => _0x58742e['props']['liveGameController'][_0x426383(0x1eb)] ? _0x58742e[_0x426383(0x27b)][_0x426383(0x494)][_0x426383(0x40d)]('c', _0x2e9e92 => _0x2e9e92 && _0x2dc4a6(Object[_0x426383(0x549)](_0x2e9e92))) : _0x2dc4a6([]));
+                        }
+                    }],
+                    'run': function(_0x41633a) {
+                        const _0x893f59 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x45faf2
+                        } = Object[_0x893f59(0x48c)](document[_0x893f59(0x343)](_0x893f59(0x29d)))[0x1][_0x893f59(0x286)][0x0][_0x893f59(0x17b)];
+                        _0x45faf2[_0x893f59(0x27b)][_0x893f59(0x494)][_0x893f59(0x40d)]('c', _0xeac90 => {
+                            const _0x2419da = _0x893f59;
+                            if (_0xeac90 && Object[_0x2419da(0x549)](_0xeac90)[_0x2419da(0x184)](_0x4fce42 => _0x4fce42[_0x2419da(0x4a3)]())['includes'](_0x41633a['toLowerCase']())) {
+                                let [_0x2282cd, {
+                                    cr: _0x36e402
+                                }] = Object[_0x2419da(0x541)](_0xeac90)[_0x2419da(0x560)](([_0x31eb45]) => _0x31eb45['toLowerCase']() == _0x41633a[_0x2419da(0x4a3)]());
+                                _0x45faf2['setState']({
+                                    'crypto': _0x45faf2[_0x2419da(0x373)][_0x2419da(0x4ab)] + _0x36e402,
+                                    'crypto2': _0x45faf2[_0x2419da(0x373)]['crypto'] + _0x36e402
+                                }), _0x45faf2[_0x2419da(0x27b)][_0x2419da(0x494)][_0x2419da(0x503)]({
+                                    'path': 'c/' [_0x2419da(0x404)](_0x45faf2['props'][_0x2419da(0x4f3)][_0x2419da(0x378)]),
+                                    'val': {
+                                        'b': _0x45faf2['props'][_0x2419da(0x4f3)][_0x2419da(0x1ce)],
+                                        'p': _0x45faf2['state']['password'],
+                                        'cr': _0x45faf2[_0x2419da(0x373)][_0x2419da(0x4ab)] + _0x36e402,
+                                        'tat': _0x2282cd + ':' + _0x36e402
+                                    }
+                                });
+                            }
+                        });
+                    }
+                }],
+                'defense': [{
+                    'name': _0x4e8a0c(0x437),
+                    'description': _0x4e8a0c(0x261),
+                    'run': function() {
+                        const _0x58a5a8 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x29c5b4
+                        } = Object[_0x58a5a8(0x48c)](document[_0x58a5a8(0x343)](_0x58a5a8(0x29d)))[0x1]['children'][0x0][_0x58a5a8(0x17b)];
+                        _0x29c5b4[_0x58a5a8(0x202)]({
+                            'eventName': _0x58a5a8(0x437),
+                            'event': {
+                                'short': 'e',
+                                'color': '#805500',
+                                'icon': _0x58a5a8(0x59e),
+                                'desc': _0x58a5a8(0x250),
+                                'rate': 0.02
+                            },
+                            'buyTowerName': '',
+                            'buyTower': {}
+                        }, () => _0x29c5b4[_0x58a5a8(0x328)] = setTimeout(() => _0x29c5b4[_0x58a5a8(0x202)]({
+                            'event': {},
+                            'eventName': ''
+                        }), 0x1770)), _0x29c5b4[_0x58a5a8(0x482)][_0x58a5a8(0x28d)](_0x598732 => _0x598732['forEach']((_0x216813, _0x8a6920) => _0x216813 === 0x3 && (_0x598732[_0x8a6920] = 0x0)));
+                        let _0x4ae941 = _0x29c5b4[_0x58a5a8(0x482)][_0x58a5a8(0x515)]((_0x346b47, _0x51acde) => _0x346b47[_0x58a5a8(0x184)]((_0x38aa79, _0x41ae0b) => _0x38aa79 === 0x0 && {
+                            'x': _0x41ae0b,
+                            'y': _0x51acde
+                        }))[_0x58a5a8(0x3bc)](Boolean)[_0x58a5a8(0x506)](() => 0.5 - Math[_0x58a5a8(0x388)]());
+                        _0x29c5b4[_0x58a5a8(0x176)][_0x58a5a8(0x28d)](_0x14938d => {
+                            const _0x5c6b84 = _0x58a5a8;
+                            let {
+                                x: _0x81245c,
+                                y: _0x26105a
+                            } = _0x4ae941[_0x5c6b84(0x52b)]();
+                            _0x14938d['move'](_0x81245c, _0x26105a, _0x29c5b4[_0x5c6b84(0x557)]), _0x29c5b4[_0x5c6b84(0x482)][_0x26105a][_0x81245c] = 0x3;
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x554),
+                    'description': _0x4e8a0c(0x16e),
+                    'run': function() {
+                        const _0x4ea164 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x16298f
+                        } = Object['values'](document[_0x4ea164(0x343)](_0x4ea164(0x29d)))[0x1][_0x4ea164(0x286)][0x0][_0x4ea164(0x17b)];
+                        _0x16298f['towers'][_0x4ea164(0x28d)](_0x13a6a8 => {
+                            const _0x6f91d3 = _0x4ea164;
+                            _0x13a6a8[_0x6f91d3(0x2dc)] = 0x64, _0x13a6a8['fullCd'] = _0x13a6a8['cd'] = 0x0, _0x13a6a8['damage'] = 0xf4240;
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x594),
+                    'description': 'Removes\x20ducks',
+                    'run': function() {
+                        const _0x55f386 = _0x4e8a0c;
+                        let {
+                            stateNode: {
+                                ducks: _0x18ad8f,
+                                tiles: _0x590dfc
+                            }
+                        } = Object[_0x55f386(0x48c)](document['querySelector'](_0x55f386(0x29d)))[0x1]['children'][0x0][_0x55f386(0x17b)];
+                        _0x18ad8f[_0x55f386(0x28d)](_0x16653a => {
+                            _0x590dfc[_0x16653a['y']][_0x16653a['x']] = 0x0;
+                        }), _0x18ad8f[_0x55f386(0x4ca)] = 0x0;
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4c7),
+                    'description': 'Removes\x20all\x20the\x20enemies',
+                    'run': function() {
+                        const _0x2c5406 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x2d7a41
+                        } = Object['values'](document[_0x2c5406(0x343)](_0x2c5406(0x29d)))[0x1][_0x2c5406(0x286)][0x0][_0x2c5406(0x17b)];
+                        _0x2d7a41[_0x2c5406(0x3d5)] = _0x2d7a41[_0x2c5406(0x1a4)] = [];
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x56c),
+                    'description': _0x4e8a0c(0x177),
+                    'run': function() {
+                        const _0x125616 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x540b36
+                        } = Object[_0x125616(0x48c)](document[_0x125616(0x343)](_0x125616(0x29d)))[0x1][_0x125616(0x286)][0x0][_0x125616(0x17b)];
+                        _0x540b36[_0x125616(0x482)] = _0x540b36[_0x125616(0x482)][_0x125616(0x184)](_0x22761c => _0x22761c[_0x125616(0x268)](0x0));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x406),
+                    'description': _0x4e8a0c(0x41a),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x565),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x13b3bf) {
+                        const _0x56fe8f = _0x4e8a0c;
+                        Object[_0x56fe8f(0x48c)](document[_0x56fe8f(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1][_0x56fe8f(0x286)][0x0]['_owner'][_0x56fe8f(0x490)][_0x56fe8f(0x542)] = _0x13b3bf;
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4e3),
+                    'description': _0x4e8a0c(0x31a),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x2c8),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x2e072a) {
+                        const _0x2143fe = _0x4e8a0c;
+                        Object[_0x2143fe(0x48c)](document[_0x2143fe(0x343)](_0x2143fe(0x29d)))[0x1]['children'][0x0]['_owner'][_0x2143fe(0x490)][_0x2143fe(0x202)]({
+                            'round': _0x2e072a
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x1c3),
+                    'description': _0x4e8a0c(0x374),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0xff),
+                        'type': 'number'
+                    }],
+                    'run': function(_0x4a46d3) {
+                        const _0x1ab060 = _0x4e8a0c;
+                        Object[_0x1ab060(0x48c)](document['querySelector'](_0x1ab060(0x29d)))[0x1][_0x1ab060(0x286)][0x0][_0x1ab060(0x17b)][_0x1ab060(0x490)]['setState']({
+                            'tokens': _0x4a46d3
+                        });
+                    }
+                }],
+                'defense2': [{
+                    'name': _0x4e8a0c(0x554),
+                    'description': _0x4e8a0c(0x16e),
+                    'run': function() {
+                        const _0x129044 = _0x4e8a0c;
+                        Object[_0x129044(0x48c)](document['querySelector'](_0x129044(0x29d)))[0x1]['children'][0x0][_0x129044(0x17b)][_0x129044(0x490)][_0x129044(0x373)][_0x129044(0x176)]['forEach'](_0x450c7a => {
+                            const _0x4fd537 = _0x129044;
+                            _0x450c7a[_0x4fd537(0x4f2)]['dmg'] = 0xf4240, _0x450c7a[_0x4fd537(0x4f2)][_0x4fd537(0x213)] = 0x32, _0x450c7a[_0x4fd537(0x4f2)][_0x4fd537(0x2de)] = !![], _0x450c7a[_0x4fd537(0x4f2)][_0x4fd537(0x138)] = 0xf4240, _0x450c7a['stats'][_0x4fd537(0x3f1)] &&= 0x64, _0x450c7a['stats']['range'] = 0x64;
+                            if (_0x450c7a[_0x4fd537(0x4f2)][_0x4fd537(0x47a)]) {
+                                for (const _0x2841b1 in _0x450c7a[_0x4fd537(0x4f2)][_0x4fd537(0x47a)]) _0x450c7a[_0x4fd537(0x4f2)]['auraBuffs'][_0x2841b1] *= 0x64;
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x175),
+                    'description': _0x4e8a0c(0x2e0),
+                    'run': function() {
+                        const _0x2140db = _0x4e8a0c;
+                        let {
+                            stateNode: _0x5addfc
+                        } = Object['values'](document[_0x2140db(0x343)](_0x2140db(0x29d)))[0x1][_0x2140db(0x286)][0x0][_0x2140db(0x17b)];
+                        _0x5addfc[_0x2140db(0x373)][_0x2140db(0x2f5)]['scene'][_0x2140db(0x571)][_0x2140db(0x4ca)] = 0x0, _0x5addfc[_0x2140db(0x373)]['game'][_0x2140db(0x4c6)]['physics'][_0x2140db(0x497)]['bodies'][_0x2140db(0x541)][_0x2140db(0x28d)](_0x977e80 => _0x977e80?.[_0x2140db(0x595)]?.[_0x2140db(0x1fd)]?.(_0x977e80[_0x2140db(0x595)]['hp'], 0x1));
+                    }
+                }, {
+                    'name': 'Set\x20Coins',
+                    'description': 'Sets\x20coins',
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x13b),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x34ff39) {
+                        const _0x59d534 = _0x4e8a0c;
+                        Object[_0x59d534(0x48c)](document[_0x59d534(0x343)](_0x59d534(0x29d)))[0x1][_0x59d534(0x286)][0x0][_0x59d534(0x17b)][_0x59d534(0x490)][_0x59d534(0x202)]({
+                            'coins': _0x34ff39
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x169),
+                    'description': _0x4e8a0c(0x299),
+                    'inputs': [{
+                        'name': 'Health',
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x2f5a7f) {
+                        const _0x55e922 = _0x4e8a0c;
+                        Object[_0x55e922(0x48c)](document['querySelector'](_0x55e922(0x29d)))[0x1]['children'][0x0][_0x55e922(0x17b)][_0x55e922(0x490)][_0x55e922(0x202)]({
+                            'health': _0x2f5a7f
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4e3),
+                    'description': _0x4e8a0c(0x31a),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x2c8),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x1030bf) {
+                        const _0xfdc387 = _0x4e8a0c;
+                        Object['values'](document['querySelector'](_0xfdc387(0x29d)))[0x1][_0xfdc387(0x286)][0x0][_0xfdc387(0x17b)][_0xfdc387(0x490)][_0xfdc387(0x202)]({
+                            'round': _0x1030bf
+                        });
+                    }
+                }],
+                'dinos': [{
+                    'name': 'Auto\x20Choose',
+                    'description': _0x4e8a0c(0x2e9),
+                    'type': 'toggle',
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x45954b = _0x4e8a0c;
+                        !this[_0x45954b(0x1b6)] ? (this[_0x45954b(0x1b6)] = !![], this[_0x45954b(0x3dd)] = setInterval(() => {
+                            const _0x395d67 = _0x45954b,
+                                {
+                                    webpack: _0xf1990d
+                                } = webpackJsonp[_0x395d67(0x3b3)]([
+                                    [], {
+                                        [_0x395d67(0x238)]: (_0x4a4c83, _0x52112f, _0x5af867) => {
+                                            _0x52112f['webpack'] = _0x5af867;
+                                        }
+                                    },
+                                    [
+                                        ['1234']
+                                    ]
+                                ]),
+                                _0x1fe588 = ((() => {
+                                    const _0x890e5a = _0x395d67,
+                                        _0x593822 = Object[_0x890e5a(0x48c)](_0xf1990d('74sb'))[_0x890e5a(0x560)](_0x4b87fd => _0x4b87fd[_0x890e5a(0x495)]()[_0x890e5a(0x235)](_0x890e5a(0x504)));
+                                    return () => _0x593822([{
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0xa,
+                                        'rate': 0.1,
+                                        'blook': _0x890e5a(0x279)
+                                    }, {
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0x19,
+                                        'rate': 0.1,
+                                        'blook': _0x890e5a(0x463)
+                                    }, {
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0x32,
+                                        'rate': 0.175,
+                                        'blook': _0x890e5a(0x453)
+                                    }, {
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0x4b,
+                                        'rate': 0.175,
+                                        'blook': _0x890e5a(0x11f)
+                                    }, {
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0x64,
+                                        'rate': 0.15,
+                                        'blook': _0x890e5a(0x359)
+                                    }, {
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0x7d,
+                                        'rate': 0.125,
+                                        'blook': _0x890e5a(0x100)
+                                    }, {
+                                        'type': 'fossil',
+                                        'val': 0xfa,
+                                        'rate': 0.075,
+                                        'blook': _0x890e5a(0x3cf)
+                                    }, {
+                                        'type': _0x890e5a(0x4bf),
+                                        'val': 0x1f4,
+                                        'rate': 0.025,
+                                        'blook': _0x890e5a(0x3d6)
+                                    }, {
+                                        'type': _0x890e5a(0x28e),
+                                        'val': 1.5,
+                                        'rate': 0.05
+                                    }, {
+                                        'type': _0x890e5a(0x28e),
+                                        'val': 0x2,
+                                        'rate': 0.025
+                                    }], 0x3);
+                                })());
+                            try {
+                                let {
+                                    stateNode: _0x42efef
+                                } = Object[_0x395d67(0x48c)](document[_0x395d67(0x343)](_0x395d67(0x29d)))[0x1]['children'][0x0][_0x395d67(0x17b)];
+                                if (_0x42efef['state']['stage'] === _0x395d67(0x325)) {
+                                    _0x42efef[_0x395d67(0x373)]['choices'][_0x395d67(0x4ca)] || (_0x42efef[_0x395d67(0x373)][_0x395d67(0x581)] = _0x1fe588());
+                                    let _0xe70d0f = 0x0,
+                                        _0x41624b = -0x1;
+                                    for (let _0x5bd83b = 0x0; _0x5bd83b < _0x42efef['state'][_0x395d67(0x581)]['length']; _0x5bd83b++) {
+                                        const {
+                                            type: _0x274e52,
+                                            val: _0x30e830
+                                        } = _0x42efef['state'][_0x395d67(0x581)][_0x5bd83b], _0x409270 = (_0x274e52 == _0x395d67(0x4bf) ? _0x42efef[_0x395d67(0x373)][_0x395d67(0x4dd)] + _0x30e830 * _0x42efef[_0x395d67(0x373)][_0x395d67(0x3c4)] : _0x42efef[_0x395d67(0x373)][_0x395d67(0x4dd)] * _0x30e830) || 0x0;
+                                        if (_0x409270 <= _0xe70d0f && _0x274e52 != _0x395d67(0x28e)) continue;
+                                        _0xe70d0f = _0x409270, _0x41624b = _0x5bd83b + 0x1;
+                                    }
+                                    document[_0x395d67(0x343)](_0x395d67(0x131) + _0x41624b + ')')['click']();
+                                }
+                            } catch {}
+                        }, 0x32)) : (this[_0x45954b(0x1b6)] = ![], clearInterval(this['data']), this[_0x45954b(0x3dd)] = null);
+                    }
+                }, {
+                    'name': 'Rock\x20ESP',
+                    'description': _0x4e8a0c(0x379),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x254b83 = _0x4e8a0c;
+                        !this['enabled'] ? (this['enabled'] = !![], this[_0x254b83(0x3dd)] = setInterval(() => {
+                            const _0x12b188 = _0x254b83;
+                            let {
+                                stateNode: _0x2aeaa1
+                            } = Object[_0x12b188(0x48c)](document['querySelector']('#app\x20>\x20div\x20>\x20div'))[0x1][_0x12b188(0x286)][0x0][_0x12b188(0x17b)];
+                            const _0x2acd8b = [...document[_0x12b188(0x343)]('[class*=\x22rockButton\x22]')[_0x12b188(0x23e)][_0x12b188(0x286)]];
+                            if (!_0x2acd8b[_0x12b188(0x1ef)](_0x361942 => _0x361942[_0x12b188(0x343)]('div'))) _0x2aeaa1[_0x12b188(0x202)]({
+                                'choices': [{
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0xa,
+                                    'rate': 0.1,
+                                    'blook': _0x12b188(0x279)
+                                }, {
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0x19,
+                                    'rate': 0.1,
+                                    'blook': 'Dino\x20Egg'
+                                }, {
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0x32,
+                                    'rate': 0.175,
+                                    'blook': 'Dino\x20Fossil'
+                                }, {
+                                    'type': 'fossil',
+                                    'val': 0x4b,
+                                    'rate': 0.175,
+                                    'blook': _0x12b188(0x11f)
+                                }, {
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0x64,
+                                    'rate': 0.15,
+                                    'blook': _0x12b188(0x359)
+                                }, {
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0x7d,
+                                    'rate': 0.125,
+                                    'blook': _0x12b188(0x100)
+                                }, {
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0xfa,
+                                    'rate': 0.075,
+                                    'blook': 'Triceratops'
+                                }, {
+                                    'type': _0x12b188(0x4bf),
+                                    'val': 0x1f4,
+                                    'rate': 0.025,
+                                    'blook': _0x12b188(0x3d6)
+                                }, {
+                                    'type': _0x12b188(0x28e),
+                                    'val': 1.5,
+                                    'rate': 0.05
+                                }, {
+                                    'type': _0x12b188(0x28e),
+                                    'val': 0x2,
+                                    'rate': 0.025
+                                }][_0x12b188(0x506)](() => 0.5 - Math['random']())[_0x12b188(0x18b)](0x0, 0x3)
+                            }, () => {
+                                const _0x4baaba = _0x12b188;
+                                _0x2acd8b[_0x4baaba(0x28d)]((_0x5ca2c3, _0x1ee600) => {
+                                    const _0x3af4a6 = _0x4baaba,
+                                        _0x448c1a = _0x2aeaa1['state'][_0x3af4a6(0x581)][_0x1ee600];
+                                    if (_0x5ca2c3[_0x3af4a6(0x343)](_0x3af4a6(0x1af))) _0x5ca2c3[_0x3af4a6(0x343)](_0x3af4a6(0x1af))[_0x3af4a6(0x50d)]();
+                                    const _0x8fdbd1 = document[_0x3af4a6(0x32c)]('div');
+                                    _0x8fdbd1['style'][_0x3af4a6(0x2a4)] = 'white', _0x8fdbd1[_0x3af4a6(0x4d2)][_0x3af4a6(0x19b)] = _0x3af4a6(0x349), _0x8fdbd1[_0x3af4a6(0x4d2)]['fontSize'] = _0x3af4a6(0x263), _0x8fdbd1[_0x3af4a6(0x4d2)]['display'] = _0x3af4a6(0x48e), _0x8fdbd1[_0x3af4a6(0x4d2)]['justifyContent'] = _0x3af4a6(0x2ee), _0x8fdbd1[_0x3af4a6(0x4d2)]['transform'] = _0x3af4a6(0x4b4), _0x8fdbd1[_0x3af4a6(0x3d8)] = _0x448c1a[_0x3af4a6(0x4b9)] === 'fossil' ? '+' + (Math[_0x3af4a6(0xec)](_0x448c1a['val'] * _0x2aeaa1[_0x3af4a6(0x373)][_0x3af4a6(0x3c4)]) > 0x5f5e0ff ? Object['values'](webpack(_0x3af4a6(0x128)))[_0x3af4a6(0x560)](_0xa7205c => _0xa7205c[_0x3af4a6(0x495)]()[_0x3af4a6(0x235)]('×'))(Math['round'](_0x448c1a['val'] * _0x2aeaa1[_0x3af4a6(0x373)]['fossilMult'])) : Math[_0x3af4a6(0xec)](_0x448c1a[_0x3af4a6(0x258)] * _0x2aeaa1[_0x3af4a6(0x373)][_0x3af4a6(0x3c4)])) + _0x3af4a6(0x2d1) : 'x' + _0x448c1a[_0x3af4a6(0x258)] + _0x3af4a6(0x59a);;
+                                    _0x5ca2c3['append'](_0x8fdbd1);
+                                });
+                            });
+                        }, 0x32)) : (this[_0x254b83(0x1b6)] = ![], clearInterval(this['data']), this[_0x254b83(0x3dd)] = null);
+                    }
+                }, {
+                    'name': 'Set\x20Fossils',
+                    'description': 'Sets\x20the\x20amount\x20of\x20fossils\x20you\x20have',
+                    'inputs': [{
+                        'name': _0x4e8a0c(0xf4),
+                        'type': 'number'
+                    }],
+                    'run': function(_0x4c2590) {
+                        const _0x2a36f6 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x30b33e
+                        } = Object['values'](document['querySelector'](_0x2a36f6(0x29d)))[0x1][_0x2a36f6(0x286)][0x0][_0x2a36f6(0x17b)];
+                        _0x30b33e[_0x2a36f6(0x202)]({
+                            'fossils': _0x4c2590
+                        }), _0x30b33e[_0x2a36f6(0x27b)][_0x2a36f6(0x494)]['setVal']({
+                            'path': 'c/' + _0x30b33e[_0x2a36f6(0x27b)][_0x2a36f6(0x4f3)][_0x2a36f6(0x378)],
+                            'val': {
+                                'b': _0x30b33e[_0x2a36f6(0x27b)][_0x2a36f6(0x4f3)][_0x2a36f6(0x1ce)],
+                                'f': _0x4c2590,
+                                'ic': _0x30b33e[_0x2a36f6(0x373)][_0x2a36f6(0x434)]
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x1b8),
+                    'description': _0x4e8a0c(0x3a5),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x401),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x37f617) {
+                        const _0x2c24e6 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x207474
+                        } = Object[_0x2c24e6(0x48c)](document[_0x2c24e6(0x343)](_0x2c24e6(0x29d)))[0x1][_0x2c24e6(0x286)][0x0][_0x2c24e6(0x17b)];
+                        _0x207474[_0x2c24e6(0x202)]({
+                            'fossilMult': _0x37f617
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x1a8),
+                    'description': 'Undoes\x20cheating\x20so\x20that\x20you\x20can\x27t\x20be\x20caught',
+                    'run': function() {
+                        const _0xa4c046 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x23e078
+                        } = Object['values'](document[_0xa4c046(0x343)](_0xa4c046(0x29d)))[0x1][_0xa4c046(0x286)][0x0][_0xa4c046(0x17b)];
+                        _0x23e078[_0xa4c046(0x202)]({
+                            'isCheating': ![]
+                        }), _0x23e078[_0xa4c046(0x27b)]['liveGameController'][_0xa4c046(0x503)]({
+                            'path': 'c/' + _0x23e078[_0xa4c046(0x27b)]['client']['name'] + '/ic',
+                            'val': ![]
+                        });
+                    }
+                }],
+                'doom': [{
+                    'name': _0x4e8a0c(0x41d),
+                    'description': _0x4e8a0c(0x572),
+                    'run': function() {
+                        const _0x31008e = _0x4e8a0c;
+                        let _0x24b311 = document['createElement']('iframe');
+                        document[_0x31008e(0xee)][_0x31008e(0x34e)](_0x24b311), window['alert'] = _0x24b311[_0x31008e(0x13e)][_0x31008e(0x45b)][_0x31008e(0x234)](window), _0x24b311[_0x31008e(0x50d)]();
+                        if (window[_0x31008e(0x2b9)][_0x31008e(0x3d3)] == _0x31008e(0x1cf)) {
+                            const {
+                                a: _0x13e0a6,
+                                c: _0x1fb498
+                            } = webpackJsonp[_0x31008e(0x3b3)]([
+                                [], {
+                                    ['']: (_0x1a1344, _0x10ce04, _0x256eda) => {
+                                        const _0x43d2b5 = _0x31008e;
+                                        _0x10ce04[_0x43d2b5(0x10d)] = _0x256eda['c'];
+                                    }
+                                },
+                                [
+                                    ['']
+                                ]
+                            ])['cache'][_0x31008e(0x356)][_0x31008e(0x3c3)], {
+                                stateNode: _0x415efc
+                            } = Object['values'](document[_0x31008e(0x343)](_0x31008e(0x29d)))[0x1][_0x31008e(0x286)][0x0]['_owner'];
+                            _0x415efc[_0x31008e(0x27b)]['tower'][_0x31008e(0x19d)] = Object[_0x31008e(0x549)](_0x13e0a6), _0x415efc[_0x31008e(0x27b)]['tower'][_0x31008e(0x19c)] = Object[_0x31008e(0x541)](_0x1fb498)[_0x31008e(0x184)](([_0xe5629c, _0x2d8166]) => ({
+                                ..._0x2d8166,
+                                'blook': _0xe5629c,
+                                'strength': 0x14,
+                                'charisma': 0x14,
+                                'wisdom': 0x14
+                            }));
+                            try {
+                                _0x415efc[_0x31008e(0x27b)][_0x31008e(0x3a6)]();
+                            } catch {};
+                            _0x415efc[_0x31008e(0x202)]({
+                                'showDeck': ![]
+                            });
+                        } else alert(_0x31008e(0x113));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x16f),
+                    'description': _0x4e8a0c(0x255),
+                    'run': function() {
+                        const _0x232039 = _0x4e8a0c;
+                        let _0x44d030 = document[_0x232039(0x32c)](_0x232039(0x394));
+                        document[_0x232039(0xee)][_0x232039(0x34e)](_0x44d030), window[_0x232039(0x45b)] = _0x44d030['contentWindow']['alert'][_0x232039(0x234)](window), _0x44d030[_0x232039(0x50d)]();
+                        if (window[_0x232039(0x2b9)][_0x232039(0x3d3)] == _0x232039(0x1cf)) {
+                            const {
+                                stateNode: _0x1bd149
+                            } = Object[_0x232039(0x48c)](document[_0x232039(0x343)](_0x232039(0x29d)))[0x1][_0x232039(0x286)][0x0][_0x232039(0x17b)];
+                            _0x1bd149[_0x232039(0x27b)][_0x232039(0x204)][_0x232039(0x19c)][_0x232039(0x28d)](_0x450625 => {
+                                const _0x31698a = _0x232039;
+                                _0x450625[_0x31698a(0x364)] = 0x14, _0x450625['charisma'] = 0x14, _0x450625[_0x31698a(0x435)] = 0x14;
+                            });
+                        } else alert(_0x232039(0x113));
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x241),
+                    'description': _0x4e8a0c(0x46e),
+                    'run': function() {
+                        const _0x13aef6 = _0x4e8a0c;
+                        let _0x244935 = document[_0x13aef6(0x32c)](_0x13aef6(0x394));
+                        document['body'][_0x13aef6(0x34e)](_0x244935), window[_0x13aef6(0x45b)] = _0x244935[_0x13aef6(0x13e)][_0x13aef6(0x45b)]['bind'](window), _0x244935['remove']();
+                        if (window[_0x13aef6(0x2b9)][_0x13aef6(0x3d3)] == '/tower/battle') Object['values'](document[_0x13aef6(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1][_0x13aef6(0x286)][0x0][_0x13aef6(0x17b)][_0x13aef6(0x490)][_0x13aef6(0x202)]({
+                            'myHealth': 0x64
+                        });
+                        else alert('You\x20need\x20to\x20be\x20in\x20battle\x20to\x20run\x20this\x20cheat!');
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x297),
+                    'description': _0x4e8a0c(0x40c),
+                    'run': function() {
+                        const _0x2a7743 = _0x4e8a0c;
+                        let _0xef0008 = document[_0x2a7743(0x32c)](_0x2a7743(0x394));
+                        document[_0x2a7743(0xee)][_0x2a7743(0x34e)](_0xef0008), window[_0x2a7743(0x45b)] = _0xef0008[_0x2a7743(0x13e)][_0x2a7743(0x45b)]['bind'](window), _0xef0008[_0x2a7743(0x50d)]();
+                        const {
+                            stateNode: _0x556a3a
+                        } = Object[_0x2a7743(0x48c)](document[_0x2a7743(0x343)]('#app\x20>\x20div\x20>\x20div'))[0x1][_0x2a7743(0x286)][0x0][_0x2a7743(0x17b)];
+                        if (_0x556a3a['state'][_0x2a7743(0xed)] !== 'select') alert(_0x2a7743(0x398));
+                        else _0x556a3a[_0x2a7743(0x202)]({
+                            'myCard': {
+                                ..._0x556a3a[_0x2a7743(0x373)][_0x2a7743(0x2ab)],
+                                'strength': 0x14,
+                                'charisma': 0x14,
+                                'wisdom': 0x14
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x27f),
+                    'description': 'Makes\x20the\x20enemy\x20card\x20stats\x20all\x200\x20(Only\x20works\x20on\x20attribute\x20select\x20page)',
+                    'run': function() {
+                        const _0x2a052d = _0x4e8a0c;
+                        let _0x44697b = document[_0x2a052d(0x32c)](_0x2a052d(0x394));
+                        document[_0x2a052d(0xee)][_0x2a052d(0x34e)](_0x44697b), window[_0x2a052d(0x45b)] = _0x44697b['contentWindow'][_0x2a052d(0x45b)][_0x2a052d(0x234)](window), _0x44697b[_0x2a052d(0x50d)]();
+                        const {
+                            stateNode: _0x4710f7
+                        } = Object['values'](document[_0x2a052d(0x343)](_0x2a052d(0x29d)))[0x1][_0x2a052d(0x286)][0x0]['_owner'];
+                        if (_0x4710f7[_0x2a052d(0x373)][_0x2a052d(0xed)] !== 'select') alert(_0x2a052d(0x398));
+                        else _0x4710f7[_0x2a052d(0x202)]({
+                            'enemyCard': {
+                                ..._0x4710f7[_0x2a052d(0x373)][_0x2a052d(0x122)],
+                                'strength': 0x0,
+                                'charisma': 0x0,
+                                'wisdom': 0x0
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x345),
+                    'description': 'Try\x27s\x20to\x20set\x20amount\x20of\x20tower\x20coins\x20you\x20have',
+                    'inputs': [{
+                        'name': 'Coins',
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x58627b) {
+                        const _0x4e4796 = _0x4e8a0c;
+                        let _0x316bb3 = document['createElement'](_0x4e4796(0x394));
+                        document[_0x4e4796(0xee)][_0x4e4796(0x34e)](_0x316bb3), window[_0x4e4796(0x45b)] = _0x316bb3[_0x4e4796(0x13e)]['prompt'][_0x4e4796(0x234)](window), _0x316bb3[_0x4e4796(0x50d)]();
+                        if (window[_0x4e4796(0x2b9)][_0x4e4796(0x3d3)] == _0x4e4796(0x46d)) {
+                            let _0x58010a = parseInt('0' + alert(_0x4e4796(0x1d4))),
+                                {
+                                    stateNode: _0x186262
+                                } = Object[_0x4e4796(0x48c)](document[_0x4e4796(0x343)](_0x4e4796(0x29d)))[0x1]['children'][0x0][_0x4e4796(0x17b)];
+                            try {
+                                _0x186262[_0x4e4796(0x27b)][_0x4e4796(0x237)](_0x58010a);
+                            } catch {};
+                        } else alert('You\x20need\x20to\x20be\x20in\x20battle\x20to\x20run\x20this\x20cheat!');
+                    }
+                }],
+                'factory': [{
+                    'name': _0x4e8a0c(0x3a1),
+                    'description': _0x4e8a0c(0x1bb),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x396),
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': [{
+                            'name': _0x4e8a0c(0x2ba),
+                            'color': _0x4e8a0c(0x466),
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x3, 0x7, 0x41, 0x190, 0x9c4],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x12c, 0xbb8, 0x7530, 0x30d40]
+                        }, {
+                            'name': _0x4e8a0c(0x1df),
+                            'color': _0x4e8a0c(0x46a),
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xa, 0x28, 0xc8, 0x578, 0x2710],
+                            'time': [0x5, 0x4, 0x3, 0x2, 0x1],
+                            'price': [0x23a, 0xfa0, 0xc350, 0xc3500]
+                        }, {
+                            'name': _0x4e8a0c(0x519),
+                            'color': _0x4e8a0c(0x360),
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x19, 0x4b, 0x5dc, 0x61a8, 0x3d090],
+                            'time': [0xf, 0xa, 0xa, 0xa, 0x5],
+                            'price': [0x1f4, 0x251c, 0x27100, 0x3d0900]
+                        }, {
+                            'name': 'Duck',
+                            'color': _0x4e8a0c(0x348),
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x4, 0x18, 0xc8, 0xbb8, 0x9c40],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0x1c2, 0x1068, 0x11170, 0x10c8e0]
+                        }, {
+                            'name': _0x4e8a0c(0x521),
+                            'color': _0x4e8a0c(0x4c1),
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x5, 0x1c, 0xc8, 0x514, 0x2ee0],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x1f4, 0x1900, 0xafc8, 0x7a120]
+                        }, {
+                            'name': _0x4e8a0c(0x1be),
+                            'color': _0x4e8a0c(0x101),
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x5, 0x14, 0x10e, 0x708, 0x3a98],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x226, 0x2008, 0xfde8, 0x927c0]
+                        }, {
+                            'name': _0x4e8a0c(0x459),
+                            'color': _0x4e8a0c(0x104),
+                            'class': '🌽',
+                            'rarity': 'Common',
+                            'cash': [0x14, 0x32, 0x514, 0x1f40, 0x13880],
+                            'time': [0x7, 0x7, 0x7, 0x7, 0x5],
+                            'price': [0x190, 0x2af8, 0x13880, 0x13d620]
+                        }, {
+                            'name': _0x4e8a0c(0x1b1),
+                            'color': '#414042',
+                            'class': '🌽',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x6, 0x19, 0xfa, 0x5dc, 0x2af8],
+                            'time': [0x3, 0x3, 0x3, 0x2, 0x2],
+                            'price': [0x1f4, 0x1388, 0xc350, 0x68fb0]
+                        }, {
+                            'name': _0x4e8a0c(0x14d),
+                            'color': _0x4e8a0c(0x37f),
+                            'class': '🐾',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x5, 0x12, 0xaa, 0x6a4, 0x32c8],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x1e0, 0x157c, 0xea60, 0x7a120]
+                        }, {
+                            'name': 'Dog',
+                            'color': _0x4e8a0c(0x101),
+                            'class': '🐾',
+                            'rarity': 'Common',
+                            'cash': [0x7, 0x19, 0xdc, 0x76c, 0x2328],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x1],
+                            'price': [0x1cc, 0x19c8, 0x11170, 0xb2390]
+                        }, {
+                            'name': _0x4e8a0c(0x419),
+                            'color': _0x4e8a0c(0x574),
+                            'class': '🐾',
+                            'rarity': 'Common',
+                            'cash': [0x5, 0x28, 0x15e, 0xdac, 0x88b8],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0x2ee, 0x1c20, 0x14820, 0xe7ef0]
+                        }, {
+                            'name': _0x4e8a0c(0x330),
+                            'color': '#e7bf9a',
+                            'class': '🐾',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x3, 0x12, 0xb9, 0x320, 0x1b58],
+                            'time': [0x2, 0x2, 0x2, 0x1, 0x1],
+                            'price': [0x1f4, 0x16a8, 0xdac0, 0x86470]
+                        }, {
+                            'name': _0x4e8a0c(0x244),
+                            'color': '#ce9176',
+                            'class': '🐾',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xa, 0x2d, 0x1c2, 0x1194, 0xafc8],
+                            'time': [0x4, 0x4, 0x4, 0x4, 0x4],
+                            'price': [0x28a, 0x1964, 0x13880, 0xe30d0]
+                        }, {
+                            'name': _0x4e8a0c(0x17d),
+                            'color': _0x4e8a0c(0x222),
+                            'class': '🐾',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x17, 0x78, 0x578, 0x3a98, 0x29810],
+                            'time': [0xa, 0xa, 0xa, 0xa, 0xa],
+                            'price': [0x2bc, 0x2134, 0x1adb0, 0x13d620]
+                        }, {
+                            'name': _0x4e8a0c(0x4d8),
+                            'color': '#414042',
+                            'class': '🐾',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x4, 0xa, 0x4b, 0x1f4, 0xbb8],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x1c2, 0xfa0, 0x88b8, 0x3d090]
+                        }, {
+                            'name': _0x4e8a0c(0x4e5),
+                            'color': '#58595b',
+                            'class': '🐾',
+                            'rarity': 'Common',
+                            'cash': [0x4, 0x8, 0x3c, 0x190, 0x7d0],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x15e, 0xdac, 0x6590, 0x29810]
+                        }, {
+                            'name': _0x4e8a0c(0x30c),
+                            'color': _0x4e8a0c(0x101),
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xc, 0x46, 0x226, 0x1194, 0x186a0],
+                            'time': [0x7, 0x7, 0x6, 0x5, 0x5],
+                            'price': [0x226, 0x157c, 0xf618, 0x186a00]
+                        }, {
+                            'name': _0x4e8a0c(0x34f),
+                            'color': _0x4e8a0c(0x101),
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x8, 0x2d, 0x190, 0xdac, 0x6590],
+                            'time': [0x5, 0x5, 0x4, 0x4, 0x3],
+                            'price': [0x208, 0x1964, 0xe290, 0xaae60]
+                        }, {
+                            'name': 'Fox',
+                            'color': _0x4e8a0c(0x37f),
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x7, 0xf, 0x50, 0x226, 0xbb8],
+                            'time': [0x2, 0x2, 0x1, 0x1, 0x1],
+                            'price': [0x190, 0xfa0, 0x8ca0, 0x3a980]
+                        }, {
+                            'name': 'Raccoon',
+                            'color': '#6d6e71',
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x5, 0xe, 0xb9, 0x76c, 0x4a38],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x190, 0x1388, 0x11558, 0xc3500]
+                        }, {
+                            'name': _0x4e8a0c(0x2fd),
+                            'color': _0x4e8a0c(0x403),
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x3, 0xa, 0x41, 0x1d6, 0xa28],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x1a4, 0xe10, 0x7d00, 0x33450]
+                        }, {
+                            'name': 'Owl',
+                            'color': _0x4e8a0c(0x3be),
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x4, 0x11, 0x9b, 0x5dc, 0x3a98],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x1f4, 0x12c0, 0xd6d8, 0x8d9a0]
+                        }, {
+                            'name': _0x4e8a0c(0x48f),
+                            'color': _0x4e8a0c(0x39a),
+                            'class': '🌲',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xb, 0x25, 0x154, 0x898, 0x7530],
+                            'time': [0x5, 0x4, 0x3, 0x2, 0x2],
+                            'price': [0x21c, 0x1b58, 0x12cc8, 0x124f80]
+                        }, {
+                            'name': _0x4e8a0c(0x311),
+                            'color': '#7ca1d5',
+                            'class': '❄️',
+                            'rarity': 'Common',
+                            'cash': [0x6, 0x11, 0x96, 0x4b0, 0x32c8],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x1e0, 0x1194, 0xa7f8, 0x7ef40]
+                        }, {
+                            'name': 'Arctic\x20Fox',
+                            'color': _0x4e8a0c(0x533),
+                            'class': '❄️',
+                            'rarity': 'Common',
+                            'cash': [0x5, 0x12, 0xb4, 0x352, 0x2134],
+                            'time': [0x2, 0x2, 0x2, 0x1, 0x1],
+                            'price': [0x208, 0x226, 0xee48, 0xa6040]
+                        }, {
+                            'name': 'Snowy\x20Owl',
+                            'color': _0x4e8a0c(0x327),
+                            'class': '❄️',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x5, 0x14, 0xbe, 0x76c, 0x3e80],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x172, 0x14b4, 0x128e0, 0x975e0]
+                        }, {
+                            'name': 'Arctic\x20Hare',
+                            'color': _0x4e8a0c(0x533),
+                            'class': '❄️',
+                            'rarity': 'Common',
+                            'cash': [0x6, 0x13, 0x55, 0x384, 0x1b58],
+                            'time': [0x2, 0x2, 0x1, 0x1, 0x1],
+                            'price': [0x21c, 0x1450, 0x101d0, 0x86470]
+                        }, {
+                            'name': _0x4e8a0c(0x21f),
+                            'color': _0x4e8a0c(0x49a),
+                            'class': '❄️',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x4, 0x15, 0x136, 0xc80, 0x80e8],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0x190, 0x1964, 0x128e0, 0xd4670]
+                        }, {
+                            'name': 'Baby\x20Penguin',
+                            'color': _0x4e8a0c(0x42d),
+                            'class': '❄️',
+                            'rarity': 'Common',
+                            'cash': [0x3, 0x8, 0x46, 0x1c2, 0xa8c],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x1a4, 0xce4, 0x80e8, 0x38270]
+                        }, {
+                            'name': _0x4e8a0c(0x1a0),
+                            'color': _0x4e8a0c(0x533),
+                            'class': '❄️',
+                            'rarity': 'Common',
+                            'cash': [0xc, 0x4b, 0x2bc, 0x1964, 0x14c08],
+                            'time': [0x8, 0x7, 0x6, 0x5, 0x5],
+                            'price': [0x276, 0x1b58, 0x16378, 0x155cc0]
+                        }, {
+                            'name': _0x4e8a0c(0x3f2),
+                            'color': _0x4e8a0c(0x20b),
+                            'class': '❄️',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xb, 0x2e, 0x1a4, 0xe74, 0xc738],
+                            'time': [0x5, 0x5, 0x4, 0x4, 0x4],
+                            'price': [0x226, 0x1838, 0x109a0, 0xf4240]
+                        }, {
+                            'name': 'Tiger',
+                            'color': _0x4e8a0c(0x574),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x6, 0x14, 0x64, 0x3cf, 0x1d4c],
+                            'time': [0x3, 0x3, 0x1, 0x1, 0x1],
+                            'price': [0x186, 0x1770, 0x11170, 0x94ed0]
+                        }, {
+                            'name': 'Jaguar',
+                            'color': _0x4e8a0c(0x597),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x8, 0x1c, 0xe6, 0x640, 0x4268],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x186, 0x1770, 0x11170, 0x94ed0]
+                        }, {
+                            'name': _0x4e8a0c(0x1ee),
+                            'color': _0x4e8a0c(0xf5),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x9, 0x14, 0xaf, 0x271, 0xed8],
+                            'time': [0x2, 0x2, 0x2, 0x1, 0x1],
+                            'price': [0x208, 0x12c0, 0xa410, 0x493e0]
+                        }, {
+                            'name': _0x4e8a0c(0x33e),
+                            'color': _0x4e8a0c(0x533),
+                            'class': '🌴',
+                            'rarity': 'Common',
+                            'cash': [0x6, 0x23, 0xa0, 0x6a4, 0x4650],
+                            'time': [0x4, 0x4, 0x2, 0x2, 0x2],
+                            'price': [0x1f4, 0x1388, 0xf618, 0xaae60]
+                        }, {
+                            'name': 'Macaw',
+                            'color': _0x4e8a0c(0x361),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x3, 0x8, 0x55, 0x352, 0x2134],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x1e0, 0x1518, 0xf230, 0x99cf0]
+                        }, {
+                            'name': 'Parrot',
+                            'color': _0x4e8a0c(0x46a),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x3, 0x9, 0x5a, 0x384, 0x2328],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x21c, 0x1644, 0xfde8, 0xa8750]
+                        }, {
+                            'name': _0x4e8a0c(0x53c),
+                            'color': _0x4e8a0c(0x23a),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xc, 0x1c, 0xd7, 0x834, 0x5208],
+                            'time': [0x5, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x212, 0x1964, 0x128e0, 0xd4670]
+                        }, {
+                            'name': 'Anaconda',
+                            'color': _0x4e8a0c(0x4ae),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x3, 0xf, 0x55, 0x5dc, 0x1db0],
+                            'time': [0x1, 0x2, 0x1, 0x2, 0x1],
+                            'price': [0x19a, 0x13ec, 0xe290, 0x900b0]
+                        }, {
+                            'name': 'Orangutan',
+                            'color': _0x4e8a0c(0x195),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0xd, 0x34, 0x23a, 0x10cc, 0x11170],
+                            'time': [0x5, 0x5, 0x5, 0x4, 0x4],
+                            'price': [0x258, 0x1b58, 0x13880, 0x155cc0]
+                        }, {
+                            'name': _0x4e8a0c(0x535),
+                            'color': _0x4e8a0c(0x12a),
+                            'class': '🌴',
+                            'rarity': _0x4e8a0c(0xfa),
+                            'cash': [0x4, 0xe, 0xa0, 0x30c, 0x2008],
+                            'time': [0x2, 0x2, 0x2, 0x1, 0x1],
+                            'price': [0x186, 0x125c, 0xdea8, 0xa6040]
+                        }, {
+                            'name': _0x4e8a0c(0x4f1),
+                            'color': '#a7d054',
+                            'class': '⚔️',
+                            'rarity': 'Uncommon',
+                            'cash': [0x1388, 0x3a98, 0x249f0, 0x16e360, 0x989680],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0xc3500, 0x895440, 0x68e7780, 0x2faf0800]
+                        }, {
+                            'name': _0x4e8a0c(0x199),
+                            'color': _0x4e8a0c(0x348),
+                            'class': '⚔️',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x4650, 0xea60, 0x9c40, 0x3d0900, 0x2160ec0],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x10c8e0, 0xb71b00, 0x8f0d180, 0x53724e00]
+                        }, {
+                            'name': _0x4e8a0c(0x298),
+                            'color': _0x4e8a0c(0x49f),
+                            'class': '⚔️',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x4c2c, 0xfde8, 0x6b6c0, 0x4630c0, 0x3d0900],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x13d620, 0xcdfe60, 0x9896800, 0x5f5e1000]
+                        }, {
+                            'name': _0x4e8a0c(0x145),
+                            'color': '#df6d9c',
+                            'class': '⚔️',
+                            'rarity': 'Uncommon',
+                            'cash': [0x4844, 0xea60, 0x975e0, 0x432380, 0x243d580],
+                            'time': [0x3, 0x3, 0x3, 0x2, 0x2],
+                            'price': [0x124f80, 0xbebc20, 0xe4e1c0, 0x59682f00]
+                        }, {
+                            'name': _0x4e8a0c(0x285),
+                            'color': _0x4e8a0c(0x2f4),
+                            'class': '⚔️',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x88b8, 0x222e0, 0xf4240, 0xa7d8c0, 0x68e7780],
+                            'time': [0x5, 0x5, 0x4, 0x4, 0x4],
+                            'price': [0x186a00, 0xe4e1c0, 0xbebc200, 0x89173700]
+                        }, {
+                            'name': _0x4e8a0c(0x481),
+                            'color': _0x4e8a0c(0x461),
+                            'class': '⚔️',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x61a8, 0x186a0, 0xa6040, 0x632ea0, 0x1e84800],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x1],
+                            'price': [0x1e8480, 0x1406f40, 0xdb58580, 0x9af8da00]
+                        }, {
+                            'name': _0x4e8a0c(0x427),
+                            'color': _0x4e8a0c(0x2f4),
+                            'class': '⚔️',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x8ca0, 0x249f0, 0x16e360, 0xe4e1c0, 0x8f0d180],
+                            'time': [0x4, 0x4, 0x4, 0x4, 0x4],
+                            'price': [0x231860, 0x16e3600, 0x1017df80, 0xb2d05e00]
+                        }, {
+                            'name': _0x4e8a0c(0x42f),
+                            'color': _0x4e8a0c(0x50a),
+                            'class': '⚔️',
+                            'rarity': 'Epic',
+                            'cash': [0x5dc0, 0x249f0, 0x155cc0, 0x6acfc0, 0x47868c0],
+                            'time': [0x2, 0x2, 0x2, 0x1, 0x1],
+                            'price': [0x44aa20, 0x2aea540, 0x20c85580, 0x1836e2100]
+                        }, {
+                            'name': _0x4e8a0c(0x267),
+                            'color': _0x4e8a0c(0x4d6),
+                            'class': '⚔️',
+                            'rarity': 'Rare',
+                            'cash': [0x5dc0, 0x17318, 0xe7ef0, 0x9402a0, 0x5a995c0],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0x1cfde0, 0x1312d00, 0xdb58580, 0x9502f900]
+                        }, {
+                            'name': _0x4e8a0c(0x486),
+                            'color': '#ee2640',
+                            'class': '⚔️',
+                            'rarity': 'Legendary',
+                            'cash': [0x124f8, 0x61a80, 0x5b8d80, 0x55d4a80, 0x4a817c80],
+                            'time': [0x5, 0x5, 0x5, 0x5, 0x5],
+                            'price': [0x5b8d80, 0x5a995c0, 0x5f5e1000, 0x5d21dba00]
+                        }, {
+                            'name': 'Two\x20of\x20Spades',
+                            'color': _0x4e8a0c(0x42d),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x1194, 0x36b0, 0x222e0, 0x155cc0, 0x895440],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0xbbfd0, 0x7ea5e0, 0x5d75c80, 0x2a51bd80]
+                        }, {
+                            'name': _0x4e8a0c(0x411),
+                            'color': _0x4e8a0c(0x433),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x32c8, 0xafc8, 0x6ddd0, 0x44aa20, 0x2faf080],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x13d620, 0xd59f80, 0x9896800, 0x77359400]
+                        }, {
+                            'name': _0x4e8a0c(0x3e3),
+                            'color': _0x4e8a0c(0x590),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x2ee0, 0x9c40, 0x61a80, 0x3d0900, 0x2aea540],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x124f80, 0xb71b00, 0x8583b00, 0x6b49d200]
+                        }, {
+                            'name': _0x4e8a0c(0x3a0),
+                            'color': '#4cc9f5',
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x32c8, 0xa410, 0x33450, 0x200b20, 0x15ef3c0],
+                            'time': [0x2, 0x2, 0x1, 0x1, 0x1],
+                            'price': [0x124f80, 0xc65d40, 0x8f0d180, 0x713fb300]
+                        }, {
+                            'name': 'Queen\x20of\x20Hearts',
+                            'color': _0x4e8a0c(0x142),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x59d8, 0x153d8, 0x975e0, 0x7270e0, 0x55d4a80],
+                            'time': [0x4, 0x4, 0x3, 0x3, 0x3],
+                            'price': [0x13d620, 0xc65d40, 0xaba9500, 0x8f0d1800]
+                        }, {
+                            'name': _0x4e8a0c(0x567),
+                            'color': '#89d6f8',
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x4268, 0x109a0, 0xaae60, 0x3567e0, 0x2160ec0],
+                            'time': [0x2, 0x2, 0x1, 0x1, 0x1],
+                            'price': [0x1e8480, 0x14fb180, 0xee6b280, 0xa6e49c00]
+                        }, {
+                            'name': _0x4e8a0c(0x395),
+                            'color': _0x4e8a0c(0x466),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x6590, 0x19a28, 0xa7d8c0, 0x757e20, 0x44aa200],
+                            'time': [0x3, 0x3, 0x3, 0x2, 0x2],
+                            'price': [0x1e8480, 0x15ef3c0, 0x10b07600, 0xacda7d00]
+                        }, {
+                            'name': _0x4e8a0c(0xfc),
+                            'color': _0x4e8a0c(0x590),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x7d00, 0x186a0, 0xdbba0, 0x895440, 0x3938700],
+                            'time': [0x4, 0x3, 0x3, 0x3, 0x2],
+                            'price': [0x1b7740, 0x121eac0, 0xd1cef00, 0x8f0d1800]
+                        }, {
+                            'name': _0x4e8a0c(0x16d),
+                            'color': _0x4e8a0c(0x291),
+                            'class': '🏰',
+                            'rarity': 'Epic',
+                            'cash': [0x2710, 0x11170, 0x9eb10, 0x7270e0, 0x510ff40],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0x401640, 0x280de80, 0x202fbf00, 0x19b45a500]
+                        }, {
+                            'name': _0x4e8a0c(0x306),
+                            'color': _0x4e8a0c(0x324),
+                            'class': '🏰',
+                            'rarity': 'Epic',
+                            'cash': [0x9470, 0x3d090, 0x16e360, 0xd59f80, 0x4c4b400],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x1],
+                            'price': [0x493e00, 0x2dc6c00, 0x1efe9200, 0x189640200]
+                        }, {
+                            'name': 'King\x20of\x20Hearts',
+                            'color': _0x4e8a0c(0x2e3),
+                            'class': '🏰',
+                            'rarity': _0x4e8a0c(0x458),
+                            'cash': [0x13880, 0x668a0, 0x67c280, 0x5f5e100, 0x59682f00],
+                            'time': [0x5, 0x5, 0x5, 0x5, 0x5],
+                            'price': [0x6acfc0, 0x68e7780, 0x6b49d200, 0x6fc23ac00]
+                        }, {
+                            'name': 'Earth',
+                            'color': _0x4e8a0c(0x132),
+                            'class': '🚀',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x3a98, 0xafc8, 0x927c0, 0x632ea0, 0x3dfd240],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0xf4240, 0xa7d8c0, 0x8f0d180, 0x6553f100]
+                        }, {
+                            'name': _0x4e8a0c(0x3ff),
+                            'color': _0x4e8a0c(0x2df),
+                            'class': '🚀',
+                            'rarity': 'Uncommon',
+                            'cash': [0x59d8, 0xfde8, 0xaae60, 0x44aa20, 0x1312d00],
+                            'time': [0x5, 0x4, 0x3, 0x2, 0x1],
+                            'price': [0xe7ef0, 0xc65d40, 0x9896800, 0x5f5e1000]
+                        }, {
+                            'name': _0x4e8a0c(0x1ab),
+                            'color': _0x4e8a0c(0x454),
+                            'class': '🚀',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x2710, 0x9c40, 0x30d40, 0x1e8480, 0x112a880],
+                            'time': [0x2, 0x2, 0x1, 0x1, 0x1],
+                            'price': [0x155cc0, 0xd59f80, 0x8f0d180, 0x59682f00]
+                        }, {
+                            'name': _0x4e8a0c(0x449),
+                            'color': _0x4e8a0c(0x283),
+                            'class': '🚀',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x7530, 0x186a0, 0xf4240, 0xa7d8c0, 0x510ff40],
+                            'time': [0x4, 0x4, 0x4, 0x4, 0x4],
+                            'price': [0x16e360, 0x1036640, 0xb532b80, 0x6553f100]
+                        }, {
+                            'name': _0x4e8a0c(0x282),
+                            'color': _0x4e8a0c(0x3a7),
+                            'class': '🚀',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x61a8, 0x186a0, 0xdbba0, 0x895440, 0x55d4a80],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0x1e8480, 0x1406f40, 0xc845880, 0x8f0d1800]
+                        }, {
+                            'name': _0x4e8a0c(0x154),
+                            'color': '#a15095',
+                            'class': '🚀',
+                            'rarity': 'Rare',
+                            'cash': [0x4268, 0x11170, 0xaae60, 0x6acfc0, 0x42c1d80],
+                            'time': [0x2, 0x2, 0x2, 0x2, 0x2],
+                            'price': [0x200b20, 0x15ef3c0, 0xee6b280, 0xa6e49c00]
+                        }, {
+                            'name': _0x4e8a0c(0x14f),
+                            'color': '#ffcb29',
+                            'class': '🚀',
+                            'rarity': _0x4e8a0c(0x523),
+                            'cash': [0xea60, 0x4e200, 0x200b20, 0xe4e1c0, 0x510ff40],
+                            'time': [0x5, 0x4, 0x3, 0x2, 0x1],
+                            'price': [0x493e00, 0x2bde780, 0x202fbf00, 0x1954fc400]
+                        }, {
+                            'name': _0x4e8a0c(0x2a8),
+                            'color': _0x4e8a0c(0x118),
+                            'class': '🚀',
+                            'rarity': _0x4e8a0c(0x458),
+                            'cash': [0xafc8, 0x3f7a0, 0x2625a0, 0x243d580, 0x20c85580],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x632ea0, 0x5f5e100, 0x6553f100, 0x649534e00]
+                        }, {
+                            'name': 'Lil\x20Bot',
+                            'color': _0x4e8a0c(0x32b),
+                            'class': '🤖',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0xfa0, 0x2ee0, 0x2bf20, 0x1cfde0, 0x17d7840],
+                            'time': [0x1, 0x1, 0x1, 0x1, 0x1],
+                            'price': [0xb2390, 0xb71b00, 0x7bfa480, 0x713fb300]
+                        }, {
+                            'name': _0x4e8a0c(0x2f1),
+                            'color': _0x4e8a0c(0x1f6),
+                            'class': '🤖',
+                            'rarity': 'Uncommon',
+                            'cash': [0x3e80, 0xfde8, 0x9eb10, 0x493e00, 0x280de80],
+                            'time': [0x3, 0x3, 0x3, 0x2, 0x2],
+                            'price': [0x13d620, 0xd59f80, 0xa21fe80, 0x5f5e1000]
+                        }, {
+                            'name': 'Angry\x20Bot',
+                            'color': _0x4e8a0c(0x591),
+                            'class': '🤖',
+                            'rarity': 'Uncommon',
+                            'cash': [0x55f0, 0x14c08, 0xc3500, 0x5e9ac0, 0x3dfd240],
+                            'time': [0x4, 0x4, 0x4, 0x3, 0x3],
+                            'price': [0x124f80, 0xc65d40, 0x8f0d180, 0x6553f100]
+                        }, {
+                            'name': _0x4e8a0c(0x41e),
+                            'color': '#51ba6b',
+                            'class': '🤖',
+                            'rarity': _0x4e8a0c(0x4ac),
+                            'cash': [0x2af8, 0xafc8, 0x7a120, 0x2625a0, 0x1c9c380],
+                            'time': [0x2, 0x2, 0x2, 0x1, 0x1],
+                            'price': [0x155cc0, 0xe4e1c0, 0xaba9500, 0x8f0d1800]
+                        }, {
+                            'name': _0x4e8a0c(0x1ae),
+                            'color': _0x4e8a0c(0x23c),
+                            'class': '🤖',
+                            'rarity': _0x4e8a0c(0x390),
+                            'cash': [0x5dc0, 0x186a0, 0xf4240, 0x989680, 0x5f5e100],
+                            'time': [0x3, 0x3, 0x3, 0x3, 0x3],
+                            'price': [0x1e8480, 0x14fb180, 0xe4e1c00, 0x9af8da00]
+                        }, {
+                            'name': _0x4e8a0c(0x55a),
+                            'color': _0x4e8a0c(0x3a7),
+                            'class': '🤖',
+                            'rarity': 'Rare',
+                            'cash': [0x55f0, 0x17318, 0x9eb10, 0x632ea0, 0x3dfd240],
+                            'time': [0x3, 0x3, 0x2, 0x2, 0x2],
+                            'price': [0x1cfde0, 0x1406f40, 0xdb58580, 0x9502f900]
+                        }, {
+                            'name': 'Brainy\x20Bot',
+                            'color': _0x4e8a0c(0x1da),
+                            'class': '🤖',
+                            'rarity': _0x4e8a0c(0x523),
+                            'cash': [0xc350, 0x3d090, 0x200b20, 0x1406f40, 0xa21fe80],
+                            'time': [0x4, 0x3, 0x3, 0x3, 0x2],
+                            'price': [0x4c4b40, 0x2bde780, 0x1dcd6500, 0x18f59e300]
+                        }, {
+                            'name': _0x4e8a0c(0x59d),
+                            'color': _0x4e8a0c(0x59b),
+                            'class': '🤖',
+                            'rarity': _0x4e8a0c(0x458),
+                            'cash': [0x13880, 0x68fb0, 0x401640, 0x3b20b80, 0x3b9aca00],
+                            'time': [0x5, 0x5, 0x3, 0x3, 0x3],
+                            'price': [0x6acfc0, 0x7270e00, 0x713fb300, 0x826299e00]
+                        }]['map'](_0x3cb5e7 => ({
+                            'name': _0x3cb5e7[_0x4e8a0c(0x378)],
+                            'value': JSON[_0x4e8a0c(0x3b5)](_0x3cb5e7)
+                        }))
+                    }],
+                    'run': function(_0x5003dc) {
+                        const _0x3fdc4d = _0x4e8a0c;
+                        let _0x2be3cf = document[_0x3fdc4d(0x32c)]('iframe');
+                        document[_0x3fdc4d(0xee)][_0x3fdc4d(0x34e)](_0x2be3cf), window[_0x3fdc4d(0x45b)] = _0x2be3cf[_0x3fdc4d(0x13e)][_0x3fdc4d(0x45b)][_0x3fdc4d(0x234)](window), _0x2be3cf[_0x3fdc4d(0x50d)]();
+                        const {
+                            stateNode: _0x1e48fd
+                        } = Object['values'](document['querySelector'](_0x3fdc4d(0x29d)))[0x1][_0x3fdc4d(0x286)][0x0]['_owner'];
+                        if (_0x1e48fd['state'][_0x3fdc4d(0x310)][_0x3fdc4d(0x4ca)] >= 0xa) alert(_0x3fdc4d(0x2f0));
+                        _0x1e48fd[_0x3fdc4d(0x58e)](JSON[_0x3fdc4d(0x426)](_0x5003dc));
+                    }
+                }, {
+                    'name': 'Free\x20Upgrades',
+                    'description': _0x4e8a0c(0x493),
+                    'run': function() {
+                        const _0x84fa6a = _0x4e8a0c;
+                        let {
+                            stateNode: _0x17f828
+                        } = Object[_0x84fa6a(0x48c)](document[_0x84fa6a(0x343)](_0x84fa6a(0x29d)))[0x1]['children'][0x0]['_owner'];
+                        _0x17f828[_0x84fa6a(0x202)](_0xa31233 => ({
+                            ..._0xa31233,
+                            'blooks': _0xa31233[_0x84fa6a(0x310)][_0x84fa6a(0x184)](_0x1e7ca9 => ({
+                                ..._0x1e7ca9,
+                                'price': [0x0, 0x0, 0x0, 0x0]
+                            }))
+                        }));
+                    }
+                }, {
+                    'name': 'Max\x20Blooks',
+                    'description': _0x4e8a0c(0x4d1),
+                    'run': function() {
+                        const _0x579477 = _0x4e8a0c;
+                        Object['values'](document[_0x579477(0x343)](_0x579477(0x29d)))[0x1][_0x579477(0x286)][0x0]['_owner'][_0x579477(0x490)]['state'][_0x579477(0x310)][_0x579477(0x28d)](_0x2b1903 => _0x2b1903['level'] = 0x4);
+                    }
+                }, {
+                    'name': 'Remove\x20Glitches',
+                    'description': _0x4e8a0c(0x231),
+                    'run': function() {
+                        const _0x387208 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x42a5f8
+                        } = Object[_0x387208(0x48c)](document['querySelector']('#app\x20>\x20div\x20>\x20div'))[0x1][_0x387208(0x286)][0x0]['_owner'];
+                        _0x42a5f8[_0x387208(0x202)]({
+                            'bits': 0x0,
+                            'ads': [],
+                            'hazards': [],
+                            'color': '',
+                            'lol': ![],
+                            'joke': ![],
+                            'slow': ![],
+                            'dance': ![],
+                            'glitch': '',
+                            'glitcherName': '',
+                            'glitcherBlook': ''
+                        }), clearTimeout(_0x42a5f8[_0x387208(0x25a)]), clearInterval(_0x42a5f8[_0x387208(0x347)]), clearTimeout(_0x42a5f8[_0x387208(0x254)]), clearTimeout(_0x42a5f8[_0x387208(0x358)]), clearTimeout(_0x42a5f8[_0x387208(0x1fe)]), clearTimeout(_0x42a5f8[_0x387208(0x559)]), clearTimeout(_0x42a5f8[_0x387208(0x3a8)]), clearTimeout(_0x42a5f8[_0x387208(0x558)]), clearTimeout(_0x42a5f8[_0x387208(0x3ea)]);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x249),
+                    'description': _0x4e8a0c(0x56a),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x3ef),
+                        'type': 'options',
+                        'options': Object[_0x4e8a0c(0x541)]({
+                            'lb': 'Lunch\x20Break',
+                            'as': _0x4e8a0c(0x3ae),
+                            'e37': _0x4e8a0c(0x472),
+                            'nt': _0x4e8a0c(0x168),
+                            'lo': _0x4e8a0c(0x14a),
+                            'j': _0x4e8a0c(0x275),
+                            'sm': 'Slow\x20Mo',
+                            'dp': _0x4e8a0c(0x18c),
+                            'v': 'Vortex',
+                            'r': _0x4e8a0c(0x47f),
+                            'f': _0x4e8a0c(0x1a1),
+                            'm': _0x4e8a0c(0x33c)
+                        })[_0x4e8a0c(0x184)](([_0x519280, _0x282684]) => ({
+                            'name': _0x282684,
+                            'value': _0x519280
+                        }))
+                    }],
+                    'run': function(_0x3246aa) {
+                        const _0x51c25c = _0x4e8a0c;
+                        let {
+                            stateNode: _0x16ca4f
+                        } = Object[_0x51c25c(0x48c)](document[_0x51c25c(0x343)](_0x51c25c(0x29d)))[0x1][_0x51c25c(0x286)][0x0]['_owner'];
+                        _0x16ca4f[_0x51c25c(0x1a7)] = !![], _0x16ca4f[_0x51c25c(0x27b)][_0x51c25c(0x494)]['setVal']({
+                            'path': 'c/' + _0x16ca4f[_0x51c25c(0x27b)][_0x51c25c(0x4f3)][_0x51c25c(0x378)] + _0x51c25c(0x174),
+                            'val': _0x3246aa
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4d4),
+                    'description': _0x4e8a0c(0x370),
+                    'run': function() {
+                        const _0x464304 = _0x4e8a0c;
+                        Object[_0x464304(0x48c)](document['querySelector'](_0x464304(0x29d)))[0x1]['children'][0x0][_0x464304(0x17b)][_0x464304(0x490)]['setState']({
+                            'blooks': new Array(0xa)['fill']({
+                                'name': _0x464304(0x59d),
+                                'color': _0x464304(0x59b),
+                                'class': '🤖',
+                                'rarity': _0x464304(0x458),
+                                'cash': [0x13880, 0x68fb0, 0x401640, 0x3b20b80, 0x3b9aca00],
+                                'time': [0x5, 0x5, 0x3, 0x3, 0x3],
+                                'price': [0x6acfc0, 0x7270e00, 0x713fb300, 0x826299e00],
+                                'active': ![],
+                                'level': 0x4,
+                                'bonus': 5.5
+                            })
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x431),
+                    'description': _0x4e8a0c(0x27c),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x233),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x568a05) {
+                        const _0x5869e8 = _0x4e8a0c;
+                        Object[_0x5869e8(0x48c)](document[_0x5869e8(0x343)](_0x5869e8(0x29d)))[0x1][_0x5869e8(0x286)][0x0][_0x5869e8(0x17b)]['stateNode'][_0x5869e8(0x202)]({
+                            'cash': _0x568a05
+                        });
+                    }
+                }],
+                'fishing': [{
+                    'name': _0x4e8a0c(0x166),
+                    'description': _0x4e8a0c(0x446),
+                    'run': function() {
+                        const _0x3c0f3e = _0x4e8a0c;
+                        let {
+                            stateNode: _0x5f5d3f
+                        } = Object[_0x3c0f3e(0x48c)](document['querySelector'](_0x3c0f3e(0x29d)))[0x1]['children'][0x0][_0x3c0f3e(0x17b)];
+                        _0x5f5d3f[_0x3c0f3e(0x27b)][_0x3c0f3e(0x494)]['setVal']({
+                            'path': 'c/' + _0x5f5d3f[_0x3c0f3e(0x27b)][_0x3c0f3e(0x4f3)]['name'],
+                            'val': {
+                                'b': _0x5f5d3f[_0x3c0f3e(0x27b)][_0x3c0f3e(0x4f3)][_0x3c0f3e(0x1ce)],
+                                'w': _0x5f5d3f[_0x3c0f3e(0x373)][_0x3c0f3e(0x243)],
+                                'f': _0x3c0f3e(0x166),
+                                's': !![]
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x293),
+                    'description': _0x4e8a0c(0x56b),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x2eb431 = _0x4e8a0c;
+                        !this[_0x2eb431(0x1b6)] ? (this[_0x2eb431(0x1b6)] = !![], this[_0x2eb431(0x3dd)] = setInterval(() => {
+                            const _0x5a3e4b = _0x2eb431;
+                            Object['values'](document['querySelector'](_0x5a3e4b(0x29d)))[0x1][_0x5a3e4b(0x286)][0x0][_0x5a3e4b(0x17b)][_0x5a3e4b(0x490)]['setState']({
+                                'party': ''
+                            });
+                        }, 0x32)) : (this[_0x2eb431(0x1b6)] = ![], clearInterval(this['data']), this['data'] = null);
+                    }
+                }, {
+                    'name': 'Send\x20Distraction',
+                    'description': _0x4e8a0c(0x3c5),
+                    'inputs': [{
+                        'name': 'Distraction',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': [_0x4e8a0c(0x49c), _0x4e8a0c(0x380), _0x4e8a0c(0x3c6), 'Pufferfish', _0x4e8a0c(0x3f9), _0x4e8a0c(0x136), _0x4e8a0c(0x209), 'Blobfish', _0x4e8a0c(0x2a2)]
+                    }],
+                    'run': function(_0x239ce6) {
+                        const _0x1726de = _0x4e8a0c;
+                        let _0x5917fc = document[_0x1726de(0x32c)](_0x1726de(0x394));
+                        document['body'][_0x1726de(0x34e)](_0x5917fc), window[_0x1726de(0x45b)] = _0x5917fc[_0x1726de(0x13e)][_0x1726de(0x45b)]['bind'](window), _0x5917fc[_0x1726de(0x50d)]();
+                        let {
+                            stateNode: _0x160a2e
+                        } = Object[_0x1726de(0x48c)](document[_0x1726de(0x343)](_0x1726de(0x29d)))[0x1]['children'][0x0][_0x1726de(0x17b)];
+                        _0x160a2e[_0x1726de(0x1a7)] = !![], _0x160a2e[_0x1726de(0x27b)][_0x1726de(0x494)]['setVal']({
+                            'path': 'c/' + _0x160a2e['props'][_0x1726de(0x4f3)][_0x1726de(0x378)],
+                            'val': {
+                                'b': _0x160a2e[_0x1726de(0x27b)][_0x1726de(0x4f3)][_0x1726de(0x1ce)],
+                                'w': _0x160a2e['state'][_0x1726de(0x243)],
+                                'f': _0x239ce6,
+                                's': !![]
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x281),
+                    'description': _0x4e8a0c(0x32f),
+                    'inputs': [{
+                        'name': 'Lure\x20(1\x20-\x205)',
+                        'type': 'number',
+                        'min': 0x1,
+                        'max': 0x5
+                    }],
+                    'run': function(_0x482a41) {
+                        const _0x31d681 = _0x4e8a0c;
+                        Object[_0x31d681(0x48c)](document[_0x31d681(0x343)](_0x31d681(0x29d)))[0x1]['children'][0x0][_0x31d681(0x17b)]['stateNode']['setState']({
+                            'lure': Math[_0x31d681(0x1a2)](Math[_0x31d681(0x2c9)](_0x482a41 - 0x1, 0x4), 0x0)
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x45c),
+                    'description': _0x4e8a0c(0x543),
+                    'inputs': [{
+                        'name': 'Weight',
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x48c9c7) {
+                        const _0x85d583 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x30ee07
+                        } = Object['values'](document[_0x85d583(0x343)](_0x85d583(0x29d)))[0x1][_0x85d583(0x286)][0x0][_0x85d583(0x17b)];
+                        _0x30ee07[_0x85d583(0x202)]({
+                            'weight': _0x48c9c7,
+                            'weight2': _0x48c9c7
+                        }), _0x30ee07[_0x85d583(0x27b)][_0x85d583(0x494)][_0x85d583(0x503)]({
+                            'path': 'c/' + _0x30ee07[_0x85d583(0x27b)][_0x85d583(0x4f3)][_0x85d583(0x378)],
+                            'val': {
+                                'b': _0x30ee07[_0x85d583(0x27b)][_0x85d583(0x4f3)][_0x85d583(0x1ce)],
+                                'w': _0x48c9c7,
+                                'f': [_0x85d583(0x49c), _0x85d583(0x380), _0x85d583(0x3c6), 'Pufferfish', _0x85d583(0x3f9), _0x85d583(0x136), _0x85d583(0x209), _0x85d583(0x44d), _0x85d583(0x2a2)][Math[_0x85d583(0x522)](Math[_0x85d583(0x388)]() * 0x9)]
+                            }
+                        });
+                    }
+                }],
+                'flappy': [{
+                    'name': _0x4e8a0c(0x1b4),
+                    'description': _0x4e8a0c(0x4a9),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'run': function() {
+                        const _0x17500b = _0x4e8a0c;
+                        this['enabled'] = !this[_0x17500b(0x1b6)], Object['values'](document['querySelector'](_0x17500b(0x3fe)))[0x1][_0x17500b(0x286)][0x0][_0x17500b(0x17b)][_0x17500b(0x490)][_0x17500b(0x373)][_0x17500b(0x2f5)][_0x17500b(0x4c6)][_0x17500b(0x351)][_0x17500b(0x497)][_0x17500b(0x3f0)]['entries'][_0x17500b(0x28d)](_0x348f7d => _0x348f7d[_0x17500b(0x595)]['frame']['texture'][_0x17500b(0x45f)][_0x17500b(0x44c)](_0x17500b(0x1ce)) && (_0x348f7d[_0x17500b(0x149)][_0x17500b(0x3e5)] = this[_0x17500b(0x1b6)], _0x348f7d[_0x17500b(0x595)]['setAlpha'](this['enabled'] ? 0.5 : 0x1)));
+                    }
+                }, {
+                    'name': 'Set\x20Score',
+                    'description': 'Sets\x20flappy\x20blook\x20score',
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x4ff),
+                        'type': 'number'
+                    }],
+                    'run': function(_0x4468ff) {
+                        const _0x2959ba = _0x4e8a0c;
+                        Object[_0x2959ba(0x48c)](document[_0x2959ba(0x343)](_0x2959ba(0x3fe)))[0x1][_0x2959ba(0x286)][0x0][_0x2959ba(0x17b)][_0x2959ba(0x490)][_0x2959ba(0x202)]({
+                            'score': _0x4468ff
+                        });
+                    }
+                }],
+                'gold': [{
+                    'name': 'Always\x20Triple',
+                    'description': _0x4e8a0c(0x1a3),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x5915aa = _0x4e8a0c;
+                        let {
+                            stateNode: _0x2f5cf1
+                        } = Object[_0x5915aa(0x48c)](document[_0x5915aa(0x343)](_0x5915aa(0x29d)))[0x1][_0x5915aa(0x286)][0x0][_0x5915aa(0x17b)];
+                        _0x2f5cf1['_choosePrize'] ||= _0x2f5cf1[_0x5915aa(0x15b)], !this[_0x5915aa(0x1b6)] ? (this[_0x5915aa(0x1b6)] = !![], this[_0x5915aa(0x3dd)] = setInterval(() => {
+                            const _0x59a25c = _0x5915aa;
+                            _0x2f5cf1[_0x59a25c(0x15b)] = function(_0x4c8ae1) {
+                                const _0x435053 = _0x59a25c;
+                                _0x2f5cf1['state'][_0x435053(0x581)][_0x4c8ae1] = {
+                                    'type': 'multiply',
+                                    'val': 0x3,
+                                    'text': _0x435053(0x3bf),
+                                    'blook': 'Unicorn'
+                                }, _0x2f5cf1[_0x435053(0x277)](_0x4c8ae1);
+                            };
+                        }, 0x32)) : (this[_0x5915aa(0x1b6)] = ![], clearInterval(this[_0x5915aa(0x3dd)]), this['data'] = null, _0x2f5cf1[_0x5915aa(0x15b)] = _0x2f5cf1[_0x5915aa(0x277)] || _0x2f5cf1[_0x5915aa(0x15b)]);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x42e),
+                    'description': 'Automatically\x20picks\x20the\x20option\x20that\x20would\x20give\x20you\x20the\x20most\x20gold',
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x1cf5df = _0x4e8a0c;
+                        !this[_0x1cf5df(0x1b6)] ? (this['enabled'] = !![], this[_0x1cf5df(0x3dd)] = setInterval(async () => {
+                            const _0x36d44d = _0x1cf5df;
+                            try {
+                                let {
+                                    stateNode: _0x196db6
+                                } = Object['values'](document[_0x36d44d(0x343)](_0x36d44d(0x29d)))[0x1][_0x36d44d(0x286)][0x0]['_owner'];
+                                if (_0x196db6[_0x36d44d(0x373)]['stage'] === 'prize') {
+                                    const _0x23d9c9 = Object['entries'](await new Promise(_0xcd63d9 => _0x196db6[_0x36d44d(0x27b)][_0x36d44d(0x494)]['getDatabaseVal']('c', _0x32f4ac => _0x32f4ac && _0xcd63d9(_0x32f4ac))) || [])[_0x36d44d(0x3bc)](_0x3a35c7 => _0x3a35c7[0x0] != _0x196db6[_0x36d44d(0x27b)]['client']['name'])['sort']((_0x39914d, _0x394048) => _0x394048[0x1]['g'] - _0x39914d[0x1]['g'])[0x0]?.[0x1]?.['g'] || 0x0;
+                                    let _0x2a4a63 = 0x0;
+                                    index = -0x1;
+                                    for (let _0x228ddf = 0x0; _0x228ddf < _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x581)]['length']; _0x228ddf++) {
+                                        const {
+                                            type: _0x1980d0,
+                                            val: _0x55cd32
+                                        } = _0x196db6[_0x36d44d(0x373)]['choices'][_0x228ddf];
+                                        let _0x476020 = _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)];
+                                        switch (_0x1980d0) {
+                                            case _0x36d44d(0x2a3):
+                                                _0x476020 = _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)] + _0x55cd32 || _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)];
+                                                break;
+                                            case _0x36d44d(0x304):
+                                            case _0x36d44d(0x272):
+                                                _0x476020 = Math[_0x36d44d(0xec)](_0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)] * _0x55cd32) || _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)];
+                                                break;
+                                            case _0x36d44d(0x49e):
+                                                _0x476020 = _0x23d9c9 || _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)];
+                                            case 'take':
+                                                _0x476020 = _0x196db6['state'][_0x36d44d(0x2a3)] + _0x23d9c9 * _0x55cd32 || _0x196db6[_0x36d44d(0x373)][_0x36d44d(0x2a3)];
+                                        }
+                                        if ((_0x476020 || 0x0) <= _0x2a4a63) continue;
+                                        _0x2a4a63 = _0x476020, index = _0x228ddf + 0x1;
+                                    }
+                                    document[_0x36d44d(0x343)](_0x36d44d(0x2cc) + index + '\x27]')[_0x36d44d(0x2c0)]();
+                                }
+                            } catch {}
+                        }, 0x32)) : (this['enabled'] = ![], clearInterval(this[_0x1cf5df(0x3dd)]), this['data'] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4aa),
+                    'description': _0x4e8a0c(0x448),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x4f64f7 = _0x4e8a0c;
+                        !this[_0x4f64f7(0x1b6)] ? (this[_0x4f64f7(0x1b6)] = !![], this['data'] = setInterval(() => {
+                            const _0xc1296a = _0x4f64f7;
+                            Object['values'](document[_0xc1296a(0x343)](_0xc1296a(0x29d)))[0x1]['children'][0x0][_0xc1296a(0x17b)][_0xc1296a(0x490)][_0xc1296a(0x373)]['choices'][_0xc1296a(0x28d)](({
+                                text: _0x201f52
+                            }, _0x43ada6) => {
+                                const _0xd8d008 = _0xc1296a;
+                                let _0x194d64 = document[_0xd8d008(0x343)](_0xd8d008(0x2cc) + (_0x43ada6 + 0x1) + '\x27]');
+                                if (!_0x194d64 || _0x194d64[_0xd8d008(0x343)](_0xd8d008(0x1af))) return;
+                                let _0x314253 = document[_0xd8d008(0x32c)](_0xd8d008(0x1af));
+                                _0x314253['style']['color'] = _0xd8d008(0x468), _0x314253[_0xd8d008(0x4d2)][_0xd8d008(0x19b)] = 'Eczar', _0x314253[_0xd8d008(0x4d2)][_0xd8d008(0x413)] = _0xd8d008(0x40e), _0x314253[_0xd8d008(0x4d2)][_0xd8d008(0x41c)] = 'flex', _0x314253[_0xd8d008(0x4d2)][_0xd8d008(0x534)] = _0xd8d008(0x2ee), _0x314253[_0xd8d008(0x4d2)][_0xd8d008(0x15c)] = 'translateY(200px)', _0x314253[_0xd8d008(0x3d8)] = _0x201f52, _0x194d64[_0xd8d008(0x34e)](_0x314253);
+                            });
+                        }, 0x32)) : (this[_0x4f64f7(0x1b6)] = ![], clearInterval(this[_0x4f64f7(0x3dd)]), this['data'] = null);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x220),
+                    'description': 'Sets\x20a\x20player\x27s\x20gold\x20to\x200',
+                    'inputs': [{
+                        'name': 'Player',
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': () => {
+                            const _0x56e73a = _0x4e8a0c;
+                            let {
+                                stateNode: _0x4a0595
+                            } = Object[_0x56e73a(0x48c)](document[_0x56e73a(0x343)](_0x56e73a(0x29d)))[0x1][_0x56e73a(0x286)][0x0]['_owner'];
+                            return new Promise(_0x278c4f => _0x4a0595[_0x56e73a(0x27b)][_0x56e73a(0x494)][_0x56e73a(0x1eb)] ? _0x4a0595[_0x56e73a(0x27b)][_0x56e73a(0x494)]['getDatabaseVal']('c', _0x542242 => _0x542242 && _0x278c4f(Object['keys'](_0x542242))) : _0x278c4f([]));
+                        }
+                    }],
+                    'run': function(_0x2a86ca) {
+                        const _0x1080e4 = _0x4e8a0c;
+                        let {
+                            stateNode: {
+                                props: _0x551959,
+                                state: _0x14e7c3
+                            }
+                        } = Object[_0x1080e4(0x48c)](document['querySelector'](_0x1080e4(0x29d)))[0x1][_0x1080e4(0x286)][0x0]['_owner'];
+                        _0x551959[_0x1080e4(0x494)][_0x1080e4(0x503)]({
+                            'path': 'c/' [_0x1080e4(0x404)](_0x551959[_0x1080e4(0x4f3)][_0x1080e4(0x378)]),
+                            'val': {
+                                'b': _0x551959['client']['blook'],
+                                'g': _0x14e7c3[_0x1080e4(0x2a3)],
+                                'tat': _0x2a86ca + _0x1080e4(0x296)
+                            }
+                        });
+                    }
+                }, {
+                    'name': 'Set\x20Gold',
+                    'description': _0x4e8a0c(0x42b),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x3fb),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x48cf45) {
+                        const _0xffabb2 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x16f405
+                        } = Object[_0xffabb2(0x48c)](document[_0xffabb2(0x343)](_0xffabb2(0x29d)))[0x1][_0xffabb2(0x286)][0x0][_0xffabb2(0x17b)];
+                        _0x16f405[_0xffabb2(0x202)]({
+                            'gold': _0x48cf45,
+                            'gold2': _0x48cf45
+                        }), _0x16f405['props'][_0xffabb2(0x494)]['setVal']({
+                            'path': 'c/' [_0xffabb2(0x404)](_0x16f405['props'][_0xffabb2(0x4f3)][_0xffabb2(0x378)]),
+                            'val': {
+                                'b': _0x16f405[_0xffabb2(0x27b)][_0xffabb2(0x4f3)][_0xffabb2(0x1ce)],
+                                'g': _0x48cf45
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x3d7),
+                    'description': 'Swaps\x20gold\x20with\x20someone',
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x408),
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': () => {
+                            const _0x51f995 = _0x4e8a0c;
+                            let {
+                                stateNode: _0x5995b0
+                            } = Object[_0x51f995(0x48c)](document['querySelector'](_0x51f995(0x29d)))[0x1][_0x51f995(0x286)][0x0][_0x51f995(0x17b)];
+                            return new Promise(_0x2fe5a8 => _0x5995b0[_0x51f995(0x27b)][_0x51f995(0x494)][_0x51f995(0x1eb)] ? _0x5995b0[_0x51f995(0x27b)][_0x51f995(0x494)]['getDatabaseVal']('c', _0xcc722f => _0xcc722f && _0x2fe5a8(Object[_0x51f995(0x549)](_0xcc722f))) : _0x2fe5a8([]));
+                        }
+                    }],
+                    'run': function(_0x39b498) {
+                        const _0x5ddb7e = _0x4e8a0c;
+                        let {
+                            stateNode: _0x461cb9
+                        } = Object['values'](document[_0x5ddb7e(0x343)](_0x5ddb7e(0x29d)))[0x1][_0x5ddb7e(0x286)][0x0][_0x5ddb7e(0x17b)];
+                        _0x461cb9[_0x5ddb7e(0x27b)]['liveGameController'][_0x5ddb7e(0x40d)]('c', _0x57ad58 => {
+                            const _0x1a5fac = _0x5ddb7e;
+                            if (!_0x57ad58?.[_0x39b498]) return;
+                            let {
+                                g: _0xf3c65d
+                            } = _0x57ad58[_0x39b498];
+                            _0x461cb9[_0x1a5fac(0x27b)]['liveGameController'][_0x1a5fac(0x503)]({
+                                'path': 'c/' ['concat'](_0x461cb9['props']['client'][_0x1a5fac(0x378)]),
+                                'val': {
+                                    'b': _0x461cb9[_0x1a5fac(0x27b)][_0x1a5fac(0x4f3)][_0x1a5fac(0x1ce)],
+                                    'g': _0xf3c65d,
+                                    'tat': _0x39b498 + _0x1a5fac(0x1e9) + _0x461cb9['state'][_0x1a5fac(0x2a3)]
+                                }
+                            }), _0x461cb9['setState']({
+                                'gold': _0xf3c65d,
+                                'gold2': _0xf3c65d
+                            });
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x25d),
+                    'description': _0x4e8a0c(0x52c),
+                    'run': function() {
+                        const _0x1ad5a3 = _0x4e8a0c;
+                        let _0xeacbb5 = document[_0x1ad5a3(0x32c)](_0x1ad5a3(0x394));
+                        document[_0x1ad5a3(0xee)][_0x1ad5a3(0x34e)](_0xeacbb5), window[_0x1ad5a3(0x45b)] = _0xeacbb5[_0x1ad5a3(0x13e)][_0x1ad5a3(0x45b)][_0x1ad5a3(0x234)](window), _0xeacbb5[_0x1ad5a3(0x50d)]();
+                        let {
+                            stateNode: {
+                                props: _0x2e1863,
+                                state: _0x2ae295
+                            }
+                        } = Object[_0x1ad5a3(0x48c)](document[_0x1ad5a3(0x343)](_0x1ad5a3(0x29d)))[0x1][_0x1ad5a3(0x286)][0x0][_0x1ad5a3(0x17b)], _0x42e75a = 0x0;
+                        _0x2e1863['liveGameController']['getDatabaseVal']('c', async _0x1c24d1 => {
+                            const _0x22849e = _0x1ad5a3;
+                            if (_0x1c24d1)
+                                for (const _0x191178 of Object[_0x22849e(0x549)](_0x1c24d1)) {
+                                    _0x2e1863[_0x22849e(0x494)][_0x22849e(0x503)]({
+                                        'path': 'c/' [_0x22849e(0x404)](_0x2e1863['client']['name']),
+                                        'val': {
+                                            'b': _0x2e1863['client'][_0x22849e(0x1ce)],
+                                            'g': _0x2ae295['gold'],
+                                            'tat': _0x191178 + _0x22849e(0x296)
+                                        }
+                                    }), _0x42e75a++, await new Promise(_0x248bd2 => setTimeout(_0x248bd2, 0xfa0));
+                                };
+                            alert('Reset\x20' + _0x42e75a + '\x20players\x27\x20gold!');
+                        });
+                    }
+                }],
+                'kingdom': [{
+                    'name': _0x4e8a0c(0x109),
+                    'description': _0x4e8a0c(0x35c),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x51d051 = _0x4e8a0c;
+                        if (!this[_0x51d051(0x1b6)]) {
+                            this['enabled'] = !![];
+                            let _0x295ab1 = [_0x51d051(0x30a), _0x51d051(0x3ac), _0x51d051(0x48d), _0x51d051(0x2a3)],
+                                _0x5c73eb = Object[_0x51d051(0x3f6)]([...document[_0x51d051(0x248)](_0x51d051(0x39d))][_0x51d051(0x184)]((_0xac2be9, _0xdeba4d) => [_0x295ab1[_0xdeba4d], _0xac2be9]));
+                            this[_0x51d051(0x3dd)] = setInterval(() => {
+                                const _0x298484 = _0x51d051;
+                                let {
+                                    guest: _0x5098d9,
+                                    phase: _0x2466f7
+                                } = Object['values'](document['querySelector'](_0x298484(0x29d)))[0x1]['children'][0x0]['_owner'][_0x298484(0x490)]['state'];
+                                _0x2466f7 == _0x298484(0x513) && (Array[_0x298484(0x425)](document[_0x298484(0x4f0)]('choiceESP'))[_0x298484(0x28d)](_0x1f78ff => _0x1f78ff[_0x298484(0x50d)]()), Object[_0x298484(0x541)](_0x5098d9[_0x298484(0x27e)] || {})[_0x298484(0x28d)](_0x42b0a3 => {
+                                    const _0x253c15 = _0x298484;
+                                    if (_0x42b0a3[0x0] == 'msg' || !_0x295ab1[_0x253c15(0x235)](_0x42b0a3[0x0])) return;
+                                    let _0x803a17 = document[_0x253c15(0x32c)](_0x253c15(0x1af));
+                                    _0x803a17[_0x253c15(0x29f)] = 'choiceESP', _0x803a17[_0x253c15(0x4d2)] = _0x253c15(0x163), _0x803a17['innerText'] = String(_0x42b0a3[0x1]), _0x5c73eb[_0x42b0a3[0x0]]['appendChild'](_0x803a17);
+                                }), Object[_0x298484(0x541)](_0x5098d9['no'] || {})[_0x298484(0x28d)](_0x5f3292 => {
+                                    const _0x5b0fba = _0x298484;
+                                    if (_0x5f3292[0x0] == 'msg' || !_0x295ab1[_0x5b0fba(0x235)](_0x5f3292[0x0])) return;
+                                    let _0x55b4f8 = document[_0x5b0fba(0x32c)](_0x5b0fba(0x1af));
+                                    _0x55b4f8[_0x5b0fba(0x29f)] = _0x5b0fba(0x103), _0x55b4f8['style'] = _0x5b0fba(0x4fc), _0x55b4f8[_0x5b0fba(0x3d8)] = String(_0x5f3292[0x1]), _0x5c73eb[_0x5f3292[0x0]][_0x5b0fba(0x50f)](_0x55b4f8);
+                                }));
+                            }, 0x32);
+                        } else this[_0x51d051(0x1b6)] = ![], clearInterval(this[_0x51d051(0x3dd)]), Array[_0x51d051(0x425)](document[_0x51d051(0x4f0)](_0x51d051(0x103)))[_0x51d051(0x28d)](_0x4f8223 => _0x4f8223[_0x51d051(0x50d)]()), this[_0x51d051(0x3dd)] = null;
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x400),
+                    'description': _0x4e8a0c(0x1db),
+                    'run': function() {
+                        const _0x57caa0 = _0x4e8a0c;
+                        Object['values'](document['querySelector'](_0x57caa0(0x29d)))[0x1]['children'][0x0][_0x57caa0(0x17b)][_0x57caa0(0x490)][_0x57caa0(0x3cc)] = Number[_0x57caa0(0x308)];
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x432),
+                    'description': _0x4e8a0c(0x552),
+                    'run': function() {
+                        const _0x37b58f = _0x4e8a0c;
+                        Object[_0x37b58f(0x48c)](document[_0x37b58f(0x343)](_0x37b58f(0x29d)))[0x1][_0x37b58f(0x286)][0x0][_0x37b58f(0x17b)][_0x37b58f(0x490)][_0x37b58f(0x202)]({
+                            'materials': 0x64,
+                            'people': 0x64,
+                            'happiness': 0x64,
+                            'gold': 0x64
+                        });
+                    }
+                }, {
+                    'name': 'Set\x20Guests',
+                    'description': _0x4e8a0c(0x4c0),
+                    'inputs': [{
+                        'name': 'Guests',
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x568dc3) {
+                        const _0x32823e = _0x4e8a0c;
+                        Object[_0x32823e(0x48c)](document[_0x32823e(0x343)](_0x32823e(0x29d)))[0x1]['children'][0x0][_0x32823e(0x17b)][_0x32823e(0x490)][_0x32823e(0x202)]({
+                            'guestScore': _0x568dc3
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x333),
+                    'description': 'Skips\x20the\x20current\x20guest',
+                    'run': function() {
+                        const _0x35cd61 = _0x4e8a0c;
+                        Object[_0x35cd61(0x48c)](document[_0x35cd61(0x343)](_0x35cd61(0x29d)))[0x1][_0x35cd61(0x286)][0x0][_0x35cd61(0x17b)]['stateNode']['nextGuest']();
+                    }
+                }],
+                'racing': [{
+                    'name': _0x4e8a0c(0x4a0),
+                    'description': 'Instantly\x20Wins\x20the\x20race',
+                    'run': function() {
+                        const _0x4cd84c = _0x4e8a0c,
+                            {
+                                stateNode: _0x201051
+                            } = Object['values'](document[_0x4cd84c(0x343)](_0x4cd84c(0x29d)))[0x1][_0x4cd84c(0x286)][0x0][_0x4cd84c(0x17b)];
+                        _0x201051[_0x4cd84c(0x202)]({
+                            'progress': _0x201051[_0x4cd84c(0x373)][_0x4cd84c(0x3e7)]
+                        }, () => {
+                            const _0x329c0c = _0x4cd84c,
+                                {
+                                    state: {
+                                        question: _0x537df7
+                                    }
+                                } = _0x201051;
+                            try {
+                                [...document[_0x329c0c(0x248)]('[class*=\x22answerContainer\x22]')][_0x537df7[_0x329c0c(0x2bc)][_0x329c0c(0x184)]((_0x2629ef, _0x1e40fe) => _0x537df7[_0x329c0c(0x536)]['includes'](_0x2629ef) ? _0x1e40fe : null)[_0x329c0c(0x3bc)](_0x4bbd14 => _0x4bbd14 != null)[0x0]]?.[_0x329c0c(0x2c0)]?.();
+                            } catch {}
+                        });
+                    }
+                }],
+                'royale': [{
+                    'name': 'Auto\x20Answer\x20(Toggle)',
+                    'description': _0x4e8a0c(0x143),
+                    'type': _0x4e8a0c(0x528),
+                    'enabled': ![],
+                    'data': null,
+                    'run': function() {
+                        const _0x395f4a = _0x4e8a0c;
+                        !this[_0x395f4a(0x1b6)] ? (this[_0x395f4a(0x1b6)] = !![], this[_0x395f4a(0x3dd)] = setInterval(() => {
+                            const _0xbc9dae = _0x395f4a;
+                            let {
+                                stateNode: _0x2df955
+                            } = Object['values'](document[_0xbc9dae(0x343)](_0xbc9dae(0x29d)))[0x1][_0xbc9dae(0x286)][0x0]['_owner'];
+                            _0x2df955?.[_0xbc9dae(0x3eb)]?.(!![], _0x2df955[_0xbc9dae(0x27b)][_0xbc9dae(0x4f3)][_0xbc9dae(0x3ed)][_0xbc9dae(0x536)][0x0]);
+                        }, 0x32)) : (this[_0x395f4a(0x1b6)] = ![], clearInterval(this[_0x395f4a(0x3dd)]), this[_0x395f4a(0x3dd)] = null);
+                    }
+                }, {
+                    'name': 'Auto\x20Answer',
+                    'description': _0x4e8a0c(0x1fc),
+                    'run': function() {
+                        const _0x4598ed = _0x4e8a0c;
+                        let {
+                            stateNode: _0x2c6103
+                        } = Object[_0x4598ed(0x48c)](document[_0x4598ed(0x343)](_0x4598ed(0x29d)))[0x1][_0x4598ed(0x286)][0x0][_0x4598ed(0x17b)];
+                        _0x2c6103?.[_0x4598ed(0x3eb)]?.(!![], _0x2c6103['props']['client']['question'][_0x4598ed(0x536)][0x0]);
+                    }
+                }],
+                'rush': [{
+                    'name': _0x4e8a0c(0x2b1),
+                    'description': _0x4e8a0c(0x488),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x3bd),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0xc39b4b) {
+                        const _0x28ac3d = _0x4e8a0c;
+                        let {
+                            stateNode: _0x11ea47
+                        } = Object['values'](document[_0x28ac3d(0x343)](_0x28ac3d(0x29d)))[0x1][_0x28ac3d(0x286)][0x0][_0x28ac3d(0x17b)];
+                        _0x11ea47['setState']({
+                            'numBlooks': _0xc39b4b
+                        }), _0x11ea47[_0x28ac3d(0x402)] ? _0x11ea47[_0x28ac3d(0x27b)][_0x28ac3d(0x494)][_0x28ac3d(0x503)]({
+                            'path': 'a/' + _0x11ea47['props'][_0x28ac3d(0x4f3)][_0x28ac3d(0x378)] + _0x28ac3d(0x223),
+                            'val': _0xc39b4b
+                        }) : _0x11ea47['props'][_0x28ac3d(0x494)][_0x28ac3d(0x503)]({
+                            'path': 'c/' + _0x11ea47[_0x28ac3d(0x27b)][_0x28ac3d(0x4f3)][_0x28ac3d(0x378)] + _0x28ac3d(0x223),
+                            'val': numDefense
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x3ca),
+                    'description': _0x4e8a0c(0x4c9),
+                    'inputs': [{
+                        'name': 'Defense\x20(max\x204)',
+                        'type': _0x4e8a0c(0xf6),
+                        'max': 0x4
+                    }],
+                    'run': function(_0x49dbba) {
+                        const _0x1d46fd = _0x4e8a0c;
+                        let _0x1bb727 = Math[_0x1d46fd(0x2c9)](_0x49dbba, 0x4),
+                            {
+                                stateNode: _0x29588f
+                            } = Object['values'](document[_0x1d46fd(0x343)](_0x1d46fd(0x29d)))[0x1][_0x1d46fd(0x286)][0x0]['_owner'];
+                        _0x29588f[_0x1d46fd(0x202)]({
+                            'numDefense': _0x1bb727
+                        }), _0x29588f[_0x1d46fd(0x402)] ? _0x29588f[_0x1d46fd(0x27b)][_0x1d46fd(0x494)]['setVal']({
+                            'path': 'a/' + _0x29588f['props'][_0x1d46fd(0x4f3)][_0x1d46fd(0x378)] + '/d',
+                            'val': _0x1bb727
+                        }) : _0x29588f[_0x1d46fd(0x27b)][_0x1d46fd(0x494)][_0x1d46fd(0x503)]({
+                            'path': 'c/' + _0x29588f[_0x1d46fd(0x27b)][_0x1d46fd(0x4f3)][_0x1d46fd(0x378)] + '/d',
+                            'val': _0x1bb727
+                        });
+                    }
+                }],
+                'workshop': [{
+                    'name': _0x4e8a0c(0x293),
+                    'description': 'Removes\x20all\x20enemy\x20distractions',
+                    'run': function() {
+                        const _0x4f12d6 = _0x4e8a0c;
+                        Object[_0x4f12d6(0x48c)](document[_0x4f12d6(0x343)](_0x4f12d6(0x29d)))[0x1]['children'][0x0][_0x4f12d6(0x17b)][_0x4f12d6(0x490)][_0x4f12d6(0x202)]({
+                            'fog': !0x1,
+                            'dusk': !0x1,
+                            'wind': !0x1,
+                            'plow': !0x1,
+                            'blizzard': !0x1,
+                            'force': !0x1,
+                            'canada': !0x1,
+                            'trees': [!0x1, !0x1, !0x1, !0x1, !0x1, !0x1, !0x1, !0x1, !0x1, !0x1]
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x1d9),
+                    'description': 'Sends\x20a\x20distraction\x20to\x20everyone\x20else\x20playing',
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x15d),
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': Object[_0x4e8a0c(0x541)]({
+                            'c': _0x4e8a0c(0x41f),
+                            'b': _0x4e8a0c(0x2b7),
+                            'f': _0x4e8a0c(0x4e6),
+                            'd': 'Dark\x20&\x20Dusk',
+                            'w': _0x4e8a0c(0x13f),
+                            'g': _0x4e8a0c(0x22d),
+                            't': _0x4e8a0c(0x1fa),
+                            's': _0x4e8a0c(0x139),
+                            'fr': 'Use\x20The\x20Force'
+                        })[_0x4e8a0c(0x184)](([_0x508d98, _0x1679dd]) => ({
+                            'name': _0x1679dd,
+                            'value': _0x508d98
+                        }))
+                    }],
+                    'run': function(_0x479d5a) {
+                        const _0xebbb2e = _0x4e8a0c;
+                        let {
+                            stateNode: _0x7af6bc
+                        } = Object[_0xebbb2e(0x48c)](document[_0xebbb2e(0x343)](_0xebbb2e(0x29d)))[0x1][_0xebbb2e(0x286)][0x0]['_owner'];
+                        _0x7af6bc[_0xebbb2e(0x1a7)] = !![], _0x7af6bc[_0xebbb2e(0x27b)][_0xebbb2e(0x494)][_0xebbb2e(0x503)]({
+                            'path': 'c/' + _0x7af6bc[_0xebbb2e(0x27b)][_0xebbb2e(0x4f3)][_0xebbb2e(0x378)] + _0xebbb2e(0x174),
+                            'val': _0x479d5a
+                        });
+                    }
+                }, {
+                    'name': 'Set\x20Toys',
+                    'description': 'Sets\x20amount\x20of\x20toys',
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x18a),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x7d4347) {
+                        const _0x13b896 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x2a0838
+                        } = Object[_0x13b896(0x48c)](document[_0x13b896(0x343)](_0x13b896(0x29d)))[0x1]['children'][0x0][_0x13b896(0x17b)];
+                        _0x2a0838[_0x13b896(0x202)]({
+                            'toys': _0x7d4347
+                        }), _0x2a0838[_0x13b896(0x27b)][_0x13b896(0x494)]['setVal']({
+                            'path': 'c/' [_0x13b896(0x404)](_0x2a0838[_0x13b896(0x27b)][_0x13b896(0x4f3)][_0x13b896(0x378)]),
+                            'val': {
+                                'b': _0x2a0838[_0x13b896(0x27b)][_0x13b896(0x4f3)][_0x13b896(0x1ce)],
+                                't': _0x7d4347
+                            }
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x2bd),
+                    'description': _0x4e8a0c(0x455),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x53b),
+                        'type': _0x4e8a0c(0xf6)
+                    }],
+                    'run': function(_0x2d2046) {
+                        const _0x31a943 = _0x4e8a0c;
+                        Object[_0x31a943(0x48c)](document[_0x31a943(0x343)](_0x31a943(0x29d)))[0x1]['children'][0x0][_0x31a943(0x17b)][_0x31a943(0x490)][_0x31a943(0x202)]({
+                            'toysPerQ': _0x2d2046
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x1a5),
+                    'description': _0x4e8a0c(0x300),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x408),
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': () => {
+                            const _0x1266cb = _0x4e8a0c;
+                            let {
+                                stateNode: _0x23f31b
+                            } = Object[_0x1266cb(0x48c)](document[_0x1266cb(0x343)](_0x1266cb(0x29d)))[0x1]['children'][0x0]['_owner'];
+                            return new Promise(_0x57845f => _0x23f31b[_0x1266cb(0x27b)]['liveGameController'][_0x1266cb(0x1eb)] ? _0x23f31b[_0x1266cb(0x27b)]['liveGameController'][_0x1266cb(0x40d)]('c', _0xcd0684 => _0xcd0684 && _0x57845f(Object[_0x1266cb(0x549)](_0xcd0684))) : _0x57845f([]));
+                        }
+                    }],
+                    'run': function(_0x5c8216) {
+                        const _0x44d063 = _0x4e8a0c;
+                        let {
+                            stateNode: _0x2e29c3
+                        } = Object[_0x44d063(0x48c)](document[_0x44d063(0x343)](_0x44d063(0x29d)))[0x1][_0x44d063(0x286)][0x0][_0x44d063(0x17b)];
+                        _0x2e29c3[_0x44d063(0x27b)][_0x44d063(0x494)]['getDatabaseVal']('c', _0x310ac3 => {
+                            const _0x1a78a8 = _0x44d063;
+                            if (_0x310ac3 && Object[_0x1a78a8(0x549)](_0x310ac3)['map'](_0x3ada0b => _0x3ada0b[_0x1a78a8(0x4a3)]())[_0x1a78a8(0x235)](_0x5c8216[_0x1a78a8(0x4a3)]())) {
+                                let [_0x4dbb2b, {
+                                    t: _0x1d36a9
+                                }] = Object[_0x1a78a8(0x541)](_0x310ac3)['find'](([_0x101348]) => _0x101348[_0x1a78a8(0x4a3)]() == _0x5c8216[_0x1a78a8(0x4a3)]());
+                                _0x2e29c3['props'][_0x1a78a8(0x494)]['setVal']({
+                                    'path': 'c/' ['concat'](_0x2e29c3[_0x1a78a8(0x27b)][_0x1a78a8(0x4f3)][_0x1a78a8(0x378)]),
+                                    'val': {
+                                        'b': _0x2e29c3['props']['client'][_0x1a78a8(0x1ce)],
+                                        't': _0x1d36a9,
+                                        'tat': _0x4dbb2b + _0x1a78a8(0x1e9) + _0x2e29c3[_0x1a78a8(0x373)][_0x1a78a8(0x58d)]
+                                    }
+                                }), _0x2e29c3[_0x1a78a8(0x202)]({
+                                    'toys': _0x1d36a9
+                                });
+                            }
+                        });
+                    }
+                }],
+                'settings': [{
+                    'name': _0x4e8a0c(0x357),
+                    'description': _0x4e8a0c(0x1e7),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x518),
+                        'type': _0x4e8a0c(0x2a5)
+                    }],
+                    'run': function(_0x3b07eb) {
+                        const _0x5080f4 = _0x4e8a0c;
+                        try {
+                            JSON[_0x5080f4(0x426)](_0x3b07eb);
+                        } catch (_0x4ac51e) {
+                            return alert(_0x5080f4(0x566));
+                        }
+                        _0x3b07eb = {
+                            'backgroundColor': _0x5080f4(0x51e),
+                            'infoColor': '#9a49aa',
+                            'cheatList': _0x5080f4(0x4cb),
+                            'defaultButton': _0x5080f4(0x4cb),
+                            'disabledButton': _0x5080f4(0x3a3),
+                            'enabledButton': '#47A547',
+                            'textColor': 'white',
+                            'inputColor': _0x5080f4(0x133),
+                            'contentBackground': _0x5080f4(0x4e0),
+                            ...JSON[_0x5080f4(0x426)](_0x3b07eb)
+                        }, _0x46335b[_0x5080f4(0x12f)](_0x5080f4(0x556), _0x3b07eb);
+                        for (const _0x12d0cf in _0x3b07eb) _0x3ffc99[_0x5080f4(0x48b)][_0x5080f4(0x24e)][0x0]['style'][_0x5080f4(0x35b)]('--' + _0x12d0cf, _0x3b07eb[_0x12d0cf]);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x3fd),
+                    'description': _0x4e8a0c(0x33d),
+                    'run': async function() {
+                        const _0x48ef62 = _0x4e8a0c;
+                        await navigator[_0x48ef62(0x196)][_0x48ef62(0x54f)](JSON[_0x48ef62(0x3b5)](_0x46335b[_0x48ef62(0x3dd)][_0x48ef62(0x556)], null, 0x4)), prompt(_0x48ef62(0x4c5));
+                    }
+                }, {
+                    'name': 'Defaults',
+                    'description': _0x4e8a0c(0x547),
+                    'inputs': [{
+                        'name': _0x4e8a0c(0x4b8),
+                        'type': _0x4e8a0c(0x1e2),
+                        'options': [{
+                            'name': 'Default',
+                            'value': {
+                                'backgroundColor': 'rgb(11,\x20194,\x20207)',
+                                'infoColor': _0x4e8a0c(0x4cb),
+                                'cheatList': _0x4e8a0c(0x4cb),
+                                'defaultButton': _0x4e8a0c(0x4cb),
+                                'disabledButton': _0x4e8a0c(0x3a3),
+                                'enabledButton': _0x4e8a0c(0x450),
+                                'textColor': 'white',
+                                'inputColor': '#7a039d',
+                                'contentBackground': _0x4e8a0c(0x4e0)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x53f),
+                            'value': {
+                                'backgroundColor': '#4f4f4f',
+                                'infoColor': '#2f2f2f',
+                                'cheatList': _0x4e8a0c(0x1cc),
+                                'defaultButton': _0x4e8a0c(0x45e),
+                                'disabledButton': '#eb6234',
+                                'enabledButton': '#00c20c',
+                                'textColor': _0x4e8a0c(0x468),
+                                'inputColor': '#3f3f3f',
+                                'contentBackground': _0x4e8a0c(0x1cc)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x38f),
+                            'value': {
+                                'backgroundColor': 'linear-gradient(90deg,\x20rgba(104,45,140,1)\x20220px,\x20rgba(237,30,121,1)\x20100%)',
+                                'cheatList': _0x4e8a0c(0x1bf),
+                                'infoColor': '#1e2124',
+                                'defaultButton': _0x4e8a0c(0x203),
+                                'inputColor': _0x4e8a0c(0x1bf),
+                                'enabledButton': '#9c9a9a',
+                                'textColor': _0x4e8a0c(0x468),
+                                'disabledButton': _0x4e8a0c(0x167),
+                                'contentBackground': '#292929'
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x473),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x1c6)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x40a),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x52f)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x4fd),
+                            'value': {
+                                'backgroundColor': 'rgb(41,\x2041,\x2041)'
+                            }
+                        }, {
+                            'name': 'Fall\x20Background',
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x598)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x3cd),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x2e2)
+                            }
+                        }, {
+                            'name': 'Crypto\x20Hack',
+                            'value': {
+                                'backgroundColor': 'radial-gradient(#11581e,#041607)',
+                                'infoColor': _0x4e8a0c(0x352),
+                                'cheatList': '#1a1a1a',
+                                'defaultButton': _0x4e8a0c(0x485),
+                                'disabledButton': '#A02626',
+                                'enabledButton': _0x4e8a0c(0x334),
+                                'textColor': 'white',
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'contentBackground': _0x4e8a0c(0x424)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x532),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x462),
+                                'infoColor': _0x4e8a0c(0x393),
+                                'cheatList': _0x4e8a0c(0x393),
+                                'defaultButton': _0x4e8a0c(0x225),
+                                'disabledButton': _0x4e8a0c(0x430),
+                                'enabledButton': _0x4e8a0c(0x2ea),
+                                'textColor': _0x4e8a0c(0x468),
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'contentBackground': _0x4e8a0c(0x346)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x30b),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x548),
+                                'infoColor': _0x4e8a0c(0x399),
+                                'cheatList': _0x4e8a0c(0x399),
+                                'defaultButton': _0x4e8a0c(0x399),
+                                'disabledButton': _0x4e8a0c(0x3a3),
+                                'enabledButton': _0x4e8a0c(0x450),
+                                'textColor': 'white',
+                                'inputColor': _0x4e8a0c(0x24b),
+                                'contentBackground': _0x4e8a0c(0x53e)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x102),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x563),
+                                'defaultButton': _0x4e8a0c(0x35f),
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'infoColor': '#36c',
+                                'cheatList': _0x4e8a0c(0x35f),
+                                'contentBackground': _0x4e8a0c(0x315),
+                                'textColor': _0x4e8a0c(0x468),
+                                'disabledButton': _0x4e8a0c(0x3a3),
+                                'enabledButton': '#47A547'
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x1a9),
+                            'value': {
+                                'defaultButton': '#1563bf',
+                                'infoColor': _0x4e8a0c(0x210),
+                                'cheatList': _0x4e8a0c(0x210),
+                                'contentBackground': '#2d313d',
+                                'backgroundColor': _0x4e8a0c(0x1d1),
+                                'enabledButton': _0x4e8a0c(0x322),
+                                'disabledButton': _0x4e8a0c(0x4cb),
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'textColor': _0x4e8a0c(0x468)
+                            }
+                        }, {
+                            'name': 'Cafe',
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x106),
+                                'defaultButton': _0x4e8a0c(0x57e),
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'infoColor': _0x4e8a0c(0x4fa),
+                                'cheatList': _0x4e8a0c(0x4fa),
+                                'contentBackground': _0x4e8a0c(0x1f4),
+                                'textColor': _0x4e8a0c(0x468),
+                                'disabledButton': '#A02626',
+                                'enabledButton': '#47A547'
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x1e5),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x140),
+                                'disabledButton': _0x4e8a0c(0x511),
+                                'defaultButton': _0x4e8a0c(0x551),
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'contentBackground': '#404040',
+                                'enabledButton': _0x4e8a0c(0x484),
+                                'textColor': 'white',
+                                'infoColor': _0x4e8a0c(0x4cb),
+                                'cheatList': _0x4e8a0c(0x4cb)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x230),
+                            'value': {
+                                'defaultButton': _0x4e8a0c(0x114),
+                                'backgroundColor': 'rgb(78,\x2095,\x20124)',
+                                'inputColor': _0x4e8a0c(0x4d5),
+                                'contentBackground': 'linear-gradient(0deg,#374154,#4f5b74)',
+                                'infoColor': '#374154',
+                                'cheatList': _0x4e8a0c(0x38a),
+                                'textColor': _0x4e8a0c(0x468),
+                                'enabledButton': _0x4e8a0c(0x450),
+                                'disabledButton': _0x4e8a0c(0x3a3)
+                            }
+                        }, {
+                            'name': _0x4e8a0c(0x55f),
+                            'value': {
+                                'backgroundColor': _0x4e8a0c(0x1d7),
+                                'cheatList': '#a33c22',
+                                'infoColor': '#a33c22',
+                                'defaultButton': _0x4e8a0c(0x445),
+                                'inputColor': _0x4e8a0c(0x111),
+                                'contentBackground': '#293c82',
+                                'enabledButton': '#47A547',
+                                'disabledButton': '#A02626',
+                                'textColor': _0x4e8a0c(0x468)
+                            }
+                        }]
+                    }],
+                    'run': function(_0x5d5a68) {
+                        const _0x3406cd = _0x4e8a0c;
+                        _0x46335b[_0x3406cd(0x12f)](_0x3406cd(0x556), {
+                            ..._0x46335b['data']['theme'],
+                            ..._0x5d5a68
+                        });
+                        for (const _0x223ba8 in _0x5d5a68) _0x3ffc99['sheet'][_0x3406cd(0x24e)][0x0]['style'][_0x3406cd(0x35b)]('--' + _0x223ba8, _0x5d5a68[_0x223ba8]);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x4bc),
+                    'description': _0x4e8a0c(0x1ea),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0xf6),
+                        'name': _0x4e8a0c(0x266),
+                        'min': 0x19,
+                        'max': 0x64,
+                        'value': (_0x46335b[_0x4e8a0c(0x3dd)][_0x4e8a0c(0x1b0)] || 0x1) * 0x64
+                    }],
+                    'run': function(_0x4ac915) {
+                        const _0x102453 = _0x4e8a0c;
+                        _0x4ac915 = Math[_0x102453(0x2c9)](Math[_0x102453(0x1a2)](_0x4ac915, 0x19), 0x64), _0x46335b[_0x102453(0x12f)]('scale', _0x4ac915 / 0x64), _0x3a32bf[_0x102453(0x4d2)][_0x102453(0x15c)] = _0x102453(0x1cb) + _0x4ac915 / 0x64 + ')';
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x568),
+                    'description': _0x4e8a0c(0x332),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x45d),
+                        'name': _0x4e8a0c(0x37b),
+                        'function': _0x1db088 => _0x2835d1(({
+                            shift: _0x2a981e,
+                            ctrl: _0x4c39b0,
+                            alt: _0x26ebf5,
+                            key: _0x4fdae9
+                        }) => _0x1db088('' + [_0x4c39b0 && _0x4e8a0c(0x26c), _0x2a981e && 'Shift', _0x26ebf5 && _0x4e8a0c(0x146), _0x4fdae9 && _0x4fdae9[_0x4e8a0c(0x2d7)]()]['filter'](Boolean)[_0x4e8a0c(0xfe)](_0x4e8a0c(0x2a9))))
+                    }],
+                    'run': function(_0x2b6f0d) {
+                        const _0x47da8e = _0x4e8a0c;
+                        _0x46335b[_0x47da8e(0x12f)]('hide', _0x2b6f0d), _0x518882[_0x47da8e(0x23d)](_0x46335b['data'][_0x47da8e(0x1d2)] || {
+                            'ctrl': !![],
+                            'key': 'e'
+                        }, _0x46335b[_0x47da8e(0x3dd)][_0x47da8e(0x4cc)] || {
+                            'ctrl': !![],
+                            'key': 'x'
+                        });
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x350),
+                    'description': _0x4e8a0c(0x2e7),
+                    'inputs': [{
+                        'type': 'function',
+                        'name': _0x4e8a0c(0x37b),
+                        'function': _0x48ecd5 => _0x2835d1(({
+                            shift: _0x36422e,
+                            ctrl: _0x9ed2c9,
+                            alt: _0x262477,
+                            key: _0x334312
+                        }) => _0x48ecd5('' + [_0x9ed2c9 && 'Ctrl', _0x36422e && _0x4e8a0c(0x159), _0x262477 && 'Alt', _0x334312 && _0x334312[_0x4e8a0c(0x2d7)]()]['filter'](Boolean)[_0x4e8a0c(0xfe)](_0x4e8a0c(0x2a9))))
+                    }],
+                    'run': function(_0x384541) {
+                        const _0x20cdf5 = _0x4e8a0c;
+                        _0x46335b[_0x20cdf5(0x12f)](_0x20cdf5(0x4cc), _0x384541), _0x518882[_0x20cdf5(0x23d)](_0x46335b[_0x20cdf5(0x3dd)][_0x20cdf5(0x1d2)] || {
+                            'ctrl': !![],
+                            'key': 'e'
+                        }, _0x46335b['data'][_0x20cdf5(0x4cc)] || {
+                            'ctrl': !![],
+                            'key': 'x'
+                        });
+                    }
+                }, {
+                    'name': 'Background\x20Color',
+                    'description': _0x4e8a0c(0x3b2),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0xd3f2d5) {
+                        const _0x277488 = _0x4e8a0c;
+                        _0x3ffc99['sheet'][_0x277488(0x24e)][0x0]['style']['setProperty'](_0x277488(0xf0), _0xd3f2d5), _0x46335b['setItem']('theme.backgroundColor', _0xd3f2d5);
+                    }
+                }, {
+                    'name': 'Category\x20List\x20Color',
+                    'description': _0x4e8a0c(0x4c4),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x6fefd3) {
+                        const _0x4a47d4 = _0x4e8a0c;
+                        _0x3ffc99[_0x4a47d4(0x48b)][_0x4a47d4(0x24e)][0x0][_0x4a47d4(0x4d2)][_0x4a47d4(0x35b)]('--cheatList', _0x6fefd3), _0x46335b[_0x4a47d4(0x12f)](_0x4a47d4(0x501), _0x6fefd3);
+                    }
+                }, {
+                    'name': 'Info\x20Color',
+                    'description': 'Changes\x20the\x20color\x20of\x20the\x20information\x20at\x20the\x20top\x20of\x20the\x20GUI',
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x56e65a) {
+                        const _0x316af4 = _0x4e8a0c;
+                        _0x3ffc99['sheet']['cssRules'][0x0][_0x316af4(0x4d2)][_0x316af4(0x35b)](_0x316af4(0x1ac), _0x56e65a), _0x46335b[_0x316af4(0x12f)](_0x316af4(0x21d), _0x56e65a);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x117),
+                    'description': _0x4e8a0c(0x3ce),
+                    'inputs': [{
+                        'type': 'string',
+                        'name': 'Color'
+                    }],
+                    'run': function(_0x72e38) {
+                        const _0x5e4ef7 = _0x4e8a0c;
+                        _0x3ffc99['sheet'][_0x5e4ef7(0x24e)][0x0][_0x5e4ef7(0x4d2)][_0x5e4ef7(0x35b)](_0x5e4ef7(0x36c), _0x72e38), _0x46335b[_0x5e4ef7(0x12f)](_0x5e4ef7(0x577), _0x72e38);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x290),
+                    'description': _0x4e8a0c(0x540),
+                    'inputs': [{
+                        'type': 'string',
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x406dd9) {
+                        const _0x57e9d7 = _0x4e8a0c;
+                        _0x46335b[_0x57e9d7(0x12f)]('theme.enabledButton', _0x406dd9);
+                    }
+                }, {
+                    'name': 'Disabled\x20Toggle\x20Color',
+                    'description': _0x4e8a0c(0x4ea),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x1d7a02) {
+                        const _0x2f2d26 = _0x4e8a0c;
+                        _0x3ffc99[_0x2f2d26(0x48b)][_0x2f2d26(0x24e)][0x0]['style'][_0x2f2d26(0x35b)](_0x2f2d26(0x4cf), _0x1d7a02), _0x46335b[_0x2f2d26(0x12f)](_0x2f2d26(0x318), _0x1d7a02);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x46c),
+                    'description': _0x4e8a0c(0x194),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x5bd830) {
+                        const _0x37ff42 = _0x4e8a0c;
+                        _0x3ffc99['sheet']['cssRules'][0x0][_0x37ff42(0x4d2)][_0x37ff42(0x35b)](_0x37ff42(0x317), _0x5bd830), _0x46335b[_0x37ff42(0x12f)]('theme.textColor', _0x5bd830);
+                    }
+                }, {
+                    'name': 'Input\x20Color',
+                    'description': _0x4e8a0c(0x2c7),
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x2def0a) {
+                        const _0x2cfcf1 = _0x4e8a0c;
+                        _0x3ffc99[_0x2cfcf1(0x48b)]['cssRules'][0x0]['style'][_0x2cfcf1(0x35b)](_0x2cfcf1(0x507), _0x2def0a), _0x46335b[_0x2cfcf1(0x12f)](_0x2cfcf1(0x353), _0x2def0a);
+                    }
+                }, {
+                    'name': _0x4e8a0c(0x355),
+                    'description': 'Changes\x20the\x20background\x20color\x20of\x20the\x20cheats',
+                    'inputs': [{
+                        'type': _0x4e8a0c(0x2a5),
+                        'name': _0x4e8a0c(0x5a6)
+                    }],
+                    'run': function(_0x4db515) {
+                        const _0x2ad92e = _0x4e8a0c;
+                        _0x3ffc99[_0x2ad92e(0x48b)][_0x2ad92e(0x24e)][0x0][_0x2ad92e(0x4d2)][_0x2ad92e(0x35b)](_0x2ad92e(0x53d), _0x4db515), _0x46335b[_0x2ad92e(0x12f)](_0x2ad92e(0x2cb), _0x4db515);
+                    }
+                }],
+                'alerts': [{
+                    'element': _0x1157f0(_0x4e8a0c(0x1af), {
+                        'className': _0x4e8a0c(0x1e3),
+                        'style': {
+                            'margin': _0x4e8a0c(0x28a),
+                            'backgroundColor': _0x4e8a0c(0x2ce),
+                            'width': '95%',
+                            'height': _0x4e8a0c(0x2ed),
+                            'borderRadius': _0x4e8a0c(0x1dd),
+                            'display': _0x4e8a0c(0x245),
+                            'alignItems': _0x4e8a0c(0x2ee),
+                            'justifyContent': _0x4e8a0c(0x2ee)
+                        }
+                    }, _0x1157f0('ul', {
+                        'className': 'alertList',
+                        'style': {
+                            'margin': _0x4e8a0c(0x2d6),
+                            'padding': '0',
+                            'listStyleType': _0x4e8a0c(0x3e5),
+                            'display': _0x4e8a0c(0x48e),
+                            'flexDirection': _0x4e8a0c(0x4da),
+                            'height': _0x4e8a0c(0x3cb),
+                            'overflowY': _0x4e8a0c(0x211),
+                            'wordWrap': _0x4e8a0c(0x4b1)
+                        }
+                    }, _0x1157f0('li', {
+                        'style': {
+                            'margin': _0x4e8a0c(0x2c5)
+                        }
+                    }, _0x1157f0('span', {
+                        'style': {
+                            'color': 'var(--textColor)'
+                        },
+                        'innerText': _0x4e8a0c(0x4be)
+                    })))),
+                    'addLog'(_0x43d5f3, _0xe2f103) {
+                        const _0x41dfb5 = _0x4e8a0c;
+                        return this['element'][_0x41dfb5(0x537)][_0x41dfb5(0x12d)](_0x1157f0('li', {
+                            'style': {
+                                'margin': _0x41dfb5(0x2c5)
+                            }
+                        }, _0x1157f0(_0x41dfb5(0x57c), {
+                            'style': {
+                                'color': _0xe2f103 || _0x41dfb5(0x585)
+                            },
+                            'innerHTML': _0x41dfb5(0x575) + _0x43d5f3
+                        })));
+                    },
+                    'addAlert'(_0x2ee9b5, _0x52f5d8, _0x2eb524) {
+                        const _0x5b4e63 = _0x4e8a0c;
+                        return this[_0x5b4e63(0x319)]['firstChild'][_0x5b4e63(0x12d)](_0x1157f0('li', {
+                            'style': {
+                                'margin': _0x5b4e63(0x2c5)
+                            }
+                        }, _0x1157f0('img', {
+                            'src': _0x52f5d8 || this[_0x5b4e63(0x1b5)]?.[_0x5b4e63(0x36f)]?.['url'],
+                            'alt': _0x5b4e63(0x1ce),
+                            'draggable': ![],
+                            'style': {
+                                'height': _0x5b4e63(0x4f4),
+                                'margin': _0x5b4e63(0x382)
+                            }
+                        }), _0x1157f0(_0x5b4e63(0x596), {}, _0x2ee9b5), '\x20', _0x2eb524));
+                    },
+                    'connection': null,
+                    'data': {},
+                    'updateLeaderboard'(_0x259d6f) {
+                        const _0xe30d34 = _0x4e8a0c;
+                        if (!this['leaderboardEl']) this[_0xe30d34(0x416)]();
+                        this[_0xe30d34(0x1cd)][_0xe30d34(0x544)] = '';
+                        for (const {
+                                blook: _0x1c2308,
+                                name: _0x1fc74d,
+                                value: _0x27f166
+                            }
+                            of _0x259d6f) {
+                            this[_0xe30d34(0x1cd)]['append'](_0x1157f0('li', {
+                                'style': {
+                                    'fontSize': _0xe30d34(0x2ad),
+                                    'paddingInline': _0xe30d34(0x160),
+                                    'paddingBlock': '1.25px',
+                                    'position': 'relative'
+                                }
+                            }, _0x1157f0(_0xe30d34(0x3e2), {
+                                'src': this[_0xe30d34(0x1b5)]?.[_0x1c2308]?.['url'] || this[_0xe30d34(0x1b5)][_0xe30d34(0x36f)][_0xe30d34(0x1f9)],
+                                'alt': _0x1c2308,
+                                'draggable': ![],
+                                'style': {
+                                    'height': '45px',
+                                    'position': _0xe30d34(0x381),
+                                    'left': _0xe30d34(0x2b5)
+                                }
+                            }), _0x1fc74d, _0x1157f0('span', {
+                                'innerText': this[_0xe30d34(0x4c3)](parseInt(_0x27f166)),
+                                'style': {
+                                    'float': _0xe30d34(0x1c4)
+                                }
+                            })));
+                        }
+                    },
+                    'parseNumber'(_0x476b16 = 0x0) {
+                        const _0x7bb73a = _0x4e8a0c;
+                        var _0x14cb30 = _0x476b16;
+                        if (_0x476b16 < 0x3e8) return _0x14cb30['toString']();
+                        const _0x54111c = ['', 'K', 'M', 'B', 'T'],
+                            _0x122b04 = Math['floor']((_0x476b16[_0x7bb73a(0x495)]()[_0x7bb73a(0x4ca)] - 0x1) / 0x3);
+                        if (_0x122b04 < _0x54111c[_0x7bb73a(0x4ca)]) {
+                            let _0x1ac7b0 = 0x0;
+                            for (let _0x554e75 = 0x3; _0x554e75 >= 0x1; _0x554e75--) {
+                                _0x1ac7b0 = parseFloat((0x0 !== _0x122b04 ? _0x476b16 / Math['pow'](0x3e8, _0x122b04) : _0x476b16)[_0x7bb73a(0x2e1)](_0x554e75));
+                                if (_0x1ac7b0['toString']()[_0x7bb73a(0x3c1)](/[^a-zA-Z 0-9]+/g, '')[_0x7bb73a(0x4ca)] <= 0x3) break;
+                            }
+                            _0x1ac7b0 % 0x1 != 0x0 && (_0x1ac7b0 = _0x1ac7b0[_0x7bb73a(0x17a)](0x1)), _0x14cb30 = _0x1ac7b0 + _0x54111c[_0x122b04];
+                        } else {
+                            let _0x2f29b5 = _0x476b16,
+                                _0x9b3346 = 0x0;
+                            for (; _0x2f29b5 >= 0x64; _0x9b3346++) _0x2f29b5 = Math[_0x7bb73a(0x522)](_0x2f29b5 / 0xa);
+                            let _0x41b82b = '',
+                                _0x57b5c1 = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹'];
+                            for (const _0x4b6e37 of (_0x9b3346 + 0x1)[_0x7bb73a(0x495)]()[_0x7bb73a(0x144)]('')) _0x41b82b += _0x57b5c1[Number(_0x4b6e37)];
+                            _0x14cb30 = _0x2f29b5 / 0xa + _0x7bb73a(0x2f6) + _0x41b82b;
+                        }
+                        return _0x14cb30;
+                    },
+                    'addLeaderboard'() {
+                        const _0x2d2974 = _0x4e8a0c;
+                        this[_0x2d2974(0x1b5)] ||= Object[_0x2d2974(0x48c)](webpackJsonp['push']([
+                            [], {
+                                ['']: (_0x2d8227, _0x48f308, _0x106b3e) => {
+                                    const _0x5211a8 = _0x2d2974;
+                                    _0x48f308[_0x5211a8(0x10d)] = _0x106b3e['c'];
+                                }
+                            },
+                            [
+                                ['']
+                            ]
+                        ])[_0x2d2974(0x10d)])[_0x2d2974(0x560)](_0x2ade6d => _0x2ade6d[_0x2d2974(0x3c3)]?.['a']?.['Alice'] && _0x2ade6d[_0x2d2974(0x3c3)]?.['a']?.[_0x2d2974(0x449)])[_0x2d2974(0x3c3)]['a'], this[_0x2d2974(0x319)][_0x2d2974(0x34e)](this['leaderboardEl'] = _0x1157f0(_0x2d2974(0x1af), {
+                            'id': 'leaderboardContent',
+                            'style': {
+                                'position': _0x2d2974(0x381),
+                                'inset': '110%\x200px'
+                            }
+                        }, _0x1157f0(_0x2d2974(0x1af), {
+                            'style': {
+                                'alignItems': _0x2d2974(0x2ee),
+                                'boxSizing': _0x2d2974(0x1e4),
+                                'display': _0x2d2974(0x48e),
+                                'flexDirection': _0x2d2974(0x4bb),
+                                'flexWrap': _0x2d2974(0x218),
+                                'justifyContent': 'space-evenly',
+                                'padding': _0x2d2974(0x31e),
+                                'position': 'relative',
+                                'width': _0x2d2974(0x599),
+                                'fontFamily': _0x2d2974(0x517),
+                                'fontWeight': _0x2d2974(0x49b),
+                                'color': _0x2d2974(0x585),
+                                'background': _0x2d2974(0x2ac),
+                                'boxShadow': _0x2d2974(0x2c6),
+                                'borderRadius': _0x2d2974(0x1dd)
+                            }
+                        }, _0x1157f0('div', {
+                            'className': _0x2d2974(0x2fa),
+                            'style': {
+                                'boxSizing': _0x2d2974(0x1e4),
+                                'display': _0x2d2974(0x245),
+                                'height': _0x2d2974(0x436),
+                                'left': _0x2d2974(0x339),
+                                'padding': '4px\x204px\x208px',
+                                'position': 'absolute',
+                                'top': _0x2d2974(0x287),
+                                'backgroundColor': _0x2d2974(0x33a),
+                                'boxShadow': _0x2d2974(0x165),
+                                'borderRadius': _0x2d2974(0x1dd)
+                            }
+                        }, _0x1157f0(_0x2d2974(0x1af), {
+                            'style': {
+                                'alignItems': _0x2d2974(0x2ee),
+                                'boxSizing': _0x2d2974(0x1e4),
+                                'display': _0x2d2974(0x48e),
+                                'height': _0x2d2974(0x599),
+                                'justifyContent': 'center',
+                                'padding': _0x2d2974(0x3f4),
+                                'width': _0x2d2974(0x599),
+                                'fontFamily': _0x2d2974(0x3af),
+                                'fontSize': '26px',
+                                'fontWeight': _0x2d2974(0x49b),
+                                'textShadow': '-1px\x20-1px\x200\x20#646464,\x201px\x20-1px\x200\x20#646464,\x20-1px\x201px\x200\x20#646464,\x202px\x202px\x200\x20#646464',
+                                'color': 'white',
+                                'background': 'linear-gradient(#fcd843,#fcd843\x2050%,#feb31a\x2050.01%,#feb31a)',
+                                'borderRadius': _0x2d2974(0x2c5)
+                            },
+                            'innerText': 'Leaderboard'
+                        })), _0x1157f0('div', {
+                            'className': _0x2d2974(0x1e3),
+                            'style': {
+                                'margin': _0x2d2974(0x28a),
+                                'backgroundColor': _0x2d2974(0x2ce),
+                                'width': _0x2d2974(0x208),
+                                'height': _0x2d2974(0x2ed),
+                                'borderRadius': _0x2d2974(0x1dd),
+                                'display': 'flex',
+                                'alignItems': _0x2d2974(0x2ee),
+                                'justifyContent': 'center'
+                            }
+                        }, this['leaderboard'] = _0x1157f0('nl', {
+                            'className': _0x2d2974(0x2d9),
+                            'style': {
+                                'marginTop': _0x2d2974(0x31b),
+                                'padding': '0',
+                                'listStyleType': _0x2d2974(0x43a),
+                                'width': _0x2d2974(0x599),
+                                'height': _0x2d2974(0x3cb),
+                                'overflowY': _0x2d2974(0x211),
+                                'wordWrap': _0x2d2974(0x4b1)
+                            }
+                        })))));
+                    },
+                    async 'connect'() {
+                        const _0x35f47d = _0x4e8a0c;
+                        try {
+                            const {
+                                stateNode: _0x7e7aa8
+                            } = Object['values'](document[_0x35f47d(0x343)](_0x35f47d(0x29d)))[0x1][_0x35f47d(0x286)][0x0][_0x35f47d(0x17b)];
+                            if (!_0x7e7aa8?.[_0x35f47d(0x27b)]?.[_0x35f47d(0x494)]?.[_0x35f47d(0x206)]) return ![];
+                            this[_0x35f47d(0x1ba)] = await _0x7e7aa8[_0x35f47d(0x27b)][_0x35f47d(0x494)][_0x35f47d(0x193)]('c');
+                            const _0x5c66c4 = this[_0x35f47d(0x1b5)] = Object[_0x35f47d(0x48c)](webpackJsonp[_0x35f47d(0x3b3)]([
+                                    [], {
+                                        ['']: (_0x26104f, _0x86b8d4, _0x3a0004) => {
+                                            const _0x3abfea = _0x35f47d;
+                                            _0x86b8d4[_0x3abfea(0x10d)] = _0x3a0004['c'];
+                                        }
+                                    },
+                                    [
+                                        ['']
+                                    ]
+                                ])['cache'])[_0x35f47d(0x560)](_0x489019 => _0x489019[_0x35f47d(0x3c3)]?.['a']?.[_0x35f47d(0x3a0)] && _0x489019['exports']?.['a']?.[_0x35f47d(0x449)])['exports']['a'],
+                                _0x2aa2b9 = this[_0x35f47d(0x1c2)](),
+                                _0x5e8d7c = {
+                                    'lb': _0x35f47d(0x151),
+                                    'as': _0x35f47d(0x3ae),
+                                    'e37': _0x35f47d(0x472),
+                                    'nt': _0x35f47d(0x168),
+                                    'lo': '#LOL',
+                                    'j': 'Jokester',
+                                    'sm': _0x35f47d(0x368),
+                                    'dp': _0x35f47d(0x18c),
+                                    'v': _0x35f47d(0x33f),
+                                    'r': 'Reverse',
+                                    'f': _0x35f47d(0x1a1),
+                                    'm': _0x35f47d(0x33c)
+                                };
+                            this['connection']['on']('value', _0x18120f => {
+                                const _0x532f17 = _0x35f47d,
+                                    _0x5e6b2f = _0x18120f[_0x532f17(0x258)]() || {};
+                                if (!_0x5e6b2f || !this[_0x532f17(0x387)](this[_0x532f17(0x3dd)], _0x5e6b2f)) return;
+                                const _0x22bc83 = this['diffObjects'](this[_0x532f17(0x3dd)], _0x5e6b2f);
+                                this[_0x532f17(0x3dd)] = _0x5e6b2f;
+                                let _0x3fc623;
+                                switch (_0x2aa2b9) {
+                                    case _0x532f17(0x26b):
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x59adea, {
+                                            b: _0x2e1cb9,
+                                            pr: _0x5ae137
+                                        }]) => ({
+                                            'name': _0x59adea,
+                                            'blook': _0x2e1cb9,
+                                            'value': _0x5ae137 || 0x0
+                                        }));
+                                    case _0x532f17(0x34b):
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x573f65, {
+                                            b: _0x35b385,
+                                            p: _0x512e5b
+                                        }]) => ({
+                                            'name': _0x573f65,
+                                            'blook': _0x35b385,
+                                            'value': _0x512e5b || 0x0
+                                        }));
+                                    case _0x532f17(0x2c4):
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x4273dc, {
+                                            b: _0x43a607,
+                                            e: _0x37d642
+                                        }]) => ({
+                                            'name': _0x4273dc,
+                                            'blook': _0x43a607,
+                                            'value': _0x37d642 || 0x0
+                                        }));
+                                    case _0x532f17(0x21b):
+                                        _0x3fc623 = Object['entries'](_0x5e6b2f)['map'](([_0xee9d63, {
+                                            b: _0xc4d298,
+                                            t: _0xacea88
+                                        }]) => ({
+                                            'name': _0xee9d63,
+                                            'blook': _0xc4d298,
+                                            'value': _0xacea88 || 0x0
+                                        }));
+                                    case _0x532f17(0x251):
+                                        _0x3fc623 = Object['entries'](_0x5e6b2f)[_0x532f17(0x184)](([_0xa1c641, {
+                                            b: _0x3a3ad7,
+                                            xp: _0x58aa37
+                                        }]) => ({
+                                            'name': _0xa1c641,
+                                            'blook': _0x3a3ad7,
+                                            'value': _0x58aa37 || 0x0
+                                        }));
+                                    case 'defense':
+                                    case _0x532f17(0x4f8):
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x42270f, {
+                                            b: _0x5d9ea6,
+                                            d: _0x4232a1
+                                        }]) => ({
+                                            'name': _0x42270f,
+                                            'blook': _0x5d9ea6,
+                                            'value': _0x4232a1 || 0x0
+                                        }));
+                                    case 'gold':
+                                        for (const _0x5371a2 in _0x22bc83) {
+                                            if (!_0x22bc83[_0x5371a2][_0x532f17(0x1f3)]) continue;
+                                            const [_0x3f554d, _0x5643dc] = _0x22bc83[_0x5371a2][_0x532f17(0x1f3)]['split'](':');
+                                            if (_0x5643dc == _0x532f17(0x49e)) this[_0x532f17(0x155)](_0x5371a2, _0x5c66c4[_0x5e6b2f[_0x5371a2]['b']]?.[_0x532f17(0x1f9)], 'just\x20swapped\x20with\x20' + _0x3f554d);
+                                            else this[_0x532f17(0x155)](_0x5371a2, _0x5c66c4[_0x5e6b2f[_0x5371a2]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x158) + this[_0x532f17(0x4c3)](parseInt(_0x5643dc)) + _0x532f17(0x214) + _0x3f554d);
+                                        }
+                                        _0x3fc623 = Object['entries'](_0x5e6b2f)[_0x532f17(0x184)](([_0x4f4c8f, {
+                                            b: _0x365f2a,
+                                            g: _0x2babd0
+                                        }]) => ({
+                                            'name': _0x4f4c8f,
+                                            'blook': _0x365f2a,
+                                            'value': _0x2babd0 || 0x0
+                                        }));
+                                        break;
+                                    case _0x532f17(0x54a):
+                                        for (const _0x257259 in _0x22bc83) {
+                                            if (!_0x22bc83[_0x257259]['tat']) continue;
+                                            const [_0x1dfdd0, _0x2b7924] = _0x22bc83[_0x257259][_0x532f17(0x1f3)][_0x532f17(0x144)](':');
+                                            this[_0x532f17(0x155)](_0x257259, _0x5c66c4[_0x5e6b2f[_0x257259]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x158) + this[_0x532f17(0x4c3)](parseInt(_0x2b7924)) + _0x532f17(0x57f) + _0x1dfdd0);
+                                        }
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x3b4977, {
+                                            b: _0x268cde,
+                                            cr: _0x3bb095
+                                        }]) => ({
+                                            'name': _0x3b4977,
+                                            'blook': _0x268cde,
+                                            'value': _0x3bb095 || 0x0
+                                        }));
+                                        break;
+                                    case _0x532f17(0x188):
+                                        for (const _0x56b485 in _0x22bc83) {
+                                            if (_0x22bc83[_0x56b485]['f'] == _0x532f17(0x166)) this[_0x532f17(0x155)](_0x56b485, _0x5c66c4[_0x5e6b2f[_0x56b485]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x1bd));
+                                            else {
+                                                if (_0x22bc83[_0x56b485]['s']) this[_0x532f17(0x155)](_0x56b485, _0x5c66c4[_0x5e6b2f[_0x56b485]['b']]?.['url'], _0x532f17(0x42c) + _0x22bc83[_0x56b485]['f'] + '\x20distraction');
+                                            }
+                                        }
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x36a13b, {
+                                            b: _0x5e600a,
+                                            w: _0x136a1c
+                                        }]) => ({
+                                            'name': _0x36a13b,
+                                            'blook': _0x5e600a,
+                                            'value': _0x136a1c || 0x0
+                                        }));
+                                        break;
+                                    case _0x532f17(0x28b):
+                                        for (const _0x2f52c1 in _0x22bc83) {
+                                            if (!_0x22bc83[_0x2f52c1][_0x532f17(0x1f3)]) continue;
+                                            const [_0x1b9f49, _0x2d2c50] = _0x22bc83[_0x2f52c1][_0x532f17(0x1f3)][_0x532f17(0x144)](':');
+                                            if (_0x2d2c50 == _0x532f17(0x510)) this[_0x532f17(0x155)](_0x2f52c1, _0x5c66c4[_0x5e6b2f[_0x2f52c1]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x410) + _0x1b9f49 + '\x20CHEATING!');
+                                            else this[_0x532f17(0x155)](_0x2f52c1, _0x5c66c4[_0x5e6b2f[_0x2f52c1]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x25e) + _0x1b9f49);
+                                        }
+                                        _0x3fc623 = Object[_0x532f17(0x541)](_0x5e6b2f)[_0x532f17(0x184)](([_0x5614c6, {
+                                            b: _0x5887c0,
+                                            f: _0x5bd8f5
+                                        }]) => ({
+                                            'name': _0x5614c6,
+                                            'blook': _0x5887c0,
+                                            'value': _0x5bd8f5 || 0x0
+                                        }));
+                                        break;
+                                    case _0x532f17(0x21e):
+                                        for (const _0x30ea17 in _0x22bc83) {
+                                            if (!_0x22bc83[_0x30ea17]['up']) continue;
+                                            const [_0xcfce7a, _0x31ab40] = _0x22bc83[_0x30ea17]['up'][_0x532f17(0x144)](':');
+                                            if (_0x31ab40) this[_0x532f17(0x155)](_0x30ea17, _0x5c66c4[_0x5e6b2f[_0x30ea17]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x185) + _0xcfce7a + _0x532f17(0x2a1) + _0x31ab40);
+                                        }
+                                        _0x3fc623 = Object['entries'](_0x5e6b2f)['map'](([_0x52858d, {
+                                            b: _0x561097,
+                                            ca: _0x55a281
+                                        }]) => ({
+                                            'name': _0x52858d,
+                                            'blook': _0x561097,
+                                            'value': _0x55a281 || 0x0
+                                        }));
+                                        break;
+                                    case 'factory':
+                                        for (const _0x3006f2 in _0x22bc83) {
+                                            const _0x1a965d = _0x22bc83[_0x3006f2];
+                                            if (_0x1a965d['g']) this[_0x532f17(0x155)](_0x3006f2, _0x5c66c4[_0x5e6b2f[_0x3006f2]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x407) + _0x5e8d7c[_0x1a965d['g']] + _0x532f17(0x36a));
+                                            else {
+                                                if (_0x1a965d['s']) {
+                                                    const [_0x5a1820, _0x1859cc] = _0x1a965d['s'][_0x532f17(0x144)]('-');
+                                                    this['addAlert'](_0x3006f2, _0x5c66c4[_0x5e6b2f[_0x3006f2]['b']]?.[_0x532f17(0x1f9)], _0x532f17(0x227) + _0x5a1820 + '\x20' + _0x1859cc + _0x532f17(0x3ee));
+                                                } else {
+                                                    if (_0x1a965d['t']) this[_0x532f17(0x155)](_0x3006f2, _0x5c66c4[_0x5e6b2f[_0x3006f2]['b']]?.['url'], _0x532f17(0x2b3));
+                                                }
+                                            }
+                                        }
+                                        _0x3fc623 = Object['entries'](_0x5e6b2f)[_0x532f17(0x184)](([_0x44094a, {
+                                            b: _0x28c128,
+                                            ca: _0x5e7060
+                                        }]) => ({
+                                            'name': _0x44094a,
+                                            'blook': _0x28c128,
+                                            'value': _0x5e7060 || 0x0
+                                        }));
+                                        break;
+                                }
+                                this[_0x532f17(0x303)](_0x3fc623[_0x532f17(0x506)]((_0x257639, _0x2c0637) => _0x2c0637[_0x532f17(0x1e8)] - _0x257639[_0x532f17(0x1e8)]));
+                            });
+                        } catch {
+                            return ![];
+                        }
+                    },
+                    'diffObjects'(_0x35d2a5, _0x5dc41d) {
+                        const _0x112d7c = _0x4e8a0c,
+                            _0x8712c2 = {};
+                        for (const _0x289c61 in _0x35d2a5) {
+                            if (!(_0x289c61 in _0x5dc41d)) continue;
+                            if (typeof _0x35d2a5[_0x289c61] === 'object' && typeof _0x5dc41d[_0x289c61] === _0x112d7c(0x464)) {
+                                const _0x7376ab = this[_0x112d7c(0x387)](_0x35d2a5[_0x289c61], _0x5dc41d[_0x289c61]);
+                                if (_0x7376ab && Object[_0x112d7c(0x549)](_0x7376ab)[_0x112d7c(0x4ca)] !== 0x0) _0x8712c2[_0x289c61] = _0x7376ab;
+                            } else {
+                                if (JSON[_0x112d7c(0x3b5)](_0x35d2a5[_0x289c61]) !== JSON['stringify'](_0x5dc41d[_0x289c61])) _0x8712c2[_0x289c61] = _0x5dc41d[_0x289c61];
+                            }
+                        }
+                        for (const _0x45a59f in _0x5dc41d)
+                            if (!(_0x45a59f in _0x35d2a5)) _0x8712c2[_0x45a59f] = _0x5dc41d[_0x45a59f];
+                        if (Object[_0x112d7c(0x549)](_0x8712c2)[_0x112d7c(0x4ca)] == 0x0) return null;
+                        return _0x8712c2;
+                    },
+                    'getGamemode'() {
+                        const _0x18d3d6 = _0x4e8a0c;
+                        switch (window['location'][_0x18d3d6(0x3d3)]) {
+                            case '/play/racing':
+                                return _0x18d3d6(0x26b);
+                            case '/play/factory':
+                                return _0x18d3d6(0x30d);
+                            case _0x18d3d6(0x3b7):
+                            case _0x18d3d6(0x31c):
+                            case '/play/classic/answer/sent':
+                            case _0x18d3d6(0x278):
+                            case _0x18d3d6(0x239):
+                                return _0x18d3d6(0x34b);
+                            case '/play/battle-royale/match/preview':
+                            case _0x18d3d6(0x44e):
+                            case '/play/battle-royale/answer/sent':
+                            case _0x18d3d6(0x4ce):
+                            case _0x18d3d6(0x35e):
+                                return _0x18d3d6(0x2c4);
+                            case _0x18d3d6(0x252):
+                                return 'workshop';
+                            case _0x18d3d6(0x512):
+                                return 'gold';
+                            case _0x18d3d6(0x4fe):
+                                return _0x18d3d6(0x251);
+                            case _0x18d3d6(0x3c2):
+                                return _0x18d3d6(0x54a);
+                            case '/play/fishing':
+                                return _0x18d3d6(0x188);
+                            case _0x18d3d6(0x11c):
+                                return _0x18d3d6(0x32a);
+                            case _0x18d3d6(0x337):
+                                return 'dino';
+                            case '/tower/map':
+                            case _0x18d3d6(0x46d):
+                            case _0x18d3d6(0x153):
+                            case _0x18d3d6(0x309):
+                            case _0x18d3d6(0x50e):
+                            case _0x18d3d6(0x564):
+                                return _0x18d3d6(0x4a2);
+                            case '/cafe':
+                            case _0x18d3d6(0x29e):
+                                return _0x18d3d6(0x21e);
+                            case '/defense':
+                                return _0x18d3d6(0x569);
+                            case _0x18d3d6(0x259):
+                                return 'defense2';
+                            case _0x18d3d6(0x438):
+                                return _0x18d3d6(0x201);
+                            default:
+                                return ![];
+                        }
+                    }
+                }]
+            };
+            _0x306786(_0x4e8a0c(0x5a5), null, _0x56d3c5['alerts'], !![]), _0x306786('Global', _0x4e8a0c(0x25c), _0x56d3c5[_0x4e8a0c(0x20e)])(), _0x306786('Gold\x20Quest', _0x4e8a0c(0x22e), _0x56d3c5['gold']), _0x306786(_0x4e8a0c(0x256), 'https://media.blooket.com/image/upload/v1655161189/Media/survivor/Pizza_lvl1.svg', _0x56d3c5[_0x4e8a0c(0x21e)]), _0x306786('Crypto\x20Hack', _0x4e8a0c(0x4f5), _0x56d3c5['crypto']), _0x306786(_0x4e8a0c(0x3c9), [_0x4e8a0c(0x157)], _0x56d3c5[_0x4e8a0c(0x331)]), _0x306786(_0x4e8a0c(0x529), [_0x4e8a0c(0x38c)], _0x56d3c5['defense']), _0x306786(_0x4e8a0c(0x4e8), [_0x4e8a0c(0x16c)], _0x56d3c5['defense2']), _0x306786(_0x4e8a0c(0x1a9), _0x4e8a0c(0x30f), _0x56d3c5[_0x4e8a0c(0x30d)]), _0x306786(_0x4e8a0c(0x276), _0x4e8a0c(0x3d0), _0x56d3c5[_0x4e8a0c(0x188)]), _0x306786(_0x4e8a0c(0x47e), _0x4e8a0c(0x29a), _0x56d3c5[_0x4e8a0c(0x2eb)]), _0x306786(_0x4e8a0c(0x51c), [_0x4e8a0c(0x13d)], _0x56d3c5[_0x4e8a0c(0x4a2)]), _0x306786(_0x4e8a0c(0x43f), _0x4e8a0c(0x18e), _0x56d3c5[_0x4e8a0c(0x201)]), _0x306786(_0x4e8a0c(0x3ec), 'https://media.blooket.com/image/upload/v1661496295/Media/uiTest/Racing_Progress.svg', _0x56d3c5['racing']), _0x306786(_0x4e8a0c(0x422), _0x4e8a0c(0x110), _0x56d3c5[_0x4e8a0c(0x2c4)]), _0x306786('Blook\x20Rush', _0x4e8a0c(0x2af), _0x56d3c5[_0x4e8a0c(0x32a)]), _0x306786(_0x4e8a0c(0x46b), [_0x4e8a0c(0x180)], _0x56d3c5[_0x4e8a0c(0x251)]), _0x306786('<span\x20style=\x22font-size:\x2015px\x22>Santa\x27s\x20Workshop</span>', [_0x4e8a0c(0x232)], _0x56d3c5[_0x4e8a0c(0x21b)]), _0x306786(_0x4e8a0c(0x46f), null, _0x56d3c5['settings'], !![]), _0x2f9bbb(_0x518882, _0x3a32bf), _0x2f9bbb(_0xf35eaf, _0x3a32bf);
+
+            function _0x2f9bbb(_0x550d5e, _0x4b08b3) {
+                const _0x334445 = _0x4e8a0c;
+                var _0xbb9387 = 0x0,
+                    _0x26363d = 0x0,
+                    _0x234008 = 0x0,
+                    _0x4a4b7d = 0x0;
+                _0x550d5e[_0x334445(0x4d0)] = function(_0x4af38d = window['event']) {
+                    const _0x35845b = _0x334445;
+                    _0x234008 = _0x4af38d[_0x35845b(0x26a)], _0x4a4b7d = _0x4af38d[_0x35845b(0x55c)], document[_0x35845b(0x17f)] = function() {
+                        const _0x54c652 = _0x35845b;
+                        document[_0x54c652(0x17f)] = null, document['onpointermove'] = null;
+                    }, document[_0x35845b(0x47b)] = function(_0x13455d = window[_0x35845b(0x171)]) {
+                        const _0x162552 = _0x35845b;
+                        _0xbb9387 = _0x234008 - _0x13455d[_0x162552(0x26a)], _0x26363d = _0x4a4b7d - _0x13455d[_0x162552(0x55c)], _0x234008 = _0x13455d[_0x162552(0x26a)], _0x4a4b7d = _0x13455d[_0x162552(0x55c)];
+                        var _0x499d51 = 0x1 || parseFloat((0.75 / window[_0x162552(0x467)])['toFixed'](0x2));
+                        _0x4b08b3[_0x162552(0x4d2)]['top'] = _0x4b08b3[_0x162552(0x20c)] - _0x26363d / _0x499d51 + 'px', _0x4b08b3[_0x162552(0x4d2)]['left'] = _0x4b08b3['offsetLeft'] - _0xbb9387 / _0x499d51 + 'px';
+                    };
+                };
+            }
+            window[_0x4e8a0c(0x28f)](_0x4e8a0c(0x444), _0x3c3244);
+            let _0x26245a = setInterval(() => {
+                const _0x52ba4f = _0x4e8a0c;
+                if (!_0x56d3c5[_0x52ba4f(0x26f)][0x0]['connection']) _0x56d3c5[_0x52ba4f(0x26f)][0x0][_0x52ba4f(0x2e6)]();
+                else clearInterval(_0x26245a);
+            }, 0x1388);
+
+            function _0x5b9b1a() {
+                const _0x5a3783 = _0x4e8a0c;
+                _0x3a32bf[_0x5a3783(0x50d)](), clearInterval(_0x26245a);
+                for (const _0x5dfa9c in _0x56d3c5)
+                    for (const _0x53358a of _0x56d3c5[_0x5dfa9c])
+                        if (_0x53358a[_0x5a3783(0x1b6)]) _0x53358a[_0x5a3783(0x442)]();
+                Object['keys'](_0x56d3c5)[_0x5a3783(0x28d)](_0x197994 => _0x56d3c5[_0x197994]['forEach'](_0x4e895c => _0x4e895c[_0x5a3783(0x1b6)] && (_0x4e895c[_0x5a3783(0x442)](), _0x1f99f8(...currentMode)))), window[_0x5a3783(0x1c0)]('keydown', _0x3c3244);
+            };
+            let _0x35de16;
+            _0x3a32bf[_0x4e8a0c(0x28f)]('mousemove', _0x173a8c => {
+                const _0x21b120 = _0x4e8a0c;
+                if (_0x173a8c['target'][_0x21b120(0x29f)] != 'cheatName' && _0x173a8c[_0x21b120(0x164)][_0x21b120(0x29f)] != 'scriptButton') {
+                    _0x5ca7f8[_0x21b120(0x4d2)][_0x21b120(0x580)] != '0' && (_0x5ca7f8['animate']([{
+                        'opacity': 0.9
+                    }, {
+                        'opacity': 0x0
+                    }], {
+                        'duration': 0xc8
+                    }), _0x5ca7f8[_0x21b120(0x4d2)][_0x21b120(0x580)] = '0');
+                    return;
+                }
+                const _0x51bf91 = _0x173a8c['target'][_0x21b120(0x29f)] == _0x21b120(0x34a) ? _0x173a8c[_0x21b120(0x164)] : _0x173a8c['target'][_0x21b120(0x23e)];
+                if (_0x5ca7f8[_0x21b120(0x3d8)] == _0x51bf91[_0x21b120(0x2b4)][_0x21b120(0x1b7)] && _0x5ca7f8[_0x21b120(0x4d2)][_0x21b120(0x580)] == _0x21b120(0x39b)) return;
+                const _0x37a614 = _0x51bf91[_0x21b120(0x499)](),
+                    _0xdf0c3e = _0x51bf91['offsetParent']['getBoundingClientRect']();
+                _0x5ca7f8[_0x21b120(0x3d8)] = _0x51bf91[_0x21b120(0x2b4)][_0x21b120(0x1b7)], _0x5ca7f8['style']['opacity'] == '0' && (_0x5ca7f8[_0x21b120(0x3e0)]([{
+                    'opacity': 0x0
+                }, {
+                    'opacity': 0.9
+                }], {
+                    'duration': 0xc8
+                }), _0x5ca7f8[_0x21b120(0x4d2)][_0x21b120(0x580)] = _0x21b120(0x39b)), _0x5ca7f8[_0x21b120(0x4d2)][_0x21b120(0x42a)] = _0x37a614['x'] - _0xdf0c3e['x'] + (_0x37a614[_0x21b120(0x105)] - _0x5ca7f8[_0x21b120(0x17c)]) / 0x2 + 'px', _0x5ca7f8[_0x21b120(0x4d2)][_0x21b120(0x365)] = _0x37a614['y'] - _0xdf0c3e['y'] + _0x37a614[_0x21b120(0x477)] + 'px';
+            });
+
+            function _0x3c3244(_0x579ae7) {
+                const _0x3431c1 = _0x4e8a0c;
+                let _0x37c7b8 = _0x46335b[_0x3431c1(0x3dd)]['hide'] || {
+                        'ctrl': !![],
+                        'key': 'e'
+                    },
+                    _0x3dc7da = _0x46335b[_0x3431c1(0x3dd)]['close'] || {
+                        'ctrl': !![],
+                        'key': 'x'
+                    };
+                if ((_0x37c7b8['ctrl'] && _0x579ae7[_0x3431c1(0x116)] || !_0x37c7b8[_0x3431c1(0x4af)] && !_0x579ae7['ctrlKey']) && (_0x37c7b8[_0x3431c1(0x52b)] && _0x579ae7[_0x3431c1(0x314)] || !_0x37c7b8[_0x3431c1(0x52b)] && !_0x579ae7['shiftKey']) && (_0x37c7b8[_0x3431c1(0x570)] && _0x579ae7[_0x3431c1(0x39f)] || !_0x37c7b8[_0x3431c1(0x570)] && !_0x579ae7[_0x3431c1(0x39f)]) && _0x579ae7[_0x3431c1(0x45f)][_0x3431c1(0x4a3)]() == _0x37c7b8['key']) _0x579ae7['preventDefault'](), _0x3a32bf[_0x3431c1(0x4d2)][_0x3431c1(0x41c)] = _0x3a32bf[_0x3431c1(0x4d2)]['display'] === 'block' ? 'none' : _0x3431c1(0x245);
+                else(_0x3dc7da[_0x3431c1(0x4af)] && _0x579ae7[_0x3431c1(0x116)] || !_0x3dc7da[_0x3431c1(0x4af)] && !_0x579ae7[_0x3431c1(0x116)]) && (_0x3dc7da[_0x3431c1(0x52b)] && _0x579ae7[_0x3431c1(0x314)] || !_0x3dc7da['shift'] && !_0x579ae7['shiftKey']) && (_0x3dc7da['alt'] && _0x579ae7[_0x3431c1(0x39f)] || !_0x3dc7da[_0x3431c1(0x570)] && !_0x579ae7[_0x3431c1(0x39f)]) && _0x579ae7['key'][_0x3431c1(0x4a3)]() == _0x3dc7da[_0x3431c1(0x45f)] && (_0x579ae7[_0x3431c1(0x4db)](), _0x5b9b1a());
+            }
+
+            function _0x2835d1(_0x16063f, _0x3e6118 = window) {
+                return new Promise(_0x28f070 => {
+                    const _0x48c606 = _0x2593,
+                        _0x2d71f3 = {};
+                    let _0x3ecb4e, _0x40642a, _0x2c4d02, _0x153445;
+                    const _0x54b801 = _0x26af90 => {
+                            const _0x2fc98b = _0x2593;
+                            _0x26af90[_0x2fc98b(0x4db)](), _0x2d71f3[_0x26af90['code']] = !![], _0x3ecb4e ||= _0x26af90[_0x2fc98b(0x314)], _0x40642a ||= _0x26af90['ctrlKey'], _0x2c4d02 ||= _0x26af90['altKey'];
+                            if (![_0x2fc98b(0x52b), _0x2fc98b(0x32d), 'alt', _0x2fc98b(0x4cd)][_0x2fc98b(0x235)](_0x26af90['key'][_0x2fc98b(0x4a3)]())) _0x153445 = _0x26af90['key'][_0x2fc98b(0x4a3)]();
+                            _0x16063f?.({
+                                'shift': _0x3ecb4e,
+                                'ctrl': _0x40642a,
+                                'alt': _0x2c4d02,
+                                'key': _0x153445
+                            });
+                        },
+                        _0x34d19e = _0x34d9d1 => {
+                            const _0x35b63d = _0x2593;
+                            delete _0x2d71f3[_0x34d9d1[_0x35b63d(0x271)]];
+                            if (Object['keys'](_0x2d71f3)[_0x35b63d(0x4ca)] > 0x0) return;
+                            _0x3e6118[_0x35b63d(0x1c0)](_0x35b63d(0x444), _0x54b801), _0x3e6118['removeEventListener']('keyup', _0x34d19e), _0x28f070({
+                                'shift': _0x3ecb4e,
+                                'ctrl': _0x40642a,
+                                'alt': _0x2c4d02,
+                                'key': _0x153445
+                            });
+                        };
+                    _0x3e6118[_0x48c606(0x28f)](_0x48c606(0x444), _0x54b801), _0x3e6118[_0x48c606(0x28f)](_0x48c606(0x397), _0x34d19e);
+                });
+            }
+        }
+    });
+})()));
